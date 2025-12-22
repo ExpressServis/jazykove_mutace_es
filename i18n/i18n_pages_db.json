@@ -1,30 +1,421 @@
-[
-  {
-    "key": "vykup.title",
-    "parent": "head",
-    "selector": "title#snippet--title",
-    "index": 0,
-    "mode": "text",
-    "source": "Výkup zařízení | Express Servis",
-    "dst": { "sk": "Výkup zariadení | Express Servis" }
+{
+  "texts": {
+    "8ed976ff7e9b83e664748721ea31f1a561dbe74928085f58e1c7824eb95ff62d": {
+      "src": "Výkup zařízení | Express Servis",
+      "dst": {
+        "sk": "Výkup zariadení | Express Servis"
+      },
+      "meta": {
+        "updated_at": 1766447456
+      }
+    },
+    "08e7c88c9957083891271094e15dbd451fbfd2aace9d948b08ac89caaf2fe219": {
+      "src": "Výkup použitých zařízení",
+      "dst": {
+        "sk": "Výkup použitých zariadení"
+      },
+      "meta": {
+        "updated_at": 1766447457
+      }
+    },
+    "54be06e87fcfcd99829a7760e109a9eaabfc1626333787858d9bda615ec2ec2a": {
+      "src": "Vlastníte staré Apple zařízení? My jej vykoupíme! Děláme výkupy",
+      "dst": {
+        "sk": "Vlastníte staré Apple zariadenie? My ho vykúpime! Robíme výkupy."
+      },
+      "meta": {
+        "updated_at": 1766447458
+      }
+    },
+    "8000f59b604b694749fa32acc8c11afcdb592a6f5b994809cb7a3a3df35eca58": {
+      "src": ", výkup",
+      "dst": {
+        "sk": ", výkup"
+      },
+      "meta": {
+        "updated_at": 1766447458
+      }
+    },
+    "acc1350792f44e9b759af778c4a2fe87de4e4a28405835edfbfde1b0ed07584a": {
+      "src": "a výkup",
+      "dst": {
+        "sk": "a výkup"
+      },
+      "meta": {
+        "updated_at": 1766447459
+      }
+    },
+    "1ad4a7d4a7faf061d4f5429b602e7cb16441ef33d06d4939148489464c95fdc5": {
+      "src": "za nejlepší možnou cenu. Výkup můžete uskutečnit rychle a bezpečně na naší prodejně v centru Plzně.",
+      "dst": {
+        "sk": "za najlepšiu možnú cenu. Výkup môžete uskutočniť rýchlo a bezpečne v našej predajni v centre Plzne."
+      },
+      "meta": {
+        "updated_at": 1766447460
+      }
+    },
+    "38fdf519314e3151d7e7f6ef456f327b78ddb84bc457bdb0d49bce0b1fc3c959": {
+      "src": "iPhone",
+      "dst": {
+        "sk": "iPhone"
+      },
+      "meta": {
+        "updated_at": 1766447461
+      }
+    },
+    "ac92e7613044a45682e8cf01eb2471d084016fe18aa1c112e2898474663a1d47": {
+      "src": "MacBook",
+      "dst": {
+        "sk": "MacBook"
+      },
+      "meta": {
+        "updated_at": 1766447461
+      }
+    },
+    "9371bab2ce8d97650539ac468d7275c9645b379b34437ce840f1fd853752566f": {
+      "src": "Apple Watch",
+      "dst": {
+        "sk": "Apple Watch"
+      },
+      "meta": {
+        "updated_at": 1766447462
+      }
+    },
+    "a10366d50a89facb75a9fda62f5aaacc080bc7fb88b6dff92e080f2ccd126b9c": {
+      "src": "Proč jít s výkupem k nám?",
+      "dst": {
+        "sk": "Prečo ísť s výkupom k nám?"
+      },
+      "meta": {
+        "updated_at": 1766447462
+      }
+    },
+    "1a2e8191b4b40632c9d5e9cd4ec156258a8852afc32d1e52bfa5204f1d37a9c0": {
+      "src": "Co vykupujeme?",
+      "dst": {
+        "sk": "Čo vykupujeme?"
+      },
+      "meta": {
+        "updated_at": 1766447463
+      }
+    },
+    "af85e3749c64f7b4fd6c9741a651fecbbd224492ff11bee1a266ef2d1846b632": {
+      "src": "Nabízíme ty nejvyšší možné výkupní ceny",
+      "dst": {
+        "sk": "Ponúkame tie najvyššie možné výkupné ceny."
+      },
+      "meta": {
+        "updated_at": 1766447464
+      }
+    },
+    "b168ab3ee593b8a6826fe18d88bdad7d30cd969279907e79ef391234c3e672a3": {
+      "src": "Hodnotu výkupu vám pošleme na účet, dáme v hotovosti nebo odečteme z nákupu",
+      "dst": {
+        "sk": "Hodnotu výkupu vám pošleme na účet, dáme v hotovosti alebo odpočítame z nákupu."
+      },
+      "meta": {
+        "updated_at": 1766447465
+      }
+    },
+    "b7dea965af27b5453b206641cbd03c55a8cf0ba8d65a95863130ad1e8bbfb2c2": {
+      "src": "K výkupu Vám postačí pouze občanský průkaz",
+      "dst": {
+        "sk": "Na výkup Vám postačí iba občiansky preukaz."
+      },
+      "meta": {
+        "updated_at": 1766447466
+      }
+    },
+    "87df0deeabff78885d06178706b0d160b3f13b54884d1b23587a1e88cf90539c": {
+      "src": "Nevyžadujeme doklad o koupi zařízení",
+      "dst": {
+        "sk": "Nevyžadujeme doklad o kúpe zariadenia."
+      },
+      "meta": {
+        "updated_at": 1766447466
+      }
+    },
+    "23cbcfc3e80a6fe5d4f319b08c0921d2b979f2db8ecb178dec4fbff034485b1c": {
+      "src": "iPad",
+      "dst": {
+        "sk": "iPad"
+      },
+      "meta": {
+        "updated_at": 1766447467
+      }
+    },
+    "8b3795aa25390811064d8e7276e56384b720d78e3ab2780e415c7dc9d4e9522b": {
+      "src": "Mac",
+      "dst": {
+        "sk": "Mac"
+      },
+      "meta": {
+        "updated_at": 1766447467
+      }
+    },
+    "a71e757324467ccfe2ae90f483fd759eff5378e6afcfcce4c620de929b3f2dd8": {
+      "src": "Watch",
+      "dst": {
+        "sk": "Hodinky"
+      },
+      "meta": {
+        "updated_at": 1766447468
+      }
+    }
   },
-  {
-    "key": "vykup.meta.description",
-    "parent": "head",
-    "selector": "meta[name=\"description\"]",
-    "index": 0,
-    "mode": "attr",
-    "attr": "content",
-    "source": "Specialista na prodej, servis a opravy mobilních telefonů, tabletů a počítačů značky Apple. Rozšiřujeme servis i jiných značek.",
-    "dst": { "sk": "Špecialista na predaj, servis a opravy mobilných telefónov, tabletov a počítačov značky Apple. Rozširujeme servis aj o iné značky." }
-  },
-  {
-    "key": "vykup.h1",
-    "parentId": "snippet--content",
-    "selector": "h1.text-center",
-    "index": 0,
-    "mode": "text",
-    "source": "Výkup použitých zařízení",
-    "dst": { "sk": "Výkup použitých zariadení" }
+  "pages": {
+    "https://www.express-servis.cz/vykup-zarizeni": {
+      "hash": "295d2f5cebf98a0d59b76742f2d1e2c35c05e9fb23b933a4440bd51a8ceb0a43",
+      "updated_at": 1766447468,
+      "nodes": [
+        {
+          "key": "p.06107357.80adc3e3.8ed976ff7e",
+          "parentId": "",
+          "parent": "head",
+          "selector": "title#snippet--title",
+          "index": 0,
+          "mode": "text",
+          "attr": "",
+          "source": "Výkup zařízení | Express Servis",
+          "dst": {
+            "sk": "Výkup zariadení | Express Servis"
+          }
+        },
+        {
+          "key": "p.06107357.ba411747.08e7c88c99",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "h1",
+          "index": 0,
+          "mode": "text",
+          "attr": "",
+          "source": "Výkup použitých zařízení",
+          "dst": {
+            "sk": "Výkup použitých zariadení"
+          }
+        },
+        {
+          "key": "p.06107357.0f7f3ed5.54be06e87f",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "p",
+          "index": 0,
+          "mode": "text",
+          "attr": "",
+          "source": "Vlastníte staré Apple zařízení? My jej vykoupíme! Děláme výkupy",
+          "dst": {
+            "sk": "Vlastníte staré Apple zariadenie? My ho vykúpime! Robíme výkupy."
+          }
+        },
+        {
+          "key": "p.06107357.b4f66b79.8000f59b60",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "p",
+          "index": 1,
+          "mode": "text",
+          "attr": "",
+          "source": ", výkup",
+          "dst": {
+            "sk": ", výkup"
+          }
+        },
+        {
+          "key": "p.06107357.36758a96.acc1350792",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "p",
+          "index": 2,
+          "mode": "text",
+          "attr": "",
+          "source": "a výkup",
+          "dst": {
+            "sk": "a výkup"
+          }
+        },
+        {
+          "key": "p.06107357.47fe5033.1ad4a7d4a7",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "p",
+          "index": 3,
+          "mode": "text",
+          "attr": "",
+          "source": "za nejlepší možnou cenu. Výkup můžete uskutečnit rychle a bezpečně na naší prodejně v centru Plzně.",
+          "dst": {
+            "sk": "za najlepšiu možnú cenu. Výkup môžete uskutočniť rýchlo a bezpečne v našej predajni v centre Plzne."
+          }
+        },
+        {
+          "key": "p.06107357.acfb8db2.38fdf51931",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "strong",
+          "index": 0,
+          "mode": "text",
+          "attr": "",
+          "source": "iPhone",
+          "dst": {
+            "sk": "iPhone"
+          }
+        },
+        {
+          "key": "p.06107357.334947a0.ac92e76130",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "strong",
+          "index": 1,
+          "mode": "text",
+          "attr": "",
+          "source": "MacBook",
+          "dst": {
+            "sk": "MacBook"
+          }
+        },
+        {
+          "key": "p.06107357.4dd60a77.9371bab2ce",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "strong",
+          "index": 2,
+          "mode": "text",
+          "attr": "",
+          "source": "Apple Watch",
+          "dst": {
+            "sk": "Apple Watch"
+          }
+        },
+        {
+          "key": "p.06107357.a318e439.a10366d50a",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "h2",
+          "index": 0,
+          "mode": "text",
+          "attr": "",
+          "source": "Proč jít s výkupem k nám?",
+          "dst": {
+            "sk": "Prečo ísť s výkupom k nám?"
+          }
+        },
+        {
+          "key": "p.06107357.9ecf6d5c.1a2e8191b4",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "h2",
+          "index": 1,
+          "mode": "text",
+          "attr": "",
+          "source": "Co vykupujeme?",
+          "dst": {
+            "sk": "Čo vykupujeme?"
+          }
+        },
+        {
+          "key": "p.06107357.09c3834d.af85e3749c",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "li",
+          "index": 0,
+          "mode": "text",
+          "attr": "",
+          "source": "Nabízíme ty nejvyšší možné výkupní ceny",
+          "dst": {
+            "sk": "Ponúkame tie najvyššie možné výkupné ceny."
+          }
+        },
+        {
+          "key": "p.06107357.cce08ce7.b168ab3ee5",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "li",
+          "index": 1,
+          "mode": "text",
+          "attr": "",
+          "source": "Hodnotu výkupu vám pošleme na účet, dáme v hotovosti nebo odečteme z nákupu",
+          "dst": {
+            "sk": "Hodnotu výkupu vám pošleme na účet, dáme v hotovosti alebo odpočítame z nákupu."
+          }
+        },
+        {
+          "key": "p.06107357.3ab53f1b.b7dea965af",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "li",
+          "index": 2,
+          "mode": "text",
+          "attr": "",
+          "source": "K výkupu Vám postačí pouze občanský průkaz",
+          "dst": {
+            "sk": "Na výkup Vám postačí iba občiansky preukaz."
+          }
+        },
+        {
+          "key": "p.06107357.a1c121c6.87df0deeab",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "li",
+          "index": 3,
+          "mode": "text",
+          "attr": "",
+          "source": "Nevyžadujeme doklad o koupi zařízení",
+          "dst": {
+            "sk": "Nevyžadujeme doklad o kúpe zariadenia."
+          }
+        },
+        {
+          "key": "p.06107357.405b5f57.38fdf51931",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "div.title",
+          "index": 0,
+          "mode": "text",
+          "attr": "",
+          "source": "iPhone",
+          "dst": {
+            "sk": "iPhone"
+          }
+        },
+        {
+          "key": "p.06107357.098ac811.23cbcfc3e8",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "div.title",
+          "index": 1,
+          "mode": "text",
+          "attr": "",
+          "source": "iPad",
+          "dst": {
+            "sk": "iPad"
+          }
+        },
+        {
+          "key": "p.06107357.279410ce.8b3795aa25",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "div.title",
+          "index": 2,
+          "mode": "text",
+          "attr": "",
+          "source": "Mac",
+          "dst": {
+            "sk": "Mac"
+          }
+        },
+        {
+          "key": "p.06107357.290e0a42.a71e757324",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "div.title",
+          "index": 3,
+          "mode": "text",
+          "attr": "",
+          "source": "Watch",
+          "dst": {
+            "sk": "Hodinky"
+          }
+        }
+      ]
+    }
   }
-]
+}
