@@ -12,11 +12,24 @@ client = OpenAI()
 # Paths / config
 # ----------------------------
 SCRIPT_DIR = Path(__file__).resolve().parent
-ROOT_DIR = SCRIPT_DIR.parent
+
+def find_repo_root(start: Path) -> Path:
+    p = start
+    for _ in range(12):  # trochu větší limit
+        if (p / ".git").exists():
+            return p
+        p = p.parent
+    # fallback pro GitHub Actions
+    ws = os.environ.get("GITHUB_WORKSPACE")
+    if ws:
+        return Path(ws).resolve()
+    return start
+
+ROOT_DIR = find_repo_root(SCRIPT_DIR)
 
 SITEMAP_URL = "https://www.express-servis.cz/sitemap.xml"
 
-# ✅ ukládat do i18n/i18n_pages_db.json
+# ✅ ukládat do i18n/i18n_pages_db.json (vždy uvnitř repa)
 TRANSLATION_DB = ROOT_DIR / "i18n" / "i18n_pages_db.json"
 
 TARGET_LANGS = ["sk"]
@@ -105,6 +118,7 @@ def translate_text(text: str, lang: str, max_retries: int = 3) -> str:
     if not text:
         return text
 
+    # ✅ úspora tokenů
     if len(text) > MAX_TEXT_LEN_TO_TRANSLATE:
         return text
 
@@ -322,6 +336,11 @@ def main():
     if "OPENAI_API_KEY" not in os.environ:
         raise RuntimeError("Chybí OPENAI_API_KEY")
 
+    print("CWD:", Path.cwd())
+    print("SCRIPT_DIR:", SCRIPT_DIR.resolve())
+    print("ROOT_DIR:", ROOT_DIR.resolve())
+    print("DB:", TRANSLATION_DB.resolve())
+
     db = load_db()
     urls = fetch_sitemap_urls(SITEMAP_URL)
     urls = [normalize_url(u) for u in urls if u]
@@ -374,7 +393,6 @@ def main():
 
         save_db(db)
         print(f"  saved {len(out_nodes)} nodes -> {TRANSLATION_DB}")
-        print("DB path:", TRANSLATION_DB.resolve())
         print("Nodes saved for page:", len(out_nodes))
         print("Texts dictionary size:", len(db.get("texts", {})))
 
