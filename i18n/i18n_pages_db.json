@@ -1,1 +1,19 @@
-{"hello":"world","ts":123}
+{
+  "pages": {
+    "https://www.express-servis.cz/vykup-zarizeni": {
+      "hash": "manual-test",
+      "nodes": [
+        {
+          "key": "vykup.h1",
+          "parentId": "",
+          "selector": "h1",
+          "index": 0,
+          "source": "Výkup zařízení",
+          "dst": {
+            "sk": "Výkup zariadení"
+          }
+        }
+      ]
+    }
+  }
+}
