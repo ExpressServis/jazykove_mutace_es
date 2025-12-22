@@ -366,6 +366,9 @@ def main():
 
         save_db(db)
         print(f"  saved {len(out_nodes)} nodes -> {TRANSLATION_DB}")
+        print("DB path:", TRANSLATION_DB.resolve())
+        print("Nodes saved for page:", len(out_nodes))
+        print("Texts dictionary size:", len(db.get("texts", {})))
 
         # ✅ zpomalení mezi stránkami
         time.sleep(3)
