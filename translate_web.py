@@ -1,10 +1,9 @@
 import os, re, json, time, hashlib
 from pathlib import Path
 from typing import Dict, Any, List, Optional, Tuple
-from urllib.parse import urlparse
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 from openai import OpenAI
 
 client = OpenAI()
@@ -171,7 +170,6 @@ def fetch_url_with_retry(url: str, retries: int = 5, delay: float = 5.0) -> str:
             time.sleep(delay * (i + 1))
     raise RuntimeError(f"Failed to fetch {url}: {last_err}")
 
-
 def fetch_sitemap_urls(sitemap_url: str) -> List[str]:
     xml = requests.get(sitemap_url, timeout=REQUEST_TIMEOUT, headers=HTTP_HEADERS).text
     soup = BeautifulSoup(xml, "xml")
@@ -255,26 +253,36 @@ def extract_body_text_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
     strip_global_layout(soup)
     content_root = pick_content_root(soup)
 
-    candidates = content_root.find_all(["h1","h2","h3","p","a","button","label","span","li"])
-    buckets: Dict[Tuple[str, str], List[Tuple[Any, str]]] = {}
+    buckets: Dict[Tuple[str, str], List[str]] = {}
+    skip_parents = {"script", "style", "noscript", "svg", "head", "title", "meta", "link"}
 
-    for el in candidates:
-        txt = normalize_spaces(el.get_text(" ", strip=True))
+    for node in content_root.descendants:
+        if not isinstance(node, NavigableString):
+            continue
+
+        txt = normalize_spaces(str(node))
         if not is_translatable(txt):
             continue
+
+        parent = node.parent
+        if not parent or not getattr(parent, "name", None):
+            continue
+        if parent.name.lower() in skip_parents:
+            continue
+
         if len(txt) > 900:
             continue
 
-        sel = build_selector(el)
+        sel = build_selector(parent)
         if not sel:
             continue
 
-        pid = nearest_parent_id(el) or ""
-        buckets.setdefault((pid, sel), []).append((el, txt))
+        pid = nearest_parent_id(parent) or ""
+        buckets.setdefault((pid, sel), []).append(txt)
 
     nodes: List[Dict[str, Any]] = []
-    for (pid, sel), arr in buckets.items():
-        for idx, (_el, txt) in enumerate(arr):
+    for (pid, sel), texts in buckets.items():
+        for idx, txt in enumerate(texts):
             nodes.append({
                 "mode": "text",
                 "attr": "",
@@ -370,9 +378,7 @@ def main():
         print("Nodes saved for page:", len(out_nodes))
         print("Texts dictionary size:", len(db.get("texts", {})))
 
-        # ✅ zpomalení mezi stránkami
         time.sleep(3)
-
 
 if __name__ == "__main__":
     main()
