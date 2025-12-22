@@ -27,7 +27,16 @@ DEFAULT_LANG = "cs"
 TEST_ONLY_URL = "https://www.express-servis.cz/vykup-zarizeni"
 TEST_ONLY = True
 
-HTTP_HEADERS = {"User-Agent": "i18n-bot/1.0 (+https://www.express-servis.cz)"}
+# ✅ upravené hlavičky – jako běžný prohlížeč
+HTTP_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "cs-CZ,cs;q=0.9,sk;q=0.8,en;q=0.7",
+    "Connection": "keep-alive",
+}
+
 REQUEST_TIMEOUT = 30
 
 # Úspora tokenů / kvalita
@@ -49,8 +58,8 @@ def load_db() -> Dict[str, Any]:
     ensure_parent_dir(TRANSLATION_DB)
     if TRANSLATION_DB.exists():
         db = json.loads(TRANSLATION_DB.read_text(encoding="utf-8"))
-        db.setdefault("texts", {})  # sha(src)->{src,dst:{lang:..},meta}
-        db.setdefault("pages", {})  # url->{hash,updated_at,nodes:[]}
+        db.setdefault("texts", {})
+        db.setdefault("pages", {})
         return db
     return {"texts": {}, "pages": {}}
 
@@ -97,7 +106,6 @@ def translate_text(text: str, lang: str, max_retries: int = 3) -> str:
     if not text:
         return text
 
-    # ✅ úspora tokenů
     if len(text) > MAX_TEXT_LEN_TO_TRANSLATE:
         return text
 
@@ -141,6 +149,29 @@ def translate_cached(text: str, lang: str, db: Dict[str, Any]) -> str:
     texts[key] = entry
     return dst
 
+
+# ----------------------------
+# Fetch with retry (429 fix)
+# ----------------------------
+def fetch_url_with_retry(url: str, retries: int = 5, delay: float = 5.0) -> str:
+    last_err = None
+    for i in range(retries):
+        try:
+            r = requests.get(url, timeout=REQUEST_TIMEOUT, headers=HTTP_HEADERS)
+            if r.status_code == 200:
+                return r.text
+            elif r.status_code == 429:
+                print(f"  429 Too Many Requests, retry {i+1}/{retries} after {delay*(i+1)}s")
+                time.sleep(delay * (i + 1))
+            else:
+                r.raise_for_status()
+        except Exception as e:
+            last_err = e
+            print(f"  fetch error {i+1}/{retries}: {e}")
+            time.sleep(delay * (i + 1))
+    raise RuntimeError(f"Failed to fetch {url}: {last_err}")
+
+
 def fetch_sitemap_urls(sitemap_url: str) -> List[str]:
     xml = requests.get(sitemap_url, timeout=REQUEST_TIMEOUT, headers=HTTP_HEADERS).text
     soup = BeautifulSoup(xml, "xml")
@@ -149,8 +180,9 @@ def fetch_sitemap_urls(sitemap_url: str) -> List[str]:
 def normalize_url(url: str) -> str:
     return (url or "").split("#")[0].strip().rstrip("/")
 
+
 # ----------------------------
-# Selector building (stabilnější)
+# Selector building
 # ----------------------------
 _GENERIC_CLASSES = {
     "container","row","col","text","text-center","text-left","text-right",
@@ -164,8 +196,7 @@ def build_selector(el) -> str:
         return f"{el.name}#{el.get('id')}"
     tag = el.name
     classes = [c for c in (el.get("class") or []) if c and not c.startswith("js-")]
-    classes = [c for c in classes if c not in _GENERIC_CLASSES]
-    classes = classes[:2]
+    classes = [c for c in classes if c not in _GENERIC_CLASSES][:2]
     if classes:
         return tag + "." + ".".join(classes)
     return tag
@@ -183,39 +214,16 @@ def nearest_parent_id(el) -> Optional[str]:
         cur = cur.parent
     return None
 
+
 # ----------------------------
 # Extraction
 # ----------------------------
 def strip_global_layout(soup: BeautifulSoup) -> None:
-    """
-    ✅ odstraní hlavičku/patičku/menu a podobné "layout" bloky,
-    aby se nepřekládaly na každé stránce (a nenafukovaly nodes).
-    """
-    # jasné tagy
     for bad in soup.select("header, footer, nav, aside"):
         bad.decompose()
 
-    # časté "layout" kontejnery podle id/class (heuristika)
-    layout_selectors = [
-        '[id*="header" i]', '[class*="header" i]',
-        '[id*="footer" i]', '[class*="footer" i]',
-        '[id*="menu" i]',   '[class*="menu" i]',
-        '[id*="navbar" i]', '[class*="navbar" i]',
-        '[id*="nav" i]',    '[class*="nav" i]',
-    ]
-    for sel in layout_selectors:
-        for bad in soup.select(sel):
-            # pozor: nechceme zlikvidovat obsah stránky, tak jen když to vypadá jako layout
-            name = (bad.name or "").lower()
-            if name in ("header","footer","nav","aside"):
-                bad.decompose()
-
 def extract_head_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
-    """
-    ✅ jen META TITLE (title)
-    """
     nodes: List[Dict[str, Any]] = []
-
     title_el = soup.select_one("title#snippet--title") or soup.select_one("head > title")
     if title_el:
         src = normalize_spaces(title_el.get_text(" ", strip=True))
@@ -232,13 +240,6 @@ def extract_head_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
     return nodes
 
 def pick_content_root(soup: BeautifulSoup):
-    """
-    Preferujeme obsah:
-    - #snippet--content
-    - main
-    - article
-    - body
-    """
     return (
         soup.select_one("#snippet--content")
         or soup.select_one("main")
@@ -248,16 +249,10 @@ def pick_content_root(soup: BeautifulSoup):
     )
 
 def extract_body_text_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
-    """
-    ✅ vytáhne texty jen z obsahu, bez layoutu (header/footer/menu)
-    """
-    # pryč script/style/noscript/svg
     for bad in soup(["script", "style", "noscript", "svg"]):
         bad.decompose()
 
-    # ✅ pryč layout
     strip_global_layout(soup)
-
     content_root = pick_content_root(soup)
 
     candidates = content_root.find_all(["h1","h2","h3","p","a","button","label","span","li"])
@@ -267,8 +262,6 @@ def extract_body_text_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
         txt = normalize_spaces(el.get_text(" ", strip=True))
         if not is_translatable(txt):
             continue
-
-        # extrémně dlouhé kusy radši ne
         if len(txt) > 900:
             continue
 
@@ -291,18 +284,17 @@ def extract_body_text_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
                 "index": idx,
                 "source": txt,
             })
-
     return nodes
 
 def extract_nodes_from_html(html: str) -> List[Dict[str, Any]]:
     soup = BeautifulSoup(html, "lxml")
-    head_nodes = extract_head_nodes(soup)
-    body_nodes = extract_body_text_nodes(soup)
-    return head_nodes + body_nodes
+    return extract_head_nodes(soup) + extract_body_text_nodes(soup)
+
 
 def page_hash(nodes: List[Dict[str, Any]]) -> str:
     payload = "||".join([
-        f"{n.get('mode')}|{n.get('attr')}|{n.get('parentId')}|{n.get('parent')}|{n.get('selector')}|{n.get('index')}|{n.get('source')}"
+        f"{n.get('mode')}|{n.get('attr')}|{n.get('parentId')}|{n.get('parent')}|"
+        f"{n.get('selector')}|{n.get('index')}|{n.get('source')}"
         for n in nodes
     ])
     return sha(payload)
@@ -314,6 +306,7 @@ def make_node_key(url: str, n: Dict[str, Any]) -> str:
     src_h = sha(n.get("source",""))[:10]
     return f"p.{u}.{ident_h}.{src_h}"
 
+
 # ----------------------------
 # Main
 # ----------------------------
@@ -322,11 +315,9 @@ def main():
         raise RuntimeError("Chybí OPENAI_API_KEY")
 
     db = load_db()
-
     urls = fetch_sitemap_urls(SITEMAP_URL)
     urls = [normalize_url(u) for u in urls if u]
 
-    # ✅ test zatím jen výkup
     if TEST_ONLY:
         urls = [u for u in urls if normalize_url(u) == normalize_url(TEST_ONLY_URL)]
         if not urls:
@@ -337,9 +328,7 @@ def main():
     for url in urls:
         print(f"Processing {url}")
 
-        r = requests.get(url, timeout=REQUEST_TIMEOUT, headers=HTTP_HEADERS)
-        r.raise_for_status()
-        html = r.text
+        html = fetch_url_with_retry(url)
 
         nodes_raw = extract_nodes_from_html(html)
         h = page_hash(nodes_raw)
@@ -352,12 +341,10 @@ def main():
         out_nodes: List[Dict[str, Any]] = []
         for n in nodes_raw:
             src = n["source"]
-
             dst_map: Dict[str, str] = {}
             for lang in TARGET_LANGS:
-                if lang == DEFAULT_LANG:
-                    continue
-                dst_map[lang] = translate_cached(src, lang, db)
+                if lang != DEFAULT_LANG:
+                    dst_map[lang] = translate_cached(src, lang, db)
 
             out_nodes.append({
                 "key": make_node_key(url, n),
@@ -379,6 +366,10 @@ def main():
 
         save_db(db)
         print(f"  saved {len(out_nodes)} nodes -> {TRANSLATION_DB}")
+
+        # ✅ zpomalení mezi stránkami
+        time.sleep(3)
+
 
 if __name__ == "__main__":
     main()
