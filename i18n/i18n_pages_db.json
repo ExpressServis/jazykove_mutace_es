@@ -8,9 +8,9 @@
           "parentId": "",
           "selector": "h1",
           "index": 0,
-          "source": "Výkup zařízení",
+          "source": "Výkup použitých zařízení",
           "dst": {
-            "sk": "Výkup zariadení"
+            "sk": "Výkup použitých zariadení"
           }
         }
       ]
