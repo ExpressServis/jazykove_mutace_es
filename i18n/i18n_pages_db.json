@@ -1,8 +1,30 @@
-{
-  "key": "vykup.h1",
-  "parentId": "snippet--content",
-  "selector": "h1.text-center",
-  "index": 0,
-  "source": "Výkup použitých zařízení",
-  "dst": { "sk": "Výkup použitých zariadení" }
-}
+[
+  {
+    "key": "vykup.title",
+    "parent": "head",
+    "selector": "title#snippet--title",
+    "index": 0,
+    "mode": "text",
+    "source": "Výkup zařízení | Express Servis",
+    "dst": { "sk": "Výkup zariadení | Express Servis" }
+  },
+  {
+    "key": "vykup.meta.description",
+    "parent": "head",
+    "selector": "meta[name=\"description\"]",
+    "index": 0,
+    "mode": "attr",
+    "attr": "content",
+    "source": "Specialista na prodej, servis a opravy mobilních telefonů, tabletů a počítačů značky Apple. Rozšiřujeme servis i jiných značek.",
+    "dst": { "sk": "Špecialista na predaj, servis a opravy mobilných telefónov, tabletov a počítačov značky Apple. Rozširujeme servis aj o iné značky." }
+  },
+  {
+    "key": "vykup.h1",
+    "parentId": "snippet--content",
+    "selector": "h1.text-center",
+    "index": 0,
+    "mode": "text",
+    "source": "Výkup použitých zařízení",
+    "dst": { "sk": "Výkup použitých zariadení" }
+  }
+]
