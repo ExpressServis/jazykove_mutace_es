@@ -1,19 +1,8 @@
 {
-  "pages": {
-    "https://www.express-servis.cz/vykup-zarizeni": {
-      "hash": "manual-test",
-      "nodes": [
-        {
-          "key": "vykup.h1",
-          "parentId": "",
-          "selector": "h1",
-          "index": 0,
-          "source": "Výkup použitých zařízení",
-          "dst": {
-            "sk": "Výkup použitých zariadení"
-          }
-        }
-      ]
-    }
-  }
+  "key": "vykup.h1",
+  "parentId": "snippet--content",
+  "selector": "h1.text-center",
+  "index": 0,
+  "source": "Výkup použitých zařízení",
+  "dst": { "sk": "Výkup použitých zariadení" }
 }
