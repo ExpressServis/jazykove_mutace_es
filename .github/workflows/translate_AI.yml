@@ -30,7 +30,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          python scripts/generate_i18n.py
+          python translate_web.py
 
       - name: Commit and push changes
         run: |
