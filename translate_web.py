@@ -15,11 +15,10 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 
 def find_repo_root(start: Path) -> Path:
     p = start
-    for _ in range(12):  # trochu větší limit
+    for _ in range(12):
         if (p / ".git").exists():
             return p
         p = p.parent
-    # fallback pro GitHub Actions
     ws = os.environ.get("GITHUB_WORKSPACE")
     if ws:
         return Path(ws).resolve()
@@ -29,7 +28,7 @@ ROOT_DIR = find_repo_root(SCRIPT_DIR)
 
 SITEMAP_URL = "https://www.express-servis.cz/sitemap.xml"
 
-# ✅ ukládat do i18n/i18n_pages_db.json (vždy uvnitř repa)
+# ✅ ukládat do i18n/i18n_pages_db.json (uvnitř repa)
 TRANSLATION_DB = ROOT_DIR / "i18n" / "i18n_pages_db.json"
 
 TARGET_LANGS = ["sk"]
@@ -39,7 +38,6 @@ DEFAULT_LANG = "cs"
 TEST_ONLY_URL = "https://www.express-servis.cz/vykup-zarizeni"
 TEST_ONLY = True
 
-# ✅ upravené hlavičky – jako běžný prohlížeč
 HTTP_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -48,10 +46,8 @@ HTTP_HEADERS = {
     "Accept-Language": "cs-CZ,cs;q=0.9,sk;q=0.8,en;q=0.7",
     "Connection": "keep-alive",
 }
-
 REQUEST_TIMEOUT = 30
 
-# Úspora tokenů / kvalita
 MAX_TEXT_LEN_TO_TRANSLATE = 320
 SKIP_IF_CONTAINS_URL = True
 DEBUG = True
@@ -66,26 +62,13 @@ def sha(text: str) -> str:
 def ensure_parent_dir(path: Path) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
 
-def load_db() -> Dict[str, Any]:
-    ensure_parent_dir(TRANSLATION_DB)
-    if TRANSLATION_DB.exists():
-        db = json.loads(TRANSLATION_DB.read_text(encoding="utf-8"))
-        db.setdefault("texts", {})
-        db.setdefault("pages", {})
-        return db
-    return {"texts": {}, "pages": {}}
-
-def save_db(db: Dict[str, Any]) -> None:
-    ensure_parent_dir(TRANSLATION_DB)
-    TRANSLATION_DB.write_text(json.dumps(db, ensure_ascii=False, indent=2), encoding="utf-8")
+def normalize_spaces(s: str) -> str:
+    return re.sub(r"\s+", " ", (s or "")).strip()
 
 _units_re = re.compile(r"^\s*[\d\.,]+\s*(gb|mb|tb|mah|w|kw|v|a|mm|cm|m|kg|g|hz|khz|mhz|ghz|°c|dpi|%|x)\s*$", re.I)
 _code_like_re = re.compile(r"^[A-Z0-9][A-Z0-9\-_./+ ]{1,}$")
 _only_symbols_digits_re = re.compile(r"^[\d\s\W_]+$")
 _urlish_re = re.compile(r"https?://|www\.", re.I)
-
-def normalize_spaces(s: str) -> str:
-    return re.sub(r"\s+", " ", (s or "")).strip()
 
 def is_translatable(text: str) -> bool:
     t = normalize_spaces(text)
@@ -103,6 +86,63 @@ def is_translatable(text: str) -> bool:
         return False
     return True
 
+def normalize_url(url: str) -> str:
+    return (url or "").split("#")[0].strip().rstrip("/")
+
+
+# ----------------------------
+# DB load/save with migration
+# ----------------------------
+def migrate_old_list_db(old_list: List[Dict[str, Any]]) -> Dict[str, Any]:
+    """
+    Starý formát byl array nodes pro jednu stránku (např. výkup).
+    Převedeme na nový formát:
+    {
+      "texts": {},
+      "pages": {
+        "https://www.express-servis.cz/vykup-zarizeni": { "hash": "", "updated_at": ..., "nodes": [...] }
+      }
+    }
+    """
+    url = normalize_url(TEST_ONLY_URL)
+    return {
+        "texts": {},
+        "pages": {
+            url: {
+                "hash": "",
+                "updated_at": int(time.time()),
+                "nodes": old_list,
+            }
+        }
+    }
+
+def load_db() -> Dict[str, Any]:
+    ensure_parent_dir(TRANSLATION_DB)
+    if not TRANSLATION_DB.exists():
+        return {"texts": {}, "pages": {}}
+
+    raw = json.loads(TRANSLATION_DB.read_text(encoding="utf-8"))
+
+    # ✅ MIGRACE: když je to list, převeď na nový formát
+    if isinstance(raw, list):
+        db = migrate_old_list_db(raw)
+        return db
+
+    if not isinstance(raw, dict):
+        return {"texts": {}, "pages": {}}
+
+    raw.setdefault("texts", {})
+    raw.setdefault("pages", {})
+    return raw
+
+def save_db(db: Dict[str, Any]) -> None:
+    ensure_parent_dir(TRANSLATION_DB)
+    TRANSLATION_DB.write_text(json.dumps(db, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+# ----------------------------
+# Translation
+# ----------------------------
 def short_lang_prompt(lang: str) -> str:
     if lang == "sk":
         return (
@@ -118,7 +158,6 @@ def translate_text(text: str, lang: str, max_retries: int = 3) -> str:
     if not text:
         return text
 
-    # ✅ úspora tokenů
     if len(text) > MAX_TEXT_LEN_TO_TRANSLATE:
         return text
 
@@ -188,9 +227,6 @@ def fetch_sitemap_urls(sitemap_url: str) -> List[str]:
     xml = requests.get(sitemap_url, timeout=REQUEST_TIMEOUT, headers=HTTP_HEADERS).text
     soup = BeautifulSoup(xml, "xml")
     return [loc.text.strip() for loc in soup.find_all("loc") if loc.text]
-
-def normalize_url(url: str) -> str:
-    return (url or "").split("#")[0].strip().rstrip("/")
 
 
 # ----------------------------
@@ -342,6 +378,7 @@ def main():
     print("DB:", TRANSLATION_DB.resolve())
 
     db = load_db()
+
     urls = fetch_sitemap_urls(SITEMAP_URL)
     urls = [normalize_url(u) for u in urls if u]
 
@@ -394,7 +431,7 @@ def main():
         save_db(db)
         print(f"  saved {len(out_nodes)} nodes -> {TRANSLATION_DB}")
         print("Nodes saved for page:", len(out_nodes))
-        print("Texts dictionary size:", len(db.get("texts", {})))
+        print("Texts dictionary size:", len(db.get('texts', {})))
 
         time.sleep(3)
 
