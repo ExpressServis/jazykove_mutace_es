@@ -9,9 +9,7 @@
           "selector": "h1",
           "index": 0,
           "source": "Výkup zařízení",
-          "dst": {
-            "sk": "Výkup zariadení"
-          }
+          "dst": { "sk": "Výkup zariadení" }
         }
       ]
     }
