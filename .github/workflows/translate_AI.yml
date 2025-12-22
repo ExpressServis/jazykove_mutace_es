@@ -32,6 +32,12 @@ jobs:
         run: |
           python translate_web.py
 
+      - name: Debug DB file
+        run: |
+          ls -la i18n || true
+          wc -c i18n/i18n_pages_db.json || true
+          head -n 5 i18n/i18n_pages_db.json || true    
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
