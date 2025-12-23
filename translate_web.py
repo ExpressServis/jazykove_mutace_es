@@ -27,8 +27,6 @@ def find_repo_root(start: Path) -> Path:
 ROOT_DIR = find_repo_root(SCRIPT_DIR)
 
 SITEMAP_URL = "https://www.express-servis.cz/sitemap.xml"
-
-# ✅ ukládat do i18n/i18n_pages_db.json (uvnitř repa)
 TRANSLATION_DB = ROOT_DIR / "i18n" / "i18n_pages_db.json"
 
 TARGET_LANGS = ["sk"]
@@ -90,11 +88,6 @@ def normalize_url(url: str) -> str:
     return (url or "").split("#")[0].strip().rstrip("/")
 
 def node_pos(n: Dict[str, Any]) -> int:
-    """
-    ✅ Jednotná "pozice" uzlu pro hash/key:
-    - pro textnode používá textIndex
-    - pro ostatní (text/attr) používá index
-    """
     mode = (n.get("mode") or "text").lower()
     if mode == "textnode":
         return int(n.get("textIndex") or 0)
@@ -125,8 +118,7 @@ def load_db() -> Dict[str, Any]:
     raw = json.loads(TRANSLATION_DB.read_text(encoding="utf-8"))
 
     if isinstance(raw, list):
-        db = migrate_old_list_db(raw)
-        return db
+        return migrate_old_list_db(raw)
 
     if not isinstance(raw, dict):
         return {"texts": {}, "pages": {}}
@@ -157,7 +149,6 @@ def translate_text(text: str, lang: str, max_retries: int = 3) -> str:
     text = normalize_spaces(text)
     if not text:
         return text
-
     if len(text) > MAX_TEXT_LEN_TO_TRANSLATE:
         return text
 
@@ -243,7 +234,7 @@ def build_selector(el) -> str:
     if el.get("id"):
         return f"{el.name}#{el.get('id')}"
 
-    # ✅ robustní selektor pro odkazy
+    # ✅ robustní selektor pro odkazy (menu, footer, obsah)
     if el.name == "a":
         href = (el.get("href") or "").strip()
         if href and not href.startswith(("#", "javascript:", "mailto:", "tel:")):
@@ -276,10 +267,11 @@ def nearest_parent_id(el) -> Optional[str]:
 # ----------------------------
 def strip_global_layout(soup: BeautifulSoup) -> None:
     """
-    ✅ NAV a HEADER nechceme překládat (odstraníme)
-    ✅ FOOTER chceme překládat (necháme ho v DOMu)
+    ✅ NIC nemazat z header/nav/footer – chceme překládat i menu a patičku.
+    ✅ Pryč jen věci, které nechceš překládat vůbec (volitelné).
     """
-    for bad in soup.select("header, nav, aside"):
+    # pokud chceš nechat i aside (třeba cookie lištu), smaž tohle úplně
+    for bad in soup.select("aside"):
         bad.decompose()
 
 def extract_head_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
@@ -309,22 +301,13 @@ def pick_content_root(soup: BeautifulSoup):
     )
 
 def extract_textnodes_from_root(root, parent_selector: str = "", parent_id: str = "") -> List[Dict[str, Any]]:
-    """
-    ✅ Vytáhne všechny přeložitelné textové uzly z daného rootu:
-    - index = pořadí elementu mezi root.querySelectorAll(selector)
-    - textIndex = pořadí textového uzlu uvnitř konkrétního elementu
-    - parent / parentId nastaví root pro JS resolveRoot()
-    """
     if not root:
         return []
 
     skip_parents = {"script", "style", "noscript", "svg", "head", "title", "meta", "link"}
 
-    # (root_marker, selector) -> list element_ids in order
     elements_order: Dict[Tuple[str, str], List[int]] = {}
-    # (root_marker, selector, element_id) -> elementIndex
     element_index_map: Dict[Tuple[str, str, int], int] = {}
-    # (root_marker, selector, element_id) -> textIndex counter
     text_index_counter: Dict[Tuple[str, str, int], int] = {}
 
     nodes: List[Dict[str, Any]] = []
@@ -385,14 +368,22 @@ def extract_body_text_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
 
     nodes: List[Dict[str, Any]] = []
 
-    # 1) hlavní obsah
+    # 1) menu / navigace
+    nav_root = soup.select_one(".component--core-navigation")
+    nodes += extract_textnodes_from_root(nav_root, parent_selector=".component--core-navigation", parent_id="")
+
+    # 2) submenu (pokud existuje samostatně)
+    submenu_root = soup.select_one(".submenu")
+    nodes += extract_textnodes_from_root(submenu_root, parent_selector=".submenu", parent_id="")
+
+    # 3) hlavní obsah
     content_root = pick_content_root(soup)
     content_pid = ""
     if content_root is not None:
         content_pid = nearest_parent_id(content_root) or ""
     nodes += extract_textnodes_from_root(content_root, parent_selector="", parent_id=content_pid)
 
-    # 2) footer (patička)
+    # 4) footer (patička)
     footer_root = soup.select_one(".component--core-footer")
     nodes += extract_textnodes_from_root(footer_root, parent_selector=".component--core-footer", parent_id="")
 
@@ -470,8 +461,8 @@ def main():
                 "parentId": n.get("parentId") or "",
                 "parent": n.get("parent") or "",
                 "selector": n.get("selector") or "",
-                "index": int(n.get("index") or 0),              # ✅ element index
-                "textIndex": int(n.get("textIndex") or 0),      # ✅ textnode index
+                "index": int(n.get("index") or 0),
+                "textIndex": int(n.get("textIndex") or 0),
                 "mode": (n.get("mode") or "textnode"),
                 "attr": n.get("attr") or "",
                 "source": src,
