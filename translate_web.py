@@ -89,6 +89,17 @@ def is_translatable(text: str) -> bool:
 def normalize_url(url: str) -> str:
     return (url or "").split("#")[0].strip().rstrip("/")
 
+def node_pos(n: Dict[str, Any]) -> int:
+    """
+    ✅ Jednotná "pozice" uzlu:
+    - pro textnode používá textIndex
+    - pro ostatní (text/attr) používá index
+    """
+    mode = (n.get("mode") or "text").lower()
+    if mode == "textnode":
+        return int(n.get("textIndex") or 0)
+    return int(n.get("index") or 0)
+
 
 # ----------------------------
 # DB load/save with migration
@@ -334,12 +345,13 @@ def extract_body_text_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
     for (pid, sel), texts in buckets.items():
         for idx, txt in enumerate(texts):
             nodes.append({
-                "mode": "text",
+                "mode": "textnode",      # ✅ text uzel v rámci elementu
                 "attr": "",
                 "parent": "",
                 "parentId": pid,
                 "selector": sel,
-                "index": idx,
+                "index": 0,              # ✅ důležité: JS vybírá element přes n.index
+                "textIndex": idx,         # ✅ index textového uzlu uvnitř elementu
                 "source": txt,
             })
     return nodes
@@ -352,14 +364,15 @@ def extract_nodes_from_html(html: str) -> List[Dict[str, Any]]:
 def page_hash(nodes: List[Dict[str, Any]]) -> str:
     payload = "||".join([
         f"{n.get('mode')}|{n.get('attr')}|{n.get('parentId')}|{n.get('parent')}|"
-        f"{n.get('selector')}|{n.get('index')}|{n.get('source')}"
+        f"{n.get('selector')}|{node_pos(n)}|{n.get('source')}"
         for n in nodes
     ])
     return sha(payload)
 
 def make_node_key(url: str, n: Dict[str, Any]) -> str:
     u = sha(normalize_url(url))[:8]
-    ident = f"{n.get('mode')}|{n.get('attr')}|{n.get('parentId')}|{n.get('parent')}|{n.get('selector')}|{n.get('index')}"
+    pos = node_pos(n)
+    ident = f"{n.get('mode')}|{n.get('attr')}|{n.get('parentId')}|{n.get('parent')}|{n.get('selector')}|{pos}"
     ident_h = sha(ident)[:8]
     src_h = sha(n.get("source",""))[:10]
     return f"p.{u}.{ident_h}.{src_h}"
@@ -415,8 +428,9 @@ def main():
                 "parentId": n.get("parentId") or "",
                 "parent": n.get("parent") or "",
                 "selector": n.get("selector") or "",
-                "index": int(n.get("index") or 0),
-                "mode": n.get("mode") or "text",
+                "index": int(n.get("index") or 0),              # ✅ zachovat pro JS (element index)
+                "textIndex": int(n.get("textIndex") or 0),      # ✅ nově pro textnode
+                "mode": (n.get("mode") or "textnode"),
                 "attr": n.get("attr") or "",
                 "source": src,
                 "dst": dst_map,
