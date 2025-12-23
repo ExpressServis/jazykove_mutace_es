@@ -161,12 +161,318 @@
       "meta": {
         "updated_at": 1766447468
       }
+    },
+    "0e3215768fffc16aee71c437c2e175c0722c747faa434541fb0b2f3e3d4a0f99": {
+      "src": "Express Servis",
+      "dst": {
+        "sk": "Express Servis"
+      },
+      "meta": {
+        "updated_at": 1766451734
+      }
+    },
+    "c1aa1f56cd12026e2a2ffe35ebf494e24b8e67e2de246ac98058fb93b18145a8": {
+      "src": "Výhody nákupu u nás",
+      "dst": {
+        "sk": "Výhody nákupu u nás"
+      },
+      "meta": {
+        "updated_at": 1766451735
+      }
+    },
+    "8f4cdaa4634ff68b99caec481f346bc50db7843ec0fd33cf01eddef1160d2f1f": {
+      "src": "Vše o nákupu",
+      "dst": {
+        "sk": "Všetko o nákupe"
+      },
+      "meta": {
+        "updated_at": 1766451736
+      }
+    },
+    "d0c5a6e519191be4ddb548c31a9d287884d1adfb4ced7f8300f277a77ba14ee4": {
+      "src": "Cena dopravy",
+      "dst": {
+        "sk": "Cena dopravy"
+      },
+      "meta": {
+        "updated_at": 1766451737
+      }
+    },
+    "56bf1ddfe9adb07c2e42b30e62a7e4a93c7a36a1aa0a6fe75f9eae6e51f4cb02": {
+      "src": "Apple servis pro firmy",
+      "dst": {
+        "sk": "Apple servis pre firmy"
+      },
+      "meta": {
+        "updated_at": 1766451738
+      }
+    },
+    "0a67d666bb56ca3cdeac8169bdaf511d2c963da8c03356e7c987e20e29bff70d": {
+      "src": "Pro partnery",
+      "dst": {
+        "sk": "Pre partnerov"
+      },
+      "meta": {
+        "updated_at": 1766451739
+      }
+    },
+    "1b45e159719392ab38afab267c7d880a8d799beaa37cec09f2746aca337ef804": {
+      "src": "O nás",
+      "dst": {
+        "sk": "O nás"
+      },
+      "meta": {
+        "updated_at": 1766451739
+      }
+    },
+    "829fd016cce076d8681423c513e7977ef136a1963ec6f25de06007032beed1da": {
+      "src": "Volné pozice",
+      "dst": {
+        "sk": "Voľné pozície"
+      },
+      "meta": {
+        "updated_at": 1766451740
+      }
+    },
+    "08744e6ba94f6758039b40168fea396d69f0fce51c191067c7bf843857bbdceb": {
+      "src": "Co je nového",
+      "dst": {
+        "sk": "Čo je nového"
+      },
+      "meta": {
+        "updated_at": 1766451741
+      }
+    },
+    "5ba1d1752d8253d2dcdcb851064ed4f35dc1cb4159075060d9a7769c6252bde5": {
+      "src": "Užitečné",
+      "dst": {
+        "sk": "Užitočné"
+      },
+      "meta": {
+        "updated_at": 1766451742
+      }
+    },
+    "b3373090bf072c896949104d73e78bf42c6148eeaa20870dd7bfe4ff336fb983": {
+      "src": "Podmínky a formuláře",
+      "dst": {
+        "sk": "Podmienky a formuláre"
+      },
+      "meta": {
+        "updated_at": 1766451743
+      }
+    },
+    "1e1996a3d63826adf01357610a47196803711ef5abfcbaf4ee5cf4f310add5af": {
+      "src": "Nejčastější dotazy",
+      "dst": {
+        "sk": "Najčastejšie otázky"
+      },
+      "meta": {
+        "updated_at": 1766451743
+      }
+    },
+    "8857ce774d2c19ab25941dbc7de51c900ce17d0ecacc1435d91ee036b4c90451": {
+      "src": "Apple service programs",
+      "dst": {
+        "sk": "Apple servisné programy"
+      },
+      "meta": {
+        "updated_at": 1766451744
+      }
+    },
+    "5ab302b591d9108c0f749e76bc64c4f51be64f66a7ff9e7bf5002bda1ea33b28": {
+      "src": "Ověření záruky Apple",
+      "dst": {
+        "sk": "Overenie záruky Apple"
+      },
+      "meta": {
+        "updated_at": 1766451744
+      }
+    },
+    "e4168cc4c40aa271b0f21dcdf34baafd0d898ae29393e67079716aa6abd49d78": {
+      "src": "Návody",
+      "dst": {
+        "sk": "Návody"
+      },
+      "meta": {
+        "updated_at": 1766451745
+      }
+    },
+    "924b392f1d9dc779b0dece9e6dda71f631abec4251f5f0df0c398d58407b3e59": {
+      "src": "Vytopený iPhone, co dělat?",
+      "dst": {
+        "sk": "Zatopený iPhone, čo robiť?"
+      },
+      "meta": {
+        "updated_at": 1766451746
+      }
+    },
+    "831096f6a4ca319f38a485a8bbcb4fcd64ff9602df93f05b1ec24f4b81503632": {
+      "src": "Objednat svoz ZDARMA",
+      "dst": {
+        "sk": "Objednať zvoz ZDARMA"
+      },
+      "meta": {
+        "updated_at": 1766451746
+      }
+    },
+    "756a62be285b4ced5a90307ed9e01a6c0aef3baf53e6d6e7370fdabe244676dc": {
+      "src": "Rychlý kontakt",
+      "dst": {
+        "sk": "Rýchly kontakt"
+      },
+      "meta": {
+        "updated_at": 1766451747
+      }
+    },
+    "f2b60fd750ffab74b851f5f982e29e914583e2f0984e4327108887d27d6f6067": {
+      "src": "Express Servis Company s.r.o.",
+      "dst": {
+        "sk": "Express Servis Company s.r.o."
+      },
+      "meta": {
+        "updated_at": 1766451748
+      }
+    },
+    "e9628fd165ae642b1a396b6aa9a9d449e6bc65f52d07b26b694c5368703ef63c": {
+      "src": "Bedřicha Smetany 166/4",
+      "dst": {
+        "sk": "Bedřicha Smetanu 166/4"
+      },
+      "meta": {
+        "updated_at": 1766451748
+      }
+    },
+    "602cf4bcc450b8154c065aacc5301076519d6e007a13fd34dbad13a64e1a7f6a": {
+      "src": "301 00 Plzeň",
+      "dst": {
+        "sk": "301 00 Plzeň"
+      },
+      "meta": {
+        "updated_at": 1766451749
+      }
+    },
+    "e8c76ff6683cfec01a0abb90ff5413614326f9e6ad093b468113ba0ab6eb2d97": {
+      "src": "Po-Pá",
+      "dst": {
+        "sk": "Po-Pá"
+      },
+      "meta": {
+        "updated_at": 1766451749
+      }
+    },
+    "e608fe9df3a3ee69b9752f66e8b3534dd9fa54098f65d2ec7b8f6c6bb2b24b77": {
+      "src": "E-shop",
+      "dst": {
+        "sk": "E-shop"
+      },
+      "meta": {
+        "updated_at": 1766451749
+      }
+    },
+    "fc56c3dd0f56558dbcf8b46625b5b3dd1b7856adbbe7977ffbe7b9c8af35b8e0": {
+      "src": "info@express-servis.cz",
+      "dst": {
+        "sk": "info@express-servis.sk"
+      },
+      "meta": {
+        "updated_at": 1766451751
+      }
+    },
+    "b16fe556be8c8b7ae9589ce57fa41aabbc197998bdd0fd5258046e80b8c49de0": {
+      "src": "Servis",
+      "dst": {
+        "sk": "Servis"
+      },
+      "meta": {
+        "updated_at": 1766451751
+      }
+    },
+    "2edff003bee1d2bf35222e9ae1f3288b8a70c411f375a99cf6018dfbf8dac1fa": {
+      "src": "servis@express-servis.cz",
+      "dst": {
+        "sk": "servis@express-servis.sk"
+      },
+      "meta": {
+        "updated_at": 1766451752
+      }
+    },
+    "235048c772afe84dc42c68ccc6fad2520d863e433e3d1adaf8c37cc414ad0dea": {
+      "src": "Sledujte nás",
+      "dst": {
+        "sk": "Sledujte nás"
+      },
+      "meta": {
+        "updated_at": 1766451752
+      }
+    },
+    "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85": {
+      "src": "Facebook",
+      "dst": {
+        "sk": "Facebook"
+      },
+      "meta": {
+        "updated_at": 1766451752
+      }
+    },
+    "fb7accfff8c6f8ea9b03c91ee5576d0d08080e9ba35918d801aaeb6020dbc88c": {
+      "src": "YouTube",
+      "dst": {
+        "sk": "YouTube"
+      },
+      "meta": {
+        "updated_at": 1766451753
+      }
+    },
+    "bad57ef7837c8e6bf99c2a5935cc9d6fe5324a53d88744ad5551db0e46b03cd6": {
+      "src": "Instagram",
+      "dst": {
+        "sk": "Instagram"
+      },
+      "meta": {
+        "updated_at": 1766451753
+      }
+    },
+    "1bb6fcfbf1368a7b27a6db04802e2756a9e209eb24f189c3e35be8542f439a2c": {
+      "src": "TikTok",
+      "dst": {
+        "sk": "TikTok"
+      },
+      "meta": {
+        "updated_at": 1766451754
+      }
+    },
+    "7005c0064bda4edb7ad7d500cb081ee70425ba64442759ca3562a6578f19abe6": {
+      "src": "Spotify",
+      "dst": {
+        "sk": "Spotify"
+      },
+      "meta": {
+        "updated_at": 1766451754
+      }
+    },
+    "572dceee86d0d275a55f0fd89811e27591178f7101be02b3dc78eb82a34058eb": {
+      "src": "Copyright © 2025 | Express Servis Company s.r.o.",
+      "dst": {
+        "sk": "Copyright © 2025 | Express Servis Company s.r.o."
+      },
+      "meta": {
+        "updated_at": 1766451755
+      }
+    },
+    "b121ed4b6720d7de475b7e2c481ab08ea0015ce9a41200510403aad1e2916716": {
+      "src": "Apple, logo společnosti Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air, and MacBook Pro jsou ochranné známky společnosti Apple Inc., registrované v USA a ostatních zemích",
+      "dst": {
+        "sk": "Apple, logo spoločnosti Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air a MacBook Pro sú ochranné známky spoločnosti Apple Inc., registrované v USA a iných krajinách."
+      },
+      "meta": {
+        "updated_at": 1766451757
+      }
     }
   },
   "pages": {
     "https://www.express-servis.cz/vykup-zarizeni": {
-      "hash": "777a12813d3a06f3e7cef0d0307806ea64a85c3ad8c8f75fa53ba8de5a889a3f",
-      "updated_at": 1766450895,
+      "hash": "b21cd027c2c50414aaabd3ed5900cdef270363d2148dd3f32ba5ec2685352b76",
+      "updated_at": 1766451757,
       "nodes": [
         {
           "key": "p.06107357.80adc3e3.8ed976ff7e",
@@ -211,6 +517,20 @@
           }
         },
         {
+          "key": "p.06107357.511067d1.38fdf51931",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "strong",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "iPhone",
+          "dst": {
+            "sk": "iPhone"
+          }
+        },
+        {
           "key": "p.06107357.dd569efc.8000f59b60",
           "parentId": "snippet--content",
           "parent": "",
@@ -222,6 +542,20 @@
           "source": ", výkup",
           "dst": {
             "sk": ", výkup"
+          }
+        },
+        {
+          "key": "p.06107357.511067d1.ac92e76130",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "strong",
+          "index": 1,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "MacBook",
+          "dst": {
+            "sk": "MacBook"
           }
         },
         {
@@ -239,6 +573,20 @@
           }
         },
         {
+          "key": "p.06107357.511067d1.9371bab2ce",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "strong",
+          "index": 2,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple Watch",
+          "dst": {
+            "sk": "Apple Watch"
+          }
+        },
+        {
           "key": "p.06107357.c3b3ae30.1ad4a7d4a7",
           "parentId": "snippet--content",
           "parent": "",
@@ -250,48 +598,6 @@
           "source": "za nejlepší možnou cenu. Výkup můžete uskutečnit rychle a bezpečně na naší prodejně v centru Plzně.",
           "dst": {
             "sk": "za najlepšiu možnú cenu. Výkup môžete uskutočniť rýchlo a bezpečne v našej predajni v centre Plzne."
-          }
-        },
-        {
-          "key": "p.06107357.511067d1.38fdf51931",
-          "parentId": "snippet--content",
-          "parent": "",
-          "selector": "strong",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "iPhone",
-          "dst": {
-            "sk": "iPhone"
-          }
-        },
-        {
-          "key": "p.06107357.f8530b06.ac92e76130",
-          "parentId": "snippet--content",
-          "parent": "",
-          "selector": "strong",
-          "index": 0,
-          "textIndex": 1,
-          "mode": "textnode",
-          "attr": "",
-          "source": "MacBook",
-          "dst": {
-            "sk": "MacBook"
-          }
-        },
-        {
-          "key": "p.06107357.4c21bf37.9371bab2ce",
-          "parentId": "snippet--content",
-          "parent": "",
-          "selector": "strong",
-          "index": 0,
-          "textIndex": 2,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Apple Watch",
-          "dst": {
-            "sk": "Apple Watch"
           }
         },
         {
@@ -309,20 +615,6 @@
           }
         },
         {
-          "key": "p.06107357.393e59f2.1a2e8191b4",
-          "parentId": "snippet--content",
-          "parent": "",
-          "selector": "h2",
-          "index": 0,
-          "textIndex": 1,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Co vykupujeme?",
-          "dst": {
-            "sk": "Čo vykupujeme?"
-          }
-        },
-        {
           "key": "p.06107357.59bed2ba.af85e3749c",
           "parentId": "snippet--content",
           "parent": "",
@@ -337,12 +629,12 @@
           }
         },
         {
-          "key": "p.06107357.2e3d0ba6.b168ab3ee5",
+          "key": "p.06107357.59bed2ba.b168ab3ee5",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "li",
-          "index": 0,
-          "textIndex": 1,
+          "index": 1,
+          "textIndex": 0,
           "mode": "textnode",
           "attr": "",
           "source": "Hodnotu výkupu vám pošleme na účet, dáme v hotovosti nebo odečteme z nákupu",
@@ -351,12 +643,12 @@
           }
         },
         {
-          "key": "p.06107357.ccaf4a9c.b7dea965af",
+          "key": "p.06107357.59bed2ba.b7dea965af",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "li",
-          "index": 0,
-          "textIndex": 2,
+          "index": 2,
+          "textIndex": 0,
           "mode": "textnode",
           "attr": "",
           "source": "K výkupu Vám postačí pouze občanský průkaz",
@@ -365,17 +657,31 @@
           }
         },
         {
-          "key": "p.06107357.8b9357dc.87df0deeab",
+          "key": "p.06107357.59bed2ba.87df0deeab",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "li",
-          "index": 0,
-          "textIndex": 3,
+          "index": 3,
+          "textIndex": 0,
           "mode": "textnode",
           "attr": "",
           "source": "Nevyžadujeme doklad o koupi zařízení",
           "dst": {
             "sk": "Nevyžadujeme doklad o kúpe zariadenia."
+          }
+        },
+        {
+          "key": "p.06107357.f2a6d11a.1a2e8191b4",
+          "parentId": "snippet--content",
+          "parent": "",
+          "selector": "h2",
+          "index": 1,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Co vykupujeme?",
+          "dst": {
+            "sk": "Čo vykupujeme?"
           }
         },
         {
@@ -393,12 +699,12 @@
           }
         },
         {
-          "key": "p.06107357.f18a641e.23cbcfc3e8",
+          "key": "p.06107357.be87b2d0.23cbcfc3e8",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "div.title",
-          "index": 0,
-          "textIndex": 1,
+          "index": 1,
+          "textIndex": 0,
           "mode": "textnode",
           "attr": "",
           "source": "iPad",
@@ -407,12 +713,12 @@
           }
         },
         {
-          "key": "p.06107357.0f5053fb.8b3795aa25",
+          "key": "p.06107357.be87b2d0.8b3795aa25",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "div.title",
-          "index": 0,
-          "textIndex": 2,
+          "index": 2,
+          "textIndex": 0,
           "mode": "textnode",
           "attr": "",
           "source": "Mac",
@@ -421,17 +727,493 @@
           }
         },
         {
-          "key": "p.06107357.a9c0b790.a71e757324",
+          "key": "p.06107357.be87b2d0.a71e757324",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "div.title",
-          "index": 0,
-          "textIndex": 3,
+          "index": 3,
+          "textIndex": 0,
           "mode": "textnode",
           "attr": "",
           "source": "Watch",
           "dst": {
             "sk": "Hodinky"
+          }
+        },
+        {
+          "key": "p.06107357.970cdb3e.0e3215768f",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "h3",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Express Servis",
+          "dst": {
+            "sk": "Express Servis"
+          }
+        },
+        {
+          "key": "p.06107357.8ac1678d.c1aa1f56cd",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "strong",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Výhody nákupu u nás",
+          "dst": {
+            "sk": "Výhody nákupu u nás"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.8f4cdaa463",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Vše o nákupu",
+          "dst": {
+            "sk": "Všetko o nákupe"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.d0c5a6e519",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 1,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Cena dopravy",
+          "dst": {
+            "sk": "Cena dopravy"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.56bf1ddfe9",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 2,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple servis pro firmy",
+          "dst": {
+            "sk": "Apple servis pre firmy"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.0a67d666bb",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 3,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Pro partnery",
+          "dst": {
+            "sk": "Pre partnerov"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.1b45e15971",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 4,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "O nás",
+          "dst": {
+            "sk": "O nás"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.829fd016cc",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 5,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Volné pozice",
+          "dst": {
+            "sk": "Voľné pozície"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.08744e6ba9",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 6,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Co je nového",
+          "dst": {
+            "sk": "Čo je nového"
+          }
+        },
+        {
+          "key": "p.06107357.970cdb3e.5ba1d1752d",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "h3",
+          "index": 1,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Užitečné",
+          "dst": {
+            "sk": "Užitočné"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.b3373090bf",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 7,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Podmínky a formuláře",
+          "dst": {
+            "sk": "Podmienky a formuláre"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.1e1996a3d6",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 8,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Nejčastější dotazy",
+          "dst": {
+            "sk": "Najčastejšie otázky"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.8857ce774d",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 9,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple service programs",
+          "dst": {
+            "sk": "Apple servisné programy"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.5ab302b591",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 10,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Ověření záruky Apple",
+          "dst": {
+            "sk": "Overenie záruky Apple"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.e4168cc4c4",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 11,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Návody",
+          "dst": {
+            "sk": "Návody"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.924b392f1d",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 12,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Vytopený iPhone, co dělat?",
+          "dst": {
+            "sk": "Zatopený iPhone, čo robiť?"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.831096f6a4",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 13,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Objednat svoz ZDARMA",
+          "dst": {
+            "sk": "Objednať zvoz ZDARMA"
+          }
+        },
+        {
+          "key": "p.06107357.970cdb3e.756a62be28",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "h3",
+          "index": 2,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Rychlý kontakt",
+          "dst": {
+            "sk": "Rýchly kontakt"
+          }
+        },
+        {
+          "key": "p.06107357.56535aa9.f2b60fd750",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "div",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Express Servis Company s.r.o.",
+          "dst": {
+            "sk": "Express Servis Company s.r.o."
+          }
+        },
+        {
+          "key": "p.06107357.0edd80ea.e9628fd165",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "div.icon-offset",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Bedřicha Smetany 166/4",
+          "dst": {
+            "sk": "Bedřicha Smetanu 166/4"
+          }
+        },
+        {
+          "key": "p.06107357.0edd80ea.602cf4bcc4",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "div.icon-offset",
+          "index": 1,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "301 00 Plzeň",
+          "dst": {
+            "sk": "301 00 Plzeň"
+          }
+        },
+        {
+          "key": "p.06107357.56535aa9.e8c76ff668",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "div",
+          "index": 1,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Po-Pá",
+          "dst": {
+            "sk": "Po-Pá"
+          }
+        },
+        {
+          "key": "p.06107357.d892db78.e608fe9df3",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "h4.mt-3",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "E-shop",
+          "dst": {
+            "sk": "E-shop"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.fc56c3dd0f",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 14,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "info@express-servis.cz",
+          "dst": {
+            "sk": "info@express-servis.sk"
+          }
+        },
+        {
+          "key": "p.06107357.d892db78.b16fe556be",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "h4.mt-3",
+          "index": 1,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Servis",
+          "dst": {
+            "sk": "Servis"
+          }
+        },
+        {
+          "key": "p.06107357.11d3be56.2edff003be",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a",
+          "index": 15,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "servis@express-servis.cz",
+          "dst": {
+            "sk": "servis@express-servis.sk"
+          }
+        },
+        {
+          "key": "p.06107357.970cdb3e.235048c772",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "h3",
+          "index": 3,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Sledujte nás",
+          "dst": {
+            "sk": "Sledujte nás"
+          }
+        },
+        {
+          "key": "p.06107357.727c4c9d.d41f5b4977",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a.social",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Facebook",
+          "dst": {
+            "sk": "Facebook"
+          }
+        },
+        {
+          "key": "p.06107357.727c4c9d.fb7accfff8",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a.social",
+          "index": 1,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "YouTube",
+          "dst": {
+            "sk": "YouTube"
+          }
+        },
+        {
+          "key": "p.06107357.727c4c9d.bad57ef783",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a.social",
+          "index": 2,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Instagram",
+          "dst": {
+            "sk": "Instagram"
+          }
+        },
+        {
+          "key": "p.06107357.727c4c9d.1bb6fcfbf1",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a.social",
+          "index": 3,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "TikTok",
+          "dst": {
+            "sk": "TikTok"
+          }
+        },
+        {
+          "key": "p.06107357.727c4c9d.7005c0064b",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "a.social",
+          "index": 4,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Spotify",
+          "dst": {
+            "sk": "Spotify"
+          }
+        },
+        {
+          "key": "p.06107357.227e6e92.572dceee86",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "div.author",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Copyright © 2025 | Express Servis Company s.r.o.",
+          "dst": {
+            "sk": "Copyright © 2025 | Express Servis Company s.r.o."
+          }
+        },
+        {
+          "key": "p.06107357.81930244.b121ed4b67",
+          "parentId": "",
+          "parent": ".component--core-footer",
+          "selector": "div.copyright",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple, logo společnosti Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air, and MacBook Pro jsou ochranné známky společnosti Apple Inc., registrované v USA a ostatních zemích",
+          "dst": {
+            "sk": "Apple, logo spoločnosti Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air a MacBook Pro sú ochranné známky spoločnosti Apple Inc., registrované v USA a iných krajinách."
           }
         }
       ]
