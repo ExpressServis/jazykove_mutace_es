@@ -29,7 +29,7 @@ ROOT_DIR = find_repo_root(SCRIPT_DIR)
 SITEMAP_URL = "https://www.express-servis.cz/sitemap.xml"
 TRANSLATION_DB = ROOT_DIR / "i18n" / "i18n_pages_db.json"
 
-TARGET_LANGS = ["sk"]
+TARGET_LANGS = ["sk", "en", "de"]
 DEFAULT_LANG = "cs"
 
 # ✅ test zatím jen výkup
@@ -41,7 +41,7 @@ HTTP_HEADERS = {
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
                   "Chrome/120.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "cs-CZ,cs;q=0.9,sk;q=0.8,en;q=0.7",
+    "Accept-Language": "cs-CZ,cs;q=0.9,sk;q=0.8,de;q=0.8,en;q=0.7",
     "Connection": "keep-alive",
 }
 REQUEST_TIMEOUT = 30
@@ -149,6 +149,14 @@ def short_lang_prompt(lang: str) -> str:
             "Keep technical terms, brands, model names, codes. "
             "Do not change numbers, units, abbreviations. "
             "Return only the translated text."
+        )
+
+    if lang == "de":
+        return (
+            "Übersetze aus dem Tschechischen ins natürliche, professionelle Deutsch für eine Website. "
+            "Behalte Fachbegriffe, Marken, Modellnamen und Codes unverändert. "
+            "Ändere keine Zahlen, Einheiten oder Abkürzungen. "
+            "Gib nur den übersetzten Text zurück."
         )
     return f"Translate Czech to {lang}. Keep brands/models/codes, keep units/numbers. Return only translation."
 
