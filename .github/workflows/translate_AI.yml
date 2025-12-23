@@ -32,6 +32,9 @@ jobs:
         run: |
           python translate_web.py
 
+      - name: Clean i18n DB
+        run: python clean_i18n_db.py    
+
       - name: Debug DB file
         run: |
           ls -la i18n || true
