@@ -36,6 +36,12 @@ DEFAULT_LANG = "cs"
 TEST_ONLY_URL = "https://www.express-servis.cz/vykup-zarizeni"
 TEST_ONLY = True
 
+# ✅ výrazy, které se NIKDY nemají překládat (brand / UI label)
+NEVER_TRANSLATE_EXACT = {
+    "Facebook", "YouTube", "Instagram", "TikTok", "Spotify",
+    "E-shop", "Servis"
+}
+
 HTTP_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -213,6 +219,10 @@ def translate_cached(text: str, lang: str, db: Dict[str, Any]) -> str:
     if not t or not is_translatable(t):
         return t
 
+    # ✅ nikdy nepřekládat některé přesné výrazy (sítě, brandy, krátké štítky)
+    if t in NEVER_TRANSLATE_EXACT:
+        return t
+
     key = sha(t)
     texts = db.setdefault("texts", {})
     entry = texts.get(key)
@@ -221,6 +231,15 @@ def translate_cached(text: str, lang: str, db: Dict[str, Any]) -> str:
         return entry["dst"][lang]
 
     dst = translate_text(t, lang)
+
+        # ✅ pojistka proti "ujeté" odpovědi modelu
+    # když je zdroj krátký a překlad je podezřele dlouhý, necháme originál
+    if len(t) <= 20 and len(dst) >= 60:
+        dst = t
+
+    # extra pojistka na typické omluvné hlášky
+    if "es tut mir leid" in dst.lower() or "i’m sorry" in dst.lower() or "i am sorry" in dst.lower():
+        dst = t
 
     if not entry:
         entry = {"src": t, "dst": {}, "meta": {}}
