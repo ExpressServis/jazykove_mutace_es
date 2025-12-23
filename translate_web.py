@@ -143,6 +143,13 @@ def short_lang_prompt(lang: str) -> str:
             "Nemeň jednotky, čísla a skratky. "
             "Vráť iba preložený text."
         )
+    if lang == "en":
+        return (
+            "Translate from Czech to natural, professional English for a website. "
+            "Keep technical terms, brands, model names, codes. "
+            "Do not change numbers, units, abbreviations. "
+            "Return only the translated text."
+        )
     return f"Translate Czech to {lang}. Keep brands/models/codes, keep units/numbers. Return only translation."
 
 def translate_text(text: str, lang: str, max_retries: int = 3) -> str:
