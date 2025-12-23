@@ -3,334 +3,408 @@
     "8ed976ff7e9b83e664748721ea31f1a561dbe74928085f58e1c7824eb95ff62d": {
       "src": "Výkup zařízení | Express Servis",
       "dst": {
-        "sk": "Výkup zariadení | Express Servis"
+        "sk": "Výkup zariadení | Express Servis",
+        "en": "Device Purchase | Express Service",
+        "de": "Geräteankauf | Express Service"
       },
       "meta": {
-        "updated_at": 1766447456
+        "updated_at": 1766524829
       }
     },
     "08e7c88c9957083891271094e15dbd451fbfd2aace9d948b08ac89caaf2fe219": {
       "src": "Výkup použitých zařízení",
       "dst": {
-        "sk": "Výkup použitých zariadení"
+        "sk": "Výkup použitých zariadení",
+        "en": "Purchase of Used Equipment",
+        "de": "Ankauf von gebrauchten Geräten"
       },
       "meta": {
-        "updated_at": 1766447457
+        "updated_at": 1766525000
       }
     },
     "54be06e87fcfcd99829a7760e109a9eaabfc1626333787858d9bda615ec2ec2a": {
       "src": "Vlastníte staré Apple zařízení? My jej vykoupíme! Děláme výkupy",
       "dst": {
-        "sk": "Vlastníte staré Apple zariadenie? My ho vykúpime! Robíme výkupy."
+        "sk": "Vlastníte staré Apple zariadenie? My ho vykúpime! Robíme výkupy.",
+        "en": "Do you own an old Apple device? We will buy it! We offer buyback services.",
+        "de": "Besitzen Sie ein altes Apple-Gerät? Wir kaufen es Ihnen ab! Wir führen Ankauf durch."
       },
       "meta": {
-        "updated_at": 1766447458
+        "updated_at": 1766525001
       }
     },
     "8000f59b604b694749fa32acc8c11afcdb592a6f5b994809cb7a3a3df35eca58": {
       "src": ", výkup",
       "dst": {
-        "sk": ", výkup"
+        "sk": ", výkup",
+        "en": ", purchase",
+        "de": ", Ankauf"
       },
       "meta": {
-        "updated_at": 1766447458
+        "updated_at": 1766525002
       }
     },
     "acc1350792f44e9b759af778c4a2fe87de4e4a28405835edfbfde1b0ed07584a": {
       "src": "a výkup",
       "dst": {
-        "sk": "a výkup"
+        "sk": "a výkup",
+        "en": "and purchase",
+        "de": "und Ankauf"
       },
       "meta": {
-        "updated_at": 1766447459
+        "updated_at": 1766525004
       }
     },
     "1ad4a7d4a7faf061d4f5429b602e7cb16441ef33d06d4939148489464c95fdc5": {
       "src": "za nejlepší možnou cenu. Výkup můžete uskutečnit rychle a bezpečně na naší prodejně v centru Plzně.",
       "dst": {
-        "sk": "za najlepšiu možnú cenu. Výkup môžete uskutočniť rýchlo a bezpečne v našej predajni v centre Plzne."
+        "sk": "za najlepšiu možnú cenu. Výkup môžete uskutočniť rýchlo a bezpečne v našej predajni v centre Plzne.",
+        "en": "at the best possible price. You can carry out the purchase quickly and safely at our store in the center of Plzeň.",
+        "de": "zum bestmöglichen Preis. Den Ankauf können Sie schnell und sicher in unserem Geschäft im Zentrum von Pilsen durchführen."
       },
       "meta": {
-        "updated_at": 1766447460
+        "updated_at": 1766525006
       }
     },
     "38fdf519314e3151d7e7f6ef456f327b78ddb84bc457bdb0d49bce0b1fc3c959": {
       "src": "iPhone",
       "dst": {
-        "sk": "iPhone"
+        "sk": "iPhone",
+        "en": "iPhone",
+        "de": "iPhone"
       },
       "meta": {
-        "updated_at": 1766447461
+        "updated_at": 1766524858
       }
     },
     "ac92e7613044a45682e8cf01eb2471d084016fe18aa1c112e2898474663a1d47": {
       "src": "MacBook",
       "dst": {
-        "sk": "MacBook"
+        "sk": "MacBook",
+        "en": "MacBook",
+        "de": "MacBook"
       },
       "meta": {
-        "updated_at": 1766447461
+        "updated_at": 1766525003
       }
     },
     "9371bab2ce8d97650539ac468d7275c9645b379b34437ce840f1fd853752566f": {
       "src": "Apple Watch",
       "dst": {
-        "sk": "Apple Watch"
+        "sk": "Apple Watch",
+        "en": "Apple Watch",
+        "de": "Apple Watch"
       },
       "meta": {
-        "updated_at": 1766447462
+        "updated_at": 1766525005
       }
     },
     "a10366d50a89facb75a9fda62f5aaacc080bc7fb88b6dff92e080f2ccd126b9c": {
       "src": "Proč jít s výkupem k nám?",
       "dst": {
-        "sk": "Prečo ísť s výkupom k nám?"
+        "sk": "Prečo ísť s výkupom k nám?",
+        "en": "Why choose us for your buyback?",
+        "de": "Warum sollten Sie sich für den Ankauf bei uns entscheiden?"
       },
       "meta": {
-        "updated_at": 1766447462
+        "updated_at": 1766525008
       }
     },
     "1a2e8191b4b40632c9d5e9cd4ec156258a8852afc32d1e52bfa5204f1d37a9c0": {
       "src": "Co vykupujeme?",
       "dst": {
-        "sk": "Čo vykupujeme?"
+        "sk": "Čo vykupujeme?",
+        "en": "What do we buy?",
+        "de": "Was kaufen wir an?"
       },
       "meta": {
-        "updated_at": 1766447463
+        "updated_at": 1766525015
       }
     },
     "af85e3749c64f7b4fd6c9741a651fecbbd224492ff11bee1a266ef2d1846b632": {
       "src": "Nabízíme ty nejvyšší možné výkupní ceny",
       "dst": {
-        "sk": "Ponúkame tie najvyššie možné výkupné ceny."
+        "sk": "Ponúkame tie najvyššie možné výkupné ceny.",
+        "en": "We offer the highest possible buyback prices.",
+        "de": "Wir bieten die höchstmöglichen Ankaufspreise an."
       },
       "meta": {
-        "updated_at": 1766447464
+        "updated_at": 1766525009
       }
     },
     "b168ab3ee593b8a6826fe18d88bdad7d30cd969279907e79ef391234c3e672a3": {
       "src": "Hodnotu výkupu vám pošleme na účet, dáme v hotovosti nebo odečteme z nákupu",
       "dst": {
-        "sk": "Hodnotu výkupu vám pošleme na účet, dáme v hotovosti alebo odpočítame z nákupu."
+        "sk": "Hodnotu výkupu vám pošleme na účet, dáme v hotovosti alebo odpočítame z nákupu.",
+        "en": "We will send the buyback value to your account, provide it in cash, or deduct it from your purchase.",
+        "de": "Den Wert des Ankaufs überweisen wir Ihnen auf Ihr Konto, geben ihn in bar aus oder ziehen ihn vom Kaufpreis ab."
       },
       "meta": {
-        "updated_at": 1766447465
+        "updated_at": 1766525011
       }
     },
     "b7dea965af27b5453b206641cbd03c55a8cf0ba8d65a95863130ad1e8bbfb2c2": {
       "src": "K výkupu Vám postačí pouze občanský průkaz",
       "dst": {
-        "sk": "Na výkup Vám postačí iba občiansky preukaz."
+        "sk": "Na výkup Vám postačí iba občiansky preukaz.",
+        "en": "For the buyback, you only need an identity card.",
+        "de": "Für den Ankauf benötigen Sie lediglich Ihren Personalausweis."
       },
       "meta": {
-        "updated_at": 1766447466
+        "updated_at": 1766525012
       }
     },
     "87df0deeabff78885d06178706b0d160b3f13b54884d1b23587a1e88cf90539c": {
       "src": "Nevyžadujeme doklad o koupi zařízení",
       "dst": {
-        "sk": "Nevyžadujeme doklad o kúpe zariadenia."
+        "sk": "Nevyžadujeme doklad o kúpe zariadenia.",
+        "en": "We do not require proof of purchase for the device.",
+        "de": "Wir verlangen keinen Nachweis über den Kauf des Geräts."
       },
       "meta": {
-        "updated_at": 1766447466
+        "updated_at": 1766525014
       }
     },
     "23cbcfc3e80a6fe5d4f319b08c0921d2b979f2db8ecb178dec4fbff034485b1c": {
       "src": "iPad",
       "dst": {
-        "sk": "iPad"
+        "sk": "iPad",
+        "en": "iPad",
+        "de": "iPad"
       },
       "meta": {
-        "updated_at": 1766447467
+        "updated_at": 1766524866
       }
     },
     "8b3795aa25390811064d8e7276e56384b720d78e3ab2780e415c7dc9d4e9522b": {
       "src": "Mac",
       "dst": {
-        "sk": "Mac"
+        "sk": "Mac",
+        "en": "Mac",
+        "de": "Bitte geben Sie den zu übersetzenden Text an, damit ich Ihnen helfen kann."
       },
       "meta": {
-        "updated_at": 1766447467
+        "updated_at": 1766524860
       }
     },
     "a71e757324467ccfe2ae90f483fd759eff5378e6afcfcce4c620de929b3f2dd8": {
       "src": "Watch",
       "dst": {
-        "sk": "Hodinky"
+        "sk": "Hodinky",
+        "en": "Watch",
+        "de": "Uhr"
       },
       "meta": {
-        "updated_at": 1766447468
+        "updated_at": 1766524867
       }
     },
     "0e3215768fffc16aee71c437c2e175c0722c747faa434541fb0b2f3e3d4a0f99": {
       "src": "Express Servis",
       "dst": {
-        "sk": "Express Servis"
+        "sk": "Express Servis",
+        "en": "Express Service",
+        "de": "Express-Service"
       },
       "meta": {
-        "updated_at": 1766451734
+        "updated_at": 1766524830
       }
     },
     "c1aa1f56cd12026e2a2ffe35ebf494e24b8e67e2de246ac98058fb93b18145a8": {
       "src": "Výhody nákupu u nás",
       "dst": {
-        "sk": "Výhody nákupu u nás"
+        "sk": "Výhody nákupu u nás",
+        "en": "Advantages of shopping with us",
+        "de": "Vorteile des Kaufs bei uns"
       },
       "meta": {
-        "updated_at": 1766451735
+        "updated_at": 1766525017
       }
     },
     "8f4cdaa4634ff68b99caec481f346bc50db7843ec0fd33cf01eddef1160d2f1f": {
       "src": "Vše o nákupu",
       "dst": {
-        "sk": "Všetko o nákupe"
+        "sk": "Všetko o nákupe",
+        "en": "Everything About Purchasing",
+        "de": "Alles über den Kauf"
       },
       "meta": {
-        "updated_at": 1766451736
+        "updated_at": 1766525018
       }
     },
     "d0c5a6e519191be4ddb548c31a9d287884d1adfb4ced7f8300f277a77ba14ee4": {
       "src": "Cena dopravy",
       "dst": {
-        "sk": "Cena dopravy"
+        "sk": "Cena dopravy",
+        "en": "Shipping cost",
+        "de": "Versandkosten"
       },
       "meta": {
-        "updated_at": 1766451737
+        "updated_at": 1766525019
       }
     },
     "56bf1ddfe9adb07c2e42b30e62a7e4a93c7a36a1aa0a6fe75f9eae6e51f4cb02": {
       "src": "Apple servis pro firmy",
       "dst": {
-        "sk": "Apple servis pre firmy"
+        "sk": "Apple servis pre firmy",
+        "en": "Apple service for businesses",
+        "de": "Apple-Service für Unternehmen"
       },
       "meta": {
-        "updated_at": 1766451738
+        "updated_at": 1766525020
       }
     },
     "0a67d666bb56ca3cdeac8169bdaf511d2c963da8c03356e7c987e20e29bff70d": {
       "src": "Pro partnery",
       "dst": {
-        "sk": "Pre partnerov"
+        "sk": "Pre partnerov",
+        "en": "For Partners",
+        "de": "Für Partner"
       },
       "meta": {
-        "updated_at": 1766451739
+        "updated_at": 1766525021
       }
     },
     "1b45e159719392ab38afab267c7d880a8d799beaa37cec09f2746aca337ef804": {
       "src": "O nás",
       "dst": {
-        "sk": "O nás"
+        "sk": "O nás",
+        "en": "About Us",
+        "de": "Über uns"
       },
       "meta": {
-        "updated_at": 1766451739
+        "updated_at": 1766524835
       }
     },
     "829fd016cce076d8681423c513e7977ef136a1963ec6f25de06007032beed1da": {
       "src": "Volné pozice",
       "dst": {
-        "sk": "Voľné pozície"
+        "sk": "Voľné pozície",
+        "en": "Job Openings",
+        "de": "Offene Stellen"
       },
       "meta": {
-        "updated_at": 1766451740
+        "updated_at": 1766525022
       }
     },
     "08744e6ba94f6758039b40168fea396d69f0fce51c191067c7bf843857bbdceb": {
       "src": "Co je nového",
       "dst": {
-        "sk": "Čo je nového"
+        "sk": "Čo je nového",
+        "en": "What's New",
+        "de": "Was gibt es Neues"
       },
       "meta": {
-        "updated_at": 1766451741
+        "updated_at": 1766525024
       }
     },
     "5ba1d1752d8253d2dcdcb851064ed4f35dc1cb4159075060d9a7769c6252bde5": {
       "src": "Užitečné",
       "dst": {
-        "sk": "Užitočné"
+        "sk": "Užitočné",
+        "en": "Useful",
+        "de": "Nützlich"
       },
       "meta": {
-        "updated_at": 1766451742
+        "updated_at": 1766525025
       }
     },
     "b3373090bf072c896949104d73e78bf42c6148eeaa20870dd7bfe4ff336fb983": {
       "src": "Podmínky a formuláře",
       "dst": {
-        "sk": "Podmienky a formuláre"
+        "sk": "Podmienky a formuláre",
+        "en": "Terms and Forms",
+        "de": "Bedingungen und Formulare"
       },
       "meta": {
-        "updated_at": 1766451743
+        "updated_at": 1766525025
       }
     },
     "1e1996a3d63826adf01357610a47196803711ef5abfcbaf4ee5cf4f310add5af": {
       "src": "Nejčastější dotazy",
       "dst": {
-        "sk": "Najčastejšie otázky"
+        "sk": "Najčastejšie otázky",
+        "en": "Frequently Asked Questions",
+        "de": "Häufigste Fragen"
       },
       "meta": {
-        "updated_at": 1766451743
+        "updated_at": 1766525027
       }
     },
     "8857ce774d2c19ab25941dbc7de51c900ce17d0ecacc1435d91ee036b4c90451": {
       "src": "Apple service programs",
       "dst": {
-        "sk": "Apple servisné programy"
+        "sk": "Apple servisné programy",
+        "en": "Apple Service Programs",
+        "de": "Apple-Serviceprogramme"
       },
       "meta": {
-        "updated_at": 1766451744
+        "updated_at": 1766525028
       }
     },
     "5ab302b591d9108c0f749e76bc64c4f51be64f66a7ff9e7bf5002bda1ea33b28": {
       "src": "Ověření záruky Apple",
       "dst": {
-        "sk": "Overenie záruky Apple"
+        "sk": "Overenie záruky Apple",
+        "en": "Apple Warranty Verification",
+        "de": "Apple-Garantie überprüfen"
       },
       "meta": {
-        "updated_at": 1766451744
+        "updated_at": 1766525029
       }
     },
     "e4168cc4c40aa271b0f21dcdf34baafd0d898ae29393e67079716aa6abd49d78": {
       "src": "Návody",
       "dst": {
-        "sk": "Návody"
+        "sk": "Návody",
+        "en": "Instructions",
+        "de": "Anleitungen"
       },
       "meta": {
-        "updated_at": 1766451745
+        "updated_at": 1766525030
       }
     },
     "924b392f1d9dc779b0dece9e6dda71f631abec4251f5f0df0c398d58407b3e59": {
       "src": "Vytopený iPhone, co dělat?",
       "dst": {
-        "sk": "Zatopený iPhone, čo robiť?"
+        "sk": "Zatopený iPhone, čo robiť?",
+        "en": "Heated iPhone, what to do?",
+        "de": "Was tun bei einem überhitzten iPhone?"
       },
       "meta": {
-        "updated_at": 1766451746
+        "updated_at": 1766525031
       }
     },
     "831096f6a4ca319f38a485a8bbcb4fcd64ff9602df93f05b1ec24f4b81503632": {
       "src": "Objednat svoz ZDARMA",
       "dst": {
-        "sk": "Objednať zvoz ZDARMA"
+        "sk": "Objednať zvoz ZDARMA",
+        "en": "Order free pickup",
+        "de": "Kostenlosen Abholservice bestellen"
       },
       "meta": {
-        "updated_at": 1766451746
+        "updated_at": 1766525032
       }
     },
     "756a62be285b4ced5a90307ed9e01a6c0aef3baf53e6d6e7370fdabe244676dc": {
       "src": "Rychlý kontakt",
       "dst": {
-        "sk": "Rýchly kontakt"
+        "sk": "Rýchly kontakt",
+        "en": "Quick Contact",
+        "de": "Schneller Kontakt"
       },
       "meta": {
-        "updated_at": 1766451747
+        "updated_at": 1766525033
       }
     },
     "f2b60fd750ffab74b851f5f982e29e914583e2f0984e4327108887d27d6f6067": {
       "src": "Express Servis Company s.r.o.",
       "dst": {
-        "sk": "Express Servis Company s.r.o."
+        "sk": "Express Servis Company s.r.o.",
+        "en": "Express Servis Company s.r.o.",
+        "de": "Express Servis Company s.r.o."
       },
       "meta": {
-        "updated_at": 1766451748
+        "updated_at": 1766525034
       }
     },
     "e9628fd165ae642b1a396b6aa9a9d449e6bc65f52d07b26b694c5368703ef63c": {
@@ -354,19 +428,23 @@
     "e8c76ff6683cfec01a0abb90ff5413614326f9e6ad093b468113ba0ab6eb2d97": {
       "src": "Po-Pá",
       "dst": {
-        "sk": "Po-Pá"
+        "sk": "Po-Pá",
+        "en": "Mon-Fri",
+        "de": "Montag bis Freitag"
       },
       "meta": {
-        "updated_at": 1766451749
+        "updated_at": 1766525035
       }
     },
     "e608fe9df3a3ee69b9752f66e8b3534dd9fa54098f65d2ec7b8f6c6bb2b24b77": {
       "src": "E-shop",
       "dst": {
-        "sk": "E-shop"
+        "sk": "E-shop",
+        "en": "E-shop",
+        "de": "E-Shop"
       },
       "meta": {
-        "updated_at": 1766451749
+        "updated_at": 1766525036
       }
     },
     "fc56c3dd0f56558dbcf8b46625b5b3dd1b7856adbbe7977ffbe7b9c8af35b8e0": {
@@ -381,10 +459,12 @@
     "b16fe556be8c8b7ae9589ce57fa41aabbc197998bdd0fd5258046e80b8c49de0": {
       "src": "Servis",
       "dst": {
-        "sk": "Servis"
+        "sk": "Servis",
+        "en": "Service",
+        "de": "Service"
       },
       "meta": {
-        "updated_at": 1766451751
+        "updated_at": 1766524988
       }
     },
     "2edff003bee1d2bf35222e9ae1f3288b8a70c411f375a99cf6018dfbf8dac1fa": {
@@ -399,55 +479,67 @@
     "235048c772afe84dc42c68ccc6fad2520d863e433e3d1adaf8c37cc414ad0dea": {
       "src": "Sledujte nás",
       "dst": {
-        "sk": "Sledujte nás"
+        "sk": "Sledujte nás",
+        "en": "Follow us",
+        "de": "Folgen Sie uns"
       },
       "meta": {
-        "updated_at": 1766451752
+        "updated_at": 1766525037
       }
     },
     "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85": {
       "src": "Facebook",
       "dst": {
-        "sk": "Facebook"
+        "sk": "Facebook",
+        "en": "Facebook",
+        "de": "Facebook"
       },
       "meta": {
-        "updated_at": 1766451752
+        "updated_at": 1766525038
       }
     },
     "fb7accfff8c6f8ea9b03c91ee5576d0d08080e9ba35918d801aaeb6020dbc88c": {
       "src": "YouTube",
       "dst": {
-        "sk": "YouTube"
+        "sk": "YouTube",
+        "en": "YouTube",
+        "de": "YouTube"
       },
       "meta": {
-        "updated_at": 1766451753
+        "updated_at": 1766525039
       }
     },
     "bad57ef7837c8e6bf99c2a5935cc9d6fe5324a53d88744ad5551db0e46b03cd6": {
       "src": "Instagram",
       "dst": {
-        "sk": "Instagram"
+        "sk": "Instagram",
+        "en": "Instagram",
+        "de": "Instagram"
       },
       "meta": {
-        "updated_at": 1766451753
+        "updated_at": 1766525040
       }
     },
     "1bb6fcfbf1368a7b27a6db04802e2756a9e209eb24f189c3e35be8542f439a2c": {
       "src": "TikTok",
       "dst": {
-        "sk": "TikTok"
+        "sk": "TikTok",
+        "en": "TikTok",
+        "de": "Es tut mir leid, aber ich benötige den spezifischen Text, den Sie aus dem Tschechischen ins Deutsche übersetzen möchten. Bitte geben Sie den Text an, und ich helfe Ihnen gerne weiter!"
       },
       "meta": {
-        "updated_at": 1766451754
+        "updated_at": 1766525042
       }
     },
     "7005c0064bda4edb7ad7d500cb081ee70425ba64442759ca3562a6578f19abe6": {
       "src": "Spotify",
       "dst": {
-        "sk": "Spotify"
+        "sk": "Spotify",
+        "en": "Spotify",
+        "de": "Spotify"
       },
       "meta": {
-        "updated_at": 1766451754
+        "updated_at": 1766525043
       }
     },
     "572dceee86d0d275a55f0fd89811e27591178f7101be02b3dc78eb82a34058eb": {
@@ -462,190 +554,232 @@
     "b121ed4b6720d7de475b7e2c481ab08ea0015ce9a41200510403aad1e2916716": {
       "src": "Apple, logo společnosti Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air, and MacBook Pro jsou ochranné známky společnosti Apple Inc., registrované v USA a ostatních zemích",
       "dst": {
-        "sk": "Apple, logo spoločnosti Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air a MacBook Pro sú ochranné známky spoločnosti Apple Inc., registrované v USA a iných krajinách."
+        "sk": "Apple, logo spoločnosti Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air a MacBook Pro sú ochranné známky spoločnosti Apple Inc., registrované v USA a iných krajinách.",
+        "en": "Apple, the Apple logo, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air, and MacBook Pro are trademarks of Apple Inc., registered in the USA and other countries.",
+        "de": "Apple, das Logo der Firma Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air und MacBook Pro sind Marken der Apple Inc., eingetragen in den USA und anderen Ländern."
       },
       "meta": {
-        "updated_at": 1766451757
+        "updated_at": 1766525045
       }
     },
     "566f278273bd743503bbfde52385171329b2a19fc89ead5c6c55d76e6a49c601": {
       "src": "Vyhledat",
       "dst": {
-        "sk": "Vyhľadať"
+        "sk": "Vyhľadať",
+        "en": "Search",
+        "de": "Suchen"
       },
       "meta": {
-        "updated_at": 1766453875
+        "updated_at": 1766524832
       }
     },
     "c91b1ab7d34dfb5cc5a8907d6ebfe3acb14da8096705b6e906a66e2ec1e5cea4": {
       "src": "Prodejny",
       "dst": {
-        "sk": "Predajne"
+        "sk": "Predajne",
+        "en": "Stores",
+        "de": "Verkaufsgeschäfte"
       },
       "meta": {
-        "updated_at": 1766453875
+        "updated_at": 1766524836
       }
     },
     "92b86eaa37135b5dcd0444cd90640e12d0ec46584c2015f8889ad8894986e71c": {
       "src": "Kontakty",
       "dst": {
-        "sk": "Kontakty"
+        "sk": "Kontakty",
+        "en": "Contacts",
+        "de": "Kontakte"
       },
       "meta": {
-        "updated_at": 1766453876
+        "updated_at": 1766524838
       }
     },
     "d6d5204e6a813fe266f938a4aac747bad198eb08c4b6c5e4aad4ae99ea07abfb": {
       "src": "CZK (Kč)",
       "dst": {
-        "sk": "CZK (Kč)"
+        "sk": "CZK (Kč)",
+        "en": "CZK (Kč)",
+        "de": "Bitte geben Sie den zu übersetzenden Text an, damit ich Ihnen helfen kann."
       },
       "meta": {
-        "updated_at": 1766453877
+        "updated_at": 1766524840
       }
     },
     "fb29af5823a1ff82df0fbaa64953295ee5459f80764c6f8198d2e9034262116a": {
       "src": "EUR (€)",
       "dst": {
-        "sk": "Samozrejme, pošlite mi text, ktorý chcete preložiť."
+        "sk": "Samozrejme, pošlite mi text, ktorý chcete preložiť.",
+        "en": "EUR (€)",
+        "de": "Bitte geben Sie den zu übersetzenden Text an, damit ich Ihnen helfen kann."
       },
       "meta": {
-        "updated_at": 1766453878
+        "updated_at": 1766524842
       }
     },
     "2eb78d1be8cc2571f345292e692913ef1b3b7c457beb2a63ec533ea50c6c4d0c": {
       "src": "Quad Lock",
       "dst": {
-        "sk": "Quad Lock"
+        "sk": "Quad Lock",
+        "en": "Quad Lock",
+        "de": "Quad Lock"
       },
       "meta": {
-        "updated_at": 1766453878
+        "updated_at": 1766524843
       }
     },
     "9715a55779c4d75998ef1e2ea0b028e6dbc1b0164eca3c82ac038bb497de91a2": {
       "src": "Quad Lock držáky",
       "dst": {
-        "sk": "Quad Lock držiaky"
+        "sk": "Quad Lock držiaky",
+        "en": "Quad Lock mounts",
+        "de": "Quad Lock Halterungen"
       },
       "meta": {
-        "updated_at": 1766453879
+        "updated_at": 1766524843
       }
     },
     "e23cc8863de41e41acf24a6b509bc1fb98e5f63706c2a2be79d0f5f9cc6827b9": {
       "src": "Na motorku",
       "dst": {
-        "sk": "Na motocykel"
+        "sk": "Na motocykel",
+        "en": "For the motorcycle",
+        "de": "Für das Motorrad"
       },
       "meta": {
-        "updated_at": 1766453879
+        "updated_at": 1766524844
       }
     },
     "9e72901c6751ab07d79ab38b958ea1f6efaa6e1f976e5e3d5a8cb7ae08009fdc": {
       "src": "Do auta",
       "dst": {
-        "sk": "Do auta"
+        "sk": "Do auta",
+        "en": "To the car",
+        "de": "Für Autos"
       },
       "meta": {
-        "updated_at": 1766453881
+        "updated_at": 1766524846
       }
     },
     "bd56dffdb87b668a2b7bd0a78a09427b8cb09a31ff1e558fc2fbae69aa5f567a": {
       "src": "Na kolo",
       "dst": {
-        "sk": "Na bicykel"
+        "sk": "Na bicykel",
+        "en": "On the bike",
+        "de": "Auf das Fahrrad"
       },
       "meta": {
-        "updated_at": 1766453881
+        "updated_at": 1766524847
       }
     },
     "05c74fa3258e785ce5f59663374ce1eab63769ced0a81a64329bdc75839626ed": {
       "src": "Ostatní",
       "dst": {
-        "sk": "Ostatní"
+        "sk": "Ostatní",
+        "en": "Others",
+        "de": "Übrige"
       },
       "meta": {
-        "updated_at": 1766453881
+        "updated_at": 1766524848
       }
     },
     "8c0610b490b2aa92ec99e446c880eec4bfed08cd32f58234f9be2194fb349f92": {
       "src": "Quad Lock kryty",
       "dst": {
-        "sk": "Quad Lock kryty"
+        "sk": "Quad Lock kryty",
+        "en": "Quad Lock cases",
+        "de": "Quad Lock Abdeckungen"
       },
       "meta": {
-        "updated_at": 1766453882
+        "updated_at": 1766524848
       }
     },
     "f223faa96f22916294922b171a2696d868fd1f9129302eb41a45b2a2ea2ebbfd": {
       "src": "Apple",
       "dst": {
-        "sk": "Apple"
+        "sk": "Apple",
+        "en": "Apple",
+        "de": "Apple"
       },
       "meta": {
-        "updated_at": 1766453882
+        "updated_at": 1766524849
       }
     },
     "285075a02b2679248a6b4636c3328bd3097626607c3e43c0c5498258fbfa9f29": {
       "src": "Samsung",
       "dst": {
-        "sk": "Samsung"
+        "sk": "Samsung",
+        "en": "Samsung",
+        "de": "Samsung"
       },
       "meta": {
-        "updated_at": 1766453883
+        "updated_at": 1766524850
       }
     },
     "df853f864c74fa85acd3a25cd0afed68f1f1d0ab249e17cdb25e77569ac595a2": {
       "src": "Huawei",
       "dst": {
-        "sk": "Huawei"
+        "sk": "Huawei",
+        "en": "Huawei",
+        "de": "Huawei"
       },
       "meta": {
-        "updated_at": 1766453883
+        "updated_at": 1766524851
       }
     },
     "085a607a4203cb9bd7dca4192d054f05641b82c35695646aa0a894a35a899651": {
       "src": "Google Pixel",
       "dst": {
-        "sk": "Google Pixel"
+        "sk": "Google Pixel",
+        "en": "Google Pixel",
+        "de": "Google Pixel"
       },
       "meta": {
-        "updated_at": 1766453883
+        "updated_at": 1766524852
       }
     },
     "90ca6504073fa8ff0841c0d1fe19e8558bb7cc52a762eb842fa3b2450906ae62": {
       "src": "Quad Lock příslušenství",
       "dst": {
-        "sk": "Quad Lock príslušenstvo"
+        "sk": "Quad Lock príslušenstvo",
+        "en": "Quad Lock accessories",
+        "de": "Quad Lock Zubehör"
       },
       "meta": {
-        "updated_at": 1766453884
+        "updated_at": 1766524853
       }
     },
     "da77839cab286624caca49bbd4ac7034d6a888cfa05c45b23562b3b209a0eced": {
       "src": "Doplňky",
       "dst": {
-        "sk": "Doplnky"
+        "sk": "Doplnky",
+        "en": "Accessories",
+        "de": "Zubehör"
       },
       "meta": {
-        "updated_at": 1766453885
+        "updated_at": 1766524854
       }
     },
     "a4aa7bf5bb6a2d52137be93d9e7a01501c048425a23f9ece0026cc7af7ea9770": {
       "src": "Ochranná skla",
       "dst": {
-        "sk": "Ochranné sklá"
+        "sk": "Ochranné sklá",
+        "en": "Protective Glasses",
+        "de": "Schutzgläser"
       },
       "meta": {
-        "updated_at": 1766453885
+        "updated_at": 1766524855
       }
     },
     "ee79f907e39a2aa43ae2a04c1dccd80ee2ff62063783758dd7e052e79cf96057": {
       "src": "Náhradní díly",
       "dst": {
-        "sk": "Náhradné diely"
+        "sk": "Náhradné diely",
+        "en": "Spare Parts",
+        "de": "Ersatzteile"
       },
       "meta": {
-        "updated_at": 1766453886
+        "updated_at": 1766524856
       }
     },
     "a6fb0300b316973220034518af2325c23020fcb28014041b421331cde4d107ac": {
@@ -660,10 +794,12 @@
     "1338fa352e66957680a54b1154d6dfbe690da656a81a53336178b05e5794a603": {
       "src": "Quad Lock Poncho",
       "dst": {
-        "sk": "Quad Lock Pončo"
+        "sk": "Quad Lock Pončo",
+        "en": "Quad Lock Poncho",
+        "de": "Quad Lock Poncho"
       },
       "meta": {
-        "updated_at": 1766453887
+        "updated_at": 1766524857
       }
     },
     "6fefc8d73d1b0c74631df3993559796f36b3dac982c79836e63b7dd162c2a567": {
@@ -696,46 +832,56 @@
     "68fce2aa13d6e9f4486b4b9924471160cc9798dc016670a504efc79d9afb54a6": {
       "src": "iPhone Air",
       "dst": {
-        "sk": "iPhone Air"
+        "sk": "iPhone Air",
+        "en": "iPhone Air",
+        "de": "iPhone Air"
       },
       "meta": {
-        "updated_at": 1766453888
+        "updated_at": 1766524859
       }
     },
     "2218bb03b59e3ed3690ba3e8f187ece8e780819aab2a17e4170afa456b502b68": {
       "src": "MacBook Air",
       "dst": {
-        "sk": "MacBook Air"
+        "sk": "MacBook Air",
+        "en": "MacBook Air",
+        "de": "MacBook Air"
       },
       "meta": {
-        "updated_at": 1766453888
+        "updated_at": 1766524862
       }
     },
     "bd3439a0145e347be4898716640f3fe9392b16a928f8ad7999c333ec65766def": {
       "src": "MacBook Pro",
       "dst": {
-        "sk": "MacBook Pro"
+        "sk": "MacBook Pro",
+        "en": "MacBook Pro",
+        "de": "MacBook Pro"
       },
       "meta": {
-        "updated_at": 1766453889
+        "updated_at": 1766524862
       }
     },
     "ffefd38e92dd2536d5555511af6959d38f9b4dad05a804a85c5bad11f4970fa7": {
       "src": "iMac",
       "dst": {
-        "sk": "iMac"
+        "sk": "iMac",
+        "en": "iMac",
+        "de": "iMac"
       },
       "meta": {
-        "updated_at": 1766453889
+        "updated_at": 1766524864
       }
     },
     "24a612268b8a63cfdb3b93ba7e16de12699023eec6044b33c21583c8b6545ff8": {
       "src": "Mac Mini",
       "dst": {
-        "sk": "Mac Mini"
+        "sk": "Mac Mini",
+        "en": "Mac Mini",
+        "de": "Mac Mini"
       },
       "meta": {
-        "updated_at": 1766453890
+        "updated_at": 1766524865
       }
     },
     "4675cf7019bc6e125e22743a8919c3e24878743de8e82ed98a48f900aa63e055": {
@@ -813,298 +959,364 @@
     "5d7a0f7fecd7f4e574ed280d3fdcdc18731270a5bf91d7dc39e70d2341eb195c": {
       "src": "Hudba",
       "dst": {
-        "sk": "Hudba"
+        "sk": "Hudba",
+        "en": "Music",
+        "de": "Musik"
       },
       "meta": {
-        "updated_at": 1766453894
+        "updated_at": 1766524868
       }
     },
     "009856b08f5da346a4ef7731c7e6e5ec10e61cc6a37cf49e9d26d4ebddfd1090": {
       "src": "Monitory",
       "dst": {
-        "sk": "Monitory"
+        "sk": "Monitory",
+        "en": "Monitors",
+        "de": "Monitore"
       },
       "meta": {
-        "updated_at": 1766453895
+        "updated_at": 1766524870
       }
     },
     "a03c92bb097e74115cd1a21b20c8f3b31aed48494ca3c9f5b006d56978285998": {
       "src": "Smart produkty",
       "dst": {
-        "sk": "Smart produkty"
+        "sk": "Smart produkty",
+        "en": "Smart Products",
+        "de": "Smart Produkte"
       },
       "meta": {
-        "updated_at": 1766453895
+        "updated_at": 1766524871
       }
     },
     "cf0d2808b022399c88e12f0b254ef4b3296e6fe675cb9a294a808db55c7bfb44": {
       "src": "Smart Home  HomeKit",
       "dst": {
-        "sk": "Smart Home  HomeKit"
+        "sk": "Smart Home  HomeKit",
+        "en": "Smart Home  HomeKit",
+        "de": "Smart Home  HomeKit"
       },
       "meta": {
-        "updated_at": 1766453896
+        "updated_at": 1766524872
       }
     },
     "15dd2de68d66ac86eaa8b899061910b265ecd1528f70489106abf260bd0e02b0": {
       "src": "Osvětlení",
       "dst": {
-        "sk": "Osvetlenie"
+        "sk": "Osvetlenie",
+        "en": "Lighting",
+        "de": "Beleuchtung"
       },
       "meta": {
-        "updated_at": 1766453896
+        "updated_at": 1766524872
       }
     },
     "377cfcba3dc4fae734214c78878b77bdea689c8cfe8cd0d602b966e285c22254": {
       "src": "Čidla a senzory",
       "dst": {
-        "sk": "Čidla a senzory"
+        "sk": "Čidla a senzory",
+        "en": "Sensors and Detectors",
+        "de": "Sensoren und Messgeräte"
       },
       "meta": {
-        "updated_at": 1766453897
+        "updated_at": 1766524874
       }
     },
     "b2c16bbbb0006a7f4fb71b6ee6143c1b3b272409ba1407561298000ba3e8e210": {
       "src": "Zásuvky",
       "dst": {
-        "sk": "Zásuvky"
+        "sk": "Zásuvky",
+        "en": "Sockets",
+        "de": "Steckdosen"
       },
       "meta": {
-        "updated_at": 1766453897
+        "updated_at": 1766524874
       }
     },
     "322c3c56ac81e4d71554c616c149598b099c4442e24e459d7e5233534e40c791": {
       "src": "Kamery a zabezpečení",
       "dst": {
-        "sk": "Kamery a zabezpečenie"
+        "sk": "Kamery a zabezpečenie",
+        "en": "Cameras and Security",
+        "de": "Kameras und Sicherheit"
       },
       "meta": {
-        "updated_at": 1766453898
+        "updated_at": 1766524876
       }
     },
     "98db4a2b11c5928835aa81b677dd7523e36cfbbc55cd7c9b86759e4df675bb6d": {
       "src": "Smart Home",
       "dst": {
-        "sk": "Smart Home"
+        "sk": "Smart Home",
+        "en": "Smart Home",
+        "de": "Smart Home"
       },
       "meta": {
-        "updated_at": 1766453898
+        "updated_at": 1766524876
       }
     },
     "8a6724471699dd7561aed4c5a38688159bf76524200938a5fbbe2aefa57b2a66": {
       "src": "Smart Sport",
       "dst": {
-        "sk": "Smart Sport"
+        "sk": "Smart Sport",
+        "en": "Smart Sport",
+        "de": "Smart Sport"
       },
       "meta": {
-        "updated_at": 1766453898
+        "updated_at": 1766524877
       }
     },
     "c8469891c92cccef1cbd06811ce82a066319044f1f181f7ecabbf38f38e655b0": {
       "src": "Therabody",
       "dst": {
-        "sk": "Therabody"
+        "sk": "Therabody",
+        "en": "Therabody",
+        "de": "Therabody"
       },
       "meta": {
-        "updated_at": 1766453899
+        "updated_at": 1766524878
       }
     },
     "9898e062f77f61f2df25fab188679945b62a19d103afe0122ac741ee32312bcf": {
       "src": "Chytré helmy UNIT",
       "dst": {
-        "sk": "Chytré prilby UNIT"
+        "sk": "Chytré prilby UNIT",
+        "en": "Smart Helmets UNIT",
+        "de": "Intelligente Helme UNIT"
       },
       "meta": {
-        "updated_at": 1766453900
+        "updated_at": 1766524879
       }
     },
     "cd43b62818dbce14a2c4795d6564f37858633ebb50b2435e59f045651c828b46": {
       "src": "Chytré láhve",
       "dst": {
-        "sk": "Inteligentné fľaše"
+        "sk": "Inteligentné fľaše",
+        "en": "Smart bottles",
+        "de": "Intelligente Flaschen"
       },
       "meta": {
-        "updated_at": 1766453900
+        "updated_at": 1766524880
       }
     },
     "fcac3542619287272d6de5e979abd1e5a56123eacb88d97a2b552535b5ade463": {
       "src": "Smart Zdraví",
       "dst": {
-        "sk": "Smart Zdravie"
+        "sk": "Smart Zdravie",
+        "en": "Smart Health",
+        "de": "Smart Gesundheit"
       },
       "meta": {
-        "updated_at": 1766453900
+        "updated_at": 1766524882
       }
     },
     "a7bfa4829cdf1218a4ffb70d5e7241a9efa9e8c154797b6bd036cb68592841af": {
       "src": "Brýle Barner Brand",
       "dst": {
-        "sk": "Okuliare Barner Brand"
+        "sk": "Okuliare Barner Brand",
+        "en": "Barner Brand Glasses",
+        "de": "Brillen von Barner Brand"
       },
       "meta": {
-        "updated_at": 1766453901
+        "updated_at": 1766524883
       }
     },
     "23dd89772c220f7c9f8102185f36fefe35372ef3a127a9f485573aa7c031c5b0": {
       "src": "Smart Hračky",
       "dst": {
-        "sk": "Smart Hračky"
+        "sk": "Smart Hračky",
+        "en": "Smart Toys",
+        "de": "Smart Spielzeuge"
       },
       "meta": {
-        "updated_at": 1766453901
+        "updated_at": 1766524884
       }
     },
     "57c3bf7678c0df8f3e2b5d6d146b2212be1efb87fe3237969ecae2d7dafb74ce": {
       "src": "Intelino",
       "dst": {
-        "sk": "Intelino"
+        "sk": "Intelino",
+        "en": "Intelino",
+        "de": "Intelino"
       },
       "meta": {
-        "updated_at": 1766453902
+        "updated_at": 1766524885
       }
     },
     "7604ac96efb131ff7db0f33e00cc5a84c77624f016c822e2558d7c4eb674a5bd": {
       "src": "GoCube",
       "dst": {
-        "sk": "GoCube"
+        "sk": "GoCube",
+        "en": "GoCube",
+        "de": "GoCube"
       },
       "meta": {
-        "updated_at": 1766453902
+        "updated_at": 1766524886
       }
     },
     "ee8e2bc404ee0d0aae1505d8f7a25af1fea9a6da2aefa7b1fd64766b85049abb": {
       "src": "Ozobot",
       "dst": {
-        "sk": "Ozobot"
+        "sk": "Ozobot",
+        "en": "Ozobot",
+        "de": "Ozobot"
       },
       "meta": {
-        "updated_at": 1766453903
+        "updated_at": 1766524886
       }
     },
     "9d1031e3bd7f5631a8b6a01dc209533a61f64b7c2b2b0076b39c0d391d0ac350": {
       "src": "Robobloq",
       "dst": {
-        "sk": "Robobloq"
+        "sk": "Robobloq",
+        "en": "Robobloq",
+        "de": "Robobloq"
       },
       "meta": {
-        "updated_at": 1766453903
+        "updated_at": 1766524888
       }
     },
     "9779e72e5f6f2cb641c09f59c8a1c5ddb49dbd3046b0a7889204148db873a04b": {
       "src": "GPS a lokátory",
       "dst": {
-        "sk": "GPS a lokalizátory"
+        "sk": "GPS a lokalizátory",
+        "en": "GPS and Trackers",
+        "de": "GPS und Locatorgeräte"
       },
       "meta": {
-        "updated_at": 1766453903
+        "updated_at": 1766524889
       }
     },
     "0fadfa22881467dc3dd6d154af97f5f0fae4851fddc6028a1860f4f7a103575b": {
       "src": "Gaming",
       "dst": {
-        "sk": "Hranie hier"
+        "sk": "Hranie hier",
+        "en": "Gaming",
+        "de": "Gaming"
       },
       "meta": {
-        "updated_at": 1766453904
+        "updated_at": 1766524889
       }
     },
     "e3eff257bbfd5879d0cbd16aa9096743fab8f73bd14906c94e8509666a8a51dd": {
       "src": "Playstation",
       "dst": {
-        "sk": "PlayStation"
+        "sk": "PlayStation",
+        "en": "PlayStation",
+        "de": "PlayStation"
       },
       "meta": {
-        "updated_at": 1766453904
+        "updated_at": 1766524890
       }
     },
     "449b321e81007dfc8fe13cca852d2252d96ec4a022187f4e1178cf974774e010": {
       "src": "Xbox",
       "dst": {
-        "sk": "Xbox"
+        "sk": "Xbox",
+        "en": "Xbox",
+        "de": "Xbox"
       },
       "meta": {
-        "updated_at": 1766453905
+        "updated_at": 1766524891
       }
     },
     "0bee31ac676c1c2cfc04193f0e3859b88342603188bcadb417e31c3f090255b2": {
       "src": "Nintendo",
       "dst": {
-        "sk": "Nintendo"
+        "sk": "Nintendo",
+        "en": "Nintendo",
+        "de": "Nintendo"
       },
       "meta": {
-        "updated_at": 1766453905
+        "updated_at": 1766524892
       }
     },
     "5313629a4fa0dfc7f34491d274f6e04fac92607a8229b6139a6d8a51e9581e47": {
       "src": "Herní konzole",
       "dst": {
-        "sk": "Herné konzoly"
+        "sk": "Herné konzoly",
+        "en": "Gaming console",
+        "de": "Spielkonsole"
       },
       "meta": {
-        "updated_at": 1766453905
+        "updated_at": 1766524892
       }
     },
     "2d96cd5e39d375ae4563124c2030d5f0971f16eea2c7054a9045b2e47814eb03": {
       "src": "Robovysavače",
       "dst": {
-        "sk": "Roboti na vysávanie"
+        "sk": "Roboti na vysávanie",
+        "en": "Robot Vacuums",
+        "de": "Roboterstaubsauger"
       },
       "meta": {
-        "updated_at": 1766453906
+        "updated_at": 1766524893
       }
     },
     "c54617694a4cb52d7f972ca3f97a21ce18c88463567dd09849408e7c974030a3": {
       "src": "Čtečky e-knih",
       "dst": {
-        "sk": "Čítačky e-kníh"
+        "sk": "Čítačky e-kníh",
+        "en": "E-book Readers",
+        "de": "E-Book-Reader"
       },
       "meta": {
-        "updated_at": 1766453907
+        "updated_at": 1766524894
       }
     },
     "32e8d32b2cc2ce92436cea1186d2876bed1de20196d99c310c55ea8729ee5842": {
       "src": "Příslušenství",
       "dst": {
-        "sk": "Príslušenstvo"
+        "sk": "Príslušenstvo",
+        "en": "Accessories",
+        "de": "Zubehör"
       },
       "meta": {
-        "updated_at": 1766453907
+        "updated_at": 1766524895
       }
     },
     "770769b56b58e53cf43f9ee2e7b39536b10af3530d73ceb08f2ae7c418c70e98": {
       "src": "Pouzdra, kryty a ochranná skla",
       "dst": {
-        "sk": "Puzdrá, kryty a ochranné sklá"
+        "sk": "Puzdrá, kryty a ochranné sklá",
+        "en": "Cases, covers, and protective glasses",
+        "de": "Hüllen, Abdeckungen und Schutzgläser"
       },
       "meta": {
-        "updated_at": 1766453908
+        "updated_at": 1766524896
       }
     },
     "3d25ac5429ec390b3d14f7292046af84082403e761ce51e18d8f574b34844e75": {
       "src": "Pouzdra a kryty",
       "dst": {
-        "sk": "Puzdrá a kryty"
+        "sk": "Puzdrá a kryty",
+        "en": "Cases and Covers",
+        "de": "Hüllen und Schutze"
       },
       "meta": {
-        "updated_at": 1766453908
+        "updated_at": 1766524897
       }
     },
     "04b1089cb14392641cbdf6e66e921858e718e1f8504702c14ed615f8212f41b7": {
       "src": "Ochranná skla a folie",
       "dst": {
-        "sk": "Ochranné sklá a fólie"
+        "sk": "Ochranné sklá a fólie",
+        "en": "Protective Glasses and Films",
+        "de": "Schutzgläser und -folien"
       },
       "meta": {
-        "updated_at": 1766453909
+        "updated_at": 1766524898
       }
     },
     "717594d32491810fc24bf953dbe2bb7bb877b72c22d18758662bca01513b331a": {
       "src": "Řemínky pro Apple Watch",
       "dst": {
-        "sk": "Remienky pre Apple Watch"
+        "sk": "Remienky pre Apple Watch",
+        "en": "Straps for Apple Watch",
+        "de": "Armbänder für die Apple Watch"
       },
       "meta": {
-        "updated_at": 1766453909
+        "updated_at": 1766524899
       }
     },
     "606b7dcfcc3901347ab57140e2530892d5da9bc41ed12941d8e8c9774eecb178": {
@@ -1128,487 +1340,595 @@
     "cb19448bc628104819ecdb4fe6cf6698d94fc2ad9b5c43e3acc96ecb32401dea": {
       "src": "Univerzální řemínky Quick Release",
       "dst": {
-        "sk": "Univerzálne remienky Quick Release"
+        "sk": "Univerzálne remienky Quick Release",
+        "en": "Universal Quick Release Straps",
+        "de": "Universelle Quick Release Armbänder"
       },
       "meta": {
-        "updated_at": 1766453911
+        "updated_at": 1766524900
       }
     },
     "39f54d19776363c9c50d0a7240793443456c3fb827c79f878cefeca43705c5b3": {
       "src": "Nabíječky, kabely, redukce a huby",
       "dst": {
-        "sk": "Nabíjačky, káble, redukcie a huby"
+        "sk": "Nabíjačky, káble, redukcie a huby",
+        "en": "Chargers, cables, adapters, and hubs",
+        "de": "Ladegeräte, Kabel, Adapter und Hubs"
       },
       "meta": {
-        "updated_at": 1766453912
+        "updated_at": 1766524901
       }
     },
     "1e72326d40d003bf1e3d01da0638ff7687c14ac74510642940913757bc5a5fd3": {
       "src": "Nabíječky",
       "dst": {
-        "sk": "Nabíjačky"
+        "sk": "Nabíjačky",
+        "en": "Chargers",
+        "de": "Ladegeräte"
       },
       "meta": {
-        "updated_at": 1766453912
+        "updated_at": 1766524902
       }
     },
     "0e7b051a5b6c567ed43f075d78458cfdabe5f8accf668a03c5e23c80baf462e3": {
       "src": "Kabely a redukce",
       "dst": {
-        "sk": "Káble a redukcie"
+        "sk": "Káble a redukcie",
+        "en": "Cables and Adapters",
+        "de": "Kabel und Adapter"
       },
       "meta": {
-        "updated_at": 1766453913
+        "updated_at": 1766524904
       }
     },
     "ee7fb4745a32694418961b966b4e9eb350cbded3a29489ac4a31f461f8f56de9": {
       "src": "USB-C Huby",
       "dst": {
-        "sk": "USB-C Huby"
+        "sk": "USB-C Huby",
+        "en": "USB-C Hubs",
+        "de": "USB-C Hubs"
       },
       "meta": {
-        "updated_at": 1766453913
+        "updated_at": 1766524905
       }
     },
     "624194b3f7c49d8e40d8dc791d7a7683f1d9a41e312f3306c9e44a0efaf95e8b": {
       "src": "Powerbanky",
       "dst": {
-        "sk": "Powerbanky"
+        "sk": "Powerbanky",
+        "en": "Power Banks",
+        "de": "Powerbanks"
       },
       "meta": {
-        "updated_at": 1766453914
+        "updated_at": 1766524906
       }
     },
     "1b62ef574e43e0fae6b64a251db7292a8f42d8fdbb374e8f7e84ce49725a49b3": {
       "src": "Držáky",
       "dst": {
-        "sk": "Držiaky"
+        "sk": "Držiaky",
+        "en": "Holders",
+        "de": "Halterungen"
       },
       "meta": {
-        "updated_at": 1766453914
+        "updated_at": 1766524907
       }
     },
     "b8603572899c7e103e809f73fee6dd45fd1627c739d816632634e68f1168d9c2": {
       "src": "ShiftCam",
       "dst": {
-        "sk": "ShiftCam"
+        "sk": "ShiftCam",
+        "en": "ShiftCam",
+        "de": "ShiftCam"
       },
       "meta": {
-        "updated_at": 1766453915
+        "updated_at": 1766524908
       }
     },
     "8a6ff2b79e4d768e5f18b796e2a9b4596ca9bcda4c534f3d8c5f62cd1dee4768": {
       "src": "Na kolo/motorku/koloběžku",
       "dst": {
-        "sk": "Na bicykel/motorku/kolobežku"
+        "sk": "Na bicykel/motorku/kolobežku",
+        "en": "For bicycle/motorcycle/scooter",
+        "de": "Für Fahrrad/Motorrad/E-Scooter"
       },
       "meta": {
-        "updated_at": 1766453915
+        "updated_at": 1766524909
       }
     },
     "fbcd97ab6bb3cde6576ffbb3096530dbe1063bbe3472a9cb2c374caa30333092": {
       "src": "Na stůl/do ruky",
       "dst": {
-        "sk": "Na stôl/do ruky"
+        "sk": "Na stôl/do ruky",
+        "en": "On the table/in hand",
+        "de": "Auf den Tisch/in die Hand"
       },
       "meta": {
-        "updated_at": 1766453916
+        "updated_at": 1766524910
       }
     },
     "975c7918245d6919f6d1255a4f0da048dce7d2977dee75732ac72ddb702c9383": {
       "src": "Sluchátka a reproduktory",
       "dst": {
-        "sk": "Slúchadlá a reproduktory"
+        "sk": "Slúchadlá a reproduktory",
+        "en": "Headphones and Speakers",
+        "de": "Kopfhörer und Lautsprecher"
       },
       "meta": {
-        "updated_at": 1766453916
+        "updated_at": 1766524911
       }
     },
     "00a1fb196513ceec3ad82300f6d3b48279ed7a1e0e1c0106bc835b07e44b4268": {
       "src": "Marshall",
       "dst": {
-        "sk": "Marshall"
+        "sk": "Marshall",
+        "en": "Marshall",
+        "de": "Marshall"
       },
       "meta": {
-        "updated_at": 1766453917
+        "updated_at": 1766524912
       }
     },
     "d1a9d3732a0be550e421b8238c64682f3f7f508189cbb9fd6f4f435c8ef1d696": {
       "src": "Reproduktory",
       "dst": {
-        "sk": "Reproduktory"
+        "sk": "Reproduktory",
+        "en": "Speakers",
+        "de": "Lautsprecher"
       },
       "meta": {
-        "updated_at": 1766453917
+        "updated_at": 1766524913
       }
     },
     "3a611385886c430ead73cb1a40f249df175dcf4c1b2af67819cc50c1dfeb582a": {
       "src": "Bezdrátová sluchátka",
       "dst": {
-        "sk": "Bezdrôtové slúchadlá"
+        "sk": "Bezdrôtové slúchadlá",
+        "en": "Wireless headphones",
+        "de": "Drahtlose Kopfhörer"
       },
       "meta": {
-        "updated_at": 1766453917
+        "updated_at": 1766524914
       }
     },
     "527e5dc92da821c85174dcb398ef332b991ee5ddc4ca8d3ef5309c21bf4f5ed8": {
       "src": "Drátová sluchátka",
       "dst": {
-        "sk": "Drôtové slúchadlá"
+        "sk": "Drôtové slúchadlá",
+        "en": "Wired Headphones",
+        "de": "Drahtlose Kopfhörer"
       },
       "meta": {
-        "updated_at": 1766453918
+        "updated_at": 1766524915
       }
     },
     "69ed9dab2ed099d621e181cae583773af9ade641a004148fd6360652b4059d40": {
       "src": "Klávesnice, myši a stylusy",
       "dst": {
-        "sk": "Klávesnice, myši a stylusy"
+        "sk": "Klávesnice, myši a stylusy",
+        "en": "Keyboards, mice, and styluses",
+        "de": "Tastaturen, Mäuse und Stylus"
       },
       "meta": {
-        "updated_at": 1766453918
+        "updated_at": 1766524916
       }
     },
     "c1d0d8e1baae3721ac2a7e406228cc898a6fed11909e004e5a0363cbaa21e124": {
       "src": "Klávesnice",
       "dst": {
-        "sk": "Klávesnice"
+        "sk": "Klávesnice",
+        "en": "Keyboard",
+        "de": "Tastatur"
       },
       "meta": {
-        "updated_at": 1766453919
+        "updated_at": 1766524916
       }
     },
     "6b70e776e1591992de756ec1fb18d2581f3a9a3ccafde996b2ec0b1b2b0ea919": {
       "src": "Myši a trackpady",
       "dst": {
-        "sk": "Myši a trackpady"
+        "sk": "Myši a trackpady",
+        "en": "Mice and Trackpads",
+        "de": "Mäuse und Trackpads"
       },
       "meta": {
-        "updated_at": 1766453919
+        "updated_at": 1766524918
       }
     },
     "c328103777770a78f4afd915b7eea125e1e5d0dfbd3396b924a28a320c470f41": {
       "src": "Stylusy",
       "dst": {
-        "sk": "Stylusy"
+        "sk": "Stylusy",
+        "en": "Styluses",
+        "de": "Stylus"
       },
       "meta": {
-        "updated_at": 1766453920
+        "updated_at": 1766524918
       }
     },
     "550489043a692a906d837d176c0239ecf6519fafa86875b7f968afc58ad86466": {
       "src": "Úložiště a software",
       "dst": {
-        "sk": "Úložisko a softvér"
+        "sk": "Úložisko a softvér",
+        "en": "Storage and Software",
+        "de": "Speicher und Software"
       },
       "meta": {
-        "updated_at": 1766453920
+        "updated_at": 1766524920
       }
     },
     "66ab0a915fc594fc2e6954f49b5d7081037d4b5f130eca3da59a56019db52c35": {
       "src": "Úložiště",
       "dst": {
-        "sk": "Úložisko"
+        "sk": "Úložisko",
+        "en": "Storage",
+        "de": "Speicherlösung"
       },
       "meta": {
-        "updated_at": 1766453921
+        "updated_at": 1766524921
       }
     },
     "9b3289a385a5301eea0c04a06fde98bc542113ab4ed24c47c9b9771984869a31": {
       "src": "Software",
       "dst": {
-        "sk": "Softvér"
+        "sk": "Softvér",
+        "en": "Software",
+        "de": "Software"
       },
       "meta": {
-        "updated_at": 1766453921
+        "updated_at": 1766524921
       }
     },
     "7002879e03669d87f8a7313b13c91be68a2e8f0790260a948685ec344b6f85dd": {
       "src": "Peněženky a kryptopeněženky",
       "dst": {
-        "sk": "Peňaženky a kryptopeňaženky"
+        "sk": "Peňaženky a kryptopeňaženky",
+        "en": "Wallets and Crypto Wallets",
+        "de": "Wallets und Krypto-Wallets"
       },
       "meta": {
-        "updated_at": 1766453922
+        "updated_at": 1766524922
       }
     },
     "77cbedae8ec1f158b08c58a7a09a65ed4c7199b00423cc2005f72cded4e9a793": {
       "src": "Peněženky Secrid",
       "dst": {
-        "sk": "Peňaženky Secrid"
+        "sk": "Peňaženky Secrid",
+        "en": "Secrid Wallets",
+        "de": "Secrid Geldbörsen"
       },
       "meta": {
-        "updated_at": 1766453922
+        "updated_at": 1766524924
       }
     },
     "673069ac81bc18de581462d051b4a853a1a5a0c0bbd1c4c58552fb5ffc2e76cc": {
       "src": "Peněženky Spigen",
       "dst": {
-        "sk": "Peňaženky Spigen"
+        "sk": "Peňaženky Spigen",
+        "en": "Spigen Wallets",
+        "de": "Spigen Geldbörsen"
       },
       "meta": {
-        "updated_at": 1766453923
+        "updated_at": 1766524925
       }
     },
     "87bbbcab8a564c4147a2e9945356a0721a392ba6ca568b91a061dbee206049a3": {
       "src": "Kryptopeněženky",
       "dst": {
-        "sk": "Kryptopeňaženky"
+        "sk": "Kryptopeňaženky",
+        "en": "Cryptowallets",
+        "de": "Kryptowallets"
       },
       "meta": {
-        "updated_at": 1766453923
+        "updated_at": 1766524926
       }
     },
     "590ea5e83dc8637126e84d126a6ed9826d4d9601614237336cda8195eb0f6016": {
       "src": "Péče o zařízení",
       "dst": {
-        "sk": "Starostlivosť o zariadenie"
+        "sk": "Starostlivosť o zariadenie",
+        "en": "Device Care",
+        "de": "Gerätepflege"
       },
       "meta": {
-        "updated_at": 1766453924
+        "updated_at": 1766524927
       }
     },
     "6156c260f628ca15ca0c29e03250ab947cd04cd1c7070cb505578fbfdebfda26": {
       "src": "Ostatní doplňky",
       "dst": {
-        "sk": "Ostatné doplnky"
+        "sk": "Ostatné doplnky",
+        "en": "Other Accessories",
+        "de": "Weitere Zubehörteile"
       },
       "meta": {
-        "updated_at": 1766453924
+        "updated_at": 1766524928
       }
     },
     "3c5493455909e444d386121cfb2902123e47f054fcf7a9bd02f6873e0bf1d562": {
       "src": "Příslušenství k Tesle",
       "dst": {
-        "sk": "Príslušenstvo k Tesle"
+        "sk": "Príslušenstvo k Tesle",
+        "en": "Accessories for Tesla",
+        "de": "Zubehör für Tesla"
       },
       "meta": {
-        "updated_at": 1766453925
+        "updated_at": 1766524929
       }
     },
     "8cd361c011cb0601d225a9a146590c206d59cde41d7a7a15cfca5904fc1e4c06": {
       "src": "Nářadí",
       "dst": {
-        "sk": "Náradie"
+        "sk": "Náradie",
+        "en": "Tools",
+        "de": "Werkzeuge"
       },
       "meta": {
-        "updated_at": 1766453925
+        "updated_at": 1766524930
       }
     },
     "227a0ba2489b257c737183b5aa7319806e8bd30815382c9454332c28018c500c": {
       "src": "Knihy",
       "dst": {
-        "sk": "Knihy"
+        "sk": "Knihy",
+        "en": "Books",
+        "de": "Bücher"
       },
       "meta": {
-        "updated_at": 1766453925
+        "updated_at": 1766524931
       }
     },
     "4c2d808cc2dc29983dfa0373b6690a5c437ea0e00cfd83bf952cf1d2eec5410b": {
       "src": "Dárkové vouchery a služby",
       "dst": {
-        "sk": "Darčekové poukazy a služby"
+        "sk": "Darčekové poukazy a služby",
+        "en": "Gift vouchers and services",
+        "de": "Geschenkgutscheine und Dienstleistungen"
       },
       "meta": {
-        "updated_at": 1766453926
+        "updated_at": 1766524932
       }
     },
     "6e5b2f50223376752032dbe46a03adc9a8f82d46feda6ab67ac420df3fc2ffec": {
       "src": "Nářadí a nástroje",
       "dst": {
-        "sk": "Náradie a nástroje"
+        "sk": "Náradie a nástroje",
+        "en": "Tools and Equipment",
+        "de": "Werkzeuge und Instrumente"
       },
       "meta": {
-        "updated_at": 1766453926
+        "updated_at": 1766524933
       }
     },
     "8a1ce6cdc465928d6b8d9fac29d80163511dad5f4e66e3629926bcc1aafe21ca": {
       "src": "Šroubováky a sady nářadí",
       "dst": {
-        "sk": "Skrutkovače a sady náradia"
+        "sk": "Skrutkovače a sady náradia",
+        "en": "Screwdrivers and Tool Sets",
+        "de": "Schraubendreher und Werkzeugsets"
       },
       "meta": {
-        "updated_at": 1766453927
+        "updated_at": 1766524934
       }
     },
     "52cbd9d29c30243d041d659208bcbc5c8bc3457eafefb61b213c1e6bcc9cb423": {
       "src": "Páčidla a otvírače",
       "dst": {
-        "sk": "Páčidlá a otvárače"
+        "sk": "Páčidlá a otvárače",
+        "en": "Crowbars and Openers",
+        "de": "Hebel und Öffner"
       },
       "meta": {
-        "updated_at": 1766453927
+        "updated_at": 1766524935
       }
     },
     "6879d79d63f006d8a2f9fae49531c250e1040e4f2c06e736661493b522a257b1": {
       "src": "Pinzety a kleště",
       "dst": {
-        "sk": "Pinzety a kliešte"
+        "sk": "Pinzety a kliešte",
+        "en": "Tweezers and Pliers",
+        "de": "Pinzetten und Zangen"
       },
       "meta": {
-        "updated_at": 1766453928
+        "updated_at": 1766524935
       }
     },
     "fd78e3c6b7a9b2dd1b6eb215f5765ad998ae18222f5c96440fc60b1afdff8d00": {
       "src": "Lepidla a chemie",
       "dst": {
-        "sk": "Lepidlá a chémia"
+        "sk": "Lepidlá a chémia",
+        "en": "Adhesives and Chemicals",
+        "de": "Klebstoffe und Chemie"
       },
       "meta": {
-        "updated_at": 1766453928
+        "updated_at": 1766524936
       }
     },
     "9d712cc224e44a99e230e8e560261270d7b331a0955ee3f5b41b08368a45e996": {
       "src": "Swissten",
       "dst": {
-        "sk": "Swissten"
+        "sk": "Swissten",
+        "en": "Swissten",
+        "de": "Swissten"
       },
       "meta": {
-        "updated_at": 1766453929
+        "updated_at": 1766524937
       }
     },
     "e733dc4a26ebb65bc00a150a674cca99f74a03a21be642ab7282f0b2fa2a0fc3": {
       "src": "Nabíjení do sítě",
       "dst": {
-        "sk": "Nabíjanie do siete"
+        "sk": "Nabíjanie do siete",
+        "en": "Grid charging",
+        "de": "Netzladung"
       },
       "meta": {
-        "updated_at": 1766453929
+        "updated_at": 1766524939
       }
     },
     "ec0d2293ede3c75171601745fa1a674242b3180c9c68ec5b077693cdba7f2148": {
       "src": "Nabíjení do auta",
       "dst": {
-        "sk": "Nabíjanie do auta"
+        "sk": "Nabíjanie do auta",
+        "en": "Car Charging",
+        "de": "Laden im Auto"
       },
       "meta": {
-        "updated_at": 1766453929
+        "updated_at": 1766524939
       }
     },
     "b7832266705ee5c1a34533b3567a3b0422041490d2dba147b8acaf28150da833": {
       "src": "Bezdrátové nabíjení",
       "dst": {
-        "sk": "Bezdrôtové nabíjanie"
+        "sk": "Bezdrôtové nabíjanie",
+        "en": "Wireless charging",
+        "de": "Drahtloses Laden"
       },
       "meta": {
-        "updated_at": 1766453930
+        "updated_at": 1766524940
       }
     },
     "49d44d6d3599d6f6a2143c49642a4bf823ca11c6aefdaea3fb7c94ea22c8ab89": {
       "src": "Solární nabíjení",
       "dst": {
-        "sk": "Solárne nabíjanie"
+        "sk": "Solárne nabíjanie",
+        "en": "Solar Charging",
+        "de": "Solarladung"
       },
       "meta": {
-        "updated_at": 1766453930
+        "updated_at": 1766524942
       }
     },
     "79de7d274855a2ad5482350232aaa011ec6b8d77e5f4ce03f5370eb2f2373a0f": {
       "src": "Náhradní díly pro Apple",
       "dst": {
-        "sk": "Náhradné diely pre Apple"
+        "sk": "Náhradné diely pre Apple",
+        "en": "Apple Spare Parts",
+        "de": "Ersatzteile für Apple"
       },
       "meta": {
-        "updated_at": 1766453931
+        "updated_at": 1766524943
       }
     },
     "04c323426b396cde078fa2ce0dace9f651fd9374b1129be173db8a4dc95ee163": {
       "src": "Díly pro iPhone",
       "dst": {
-        "sk": "Diely pre iPhone"
+        "sk": "Diely pre iPhone",
+        "en": "Parts for iPhone",
+        "de": "Teile für iPhone"
       },
       "meta": {
-        "updated_at": 1766453931
+        "updated_at": 1766524944
       }
     },
     "4fe78094e345879acd8b991c15f797bc5920ed586463fa221f6500988295bcc7": {
       "src": "Díly pro MacBook",
       "dst": {
-        "sk": "Diely pre MacBook"
+        "sk": "Diely pre MacBook",
+        "en": "Parts for MacBook",
+        "de": "Teile für MacBook"
       },
       "meta": {
-        "updated_at": 1766453932
+        "updated_at": 1766524945
       }
     },
     "e4827695c4420a5f5a1a0d3e6980e36e6b2ce4b84fcc0d6b34a9aba54da1b558": {
       "src": "Díly pro Apple Watch",
       "dst": {
-        "sk": "Diely pre Apple Watch"
+        "sk": "Diely pre Apple Watch",
+        "en": "Parts for Apple Watch",
+        "de": "Teile für die Apple Watch"
       },
       "meta": {
-        "updated_at": 1766453932
+        "updated_at": 1766524946
       }
     },
     "d0f33384bfe4b2bd85256bf481d54dc412e01ef96800409afebe2628252c4882": {
       "src": "Díly pro iMac",
       "dst": {
-        "sk": "Diely pre iMac"
+        "sk": "Diely pre iMac",
+        "en": "Parts for iMac",
+        "de": "Teile für iMac"
       },
       "meta": {
-        "updated_at": 1766453933
+        "updated_at": 1766524946
       }
     },
     "172faaf5c9217e3ffb21209ba8bb7831247cd7f77f976c3395ad172ccc974813": {
       "src": "Náhradní díly pro Samsung",
       "dst": {
-        "sk": "Náhradné diely pre Samsung"
+        "sk": "Náhradné diely pre Samsung",
+        "en": "Spare Parts for Samsung",
+        "de": "Ersatzteile für Samsung"
       },
       "meta": {
-        "updated_at": 1766453933
+        "updated_at": 1766524948
       }
     },
     "68ce1a88d11b721d65a8bb1c8f74de512b2bd827d0464b9c4c124ed35560ddc8": {
       "src": "Galaxy A",
       "dst": {
-        "sk": "Galaxy A"
+        "sk": "Galaxy A",
+        "en": "Galaxy A",
+        "de": "Galaxy A"
       },
       "meta": {
-        "updated_at": 1766453934
+        "updated_at": 1766524949
       }
     },
     "9a34d66418e993480c5421f57d02b0fdd85a8d23f89b2e6375bd8eda60f65b30": {
       "src": "Galaxy M",
       "dst": {
-        "sk": "Galaxy M"
+        "sk": "Galaxy M",
+        "en": "Galaxy M",
+        "de": "Galaxy M"
       },
       "meta": {
-        "updated_at": 1766453934
+        "updated_at": 1766524950
       }
     },
     "e4e4c0461fde790ce308127778efc797a4fa00b978b8df7497bf199b8808ced2": {
       "src": "Galaxy Note",
       "dst": {
-        "sk": "Galaxy Note"
+        "sk": "Galaxy Note",
+        "en": "Galaxy Note",
+        "de": "Galaxy Note"
       },
       "meta": {
-        "updated_at": 1766453935
+        "updated_at": 1766524951
       }
     },
     "ad252b361e2e93236f7834bc54c44fb0530e4a3fb134a4d9ec03b36163f2f092": {
       "src": "Galaxy S",
       "dst": {
-        "sk": "Galaxy S"
+        "sk": "Galaxy S",
+        "en": "Galaxy S",
+        "de": "Galaxy S"
       },
       "meta": {
-        "updated_at": 1766453935
+        "updated_at": 1766524951
       }
     },
     "e3b352b835b522ec6d01e6afa9c4d9b91e220b4669281ac4740412b936beac2d": {
       "src": "Náhradní díly pro Xiaomi",
       "dst": {
-        "sk": "Náhradné diely pre Xiaomi"
+        "sk": "Náhradné diely pre Xiaomi",
+        "en": "Spare Parts for Xiaomi",
+        "de": "Ersatzteile für Xiaomi"
       },
       "meta": {
-        "updated_at": 1766453935
+        "updated_at": 1766524953
       }
     },
     "9fc7c2306f5afb4bfe47feefbd193f245633febbb1817113fdf0a768172285b5": {
       "src": "Xiaomi",
       "dst": {
-        "sk": "Xiaomi"
+        "sk": "Xiaomi",
+        "en": "Xiaomi",
+        "de": "Xiaomi"
       },
       "meta": {
-        "updated_at": 1766453936
+        "updated_at": 1766524953
       }
     },
     "57b0378dc6ea49537015762339d0515fcf2ffc724757962e5e6f9b5564715c6c": {
@@ -1623,82 +1943,100 @@
     "3df63b7d614d9a9c47c687ac15383a1f80130ef4d8ee74f19016ddf394c64451": {
       "src": "Mi A",
       "dst": {
-        "sk": "Mi A"
+        "sk": "Mi A",
+        "en": "Mi A",
+        "de": "Mi A"
       },
       "meta": {
-        "updated_at": 1766453937
+        "updated_at": 1766524954
       }
     },
     "6988288ec62d4def1a58ee99a2b61cb2451e1854dcba424a24eea9da2dbffda9": {
       "src": "Náhradní díly pro Vivo",
       "dst": {
-        "sk": "Náhradné diely pre Vivo"
+        "sk": "Náhradné diely pre Vivo",
+        "en": "Spare Parts for Vivo",
+        "de": "Ersatzteile für Vivo"
       },
       "meta": {
-        "updated_at": 1766453937
+        "updated_at": 1766524955
       }
     },
     "4f07d543edca567a9ed3f22213c1e7bef78effed144416a9cf7001152c95c662": {
       "src": "Náhradní díly pro Nokia",
       "dst": {
-        "sk": "Náhradné diely pre Nokia"
+        "sk": "Náhradné diely pre Nokia",
+        "en": "Spare Parts for Nokia",
+        "de": "Ersatzteile für Nokia"
       },
       "meta": {
-        "updated_at": 1766453938
+        "updated_at": 1766524956
       }
     },
     "d4208fb8da7c38beaf24bd22fee61a71614875fce93e8afe93a8a8b1e6563631": {
       "src": "Náhradní díly Motorola",
       "dst": {
-        "sk": "Náhradné diely Motorola"
+        "sk": "Náhradné diely Motorola",
+        "en": "Motorola Spare Parts",
+        "de": "Ersatzteile für Motorola"
       },
       "meta": {
-        "updated_at": 1766453938
+        "updated_at": 1766524957
       }
     },
     "f9cfd5629b41e0ebf4bdd294f27ba9862bfd3b9ee329650666310c49f4cfdbc3": {
       "src": "Motorola One",
       "dst": {
-        "sk": "Motorola One"
+        "sk": "Motorola One",
+        "en": "Motorola One",
+        "de": "Motorola One"
       },
       "meta": {
-        "updated_at": 1766453939
+        "updated_at": 1766524959
       }
     },
     "2cedd99aaebe9b6cfe9183ab6c321cadd295474613aea13591946921b24a8566": {
       "src": "Motorola Edge",
       "dst": {
-        "sk": "Motorola Edge"
+        "sk": "Motorola Edge",
+        "en": "Motorola Edge",
+        "de": "Motorola Edge"
       },
       "meta": {
-        "updated_at": 1766453940
+        "updated_at": 1766524960
       }
     },
     "30494cbf87ce72643ffa5f853b4de37f9c2b6890c22a701031a222c9b78873e5": {
       "src": "Motorola E",
       "dst": {
-        "sk": "Motorola E"
+        "sk": "Motorola E",
+        "en": "Motorola E",
+        "de": "Motorola E"
       },
       "meta": {
-        "updated_at": 1766453940
+        "updated_at": 1766524961
       }
     },
     "da18a50482b0ace4634b8f9524b97efa365db82616c9c0313cf533ae4ab746cb": {
       "src": "Motorola G",
       "dst": {
-        "sk": "Motorola G"
+        "sk": "Motorola G",
+        "en": "Motorola G",
+        "de": "Motorola G"
       },
       "meta": {
-        "updated_at": 1766453941
+        "updated_at": 1766524962
       }
     },
     "274587dce618978ec68ee6a3f6e8543a57d7bc6844687680e837d53a2dd910d0": {
       "src": "Náhradní díly pro Infinix",
       "dst": {
-        "sk": "Náhradné diely pre Infinix"
+        "sk": "Náhradné diely pre Infinix",
+        "en": "Spare Parts for Infinix",
+        "de": "Ersatzteile für Infinix"
       },
       "meta": {
-        "updated_at": 1766453941
+        "updated_at": 1766524963
       }
     },
     "1d8040081b7a063413cfeecd5e6f7bdb8835e1d378a4975d01c5f4a6363b5285": {
@@ -1731,10 +2069,12 @@
     "1f5491ed5a68bed3aeddcc3f55e837a354f2b23b6b12bc23f416f8490f42d362": {
       "src": "Náhradní díly pro Tecno",
       "dst": {
-        "sk": "Náhradné diely pre Tecno"
+        "sk": "Náhradné diely pre Tecno",
+        "en": "Spare Parts for Tecno",
+        "de": "Ersatzteile für Tecno"
       },
       "meta": {
-        "updated_at": 1766453943
+        "updated_at": 1766524963
       }
     },
     "c0e2668df63e17e508fb11b3edbacfe878d5cf3964a2d571c823a21671e83403": {
@@ -1758,154 +2098,188 @@
     "b6131bbd5b988d24fcffa1cedc58e8ff5202f8402121f3ddfda413ee9e394e71": {
       "src": "Náhradní díly pro Huawei",
       "dst": {
-        "sk": "Náhradné diely pre Huawei"
+        "sk": "Náhradné diely pre Huawei",
+        "en": "Spare Parts for Huawei",
+        "de": "Ersatzteile für Huawei"
       },
       "meta": {
-        "updated_at": 1766453944
+        "updated_at": 1766524965
       }
     },
     "af357b30456b6dc44e06f9cb28b978b71db77daa44e17dcb4c3993819fdbf3af": {
       "src": "Huawei Y",
       "dst": {
-        "sk": "Huawei Y"
+        "sk": "Huawei Y",
+        "en": "Huawei Y",
+        "de": "Huawei Y"
       },
       "meta": {
-        "updated_at": 1766453945
+        "updated_at": 1766524966
       }
     },
     "8bf4e1c730fa26da47011d8fdc5b78fb6bb51c85eac42117dbf79d68a66987b9": {
       "src": "Huawei P",
       "dst": {
-        "sk": "Huawei P"
+        "sk": "Huawei P",
+        "en": "Huawei P",
+        "de": "Huawei P"
       },
       "meta": {
-        "updated_at": 1766453945
+        "updated_at": 1766524967
       }
     },
     "190856ea62d6c71d40e078dec065f6ca72e3e8c9f3ad8f748e305b4982816bfb": {
       "src": "MediaPad M2",
       "dst": {
-        "sk": "MediaPad M2"
+        "sk": "MediaPad M2",
+        "en": "MediaPad M2",
+        "de": "MediaPad M2"
       },
       "meta": {
-        "updated_at": 1766453946
+        "updated_at": 1766524968
       }
     },
     "9828f6261f04ab4056d8f4f463761da26765b425468cecac298bacd0a7177bec": {
       "src": "MediaPad M3",
       "dst": {
-        "sk": "MediaPad M3"
+        "sk": "MediaPad M3",
+        "en": "MediaPad M3",
+        "de": "MediaPad M3"
       },
       "meta": {
-        "updated_at": 1766453946
+        "updated_at": 1766524969
       }
     },
     "f789cce4a65760493e727031f7be985d5fecef76b40cf86b976842c04e8448f7": {
       "src": "Náhradní díly pro Lenovo",
       "dst": {
-        "sk": "Náhradné diely pre Lenovo"
+        "sk": "Náhradné diely pre Lenovo",
+        "en": "Spare Parts for Lenovo",
+        "de": "Ersatzteile für Lenovo"
       },
       "meta": {
-        "updated_at": 1766453947
+        "updated_at": 1766524969
       }
     },
     "23203965b3e76321f045f35c2600a6d0701d8d5939b6d6c3a4037a18b7cb58f2": {
       "src": "Lenovo M",
       "dst": {
-        "sk": "Lenovo M"
+        "sk": "Lenovo M",
+        "en": "Lenovo M",
+        "de": "Lenovo M"
       },
       "meta": {
-        "updated_at": 1766453947
+        "updated_at": 1766524970
       }
     },
     "f4bd59701a63cae8f731dba9cd79834b9af6b8f6c33e077e42b47f23f9187a8c": {
       "src": "Lenovo tab",
       "dst": {
-        "sk": "Lenovo tab"
+        "sk": "Lenovo tab",
+        "en": "Lenovo Tab",
+        "de": "Lenovo Tab"
       },
       "meta": {
-        "updated_at": 1766453947
+        "updated_at": 1766524971
       }
     },
     "ce77c1743f7ea719c1c55e6c91d3c4ef44105b0077102bb5a39246c2df6d8f1e": {
       "src": "Lenovo P",
       "dst": {
-        "sk": "Lenovo P"
+        "sk": "Lenovo P",
+        "en": "Lenovo P",
+        "de": "Lenovo P"
       },
       "meta": {
-        "updated_at": 1766453948
+        "updated_at": 1766524972
       }
     },
     "b0122bc1ad93345f84a9aa19b5814592b32a931b33ab4df9cd196b9cbc792cfb": {
       "src": "Náhradní díly pro Honor",
       "dst": {
-        "sk": "Náhradné diely pre Honor"
+        "sk": "Náhradné diely pre Honor",
+        "en": "Spare Parts for Honor",
+        "de": "Ersatzteile für Honor"
       },
       "meta": {
-        "updated_at": 1766453948
+        "updated_at": 1766524973
       }
     },
     "22ea092e7643557ea91b74dea27589acac28a04fce976c577c422cd3ee1c9dc2": {
       "src": "Honor",
       "dst": {
-        "sk": "Honor"
+        "sk": "Honor",
+        "en": "Honor",
+        "de": "Honor"
       },
       "meta": {
-        "updated_at": 1766453949
+        "updated_at": 1766524974
       }
     },
     "360246e25315d537dc519a566629460554f5f0218ad73f5c3560d1243ba9eb5e": {
       "src": "Honor X",
       "dst": {
-        "sk": "Honor X"
+        "sk": "Honor X",
+        "en": "Honor X",
+        "de": "Honor X"
       },
       "meta": {
-        "updated_at": 1766453949
+        "updated_at": 1766524975
       }
     },
     "6f13f422a05cf4eed66fc6951a2aea3e91a7c6029b0922bf96d81d23469ef74d": {
       "src": "Honor Magic",
       "dst": {
-        "sk": "Honor Magic"
+        "sk": "Honor Magic",
+        "en": "Honor Magic",
+        "de": "Honor Magic"
       },
       "meta": {
-        "updated_at": 1766453950
+        "updated_at": 1766524976
       }
     },
     "8c06efedb653a072d2c725e02a73a97c0d675b6eb2a1ba0f28f04ed77229e7f0": {
       "src": "Honor View",
       "dst": {
-        "sk": "Honor View"
+        "sk": "Honor View",
+        "en": "Honor View",
+        "de": "Honor View"
       },
       "meta": {
-        "updated_at": 1766453950
+        "updated_at": 1766524976
       }
     },
     "4b1acc0002585cda1245f0e07c6f58ff0e3b5a0e8d3187fa55d6e0ed43836c1d": {
       "src": "Realme",
       "dst": {
-        "sk": "Realme"
+        "sk": "Realme",
+        "en": "Realme",
+        "de": "Realme"
       },
       "meta": {
-        "updated_at": 1766453950
+        "updated_at": 1766524977
       }
     },
     "786317405c37db47a16da60a27abd4b56f9afe02bcc43209723432306711736f": {
       "src": "Realme C",
       "dst": {
-        "sk": "Realme C"
+        "sk": "Realme C",
+        "en": "Realme C",
+        "de": "Realme C"
       },
       "meta": {
-        "updated_at": 1766453951
+        "updated_at": 1766524978
       }
     },
     "977c47a316a3c7feb15808ec91d14a7961c521432d7034053d7fae3e000f3a1e": {
       "src": "Realme Note",
       "dst": {
-        "sk": "Realme Note"
+        "sk": "Realme Note",
+        "en": "Realme Note",
+        "de": "Realme Note"
       },
       "meta": {
-        "updated_at": 1766453951
+        "updated_at": 1766524979
       }
     },
     "a1b44792d21bf0fb19495c93c317eaa6d6c01c200cdc969372198ec06f85a09b": {
@@ -1929,19 +2303,23 @@
     "332ee11d2067cf30d7179c13b6b36427f8195904f964e31fea2540a27af40e0e": {
       "src": "Náhradní díly LG",
       "dst": {
-        "sk": "Náhradné diely LG"
+        "sk": "Náhradné diely LG",
+        "en": "LG Spare Parts",
+        "de": "Ersatzteile für LG"
       },
       "meta": {
-        "updated_at": 1766453953
+        "updated_at": 1766524980
       }
     },
     "163b32b3159c952152e9c0e356130641e020aa194dc0fcd7be5a9841df4fb0f0": {
       "src": "Náhradní díly pro OnePlus",
       "dst": {
-        "sk": "Náhradné diely pre OnePlus"
+        "sk": "Náhradné diely pre OnePlus",
+        "en": "Spare Parts for OnePlus",
+        "de": "Ersatzteile für OnePlus"
       },
       "meta": {
-        "updated_at": 1766453953
+        "updated_at": 1766524981
       }
     },
     "855b67be8383567ee04223908d68e762234cf8f7faa59ee39b067565ac3cdb1a": {
@@ -1965,161 +2343,195 @@
     "ea40412fe9408de558328e746b848f86a21a0846ff7669d0c578d896a8185cb2": {
       "src": "OnePlus Nord N100",
       "dst": {
-        "sk": "OnePlus Nord N100"
+        "sk": "OnePlus Nord N100",
+        "en": "OnePlus Nord N100",
+        "de": "OnePlus Nord N100"
       },
       "meta": {
-        "updated_at": 1766453955
+        "updated_at": 1766524983
       }
     },
     "a7ce80a41a98f9ce5bc21f696679ece82fcbf1e2bfb591d959f640141724981e": {
       "src": "One Plus 6T",
       "dst": {
-        "sk": "One Plus 6T"
+        "sk": "One Plus 6T",
+        "en": "OnePlus 6T",
+        "de": "One Plus 6T"
       },
       "meta": {
-        "updated_at": 1766453955
+        "updated_at": 1766524984
       }
     },
     "fe7bd503b767fd745a872bdeab1d6a9008fc1c0be9e735324e4a6f79758cfe84": {
       "src": "Náhradní díly pro herní konzole",
       "dst": {
-        "sk": "Náhradné diely pre herné konzoly"
+        "sk": "Náhradné diely pre herné konzoly",
+        "en": "Spare parts for gaming consoles",
+        "de": "Ersatzteile für Spielkonsolen"
       },
       "meta": {
-        "updated_at": 1766453956
+        "updated_at": 1766524984
       }
     },
     "7a2852ed1b592eb6cea681d6f3c58a8bff99c10cd789f1d36682f866d3bd837c": {
       "src": "Sony PS",
       "dst": {
-        "sk": "Sony PS"
+        "sk": "Sony PS",
+        "en": "Sony PS",
+        "de": "Sony PS"
       },
       "meta": {
-        "updated_at": 1766453956
+        "updated_at": 1766524985
       }
     },
     "d7fc60b31d3ccd3afb138cfea1e4f0835785510755ebda9eea14e2e3114cc395": {
       "src": "Nintendo Switch",
       "dst": {
-        "sk": "Nintendo Switch"
+        "sk": "Nintendo Switch",
+        "en": "Nintendo Switch",
+        "de": "Nintendo Switch"
       },
       "meta": {
-        "updated_at": 1766453957
+        "updated_at": 1766524986
       }
     },
     "cc50de1cdaea5299628b7eea3732d03ffd08cac9f581a9963e7de4b8ec9880d1": {
       "src": "Slevy",
       "dst": {
-        "sk": "Zľavy"
+        "sk": "Zľavy",
+        "en": "Discounts",
+        "de": "Rabatte"
       },
       "meta": {
-        "updated_at": 1766453957
+        "updated_at": 1766524988
       }
     },
     "d686d6118f2988fe219bd11746e4626cbfb9be9097ac61529c4e37c9e1a8f271": {
       "src": "Servis Apple",
       "dst": {
-        "sk": "Servis Apple"
+        "sk": "Servis Apple",
+        "en": "Apple Service",
+        "de": "Apple Service"
       },
       "meta": {
-        "updated_at": 1766453958
+        "updated_at": 1766524990
       }
     },
     "2ff38e28e767f9199bc20d4577a330fa55cf759d1f3a87cf3fca305c773b9c97": {
       "src": "Samsung - ceník",
       "dst": {
-        "sk": "Samsung - cenník"
+        "sk": "Samsung - cenník",
+        "en": "Samsung - price list",
+        "de": "Samsung - Preisliste"
       },
       "meta": {
-        "updated_at": 1766453958
+        "updated_at": 1766524991
       }
     },
     "96267e8c785eac6810879c77dd00e2658d2e95f07ef561f110334c5bab451192": {
       "src": "Xiaomi - ceník",
       "dst": {
-        "sk": "Xiaomi - cenník"
+        "sk": "Xiaomi - cenník",
+        "en": "Xiaomi - Price List",
+        "de": "Xiaomi - Preisliste"
       },
       "meta": {
-        "updated_at": 1766453958
+        "updated_at": 1766524992
       }
     },
     "944aa857e4130d98cdf5e708f9d836b5183c9b4506605c841ab074767e525955": {
       "src": "Huawei - ceník",
       "dst": {
-        "sk": "Huawei - cenník"
+        "sk": "Huawei - cenník",
+        "en": "Huawei - Price List",
+        "de": "Huawei - Preisliste"
       },
       "meta": {
-        "updated_at": 1766453959
+        "updated_at": 1766524993
       }
     },
     "149a592d4e96d8dbdd629727c1695ad0d8819fedecc337d9d8e44a61e77bfe4b": {
       "src": "Honor - ceník",
       "dst": {
-        "sk": "Honor - cenník"
+        "sk": "Honor - cenník",
+        "en": "Honor - Price List",
+        "de": "Honor - Preisliste"
       },
       "meta": {
-        "updated_at": 1766453959
+        "updated_at": 1766524993
       }
     },
     "247f1c2182a36d264e92de2dfc9baa380b94b6a4e9a338c82c019922040a688c": {
       "src": "Elektrokoloběžky - ceník",
       "dst": {
-        "sk": "Elektrické kolobežky - cenník"
+        "sk": "Elektrické kolobežky - cenník",
+        "en": "Electric Scooters - Price List",
+        "de": "Elektrokleinstfahrzeuge - Preisliste"
       },
       "meta": {
-        "updated_at": 1766453960
+        "updated_at": 1766524994
       }
     },
     "3f738866e70dcb2006469b28e1c0908cef507899b9b2c17f17af5e49f773ebb6": {
       "src": "Všeobecný ceník servisu elektrokoloběžek",
       "dst": {
-        "sk": "Všeobecný cenník servisu elektrokolobežiek"
+        "sk": "Všeobecný cenník servisu elektrokolobežiek",
+        "en": "General Price List for Electric Scooter Service",
+        "de": "Allgemeine Preisliste für den Service von Elektroscootern"
       },
       "meta": {
-        "updated_at": 1766453960
+        "updated_at": 1766524996
       }
     },
     "d5bb47c50e6c4c4db783ed818359c71af48db902bd8dad3a349848c9be7c85d7": {
       "src": "Herní konzole - ceník",
       "dst": {
-        "sk": "Herné konzoly - cenník"
+        "sk": "Herné konzoly - cenník",
+        "en": "Gaming Consoles - Price List",
+        "de": "Spielkonsole - Preisliste"
       },
       "meta": {
-        "updated_at": 1766453961
+        "updated_at": 1766524997
       }
     },
     "6eb307c902b6dacc0c99a661eb9cc6f7d0d90cfd8f57eee7a31a8cb049299269": {
       "src": "Ostatní značky - ceník",
       "dst": {
-        "sk": "Ostatné značky - cenník"
+        "sk": "Ostatné značky - cenník",
+        "en": "Other Brands - Price List",
+        "de": "Sonstige Marken - Preisliste"
       },
       "meta": {
-        "updated_at": 1766453962
+        "updated_at": 1766524997
       }
     },
     "0f98f6b93f61073cc91bdd5e401bb3ff480a2231acf5399f4cb07cbf50056718": {
       "src": "Výkup",
       "dst": {
-        "sk": "Výkup"
+        "sk": "Výkup",
+        "en": "Purchase",
+        "de": "Ankauf"
       },
       "meta": {
-        "updated_at": 1766453962
+        "updated_at": 1766524998
       }
     },
     "6ea70451ac8dd635d4b7376aef067f071d628b4c799b4f112d4bcefbb83c4a8a": {
       "src": "Refurbished",
       "dst": {
-        "sk": "Refurbished"
+        "sk": "Refurbished",
+        "en": "Refurbished",
+        "de": "Generalüberholt"
       },
       "meta": {
-        "updated_at": 1766453963
+        "updated_at": 1766524999
       }
     }
   },
   "pages": {
     "https://www.express-servis.cz/vykup-zarizeni": {
-      "hash": "37e9f0353e49d35b92086e8e4253ab264930dd7bd3ea4295f32438412874749c",
-      "updated_at": 1766453963,
+      "hash": "e1756674982feec250d244c2a64c70e6291828b1b36bdfe8939c806e68de5aba",
+      "updated_at": 1766525045,
       "nodes": [
         {
           "key": "p.06107357.80adc3e3.8ed976ff7e",
@@ -2132,7 +2544,9 @@
           "attr": "",
           "source": "Výkup zařízení | Express Servis",
           "dst": {
-            "sk": "Výkup zariadení | Express Servis"
+            "sk": "Výkup zariadení | Express Servis",
+            "en": "Device Purchase | Express Service",
+            "de": "Geräteankauf | Express Service"
           }
         },
         {
@@ -2146,7 +2560,9 @@
           "attr": "",
           "source": "Express Servis",
           "dst": {
-            "sk": "Express Servis"
+            "sk": "Express Servis",
+            "en": "Express Service",
+            "de": "Express-Service"
           }
         },
         {
@@ -2160,7 +2576,9 @@
           "attr": "",
           "source": "Vyhledat",
           "dst": {
-            "sk": "Vyhľadať"
+            "sk": "Vyhľadať",
+            "en": "Search",
+            "de": "Suchen"
           }
         },
         {
@@ -2174,7 +2592,9 @@
           "attr": "",
           "source": "O nás",
           "dst": {
-            "sk": "O nás"
+            "sk": "O nás",
+            "en": "About Us",
+            "de": "Über uns"
           }
         },
         {
@@ -2188,7 +2608,9 @@
           "attr": "",
           "source": "Prodejny",
           "dst": {
-            "sk": "Predajne"
+            "sk": "Predajne",
+            "en": "Stores",
+            "de": "Verkaufsgeschäfte"
           }
         },
         {
@@ -2202,35 +2624,41 @@
           "attr": "",
           "source": "Kontakty",
           "dst": {
-            "sk": "Kontakty"
+            "sk": "Kontakty",
+            "en": "Contacts",
+            "de": "Kontakte"
           }
         },
         {
-          "key": "p.06107357.2166de72.d6d5204e6a",
+          "key": "p.06107357.fa6cfdc6.d6d5204e6a",
           "parentId": "",
           "parent": ".component--core-navigation",
-          "selector": "a[href=\"?do=CoreNavigation_main-Currency_akelr8-select&CoreNavigation_main-Currency_akelr8-id=CZK\"]",
+          "selector": "a[href=\"?do=CoreNavigation_main-Currency_5cy8c8-select&CoreNavigation_main-Currency_5cy8c8-id=CZK\"]",
           "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
           "source": "CZK (Kč)",
           "dst": {
-            "sk": "CZK (Kč)"
+            "sk": "CZK (Kč)",
+            "en": "CZK (Kč)",
+            "de": "Bitte geben Sie den zu übersetzenden Text an, damit ich Ihnen helfen kann."
           }
         },
         {
-          "key": "p.06107357.e0696052.fb29af5823",
+          "key": "p.06107357.feeb5cf8.fb29af5823",
           "parentId": "",
           "parent": ".component--core-navigation",
-          "selector": "a[href=\"?do=CoreNavigation_main-Currency_akelr8-select&CoreNavigation_main-Currency_akelr8-id=EUR\"]",
+          "selector": "a[href=\"?do=CoreNavigation_main-Currency_5cy8c8-select&CoreNavigation_main-Currency_5cy8c8-id=EUR\"]",
           "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
           "source": "EUR (€)",
           "dst": {
-            "sk": "Samozrejme, pošlite mi text, ktorý chcete preložiť."
+            "sk": "Samozrejme, pošlite mi text, ktorý chcete preložiť.",
+            "en": "EUR (€)",
+            "de": "Bitte geben Sie den zu übersetzenden Text an, damit ich Ihnen helfen kann."
           }
         },
         {
@@ -2244,7 +2672,9 @@
           "attr": "",
           "source": "Quad Lock",
           "dst": {
-            "sk": "Quad Lock"
+            "sk": "Quad Lock",
+            "en": "Quad Lock",
+            "de": "Quad Lock"
           }
         },
         {
@@ -2258,7 +2688,9 @@
           "attr": "",
           "source": "Quad Lock držáky",
           "dst": {
-            "sk": "Quad Lock držiaky"
+            "sk": "Quad Lock držiaky",
+            "en": "Quad Lock mounts",
+            "de": "Quad Lock Halterungen"
           }
         },
         {
@@ -2272,7 +2704,9 @@
           "attr": "",
           "source": "Na motorku",
           "dst": {
-            "sk": "Na motocykel"
+            "sk": "Na motocykel",
+            "en": "For the motorcycle",
+            "de": "Für das Motorrad"
           }
         },
         {
@@ -2286,7 +2720,9 @@
           "attr": "",
           "source": "Do auta",
           "dst": {
-            "sk": "Do auta"
+            "sk": "Do auta",
+            "en": "To the car",
+            "de": "Für Autos"
           }
         },
         {
@@ -2300,7 +2736,9 @@
           "attr": "",
           "source": "Na kolo",
           "dst": {
-            "sk": "Na bicykel"
+            "sk": "Na bicykel",
+            "en": "On the bike",
+            "de": "Auf das Fahrrad"
           }
         },
         {
@@ -2314,7 +2752,9 @@
           "attr": "",
           "source": "Ostatní",
           "dst": {
-            "sk": "Ostatní"
+            "sk": "Ostatní",
+            "en": "Others",
+            "de": "Übrige"
           }
         },
         {
@@ -2328,7 +2768,9 @@
           "attr": "",
           "source": "Quad Lock kryty",
           "dst": {
-            "sk": "Quad Lock kryty"
+            "sk": "Quad Lock kryty",
+            "en": "Quad Lock cases",
+            "de": "Quad Lock Abdeckungen"
           }
         },
         {
@@ -2342,7 +2784,9 @@
           "attr": "",
           "source": "Apple",
           "dst": {
-            "sk": "Apple"
+            "sk": "Apple",
+            "en": "Apple",
+            "de": "Apple"
           }
         },
         {
@@ -2356,7 +2800,9 @@
           "attr": "",
           "source": "Samsung",
           "dst": {
-            "sk": "Samsung"
+            "sk": "Samsung",
+            "en": "Samsung",
+            "de": "Samsung"
           }
         },
         {
@@ -2370,7 +2816,9 @@
           "attr": "",
           "source": "Huawei",
           "dst": {
-            "sk": "Huawei"
+            "sk": "Huawei",
+            "en": "Huawei",
+            "de": "Huawei"
           }
         },
         {
@@ -2384,7 +2832,9 @@
           "attr": "",
           "source": "Google Pixel",
           "dst": {
-            "sk": "Google Pixel"
+            "sk": "Google Pixel",
+            "en": "Google Pixel",
+            "de": "Google Pixel"
           }
         },
         {
@@ -2398,7 +2848,9 @@
           "attr": "",
           "source": "Quad Lock příslušenství",
           "dst": {
-            "sk": "Quad Lock príslušenstvo"
+            "sk": "Quad Lock príslušenstvo",
+            "en": "Quad Lock accessories",
+            "de": "Quad Lock Zubehör"
           }
         },
         {
@@ -2412,7 +2864,9 @@
           "attr": "",
           "source": "Doplňky",
           "dst": {
-            "sk": "Doplnky"
+            "sk": "Doplnky",
+            "en": "Accessories",
+            "de": "Zubehör"
           }
         },
         {
@@ -2426,7 +2880,9 @@
           "attr": "",
           "source": "Ochranná skla",
           "dst": {
-            "sk": "Ochranné sklá"
+            "sk": "Ochranné sklá",
+            "en": "Protective Glasses",
+            "de": "Schutzgläser"
           }
         },
         {
@@ -2440,21 +2896,9 @@
           "attr": "",
           "source": "Náhradní díly",
           "dst": {
-            "sk": "Náhradné diely"
-          }
-        },
-        {
-          "key": "p.06107357.b9513f86.a6fb0300b3",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/quad-lock-360-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Quad Lock 360",
-          "dst": {
-            "sk": "Quad Lock 360"
+            "sk": "Náhradné diely",
+            "en": "Spare Parts",
+            "de": "Ersatzteile"
           }
         },
         {
@@ -2468,7 +2912,9 @@
           "attr": "",
           "source": "Quad Lock Poncho",
           "dst": {
-            "sk": "Quad Lock Pončo"
+            "sk": "Quad Lock Pončo",
+            "en": "Quad Lock Poncho",
+            "de": "Quad Lock Poncho"
           }
         },
         {
@@ -2482,7 +2928,9 @@
           "attr": "",
           "source": "Apple",
           "dst": {
-            "sk": "Apple"
+            "sk": "Apple",
+            "en": "Apple",
+            "de": "Apple"
           }
         },
         {
@@ -2496,7 +2944,9 @@
           "attr": "",
           "source": "Samsung",
           "dst": {
-            "sk": "Samsung"
+            "sk": "Samsung",
+            "en": "Samsung",
+            "de": "Samsung"
           }
         },
         {
@@ -2510,7 +2960,9 @@
           "attr": "",
           "source": "Google Pixel",
           "dst": {
-            "sk": "Google Pixel"
+            "sk": "Google Pixel",
+            "en": "Google Pixel",
+            "de": "Google Pixel"
           }
         },
         {
@@ -2524,7 +2976,9 @@
           "attr": "",
           "source": "Huawei",
           "dst": {
-            "sk": "Huawei"
+            "sk": "Huawei",
+            "en": "Huawei",
+            "de": "Huawei"
           }
         },
         {
@@ -2538,7 +2992,9 @@
           "attr": "",
           "source": "Apple",
           "dst": {
-            "sk": "Apple"
+            "sk": "Apple",
+            "en": "Apple",
+            "de": "Apple"
           }
         },
         {
@@ -2552,49 +3008,9 @@
           "attr": "",
           "source": "iPhone",
           "dst": {
-            "sk": "iPhone"
-          }
-        },
-        {
-          "key": "p.06107357.479487aa.6fefc8d73d",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/iphone-17-1-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "iPhone 17",
-          "dst": {
-            "sk": "iPhone 17"
-          }
-        },
-        {
-          "key": "p.06107357.44a118d4.9ac2caadab",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/iphone-17-pro-1-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "iPhone 17 Pro",
-          "dst": {
-            "sk": "iPhone 17 Pro"
-          }
-        },
-        {
-          "key": "p.06107357.744c454d.95c961fb77",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/iphone-17-pro-max-1-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "iPhone 17 Pro Max",
-          "dst": {
-            "sk": "iPhone 17 Pro Max"
+            "sk": "iPhone",
+            "en": "iPhone",
+            "de": "iPhone"
           }
         },
         {
@@ -2608,7 +3024,9 @@
           "attr": "",
           "source": "iPhone Air",
           "dst": {
-            "sk": "iPhone Air"
+            "sk": "iPhone Air",
+            "en": "iPhone Air",
+            "de": "iPhone Air"
           }
         },
         {
@@ -2622,7 +3040,9 @@
           "attr": "",
           "source": "Mac",
           "dst": {
-            "sk": "Mac"
+            "sk": "Mac",
+            "en": "Mac",
+            "de": "Bitte geben Sie den zu übersetzenden Text an, damit ich Ihnen helfen kann."
           }
         },
         {
@@ -2636,7 +3056,9 @@
           "attr": "",
           "source": "MacBook Air",
           "dst": {
-            "sk": "MacBook Air"
+            "sk": "MacBook Air",
+            "en": "MacBook Air",
+            "de": "MacBook Air"
           }
         },
         {
@@ -2650,7 +3072,9 @@
           "attr": "",
           "source": "MacBook Pro",
           "dst": {
-            "sk": "MacBook Pro"
+            "sk": "MacBook Pro",
+            "en": "MacBook Pro",
+            "de": "MacBook Pro"
           }
         },
         {
@@ -2664,7 +3088,9 @@
           "attr": "",
           "source": "iMac",
           "dst": {
-            "sk": "iMac"
+            "sk": "iMac",
+            "en": "iMac",
+            "de": "iMac"
           }
         },
         {
@@ -2678,7 +3104,9 @@
           "attr": "",
           "source": "Mac Mini",
           "dst": {
-            "sk": "Mac Mini"
+            "sk": "Mac Mini",
+            "en": "Mac Mini",
+            "de": "Mac Mini"
           }
         },
         {
@@ -2692,63 +3120,9 @@
           "attr": "",
           "source": "iPad",
           "dst": {
-            "sk": "iPad"
-          }
-        },
-        {
-          "key": "p.06107357.62f4e560.4675cf7019",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/apple-ipad-11-2025-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Apple iPad 11\" (2025)",
-          "dst": {
-            "sk": "Apple iPad 11\" (2025)"
-          }
-        },
-        {
-          "key": "p.06107357.b4474081.a20b13c15b",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/apple-ipad-air-11-2025-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Apple iPad Air 11\" (2025)",
-          "dst": {
-            "sk": "Apple iPad Air 11\" (2025)"
-          }
-        },
-        {
-          "key": "p.06107357.b13a6e21.b9f5eacc78",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/apple-ipad-air-13-2025-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Apple iPad Air 13\" (2025)",
-          "dst": {
-            "sk": "Apple iPad Air 13\" (2025)"
-          }
-        },
-        {
-          "key": "p.06107357.b97fb808.5e66eefa04",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/apple-ipad-air-11-2024-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Apple iPad Air 11\" (2024)",
-          "dst": {
-            "sk": "Apple iPad Air 11\" (2024)"
+            "sk": "iPad",
+            "en": "iPad",
+            "de": "iPad"
           }
         },
         {
@@ -2762,63 +3136,9 @@
           "attr": "",
           "source": "Watch",
           "dst": {
-            "sk": "Hodinky"
-          }
-        },
-        {
-          "key": "p.06107357.8e74921d.f20a11879a",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/apple-watch-series-11-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Apple Watch Series 11",
-          "dst": {
-            "sk": "Apple Watch Series 11"
-          }
-        },
-        {
-          "key": "p.06107357.3f9465d0.6601a3428d",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/apple-watch-ultra-3-2025-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Apple Watch Ultra 3 (2025)",
-          "dst": {
-            "sk": "Apple Watch Ultra 3 (2025)"
-          }
-        },
-        {
-          "key": "p.06107357.a0e8e4ea.fbe56b55ea",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/apple-watch-se-3-2025-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Apple Watch SE 3 (2025)",
-          "dst": {
-            "sk": "Apple Watch SE 3 (2025)"
-          }
-        },
-        {
-          "key": "p.06107357.36406295.b82941cf17",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/apple-watch-series-10-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Apple Watch Series 10",
-          "dst": {
-            "sk": "Apple Watch Series 10"
+            "sk": "Hodinky",
+            "en": "Watch",
+            "de": "Uhr"
           }
         },
         {
@@ -2832,7 +3152,9 @@
           "attr": "",
           "source": "Hudba",
           "dst": {
-            "sk": "Hudba"
+            "sk": "Hudba",
+            "en": "Music",
+            "de": "Musik"
           }
         },
         {
@@ -2846,7 +3168,9 @@
           "attr": "",
           "source": "Monitory",
           "dst": {
-            "sk": "Monitory"
+            "sk": "Monitory",
+            "en": "Monitors",
+            "de": "Monitore"
           }
         },
         {
@@ -2860,7 +3184,9 @@
           "attr": "",
           "source": "Smart produkty",
           "dst": {
-            "sk": "Smart produkty"
+            "sk": "Smart produkty",
+            "en": "Smart Products",
+            "de": "Smart Produkte"
           }
         },
         {
@@ -2874,7 +3200,9 @@
           "attr": "",
           "source": "Smart Home  HomeKit",
           "dst": {
-            "sk": "Smart Home  HomeKit"
+            "sk": "Smart Home  HomeKit",
+            "en": "Smart Home  HomeKit",
+            "de": "Smart Home  HomeKit"
           }
         },
         {
@@ -2888,7 +3216,9 @@
           "attr": "",
           "source": "Osvětlení",
           "dst": {
-            "sk": "Osvetlenie"
+            "sk": "Osvetlenie",
+            "en": "Lighting",
+            "de": "Beleuchtung"
           }
         },
         {
@@ -2902,7 +3232,9 @@
           "attr": "",
           "source": "Čidla a senzory",
           "dst": {
-            "sk": "Čidla a senzory"
+            "sk": "Čidla a senzory",
+            "en": "Sensors and Detectors",
+            "de": "Sensoren und Messgeräte"
           }
         },
         {
@@ -2916,7 +3248,9 @@
           "attr": "",
           "source": "Zásuvky",
           "dst": {
-            "sk": "Zásuvky"
+            "sk": "Zásuvky",
+            "en": "Sockets",
+            "de": "Steckdosen"
           }
         },
         {
@@ -2930,7 +3264,9 @@
           "attr": "",
           "source": "Kamery a zabezpečení",
           "dst": {
-            "sk": "Kamery a zabezpečenie"
+            "sk": "Kamery a zabezpečenie",
+            "en": "Cameras and Security",
+            "de": "Kameras und Sicherheit"
           }
         },
         {
@@ -2944,7 +3280,9 @@
           "attr": "",
           "source": "Smart Home",
           "dst": {
-            "sk": "Smart Home"
+            "sk": "Smart Home",
+            "en": "Smart Home",
+            "de": "Smart Home"
           }
         },
         {
@@ -2958,7 +3296,9 @@
           "attr": "",
           "source": "Osvětlení",
           "dst": {
-            "sk": "Osvetlenie"
+            "sk": "Osvetlenie",
+            "en": "Lighting",
+            "de": "Beleuchtung"
           }
         },
         {
@@ -2972,7 +3312,9 @@
           "attr": "",
           "source": "Čidla a senzory",
           "dst": {
-            "sk": "Čidla a senzory"
+            "sk": "Čidla a senzory",
+            "en": "Sensors and Detectors",
+            "de": "Sensoren und Messgeräte"
           }
         },
         {
@@ -2986,7 +3328,9 @@
           "attr": "",
           "source": "Zásuvky",
           "dst": {
-            "sk": "Zásuvky"
+            "sk": "Zásuvky",
+            "en": "Sockets",
+            "de": "Steckdosen"
           }
         },
         {
@@ -3000,7 +3344,9 @@
           "attr": "",
           "source": "Kamery a zabezpečení",
           "dst": {
-            "sk": "Kamery a zabezpečenie"
+            "sk": "Kamery a zabezpečenie",
+            "en": "Cameras and Security",
+            "de": "Kameras und Sicherheit"
           }
         },
         {
@@ -3014,7 +3360,9 @@
           "attr": "",
           "source": "Smart Sport",
           "dst": {
-            "sk": "Smart Sport"
+            "sk": "Smart Sport",
+            "en": "Smart Sport",
+            "de": "Smart Sport"
           }
         },
         {
@@ -3028,7 +3376,9 @@
           "attr": "",
           "source": "Therabody",
           "dst": {
-            "sk": "Therabody"
+            "sk": "Therabody",
+            "en": "Therabody",
+            "de": "Therabody"
           }
         },
         {
@@ -3042,7 +3392,9 @@
           "attr": "",
           "source": "Chytré helmy UNIT",
           "dst": {
-            "sk": "Chytré prilby UNIT"
+            "sk": "Chytré prilby UNIT",
+            "en": "Smart Helmets UNIT",
+            "de": "Intelligente Helme UNIT"
           }
         },
         {
@@ -3056,7 +3408,9 @@
           "attr": "",
           "source": "Chytré láhve",
           "dst": {
-            "sk": "Inteligentné fľaše"
+            "sk": "Inteligentné fľaše",
+            "en": "Smart bottles",
+            "de": "Intelligente Flaschen"
           }
         },
         {
@@ -3070,7 +3424,9 @@
           "attr": "",
           "source": "Smart Sport",
           "dst": {
-            "sk": "Smart Sport"
+            "sk": "Smart Sport",
+            "en": "Smart Sport",
+            "de": "Smart Sport"
           }
         },
         {
@@ -3084,7 +3440,9 @@
           "attr": "",
           "source": "Smart Zdraví",
           "dst": {
-            "sk": "Smart Zdravie"
+            "sk": "Smart Zdravie",
+            "en": "Smart Health",
+            "de": "Smart Gesundheit"
           }
         },
         {
@@ -3098,7 +3456,9 @@
           "attr": "",
           "source": "Smart Zdraví",
           "dst": {
-            "sk": "Smart Zdravie"
+            "sk": "Smart Zdravie",
+            "en": "Smart Health",
+            "de": "Smart Gesundheit"
           }
         },
         {
@@ -3112,7 +3472,9 @@
           "attr": "",
           "source": "Brýle Barner Brand",
           "dst": {
-            "sk": "Okuliare Barner Brand"
+            "sk": "Okuliare Barner Brand",
+            "en": "Barner Brand Glasses",
+            "de": "Brillen von Barner Brand"
           }
         },
         {
@@ -3126,7 +3488,9 @@
           "attr": "",
           "source": "Smart Hračky",
           "dst": {
-            "sk": "Smart Hračky"
+            "sk": "Smart Hračky",
+            "en": "Smart Toys",
+            "de": "Smart Spielzeuge"
           }
         },
         {
@@ -3140,7 +3504,9 @@
           "attr": "",
           "source": "Intelino",
           "dst": {
-            "sk": "Intelino"
+            "sk": "Intelino",
+            "en": "Intelino",
+            "de": "Intelino"
           }
         },
         {
@@ -3154,7 +3520,9 @@
           "attr": "",
           "source": "GoCube",
           "dst": {
-            "sk": "GoCube"
+            "sk": "GoCube",
+            "en": "GoCube",
+            "de": "GoCube"
           }
         },
         {
@@ -3168,7 +3536,9 @@
           "attr": "",
           "source": "Ozobot",
           "dst": {
-            "sk": "Ozobot"
+            "sk": "Ozobot",
+            "en": "Ozobot",
+            "de": "Ozobot"
           }
         },
         {
@@ -3182,7 +3552,9 @@
           "attr": "",
           "source": "Robobloq",
           "dst": {
-            "sk": "Robobloq"
+            "sk": "Robobloq",
+            "en": "Robobloq",
+            "de": "Robobloq"
           }
         },
         {
@@ -3196,7 +3568,9 @@
           "attr": "",
           "source": "GPS a lokátory",
           "dst": {
-            "sk": "GPS a lokalizátory"
+            "sk": "GPS a lokalizátory",
+            "en": "GPS and Trackers",
+            "de": "GPS und Locatorgeräte"
           }
         },
         {
@@ -3210,7 +3584,9 @@
           "attr": "",
           "source": "Gaming",
           "dst": {
-            "sk": "Hranie hier"
+            "sk": "Hranie hier",
+            "en": "Gaming",
+            "de": "Gaming"
           }
         },
         {
@@ -3224,7 +3600,9 @@
           "attr": "",
           "source": "Playstation",
           "dst": {
-            "sk": "PlayStation"
+            "sk": "PlayStation",
+            "en": "PlayStation",
+            "de": "PlayStation"
           }
         },
         {
@@ -3238,7 +3616,9 @@
           "attr": "",
           "source": "Xbox",
           "dst": {
-            "sk": "Xbox"
+            "sk": "Xbox",
+            "en": "Xbox",
+            "de": "Xbox"
           }
         },
         {
@@ -3252,7 +3632,9 @@
           "attr": "",
           "source": "Nintendo",
           "dst": {
-            "sk": "Nintendo"
+            "sk": "Nintendo",
+            "en": "Nintendo",
+            "de": "Nintendo"
           }
         },
         {
@@ -3266,7 +3648,9 @@
           "attr": "",
           "source": "Herní konzole",
           "dst": {
-            "sk": "Herné konzoly"
+            "sk": "Herné konzoly",
+            "en": "Gaming console",
+            "de": "Spielkonsole"
           }
         },
         {
@@ -3280,7 +3664,9 @@
           "attr": "",
           "source": "Robovysavače",
           "dst": {
-            "sk": "Roboti na vysávanie"
+            "sk": "Roboti na vysávanie",
+            "en": "Robot Vacuums",
+            "de": "Roboterstaubsauger"
           }
         },
         {
@@ -3294,7 +3680,9 @@
           "attr": "",
           "source": "Čtečky e-knih",
           "dst": {
-            "sk": "Čítačky e-kníh"
+            "sk": "Čítačky e-kníh",
+            "en": "E-book Readers",
+            "de": "E-Book-Reader"
           }
         },
         {
@@ -3308,7 +3696,9 @@
           "attr": "",
           "source": "Příslušenství",
           "dst": {
-            "sk": "Príslušenstvo"
+            "sk": "Príslušenstvo",
+            "en": "Accessories",
+            "de": "Zubehör"
           }
         },
         {
@@ -3322,7 +3712,9 @@
           "attr": "",
           "source": "Pouzdra, kryty a ochranná skla",
           "dst": {
-            "sk": "Puzdrá, kryty a ochranné sklá"
+            "sk": "Puzdrá, kryty a ochranné sklá",
+            "en": "Cases, covers, and protective glasses",
+            "de": "Hüllen, Abdeckungen und Schutzgläser"
           }
         },
         {
@@ -3336,7 +3728,9 @@
           "attr": "",
           "source": "Pouzdra a kryty",
           "dst": {
-            "sk": "Puzdrá a kryty"
+            "sk": "Puzdrá a kryty",
+            "en": "Cases and Covers",
+            "de": "Hüllen und Schutze"
           }
         },
         {
@@ -3350,7 +3744,9 @@
           "attr": "",
           "source": "Ochranná skla a folie",
           "dst": {
-            "sk": "Ochranné sklá a fólie"
+            "sk": "Ochranné sklá a fólie",
+            "en": "Protective Glasses and Films",
+            "de": "Schutzgläser und -folien"
           }
         },
         {
@@ -3364,35 +3760,9 @@
           "attr": "",
           "source": "Řemínky pro Apple Watch",
           "dst": {
-            "sk": "Remienky pre Apple Watch"
-          }
-        },
-        {
-          "key": "p.06107357.ffaf7b3d.606b7dcfcc",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/series-1-9-38-40-41mm-10-42mm-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Series 1-9 (38/40/41mm) / 10 (42mm)",
-          "dst": {
-            "sk": "Séria 1-9 (38/40/41mm) / 10 (42mm)"
-          }
-        },
-        {
-          "key": "p.06107357.e1fa738f.9d8b55f2cd",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/series-1-3-42mm-4-10-44-45-46-49mm-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Series 1-3 (42mm) / 4-10 (44/45/46/49mm)",
-          "dst": {
-            "sk": "Séria 1-3 (42mm) / 4-10 (44/45/46/49mm)"
+            "sk": "Remienky pre Apple Watch",
+            "en": "Straps for Apple Watch",
+            "de": "Armbänder für die Apple Watch"
           }
         },
         {
@@ -3406,7 +3776,9 @@
           "attr": "",
           "source": "Univerzální řemínky Quick Release",
           "dst": {
-            "sk": "Univerzálne remienky Quick Release"
+            "sk": "Univerzálne remienky Quick Release",
+            "en": "Universal Quick Release Straps",
+            "de": "Universelle Quick Release Armbänder"
           }
         },
         {
@@ -3420,7 +3792,9 @@
           "attr": "",
           "source": "Nabíječky, kabely, redukce a huby",
           "dst": {
-            "sk": "Nabíjačky, káble, redukcie a huby"
+            "sk": "Nabíjačky, káble, redukcie a huby",
+            "en": "Chargers, cables, adapters, and hubs",
+            "de": "Ladegeräte, Kabel, Adapter und Hubs"
           }
         },
         {
@@ -3434,7 +3808,9 @@
           "attr": "",
           "source": "Nabíječky",
           "dst": {
-            "sk": "Nabíjačky"
+            "sk": "Nabíjačky",
+            "en": "Chargers",
+            "de": "Ladegeräte"
           }
         },
         {
@@ -3448,7 +3824,9 @@
           "attr": "",
           "source": "Kabely a redukce",
           "dst": {
-            "sk": "Káble a redukcie"
+            "sk": "Káble a redukcie",
+            "en": "Cables and Adapters",
+            "de": "Kabel und Adapter"
           }
         },
         {
@@ -3462,7 +3840,9 @@
           "attr": "",
           "source": "USB-C Huby",
           "dst": {
-            "sk": "USB-C Huby"
+            "sk": "USB-C Huby",
+            "en": "USB-C Hubs",
+            "de": "USB-C Hubs"
           }
         },
         {
@@ -3476,7 +3856,9 @@
           "attr": "",
           "source": "Powerbanky",
           "dst": {
-            "sk": "Powerbanky"
+            "sk": "Powerbanky",
+            "en": "Power Banks",
+            "de": "Powerbanks"
           }
         },
         {
@@ -3490,7 +3872,9 @@
           "attr": "",
           "source": "Držáky",
           "dst": {
-            "sk": "Držiaky"
+            "sk": "Držiaky",
+            "en": "Holders",
+            "de": "Halterungen"
           }
         },
         {
@@ -3504,7 +3888,9 @@
           "attr": "",
           "source": "ShiftCam",
           "dst": {
-            "sk": "ShiftCam"
+            "sk": "ShiftCam",
+            "en": "ShiftCam",
+            "de": "ShiftCam"
           }
         },
         {
@@ -3518,7 +3904,9 @@
           "attr": "",
           "source": "Do auta",
           "dst": {
-            "sk": "Do auta"
+            "sk": "Do auta",
+            "en": "To the car",
+            "de": "Für Autos"
           }
         },
         {
@@ -3532,7 +3920,9 @@
           "attr": "",
           "source": "Na kolo/motorku/koloběžku",
           "dst": {
-            "sk": "Na bicykel/motorku/kolobežku"
+            "sk": "Na bicykel/motorku/kolobežku",
+            "en": "For bicycle/motorcycle/scooter",
+            "de": "Für Fahrrad/Motorrad/E-Scooter"
           }
         },
         {
@@ -3546,7 +3936,9 @@
           "attr": "",
           "source": "Na stůl/do ruky",
           "dst": {
-            "sk": "Na stôl/do ruky"
+            "sk": "Na stôl/do ruky",
+            "en": "On the table/in hand",
+            "de": "Auf den Tisch/in die Hand"
           }
         },
         {
@@ -3560,7 +3952,9 @@
           "attr": "",
           "source": "Sluchátka a reproduktory",
           "dst": {
-            "sk": "Slúchadlá a reproduktory"
+            "sk": "Slúchadlá a reproduktory",
+            "en": "Headphones and Speakers",
+            "de": "Kopfhörer und Lautsprecher"
           }
         },
         {
@@ -3574,7 +3968,9 @@
           "attr": "",
           "source": "Marshall",
           "dst": {
-            "sk": "Marshall"
+            "sk": "Marshall",
+            "en": "Marshall",
+            "de": "Marshall"
           }
         },
         {
@@ -3588,7 +3984,9 @@
           "attr": "",
           "source": "Reproduktory",
           "dst": {
-            "sk": "Reproduktory"
+            "sk": "Reproduktory",
+            "en": "Speakers",
+            "de": "Lautsprecher"
           }
         },
         {
@@ -3602,7 +4000,9 @@
           "attr": "",
           "source": "Bezdrátová sluchátka",
           "dst": {
-            "sk": "Bezdrôtové slúchadlá"
+            "sk": "Bezdrôtové slúchadlá",
+            "en": "Wireless headphones",
+            "de": "Drahtlose Kopfhörer"
           }
         },
         {
@@ -3616,7 +4016,9 @@
           "attr": "",
           "source": "Drátová sluchátka",
           "dst": {
-            "sk": "Drôtové slúchadlá"
+            "sk": "Drôtové slúchadlá",
+            "en": "Wired Headphones",
+            "de": "Drahtlose Kopfhörer"
           }
         },
         {
@@ -3630,7 +4032,9 @@
           "attr": "",
           "source": "Klávesnice, myši a stylusy",
           "dst": {
-            "sk": "Klávesnice, myši a stylusy"
+            "sk": "Klávesnice, myši a stylusy",
+            "en": "Keyboards, mice, and styluses",
+            "de": "Tastaturen, Mäuse und Stylus"
           }
         },
         {
@@ -3644,7 +4048,9 @@
           "attr": "",
           "source": "Klávesnice",
           "dst": {
-            "sk": "Klávesnice"
+            "sk": "Klávesnice",
+            "en": "Keyboard",
+            "de": "Tastatur"
           }
         },
         {
@@ -3658,7 +4064,9 @@
           "attr": "",
           "source": "Myši a trackpady",
           "dst": {
-            "sk": "Myši a trackpady"
+            "sk": "Myši a trackpady",
+            "en": "Mice and Trackpads",
+            "de": "Mäuse und Trackpads"
           }
         },
         {
@@ -3672,7 +4080,9 @@
           "attr": "",
           "source": "Stylusy",
           "dst": {
-            "sk": "Stylusy"
+            "sk": "Stylusy",
+            "en": "Styluses",
+            "de": "Stylus"
           }
         },
         {
@@ -3686,7 +4096,9 @@
           "attr": "",
           "source": "Úložiště a software",
           "dst": {
-            "sk": "Úložisko a softvér"
+            "sk": "Úložisko a softvér",
+            "en": "Storage and Software",
+            "de": "Speicher und Software"
           }
         },
         {
@@ -3700,7 +4112,9 @@
           "attr": "",
           "source": "Úložiště",
           "dst": {
-            "sk": "Úložisko"
+            "sk": "Úložisko",
+            "en": "Storage",
+            "de": "Speicherlösung"
           }
         },
         {
@@ -3714,7 +4128,9 @@
           "attr": "",
           "source": "Software",
           "dst": {
-            "sk": "Softvér"
+            "sk": "Softvér",
+            "en": "Software",
+            "de": "Software"
           }
         },
         {
@@ -3728,7 +4144,9 @@
           "attr": "",
           "source": "Peněženky a kryptopeněženky",
           "dst": {
-            "sk": "Peňaženky a kryptopeňaženky"
+            "sk": "Peňaženky a kryptopeňaženky",
+            "en": "Wallets and Crypto Wallets",
+            "de": "Wallets und Krypto-Wallets"
           }
         },
         {
@@ -3742,7 +4160,9 @@
           "attr": "",
           "source": "Peněženky Secrid",
           "dst": {
-            "sk": "Peňaženky Secrid"
+            "sk": "Peňaženky Secrid",
+            "en": "Secrid Wallets",
+            "de": "Secrid Geldbörsen"
           }
         },
         {
@@ -3756,7 +4176,9 @@
           "attr": "",
           "source": "Peněženky Spigen",
           "dst": {
-            "sk": "Peňaženky Spigen"
+            "sk": "Peňaženky Spigen",
+            "en": "Spigen Wallets",
+            "de": "Spigen Geldbörsen"
           }
         },
         {
@@ -3770,7 +4192,9 @@
           "attr": "",
           "source": "Kryptopeněženky",
           "dst": {
-            "sk": "Kryptopeňaženky"
+            "sk": "Kryptopeňaženky",
+            "en": "Cryptowallets",
+            "de": "Kryptowallets"
           }
         },
         {
@@ -3784,7 +4208,9 @@
           "attr": "",
           "source": "Péče o zařízení",
           "dst": {
-            "sk": "Starostlivosť o zariadenie"
+            "sk": "Starostlivosť o zariadenie",
+            "en": "Device Care",
+            "de": "Gerätepflege"
           }
         },
         {
@@ -3798,7 +4224,9 @@
           "attr": "",
           "source": "Ostatní doplňky",
           "dst": {
-            "sk": "Ostatné doplnky"
+            "sk": "Ostatné doplnky",
+            "en": "Other Accessories",
+            "de": "Weitere Zubehörteile"
           }
         },
         {
@@ -3812,7 +4240,9 @@
           "attr": "",
           "source": "Příslušenství k Tesle",
           "dst": {
-            "sk": "Príslušenstvo k Tesle"
+            "sk": "Príslušenstvo k Tesle",
+            "en": "Accessories for Tesla",
+            "de": "Zubehör für Tesla"
           }
         },
         {
@@ -3826,7 +4256,9 @@
           "attr": "",
           "source": "Nářadí",
           "dst": {
-            "sk": "Náradie"
+            "sk": "Náradie",
+            "en": "Tools",
+            "de": "Werkzeuge"
           }
         },
         {
@@ -3840,7 +4272,9 @@
           "attr": "",
           "source": "Knihy",
           "dst": {
-            "sk": "Knihy"
+            "sk": "Knihy",
+            "en": "Books",
+            "de": "Bücher"
           }
         },
         {
@@ -3854,7 +4288,9 @@
           "attr": "",
           "source": "Dárkové vouchery a služby",
           "dst": {
-            "sk": "Darčekové poukazy a služby"
+            "sk": "Darčekové poukazy a služby",
+            "en": "Gift vouchers and services",
+            "de": "Geschenkgutscheine und Dienstleistungen"
           }
         },
         {
@@ -3868,7 +4304,9 @@
           "attr": "",
           "source": "Nářadí a nástroje",
           "dst": {
-            "sk": "Náradie a nástroje"
+            "sk": "Náradie a nástroje",
+            "en": "Tools and Equipment",
+            "de": "Werkzeuge und Instrumente"
           }
         },
         {
@@ -3882,7 +4320,9 @@
           "attr": "",
           "source": "Šroubováky a sady nářadí",
           "dst": {
-            "sk": "Skrutkovače a sady náradia"
+            "sk": "Skrutkovače a sady náradia",
+            "en": "Screwdrivers and Tool Sets",
+            "de": "Schraubendreher und Werkzeugsets"
           }
         },
         {
@@ -3896,7 +4336,9 @@
           "attr": "",
           "source": "Páčidla a otvírače",
           "dst": {
-            "sk": "Páčidlá a otvárače"
+            "sk": "Páčidlá a otvárače",
+            "en": "Crowbars and Openers",
+            "de": "Hebel und Öffner"
           }
         },
         {
@@ -3910,7 +4352,9 @@
           "attr": "",
           "source": "Pinzety a kleště",
           "dst": {
-            "sk": "Pinzety a kliešte"
+            "sk": "Pinzety a kliešte",
+            "en": "Tweezers and Pliers",
+            "de": "Pinzetten und Zangen"
           }
         },
         {
@@ -3924,7 +4368,9 @@
           "attr": "",
           "source": "Lepidla a chemie",
           "dst": {
-            "sk": "Lepidlá a chémia"
+            "sk": "Lepidlá a chémia",
+            "en": "Adhesives and Chemicals",
+            "de": "Klebstoffe und Chemie"
           }
         },
         {
@@ -3938,7 +4384,9 @@
           "attr": "",
           "source": "Swissten",
           "dst": {
-            "sk": "Swissten"
+            "sk": "Swissten",
+            "en": "Swissten",
+            "de": "Swissten"
           }
         },
         {
@@ -3952,7 +4400,9 @@
           "attr": "",
           "source": "Nabíjení do sítě",
           "dst": {
-            "sk": "Nabíjanie do siete"
+            "sk": "Nabíjanie do siete",
+            "en": "Grid charging",
+            "de": "Netzladung"
           }
         },
         {
@@ -3966,7 +4416,9 @@
           "attr": "",
           "source": "Nabíjení do auta",
           "dst": {
-            "sk": "Nabíjanie do auta"
+            "sk": "Nabíjanie do auta",
+            "en": "Car Charging",
+            "de": "Laden im Auto"
           }
         },
         {
@@ -3980,7 +4432,9 @@
           "attr": "",
           "source": "Bezdrátové nabíjení",
           "dst": {
-            "sk": "Bezdrôtové nabíjanie"
+            "sk": "Bezdrôtové nabíjanie",
+            "en": "Wireless charging",
+            "de": "Drahtloses Laden"
           }
         },
         {
@@ -3994,7 +4448,9 @@
           "attr": "",
           "source": "Solární nabíjení",
           "dst": {
-            "sk": "Solárne nabíjanie"
+            "sk": "Solárne nabíjanie",
+            "en": "Solar Charging",
+            "de": "Solarladung"
           }
         },
         {
@@ -4008,7 +4464,9 @@
           "attr": "",
           "source": "Náhradní díly",
           "dst": {
-            "sk": "Náhradné diely"
+            "sk": "Náhradné diely",
+            "en": "Spare Parts",
+            "de": "Ersatzteile"
           }
         },
         {
@@ -4022,7 +4480,9 @@
           "attr": "",
           "source": "Náhradní díly pro Apple",
           "dst": {
-            "sk": "Náhradné diely pre Apple"
+            "sk": "Náhradné diely pre Apple",
+            "en": "Apple Spare Parts",
+            "de": "Ersatzteile für Apple"
           }
         },
         {
@@ -4036,7 +4496,9 @@
           "attr": "",
           "source": "Díly pro iPhone",
           "dst": {
-            "sk": "Diely pre iPhone"
+            "sk": "Diely pre iPhone",
+            "en": "Parts for iPhone",
+            "de": "Teile für iPhone"
           }
         },
         {
@@ -4050,7 +4512,9 @@
           "attr": "",
           "source": "Díly pro MacBook",
           "dst": {
-            "sk": "Diely pre MacBook"
+            "sk": "Diely pre MacBook",
+            "en": "Parts for MacBook",
+            "de": "Teile für MacBook"
           }
         },
         {
@@ -4064,7 +4528,9 @@
           "attr": "",
           "source": "Díly pro Apple Watch",
           "dst": {
-            "sk": "Diely pre Apple Watch"
+            "sk": "Diely pre Apple Watch",
+            "en": "Parts for Apple Watch",
+            "de": "Teile für die Apple Watch"
           }
         },
         {
@@ -4078,7 +4544,9 @@
           "attr": "",
           "source": "Díly pro iMac",
           "dst": {
-            "sk": "Diely pre iMac"
+            "sk": "Diely pre iMac",
+            "en": "Parts for iMac",
+            "de": "Teile für iMac"
           }
         },
         {
@@ -4092,7 +4560,9 @@
           "attr": "",
           "source": "Náhradní díly pro Samsung",
           "dst": {
-            "sk": "Náhradné diely pre Samsung"
+            "sk": "Náhradné diely pre Samsung",
+            "en": "Spare Parts for Samsung",
+            "de": "Ersatzteile für Samsung"
           }
         },
         {
@@ -4106,7 +4576,9 @@
           "attr": "",
           "source": "Galaxy A",
           "dst": {
-            "sk": "Galaxy A"
+            "sk": "Galaxy A",
+            "en": "Galaxy A",
+            "de": "Galaxy A"
           }
         },
         {
@@ -4120,7 +4592,9 @@
           "attr": "",
           "source": "Galaxy M",
           "dst": {
-            "sk": "Galaxy M"
+            "sk": "Galaxy M",
+            "en": "Galaxy M",
+            "de": "Galaxy M"
           }
         },
         {
@@ -4134,7 +4608,9 @@
           "attr": "",
           "source": "Galaxy Note",
           "dst": {
-            "sk": "Galaxy Note"
+            "sk": "Galaxy Note",
+            "en": "Galaxy Note",
+            "de": "Galaxy Note"
           }
         },
         {
@@ -4148,7 +4624,9 @@
           "attr": "",
           "source": "Galaxy S",
           "dst": {
-            "sk": "Galaxy S"
+            "sk": "Galaxy S",
+            "en": "Galaxy S",
+            "de": "Galaxy S"
           }
         },
         {
@@ -4162,7 +4640,9 @@
           "attr": "",
           "source": "Náhradní díly pro Xiaomi",
           "dst": {
-            "sk": "Náhradné diely pre Xiaomi"
+            "sk": "Náhradné diely pre Xiaomi",
+            "en": "Spare Parts for Xiaomi",
+            "de": "Ersatzteile für Xiaomi"
           }
         },
         {
@@ -4176,21 +4656,9 @@
           "attr": "",
           "source": "Xiaomi",
           "dst": {
-            "sk": "Xiaomi"
-          }
-        },
-        {
-          "key": "p.06107357.7c5c582c.57b0378dc6",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/nahradni-dily-xiaomi-pad-4-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Xiaomi Pad 4",
-          "dst": {
-            "sk": "Xiaomi Pad 4"
+            "sk": "Xiaomi",
+            "en": "Xiaomi",
+            "de": "Xiaomi"
           }
         },
         {
@@ -4204,7 +4672,9 @@
           "attr": "",
           "source": "Mi A",
           "dst": {
-            "sk": "Mi A"
+            "sk": "Mi A",
+            "en": "Mi A",
+            "de": "Mi A"
           }
         },
         {
@@ -4218,7 +4688,9 @@
           "attr": "",
           "source": "Náhradní díly pro Vivo",
           "dst": {
-            "sk": "Náhradné diely pre Vivo"
+            "sk": "Náhradné diely pre Vivo",
+            "en": "Spare Parts for Vivo",
+            "de": "Ersatzteile für Vivo"
           }
         },
         {
@@ -4232,7 +4704,9 @@
           "attr": "",
           "source": "Náhradní díly pro Nokia",
           "dst": {
-            "sk": "Náhradné diely pre Nokia"
+            "sk": "Náhradné diely pre Nokia",
+            "en": "Spare Parts for Nokia",
+            "de": "Ersatzteile für Nokia"
           }
         },
         {
@@ -4246,7 +4720,9 @@
           "attr": "",
           "source": "Náhradní díly Motorola",
           "dst": {
-            "sk": "Náhradné diely Motorola"
+            "sk": "Náhradné diely Motorola",
+            "en": "Motorola Spare Parts",
+            "de": "Ersatzteile für Motorola"
           }
         },
         {
@@ -4260,7 +4736,9 @@
           "attr": "",
           "source": "Motorola One",
           "dst": {
-            "sk": "Motorola One"
+            "sk": "Motorola One",
+            "en": "Motorola One",
+            "de": "Motorola One"
           }
         },
         {
@@ -4274,7 +4752,9 @@
           "attr": "",
           "source": "Motorola Edge",
           "dst": {
-            "sk": "Motorola Edge"
+            "sk": "Motorola Edge",
+            "en": "Motorola Edge",
+            "de": "Motorola Edge"
           }
         },
         {
@@ -4288,7 +4768,9 @@
           "attr": "",
           "source": "Motorola E",
           "dst": {
-            "sk": "Motorola E"
+            "sk": "Motorola E",
+            "en": "Motorola E",
+            "de": "Motorola E"
           }
         },
         {
@@ -4302,7 +4784,9 @@
           "attr": "",
           "source": "Motorola G",
           "dst": {
-            "sk": "Motorola G"
+            "sk": "Motorola G",
+            "en": "Motorola G",
+            "de": "Motorola G"
           }
         },
         {
@@ -4316,49 +4800,9 @@
           "attr": "",
           "source": "Náhradní díly pro Infinix",
           "dst": {
-            "sk": "Náhradné diely pre Infinix"
-          }
-        },
-        {
-          "key": "p.06107357.a30eb4ab.1d8040081b",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/hot-30-4g-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Hot 30 4G",
-          "dst": {
-            "sk": "Hot 30 4G"
-          }
-        },
-        {
-          "key": "p.06107357.095393a5.21dade459f",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/hot-30-5g-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Hot 30 5G",
-          "dst": {
-            "sk": "Hot 30 5G"
-          }
-        },
-        {
-          "key": "p.06107357.a4a538b6.ea71fdc889",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/hot-40-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Hot 40",
-          "dst": {
-            "sk": "Hot 40"
+            "sk": "Náhradné diely pre Infinix",
+            "en": "Spare Parts for Infinix",
+            "de": "Ersatzteile für Infinix"
           }
         },
         {
@@ -4372,35 +4816,9 @@
           "attr": "",
           "source": "Náhradní díly pro Tecno",
           "dst": {
-            "sk": "Náhradné diely pre Tecno"
-          }
-        },
-        {
-          "key": "p.06107357.cfa24bf0.c0e2668df6",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/pova-5-pro-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Pova 5 Pro",
-          "dst": {
-            "sk": "Pova 5 Pro"
-          }
-        },
-        {
-          "key": "p.06107357.3fa649b1.855bb56451",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/spark-20-pro-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Spark 20 Pro",
-          "dst": {
-            "sk": "Spark 20 Pro"
+            "sk": "Náhradné diely pre Tecno",
+            "en": "Spare Parts for Tecno",
+            "de": "Ersatzteile für Tecno"
           }
         },
         {
@@ -4414,7 +4832,9 @@
           "attr": "",
           "source": "Náhradní díly pro Huawei",
           "dst": {
-            "sk": "Náhradné diely pre Huawei"
+            "sk": "Náhradné diely pre Huawei",
+            "en": "Spare Parts for Huawei",
+            "de": "Ersatzteile für Huawei"
           }
         },
         {
@@ -4428,7 +4848,9 @@
           "attr": "",
           "source": "Huawei Y",
           "dst": {
-            "sk": "Huawei Y"
+            "sk": "Huawei Y",
+            "en": "Huawei Y",
+            "de": "Huawei Y"
           }
         },
         {
@@ -4442,7 +4864,9 @@
           "attr": "",
           "source": "Huawei P",
           "dst": {
-            "sk": "Huawei P"
+            "sk": "Huawei P",
+            "en": "Huawei P",
+            "de": "Huawei P"
           }
         },
         {
@@ -4456,7 +4880,9 @@
           "attr": "",
           "source": "MediaPad M2",
           "dst": {
-            "sk": "MediaPad M2"
+            "sk": "MediaPad M2",
+            "en": "MediaPad M2",
+            "de": "MediaPad M2"
           }
         },
         {
@@ -4470,7 +4896,9 @@
           "attr": "",
           "source": "MediaPad M3",
           "dst": {
-            "sk": "MediaPad M3"
+            "sk": "MediaPad M3",
+            "en": "MediaPad M3",
+            "de": "MediaPad M3"
           }
         },
         {
@@ -4484,7 +4912,9 @@
           "attr": "",
           "source": "Náhradní díly pro Lenovo",
           "dst": {
-            "sk": "Náhradné diely pre Lenovo"
+            "sk": "Náhradné diely pre Lenovo",
+            "en": "Spare Parts for Lenovo",
+            "de": "Ersatzteile für Lenovo"
           }
         },
         {
@@ -4498,7 +4928,9 @@
           "attr": "",
           "source": "Lenovo M",
           "dst": {
-            "sk": "Lenovo M"
+            "sk": "Lenovo M",
+            "en": "Lenovo M",
+            "de": "Lenovo M"
           }
         },
         {
@@ -4512,7 +4944,9 @@
           "attr": "",
           "source": "Lenovo tab",
           "dst": {
-            "sk": "Lenovo tab"
+            "sk": "Lenovo tab",
+            "en": "Lenovo Tab",
+            "de": "Lenovo Tab"
           }
         },
         {
@@ -4526,7 +4960,9 @@
           "attr": "",
           "source": "Lenovo P",
           "dst": {
-            "sk": "Lenovo P"
+            "sk": "Lenovo P",
+            "en": "Lenovo P",
+            "de": "Lenovo P"
           }
         },
         {
@@ -4540,7 +4976,9 @@
           "attr": "",
           "source": "Náhradní díly pro Honor",
           "dst": {
-            "sk": "Náhradné diely pre Honor"
+            "sk": "Náhradné diely pre Honor",
+            "en": "Spare Parts for Honor",
+            "de": "Ersatzteile für Honor"
           }
         },
         {
@@ -4554,7 +4992,9 @@
           "attr": "",
           "source": "Honor",
           "dst": {
-            "sk": "Honor"
+            "sk": "Honor",
+            "en": "Honor",
+            "de": "Honor"
           }
         },
         {
@@ -4568,7 +5008,9 @@
           "attr": "",
           "source": "Honor X",
           "dst": {
-            "sk": "Honor X"
+            "sk": "Honor X",
+            "en": "Honor X",
+            "de": "Honor X"
           }
         },
         {
@@ -4582,7 +5024,9 @@
           "attr": "",
           "source": "Honor Magic",
           "dst": {
-            "sk": "Honor Magic"
+            "sk": "Honor Magic",
+            "en": "Honor Magic",
+            "de": "Honor Magic"
           }
         },
         {
@@ -4596,7 +5040,9 @@
           "attr": "",
           "source": "Honor View",
           "dst": {
-            "sk": "Honor View"
+            "sk": "Honor View",
+            "en": "Honor View",
+            "de": "Honor View"
           }
         },
         {
@@ -4610,7 +5056,9 @@
           "attr": "",
           "source": "Realme",
           "dst": {
-            "sk": "Realme"
+            "sk": "Realme",
+            "en": "Realme",
+            "de": "Realme"
           }
         },
         {
@@ -4624,7 +5072,9 @@
           "attr": "",
           "source": "Realme C",
           "dst": {
-            "sk": "Realme C"
+            "sk": "Realme C",
+            "en": "Realme C",
+            "de": "Realme C"
           }
         },
         {
@@ -4638,35 +5088,9 @@
           "attr": "",
           "source": "Realme Note",
           "dst": {
-            "sk": "Realme Note"
-          }
-        },
-        {
-          "key": "p.06107357.971ed4d6.a1b44792d2",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/realme-12-2-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Realme 12",
-          "dst": {
-            "sk": "Realme 12"
-          }
-        },
-        {
-          "key": "p.06107357.7fb825c6.dc7cde55d9",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/realme-10-1-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Realme 10",
-          "dst": {
-            "sk": "Realme 10"
+            "sk": "Realme Note",
+            "en": "Realme Note",
+            "de": "Realme Note"
           }
         },
         {
@@ -4680,7 +5104,9 @@
           "attr": "",
           "source": "Náhradní díly LG",
           "dst": {
-            "sk": "Náhradné diely LG"
+            "sk": "Náhradné diely LG",
+            "en": "LG Spare Parts",
+            "de": "Ersatzteile für LG"
           }
         },
         {
@@ -4694,35 +5120,9 @@
           "attr": "",
           "source": "Náhradní díly pro OnePlus",
           "dst": {
-            "sk": "Náhradné diely pre OnePlus"
-          }
-        },
-        {
-          "key": "p.06107357.736955c5.855b67be83",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/oneplus-9-pro-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "OnePlus 9 Pro",
-          "dst": {
-            "sk": "OnePlus 9 Pro"
-          }
-        },
-        {
-          "key": "p.06107357.26397bcb.d4ddc83bc7",
-          "parentId": "",
-          "parent": ".component--core-navigation",
-          "selector": "a[href=\"/oneplus-9-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "OnePlus 9",
-          "dst": {
-            "sk": "OnePlus 9"
+            "sk": "Náhradné diely pre OnePlus",
+            "en": "Spare Parts for OnePlus",
+            "de": "Ersatzteile für OnePlus"
           }
         },
         {
@@ -4736,7 +5136,9 @@
           "attr": "",
           "source": "OnePlus Nord N100",
           "dst": {
-            "sk": "OnePlus Nord N100"
+            "sk": "OnePlus Nord N100",
+            "en": "OnePlus Nord N100",
+            "de": "OnePlus Nord N100"
           }
         },
         {
@@ -4750,7 +5152,9 @@
           "attr": "",
           "source": "One Plus 6T",
           "dst": {
-            "sk": "One Plus 6T"
+            "sk": "One Plus 6T",
+            "en": "OnePlus 6T",
+            "de": "One Plus 6T"
           }
         },
         {
@@ -4764,7 +5168,9 @@
           "attr": "",
           "source": "Náhradní díly pro herní konzole",
           "dst": {
-            "sk": "Náhradné diely pre herné konzoly"
+            "sk": "Náhradné diely pre herné konzoly",
+            "en": "Spare parts for gaming consoles",
+            "de": "Ersatzteile für Spielkonsolen"
           }
         },
         {
@@ -4778,7 +5184,9 @@
           "attr": "",
           "source": "Sony PS",
           "dst": {
-            "sk": "Sony PS"
+            "sk": "Sony PS",
+            "en": "Sony PS",
+            "de": "Sony PS"
           }
         },
         {
@@ -4792,7 +5200,9 @@
           "attr": "",
           "source": "Xbox",
           "dst": {
-            "sk": "Xbox"
+            "sk": "Xbox",
+            "en": "Xbox",
+            "de": "Xbox"
           }
         },
         {
@@ -4806,7 +5216,9 @@
           "attr": "",
           "source": "Nintendo Switch",
           "dst": {
-            "sk": "Nintendo Switch"
+            "sk": "Nintendo Switch",
+            "en": "Nintendo Switch",
+            "de": "Nintendo Switch"
           }
         },
         {
@@ -4820,7 +5232,9 @@
           "attr": "",
           "source": "Slevy",
           "dst": {
-            "sk": "Zľavy"
+            "sk": "Zľavy",
+            "en": "Discounts",
+            "de": "Rabatte"
           }
         },
         {
@@ -4834,7 +5248,9 @@
           "attr": "",
           "source": "Servis",
           "dst": {
-            "sk": "Servis"
+            "sk": "Servis",
+            "en": "Service",
+            "de": "Service"
           }
         },
         {
@@ -4848,7 +5264,9 @@
           "attr": "",
           "source": "Servis Apple",
           "dst": {
-            "sk": "Servis Apple"
+            "sk": "Servis Apple",
+            "en": "Apple Service",
+            "de": "Apple Service"
           }
         },
         {
@@ -4862,7 +5280,9 @@
           "attr": "",
           "source": "Samsung - ceník",
           "dst": {
-            "sk": "Samsung - cenník"
+            "sk": "Samsung - cenník",
+            "en": "Samsung - price list",
+            "de": "Samsung - Preisliste"
           }
         },
         {
@@ -4876,7 +5296,9 @@
           "attr": "",
           "source": "Xiaomi - ceník",
           "dst": {
-            "sk": "Xiaomi - cenník"
+            "sk": "Xiaomi - cenník",
+            "en": "Xiaomi - Price List",
+            "de": "Xiaomi - Preisliste"
           }
         },
         {
@@ -4890,7 +5312,9 @@
           "attr": "",
           "source": "Huawei - ceník",
           "dst": {
-            "sk": "Huawei - cenník"
+            "sk": "Huawei - cenník",
+            "en": "Huawei - Price List",
+            "de": "Huawei - Preisliste"
           }
         },
         {
@@ -4904,7 +5328,9 @@
           "attr": "",
           "source": "Honor - ceník",
           "dst": {
-            "sk": "Honor - cenník"
+            "sk": "Honor - cenník",
+            "en": "Honor - Price List",
+            "de": "Honor - Preisliste"
           }
         },
         {
@@ -4918,7 +5344,9 @@
           "attr": "",
           "source": "Elektrokoloběžky - ceník",
           "dst": {
-            "sk": "Elektrické kolobežky - cenník"
+            "sk": "Elektrické kolobežky - cenník",
+            "en": "Electric Scooters - Price List",
+            "de": "Elektrokleinstfahrzeuge - Preisliste"
           }
         },
         {
@@ -4932,7 +5360,9 @@
           "attr": "",
           "source": "Všeobecný ceník servisu elektrokoloběžek",
           "dst": {
-            "sk": "Všeobecný cenník servisu elektrokolobežiek"
+            "sk": "Všeobecný cenník servisu elektrokolobežiek",
+            "en": "General Price List for Electric Scooter Service",
+            "de": "Allgemeine Preisliste für den Service von Elektroscootern"
           }
         },
         {
@@ -4946,7 +5376,9 @@
           "attr": "",
           "source": "Herní konzole - ceník",
           "dst": {
-            "sk": "Herné konzoly - cenník"
+            "sk": "Herné konzoly - cenník",
+            "en": "Gaming Consoles - Price List",
+            "de": "Spielkonsole - Preisliste"
           }
         },
         {
@@ -4960,7 +5392,9 @@
           "attr": "",
           "source": "Ostatní značky - ceník",
           "dst": {
-            "sk": "Ostatné značky - cenník"
+            "sk": "Ostatné značky - cenník",
+            "en": "Other Brands - Price List",
+            "de": "Sonstige Marken - Preisliste"
           }
         },
         {
@@ -4974,7 +5408,9 @@
           "attr": "",
           "source": "Výkup",
           "dst": {
-            "sk": "Výkup"
+            "sk": "Výkup",
+            "en": "Purchase",
+            "de": "Ankauf"
           }
         },
         {
@@ -4988,7 +5424,9 @@
           "attr": "",
           "source": "Refurbished",
           "dst": {
-            "sk": "Refurbished"
+            "sk": "Refurbished",
+            "en": "Refurbished",
+            "de": "Generalüberholt"
           }
         },
         {
@@ -5002,7 +5440,9 @@
           "attr": "",
           "source": "O nás",
           "dst": {
-            "sk": "O nás"
+            "sk": "O nás",
+            "en": "About Us",
+            "de": "Über uns"
           }
         },
         {
@@ -5016,7 +5456,9 @@
           "attr": "",
           "source": "Prodejny",
           "dst": {
-            "sk": "Predajne"
+            "sk": "Predajne",
+            "en": "Stores",
+            "de": "Verkaufsgeschäfte"
           }
         },
         {
@@ -5030,7 +5472,9 @@
           "attr": "",
           "source": "Kontakty",
           "dst": {
-            "sk": "Kontakty"
+            "sk": "Kontakty",
+            "en": "Contacts",
+            "de": "Kontakte"
           }
         },
         {
@@ -5044,7 +5488,9 @@
           "attr": "",
           "source": "Quad Lock držáky",
           "dst": {
-            "sk": "Quad Lock držiaky"
+            "sk": "Quad Lock držiaky",
+            "en": "Quad Lock mounts",
+            "de": "Quad Lock Halterungen"
           }
         },
         {
@@ -5058,7 +5504,9 @@
           "attr": "",
           "source": "Na motorku",
           "dst": {
-            "sk": "Na motocykel"
+            "sk": "Na motocykel",
+            "en": "For the motorcycle",
+            "de": "Für das Motorrad"
           }
         },
         {
@@ -5072,7 +5520,9 @@
           "attr": "",
           "source": "Do auta",
           "dst": {
-            "sk": "Do auta"
+            "sk": "Do auta",
+            "en": "To the car",
+            "de": "Für Autos"
           }
         },
         {
@@ -5086,7 +5536,9 @@
           "attr": "",
           "source": "Na kolo",
           "dst": {
-            "sk": "Na bicykel"
+            "sk": "Na bicykel",
+            "en": "On the bike",
+            "de": "Auf das Fahrrad"
           }
         },
         {
@@ -5100,7 +5552,9 @@
           "attr": "",
           "source": "Ostatní",
           "dst": {
-            "sk": "Ostatní"
+            "sk": "Ostatní",
+            "en": "Others",
+            "de": "Übrige"
           }
         },
         {
@@ -5114,7 +5568,9 @@
           "attr": "",
           "source": "Quad Lock kryty",
           "dst": {
-            "sk": "Quad Lock kryty"
+            "sk": "Quad Lock kryty",
+            "en": "Quad Lock cases",
+            "de": "Quad Lock Abdeckungen"
           }
         },
         {
@@ -5128,7 +5584,9 @@
           "attr": "",
           "source": "Apple",
           "dst": {
-            "sk": "Apple"
+            "sk": "Apple",
+            "en": "Apple",
+            "de": "Apple"
           }
         },
         {
@@ -5142,7 +5600,9 @@
           "attr": "",
           "source": "Samsung",
           "dst": {
-            "sk": "Samsung"
+            "sk": "Samsung",
+            "en": "Samsung",
+            "de": "Samsung"
           }
         },
         {
@@ -5156,7 +5616,9 @@
           "attr": "",
           "source": "Huawei",
           "dst": {
-            "sk": "Huawei"
+            "sk": "Huawei",
+            "en": "Huawei",
+            "de": "Huawei"
           }
         },
         {
@@ -5170,7 +5632,9 @@
           "attr": "",
           "source": "Google Pixel",
           "dst": {
-            "sk": "Google Pixel"
+            "sk": "Google Pixel",
+            "en": "Google Pixel",
+            "de": "Google Pixel"
           }
         },
         {
@@ -5184,7 +5648,9 @@
           "attr": "",
           "source": "Quad Lock příslušenství",
           "dst": {
-            "sk": "Quad Lock príslušenstvo"
+            "sk": "Quad Lock príslušenstvo",
+            "en": "Quad Lock accessories",
+            "de": "Quad Lock Zubehör"
           }
         },
         {
@@ -5198,7 +5664,9 @@
           "attr": "",
           "source": "Doplňky",
           "dst": {
-            "sk": "Doplnky"
+            "sk": "Doplnky",
+            "en": "Accessories",
+            "de": "Zubehör"
           }
         },
         {
@@ -5212,7 +5680,9 @@
           "attr": "",
           "source": "Ochranná skla",
           "dst": {
-            "sk": "Ochranné sklá"
+            "sk": "Ochranné sklá",
+            "en": "Protective Glasses",
+            "de": "Schutzgläser"
           }
         },
         {
@@ -5226,21 +5696,9 @@
           "attr": "",
           "source": "Náhradní díly",
           "dst": {
-            "sk": "Náhradné diely"
-          }
-        },
-        {
-          "key": "p.06107357.20cd6b11.a6fb0300b3",
-          "parentId": "",
-          "parent": ".submenu",
-          "selector": "a[href=\"/quad-lock-360-c\"]",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Quad Lock 360",
-          "dst": {
-            "sk": "Quad Lock 360"
+            "sk": "Náhradné diely",
+            "en": "Spare Parts",
+            "de": "Ersatzteile"
           }
         },
         {
@@ -5254,7 +5712,9 @@
           "attr": "",
           "source": "Quad Lock Poncho",
           "dst": {
-            "sk": "Quad Lock Pončo"
+            "sk": "Quad Lock Pončo",
+            "en": "Quad Lock Poncho",
+            "de": "Quad Lock Poncho"
           }
         },
         {
@@ -5268,7 +5728,9 @@
           "attr": "",
           "source": "Apple",
           "dst": {
-            "sk": "Apple"
+            "sk": "Apple",
+            "en": "Apple",
+            "de": "Apple"
           }
         },
         {
@@ -5282,7 +5744,9 @@
           "attr": "",
           "source": "Samsung",
           "dst": {
-            "sk": "Samsung"
+            "sk": "Samsung",
+            "en": "Samsung",
+            "de": "Samsung"
           }
         },
         {
@@ -5296,7 +5760,9 @@
           "attr": "",
           "source": "Google Pixel",
           "dst": {
-            "sk": "Google Pixel"
+            "sk": "Google Pixel",
+            "en": "Google Pixel",
+            "de": "Google Pixel"
           }
         },
         {
@@ -5310,7 +5776,9 @@
           "attr": "",
           "source": "Huawei",
           "dst": {
-            "sk": "Huawei"
+            "sk": "Huawei",
+            "en": "Huawei",
+            "de": "Huawei"
           }
         },
         {
@@ -5324,7 +5792,9 @@
           "attr": "",
           "source": "Výkup použitých zařízení",
           "dst": {
-            "sk": "Výkup použitých zariadení"
+            "sk": "Výkup použitých zariadení",
+            "en": "Purchase of Used Equipment",
+            "de": "Ankauf von gebrauchten Geräten"
           }
         },
         {
@@ -5338,7 +5808,9 @@
           "attr": "",
           "source": "Vlastníte staré Apple zařízení? My jej vykoupíme! Děláme výkupy",
           "dst": {
-            "sk": "Vlastníte staré Apple zariadenie? My ho vykúpime! Robíme výkupy."
+            "sk": "Vlastníte staré Apple zariadenie? My ho vykúpime! Robíme výkupy.",
+            "en": "Do you own an old Apple device? We will buy it! We offer buyback services.",
+            "de": "Besitzen Sie ein altes Apple-Gerät? Wir kaufen es Ihnen ab! Wir führen Ankauf durch."
           }
         },
         {
@@ -5352,7 +5824,9 @@
           "attr": "",
           "source": "iPhone",
           "dst": {
-            "sk": "iPhone"
+            "sk": "iPhone",
+            "en": "iPhone",
+            "de": "iPhone"
           }
         },
         {
@@ -5366,7 +5840,9 @@
           "attr": "",
           "source": ", výkup",
           "dst": {
-            "sk": ", výkup"
+            "sk": ", výkup",
+            "en": ", purchase",
+            "de": ", Ankauf"
           }
         },
         {
@@ -5380,7 +5856,9 @@
           "attr": "",
           "source": "MacBook",
           "dst": {
-            "sk": "MacBook"
+            "sk": "MacBook",
+            "en": "MacBook",
+            "de": "MacBook"
           }
         },
         {
@@ -5394,7 +5872,9 @@
           "attr": "",
           "source": "a výkup",
           "dst": {
-            "sk": "a výkup"
+            "sk": "a výkup",
+            "en": "and purchase",
+            "de": "und Ankauf"
           }
         },
         {
@@ -5408,7 +5888,9 @@
           "attr": "",
           "source": "Apple Watch",
           "dst": {
-            "sk": "Apple Watch"
+            "sk": "Apple Watch",
+            "en": "Apple Watch",
+            "de": "Apple Watch"
           }
         },
         {
@@ -5422,7 +5904,9 @@
           "attr": "",
           "source": "za nejlepší možnou cenu. Výkup můžete uskutečnit rychle a bezpečně na naší prodejně v centru Plzně.",
           "dst": {
-            "sk": "za najlepšiu možnú cenu. Výkup môžete uskutočniť rýchlo a bezpečne v našej predajni v centre Plzne."
+            "sk": "za najlepšiu možnú cenu. Výkup môžete uskutočniť rýchlo a bezpečne v našej predajni v centre Plzne.",
+            "en": "at the best possible price. You can carry out the purchase quickly and safely at our store in the center of Plzeň.",
+            "de": "zum bestmöglichen Preis. Den Ankauf können Sie schnell und sicher in unserem Geschäft im Zentrum von Pilsen durchführen."
           }
         },
         {
@@ -5436,7 +5920,9 @@
           "attr": "",
           "source": "Proč jít s výkupem k nám?",
           "dst": {
-            "sk": "Prečo ísť s výkupom k nám?"
+            "sk": "Prečo ísť s výkupom k nám?",
+            "en": "Why choose us for your buyback?",
+            "de": "Warum sollten Sie sich für den Ankauf bei uns entscheiden?"
           }
         },
         {
@@ -5450,7 +5936,9 @@
           "attr": "",
           "source": "Nabízíme ty nejvyšší možné výkupní ceny",
           "dst": {
-            "sk": "Ponúkame tie najvyššie možné výkupné ceny."
+            "sk": "Ponúkame tie najvyššie možné výkupné ceny.",
+            "en": "We offer the highest possible buyback prices.",
+            "de": "Wir bieten die höchstmöglichen Ankaufspreise an."
           }
         },
         {
@@ -5464,7 +5952,9 @@
           "attr": "",
           "source": "Hodnotu výkupu vám pošleme na účet, dáme v hotovosti nebo odečteme z nákupu",
           "dst": {
-            "sk": "Hodnotu výkupu vám pošleme na účet, dáme v hotovosti alebo odpočítame z nákupu."
+            "sk": "Hodnotu výkupu vám pošleme na účet, dáme v hotovosti alebo odpočítame z nákupu.",
+            "en": "We will send the buyback value to your account, provide it in cash, or deduct it from your purchase.",
+            "de": "Den Wert des Ankaufs überweisen wir Ihnen auf Ihr Konto, geben ihn in bar aus oder ziehen ihn vom Kaufpreis ab."
           }
         },
         {
@@ -5478,7 +5968,9 @@
           "attr": "",
           "source": "K výkupu Vám postačí pouze občanský průkaz",
           "dst": {
-            "sk": "Na výkup Vám postačí iba občiansky preukaz."
+            "sk": "Na výkup Vám postačí iba občiansky preukaz.",
+            "en": "For the buyback, you only need an identity card.",
+            "de": "Für den Ankauf benötigen Sie lediglich Ihren Personalausweis."
           }
         },
         {
@@ -5492,7 +5984,9 @@
           "attr": "",
           "source": "Nevyžadujeme doklad o koupi zařízení",
           "dst": {
-            "sk": "Nevyžadujeme doklad o kúpe zariadenia."
+            "sk": "Nevyžadujeme doklad o kúpe zariadenia.",
+            "en": "We do not require proof of purchase for the device.",
+            "de": "Wir verlangen keinen Nachweis über den Kauf des Geräts."
           }
         },
         {
@@ -5506,7 +6000,9 @@
           "attr": "",
           "source": "Co vykupujeme?",
           "dst": {
-            "sk": "Čo vykupujeme?"
+            "sk": "Čo vykupujeme?",
+            "en": "What do we buy?",
+            "de": "Was kaufen wir an?"
           }
         },
         {
@@ -5520,7 +6016,9 @@
           "attr": "",
           "source": "iPhone",
           "dst": {
-            "sk": "iPhone"
+            "sk": "iPhone",
+            "en": "iPhone",
+            "de": "iPhone"
           }
         },
         {
@@ -5534,7 +6032,9 @@
           "attr": "",
           "source": "iPad",
           "dst": {
-            "sk": "iPad"
+            "sk": "iPad",
+            "en": "iPad",
+            "de": "iPad"
           }
         },
         {
@@ -5548,7 +6048,9 @@
           "attr": "",
           "source": "Mac",
           "dst": {
-            "sk": "Mac"
+            "sk": "Mac",
+            "en": "Mac",
+            "de": "Bitte geben Sie den zu übersetzenden Text an, damit ich Ihnen helfen kann."
           }
         },
         {
@@ -5562,7 +6064,9 @@
           "attr": "",
           "source": "Watch",
           "dst": {
-            "sk": "Hodinky"
+            "sk": "Hodinky",
+            "en": "Watch",
+            "de": "Uhr"
           }
         },
         {
@@ -5576,7 +6080,9 @@
           "attr": "",
           "source": "Express Servis",
           "dst": {
-            "sk": "Express Servis"
+            "sk": "Express Servis",
+            "en": "Express Service",
+            "de": "Express-Service"
           }
         },
         {
@@ -5590,7 +6096,9 @@
           "attr": "",
           "source": "Výhody nákupu u nás",
           "dst": {
-            "sk": "Výhody nákupu u nás"
+            "sk": "Výhody nákupu u nás",
+            "en": "Advantages of shopping with us",
+            "de": "Vorteile des Kaufs bei uns"
           }
         },
         {
@@ -5604,7 +6112,9 @@
           "attr": "",
           "source": "Vše o nákupu",
           "dst": {
-            "sk": "Všetko o nákupe"
+            "sk": "Všetko o nákupe",
+            "en": "Everything About Purchasing",
+            "de": "Alles über den Kauf"
           }
         },
         {
@@ -5618,7 +6128,9 @@
           "attr": "",
           "source": "Cena dopravy",
           "dst": {
-            "sk": "Cena dopravy"
+            "sk": "Cena dopravy",
+            "en": "Shipping cost",
+            "de": "Versandkosten"
           }
         },
         {
@@ -5632,7 +6144,9 @@
           "attr": "",
           "source": "Apple servis pro firmy",
           "dst": {
-            "sk": "Apple servis pre firmy"
+            "sk": "Apple servis pre firmy",
+            "en": "Apple service for businesses",
+            "de": "Apple-Service für Unternehmen"
           }
         },
         {
@@ -5646,7 +6160,9 @@
           "attr": "",
           "source": "Pro partnery",
           "dst": {
-            "sk": "Pre partnerov"
+            "sk": "Pre partnerov",
+            "en": "For Partners",
+            "de": "Für Partner"
           }
         },
         {
@@ -5660,7 +6176,9 @@
           "attr": "",
           "source": "O nás",
           "dst": {
-            "sk": "O nás"
+            "sk": "O nás",
+            "en": "About Us",
+            "de": "Über uns"
           }
         },
         {
@@ -5674,7 +6192,9 @@
           "attr": "",
           "source": "Volné pozice",
           "dst": {
-            "sk": "Voľné pozície"
+            "sk": "Voľné pozície",
+            "en": "Job Openings",
+            "de": "Offene Stellen"
           }
         },
         {
@@ -5688,7 +6208,9 @@
           "attr": "",
           "source": "Co je nového",
           "dst": {
-            "sk": "Čo je nového"
+            "sk": "Čo je nového",
+            "en": "What's New",
+            "de": "Was gibt es Neues"
           }
         },
         {
@@ -5702,7 +6224,9 @@
           "attr": "",
           "source": "Užitečné",
           "dst": {
-            "sk": "Užitočné"
+            "sk": "Užitočné",
+            "en": "Useful",
+            "de": "Nützlich"
           }
         },
         {
@@ -5716,7 +6240,9 @@
           "attr": "",
           "source": "Podmínky a formuláře",
           "dst": {
-            "sk": "Podmienky a formuláre"
+            "sk": "Podmienky a formuláre",
+            "en": "Terms and Forms",
+            "de": "Bedingungen und Formulare"
           }
         },
         {
@@ -5730,7 +6256,9 @@
           "attr": "",
           "source": "Nejčastější dotazy",
           "dst": {
-            "sk": "Najčastejšie otázky"
+            "sk": "Najčastejšie otázky",
+            "en": "Frequently Asked Questions",
+            "de": "Häufigste Fragen"
           }
         },
         {
@@ -5744,7 +6272,9 @@
           "attr": "",
           "source": "Apple service programs",
           "dst": {
-            "sk": "Apple servisné programy"
+            "sk": "Apple servisné programy",
+            "en": "Apple Service Programs",
+            "de": "Apple-Serviceprogramme"
           }
         },
         {
@@ -5758,7 +6288,9 @@
           "attr": "",
           "source": "Ověření záruky Apple",
           "dst": {
-            "sk": "Overenie záruky Apple"
+            "sk": "Overenie záruky Apple",
+            "en": "Apple Warranty Verification",
+            "de": "Apple-Garantie überprüfen"
           }
         },
         {
@@ -5772,7 +6304,9 @@
           "attr": "",
           "source": "Návody",
           "dst": {
-            "sk": "Návody"
+            "sk": "Návody",
+            "en": "Instructions",
+            "de": "Anleitungen"
           }
         },
         {
@@ -5786,7 +6320,9 @@
           "attr": "",
           "source": "Vytopený iPhone, co dělat?",
           "dst": {
-            "sk": "Zatopený iPhone, čo robiť?"
+            "sk": "Zatopený iPhone, čo robiť?",
+            "en": "Heated iPhone, what to do?",
+            "de": "Was tun bei einem überhitzten iPhone?"
           }
         },
         {
@@ -5800,7 +6336,9 @@
           "attr": "",
           "source": "Objednat svoz ZDARMA",
           "dst": {
-            "sk": "Objednať zvoz ZDARMA"
+            "sk": "Objednať zvoz ZDARMA",
+            "en": "Order free pickup",
+            "de": "Kostenlosen Abholservice bestellen"
           }
         },
         {
@@ -5814,7 +6352,9 @@
           "attr": "",
           "source": "Rychlý kontakt",
           "dst": {
-            "sk": "Rýchly kontakt"
+            "sk": "Rýchly kontakt",
+            "en": "Quick Contact",
+            "de": "Schneller Kontakt"
           }
         },
         {
@@ -5828,35 +6368,9 @@
           "attr": "",
           "source": "Express Servis Company s.r.o.",
           "dst": {
-            "sk": "Express Servis Company s.r.o."
-          }
-        },
-        {
-          "key": "p.06107357.0edd80ea.e9628fd165",
-          "parentId": "",
-          "parent": ".component--core-footer",
-          "selector": "div.icon-offset",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Bedřicha Smetany 166/4",
-          "dst": {
-            "sk": "Bedřicha Smetanu 166/4"
-          }
-        },
-        {
-          "key": "p.06107357.0edd80ea.602cf4bcc4",
-          "parentId": "",
-          "parent": ".component--core-footer",
-          "selector": "div.icon-offset",
-          "index": 1,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "301 00 Plzeň",
-          "dst": {
-            "sk": "301 00 Plzeň"
+            "sk": "Express Servis Company s.r.o.",
+            "en": "Express Servis Company s.r.o.",
+            "de": "Express Servis Company s.r.o."
           }
         },
         {
@@ -5870,7 +6384,9 @@
           "attr": "",
           "source": "Po-Pá",
           "dst": {
-            "sk": "Po-Pá"
+            "sk": "Po-Pá",
+            "en": "Mon-Fri",
+            "de": "Montag bis Freitag"
           }
         },
         {
@@ -5884,21 +6400,9 @@
           "attr": "",
           "source": "E-shop",
           "dst": {
-            "sk": "E-shop"
-          }
-        },
-        {
-          "key": "p.06107357.11d3be56.fc56c3dd0f",
-          "parentId": "",
-          "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "info@express-servis.cz",
-          "dst": {
-            "sk": "info@express-servis.sk"
+            "sk": "E-shop",
+            "en": "E-shop",
+            "de": "E-Shop"
           }
         },
         {
@@ -5912,21 +6416,9 @@
           "attr": "",
           "source": "Servis",
           "dst": {
-            "sk": "Servis"
-          }
-        },
-        {
-          "key": "p.06107357.11d3be56.2edff003be",
-          "parentId": "",
-          "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 1,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "servis@express-servis.cz",
-          "dst": {
-            "sk": "servis@express-servis.sk"
+            "sk": "Servis",
+            "en": "Service",
+            "de": "Service"
           }
         },
         {
@@ -5940,7 +6432,9 @@
           "attr": "",
           "source": "Sledujte nás",
           "dst": {
-            "sk": "Sledujte nás"
+            "sk": "Sledujte nás",
+            "en": "Follow us",
+            "de": "Folgen Sie uns"
           }
         },
         {
@@ -5954,7 +6448,9 @@
           "attr": "",
           "source": "Facebook",
           "dst": {
-            "sk": "Facebook"
+            "sk": "Facebook",
+            "en": "Facebook",
+            "de": "Facebook"
           }
         },
         {
@@ -5968,7 +6464,9 @@
           "attr": "",
           "source": "YouTube",
           "dst": {
-            "sk": "YouTube"
+            "sk": "YouTube",
+            "en": "YouTube",
+            "de": "YouTube"
           }
         },
         {
@@ -5982,7 +6480,9 @@
           "attr": "",
           "source": "Instagram",
           "dst": {
-            "sk": "Instagram"
+            "sk": "Instagram",
+            "en": "Instagram",
+            "de": "Instagram"
           }
         },
         {
@@ -5996,7 +6496,9 @@
           "attr": "",
           "source": "TikTok",
           "dst": {
-            "sk": "TikTok"
+            "sk": "TikTok",
+            "en": "TikTok",
+            "de": "Es tut mir leid, aber ich benötige den spezifischen Text, den Sie aus dem Tschechischen ins Deutsche übersetzen möchten. Bitte geben Sie den Text an, und ich helfe Ihnen gerne weiter!"
           }
         },
         {
@@ -6010,21 +6512,9 @@
           "attr": "",
           "source": "Spotify",
           "dst": {
-            "sk": "Spotify"
-          }
-        },
-        {
-          "key": "p.06107357.227e6e92.572dceee86",
-          "parentId": "",
-          "parent": ".component--core-footer",
-          "selector": "div.author",
-          "index": 0,
-          "textIndex": 0,
-          "mode": "textnode",
-          "attr": "",
-          "source": "Copyright © 2025 | Express Servis Company s.r.o.",
-          "dst": {
-            "sk": "Copyright © 2025 | Express Servis Company s.r.o."
+            "sk": "Spotify",
+            "en": "Spotify",
+            "de": "Spotify"
           }
         },
         {
@@ -6038,7 +6528,9 @@
           "attr": "",
           "source": "Apple, logo společnosti Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air, and MacBook Pro jsou ochranné známky společnosti Apple Inc., registrované v USA a ostatních zemích",
           "dst": {
-            "sk": "Apple, logo spoločnosti Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air a MacBook Pro sú ochranné známky spoločnosti Apple Inc., registrované v USA a iných krajinách."
+            "sk": "Apple, logo spoločnosti Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air a MacBook Pro sú ochranné známky spoločnosti Apple Inc., registrované v USA a iných krajinách.",
+            "en": "Apple, the Apple logo, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air, and MacBook Pro are trademarks of Apple Inc., registered in the USA and other countries.",
+            "de": "Apple, das Logo der Firma Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air und MacBook Pro sind Marken der Apple Inc., eingetragen in den USA und anderen Ländern."
           }
         }
       ]
