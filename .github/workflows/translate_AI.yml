@@ -32,24 +32,45 @@ jobs:
         run: |
           python translate_web.py
 
-      - name: Clean i18n DB
-        run: python clean_i18n_db.py    
-
-      - name: Debug DB file
+      # Pozn.: clean_i18n_db.py teď čistí pouze i18n/i18n_pages_db.json.
+      # Pokud WRITE_LEGACY_DB=True, můžeš to zatím nechat.
+      - name: Clean legacy i18n DB (optional)
         run: |
-          ls -la i18n || true
-          wc -c i18n/i18n_pages_db.json || true
-          head -n 5 i18n/i18n_pages_db.json || true    
+          if [ -f "i18n/i18n_pages_db.json" ]; then
+            python clean_i18n_db.py
+          else
+            echo "Legacy DB not found, skipping clean."
+          fi
 
-      - name: Commit and push changes
+      - name: Debug generated i18n files
+        run: |
+          echo "=== i18n dir ==="
+          ls -la i18n || true
+
+          echo "=== index/global sizes ==="
+          wc -c i18n/index.json i18n/global.json 2>/dev/null || true
+
+          echo "=== pages count & sample ==="
+          ls -1 i18n/pages 2>/dev/null | wc -l || true
+          ls -la i18n/pages 2>/dev/null | head -n 20 || true
+
+          echo "=== legacy db size (if exists) ==="
+          wc -c i18n/i18n_pages_db.json 2>/dev/null || true
+          head -n 5 i18n/index.json 2>/dev/null || true
+          head -n 5 i18n/global.json 2>/dev/null || true
+
+      - name: Commit and push changes (all i18n outputs)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if git status --porcelain | grep -q "i18n/i18n_pages_db.json"; then
-            git add i18n/i18n_pages_db.json
-            git commit -m "chore: update i18n pages db"
-            git push
-          else
-            echo "No changes in i18n/i18n_pages_db.json"
+          # Přidej celý i18n strom (global/index/pages + případně legacy db)
+          git add i18n
+
+          if git diff --cached --quiet; then
+            echo "No changes in i18n/"
+            exit 0
           fi
+
+          git commit -m "chore: update i18n outputs"
+          git push
