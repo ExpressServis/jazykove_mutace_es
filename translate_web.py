@@ -242,6 +242,14 @@ def build_selector(el) -> str:
         return ""
     if el.get("id"):
         return f"{el.name}#{el.get('id')}"
+
+    # ✅ robustní selektor pro odkazy
+    if el.name == "a":
+        href = (el.get("href") or "").strip()
+        if href and not href.startswith(("#", "javascript:", "mailto:", "tel:")):
+            href = href.replace('"', '\\"')
+            return f'a[href="{href}"]'
+
     tag = el.name
     classes = [c for c in (el.get("class") or []) if c and not c.startswith("js-")]
     classes = [c for c in classes if c not in _GENERIC_CLASSES][:2]
