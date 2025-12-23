@@ -467,12 +467,1659 @@
       "meta": {
         "updated_at": 1766451757
       }
+    },
+    "566f278273bd743503bbfde52385171329b2a19fc89ead5c6c55d76e6a49c601": {
+      "src": "Vyhledat",
+      "dst": {
+        "sk": "Vyhľadať"
+      },
+      "meta": {
+        "updated_at": 1766453875
+      }
+    },
+    "c91b1ab7d34dfb5cc5a8907d6ebfe3acb14da8096705b6e906a66e2ec1e5cea4": {
+      "src": "Prodejny",
+      "dst": {
+        "sk": "Predajne"
+      },
+      "meta": {
+        "updated_at": 1766453875
+      }
+    },
+    "92b86eaa37135b5dcd0444cd90640e12d0ec46584c2015f8889ad8894986e71c": {
+      "src": "Kontakty",
+      "dst": {
+        "sk": "Kontakty"
+      },
+      "meta": {
+        "updated_at": 1766453876
+      }
+    },
+    "d6d5204e6a813fe266f938a4aac747bad198eb08c4b6c5e4aad4ae99ea07abfb": {
+      "src": "CZK (Kč)",
+      "dst": {
+        "sk": "CZK (Kč)"
+      },
+      "meta": {
+        "updated_at": 1766453877
+      }
+    },
+    "fb29af5823a1ff82df0fbaa64953295ee5459f80764c6f8198d2e9034262116a": {
+      "src": "EUR (€)",
+      "dst": {
+        "sk": "Samozrejme, pošlite mi text, ktorý chcete preložiť."
+      },
+      "meta": {
+        "updated_at": 1766453878
+      }
+    },
+    "2eb78d1be8cc2571f345292e692913ef1b3b7c457beb2a63ec533ea50c6c4d0c": {
+      "src": "Quad Lock",
+      "dst": {
+        "sk": "Quad Lock"
+      },
+      "meta": {
+        "updated_at": 1766453878
+      }
+    },
+    "9715a55779c4d75998ef1e2ea0b028e6dbc1b0164eca3c82ac038bb497de91a2": {
+      "src": "Quad Lock držáky",
+      "dst": {
+        "sk": "Quad Lock držiaky"
+      },
+      "meta": {
+        "updated_at": 1766453879
+      }
+    },
+    "e23cc8863de41e41acf24a6b509bc1fb98e5f63706c2a2be79d0f5f9cc6827b9": {
+      "src": "Na motorku",
+      "dst": {
+        "sk": "Na motocykel"
+      },
+      "meta": {
+        "updated_at": 1766453879
+      }
+    },
+    "9e72901c6751ab07d79ab38b958ea1f6efaa6e1f976e5e3d5a8cb7ae08009fdc": {
+      "src": "Do auta",
+      "dst": {
+        "sk": "Do auta"
+      },
+      "meta": {
+        "updated_at": 1766453881
+      }
+    },
+    "bd56dffdb87b668a2b7bd0a78a09427b8cb09a31ff1e558fc2fbae69aa5f567a": {
+      "src": "Na kolo",
+      "dst": {
+        "sk": "Na bicykel"
+      },
+      "meta": {
+        "updated_at": 1766453881
+      }
+    },
+    "05c74fa3258e785ce5f59663374ce1eab63769ced0a81a64329bdc75839626ed": {
+      "src": "Ostatní",
+      "dst": {
+        "sk": "Ostatní"
+      },
+      "meta": {
+        "updated_at": 1766453881
+      }
+    },
+    "8c0610b490b2aa92ec99e446c880eec4bfed08cd32f58234f9be2194fb349f92": {
+      "src": "Quad Lock kryty",
+      "dst": {
+        "sk": "Quad Lock kryty"
+      },
+      "meta": {
+        "updated_at": 1766453882
+      }
+    },
+    "f223faa96f22916294922b171a2696d868fd1f9129302eb41a45b2a2ea2ebbfd": {
+      "src": "Apple",
+      "dst": {
+        "sk": "Apple"
+      },
+      "meta": {
+        "updated_at": 1766453882
+      }
+    },
+    "285075a02b2679248a6b4636c3328bd3097626607c3e43c0c5498258fbfa9f29": {
+      "src": "Samsung",
+      "dst": {
+        "sk": "Samsung"
+      },
+      "meta": {
+        "updated_at": 1766453883
+      }
+    },
+    "df853f864c74fa85acd3a25cd0afed68f1f1d0ab249e17cdb25e77569ac595a2": {
+      "src": "Huawei",
+      "dst": {
+        "sk": "Huawei"
+      },
+      "meta": {
+        "updated_at": 1766453883
+      }
+    },
+    "085a607a4203cb9bd7dca4192d054f05641b82c35695646aa0a894a35a899651": {
+      "src": "Google Pixel",
+      "dst": {
+        "sk": "Google Pixel"
+      },
+      "meta": {
+        "updated_at": 1766453883
+      }
+    },
+    "90ca6504073fa8ff0841c0d1fe19e8558bb7cc52a762eb842fa3b2450906ae62": {
+      "src": "Quad Lock příslušenství",
+      "dst": {
+        "sk": "Quad Lock príslušenstvo"
+      },
+      "meta": {
+        "updated_at": 1766453884
+      }
+    },
+    "da77839cab286624caca49bbd4ac7034d6a888cfa05c45b23562b3b209a0eced": {
+      "src": "Doplňky",
+      "dst": {
+        "sk": "Doplnky"
+      },
+      "meta": {
+        "updated_at": 1766453885
+      }
+    },
+    "a4aa7bf5bb6a2d52137be93d9e7a01501c048425a23f9ece0026cc7af7ea9770": {
+      "src": "Ochranná skla",
+      "dst": {
+        "sk": "Ochranné sklá"
+      },
+      "meta": {
+        "updated_at": 1766453885
+      }
+    },
+    "ee79f907e39a2aa43ae2a04c1dccd80ee2ff62063783758dd7e052e79cf96057": {
+      "src": "Náhradní díly",
+      "dst": {
+        "sk": "Náhradné diely"
+      },
+      "meta": {
+        "updated_at": 1766453886
+      }
+    },
+    "a6fb0300b316973220034518af2325c23020fcb28014041b421331cde4d107ac": {
+      "src": "Quad Lock 360",
+      "dst": {
+        "sk": "Quad Lock 360"
+      },
+      "meta": {
+        "updated_at": 1766453886
+      }
+    },
+    "1338fa352e66957680a54b1154d6dfbe690da656a81a53336178b05e5794a603": {
+      "src": "Quad Lock Poncho",
+      "dst": {
+        "sk": "Quad Lock Pončo"
+      },
+      "meta": {
+        "updated_at": 1766453887
+      }
+    },
+    "6fefc8d73d1b0c74631df3993559796f36b3dac982c79836e63b7dd162c2a567": {
+      "src": "iPhone 17",
+      "dst": {
+        "sk": "iPhone 17"
+      },
+      "meta": {
+        "updated_at": 1766453887
+      }
+    },
+    "9ac2caadabea1ccc96687fbd182b4a95fc6f0e23e8ebb609a11c0af3e4d2526f": {
+      "src": "iPhone 17 Pro",
+      "dst": {
+        "sk": "iPhone 17 Pro"
+      },
+      "meta": {
+        "updated_at": 1766453887
+      }
+    },
+    "95c961fb77d6bc311d5cd1083a1eefae1360c1e98677c906fbb221c2b1282e3c": {
+      "src": "iPhone 17 Pro Max",
+      "dst": {
+        "sk": "iPhone 17 Pro Max"
+      },
+      "meta": {
+        "updated_at": 1766453888
+      }
+    },
+    "68fce2aa13d6e9f4486b4b9924471160cc9798dc016670a504efc79d9afb54a6": {
+      "src": "iPhone Air",
+      "dst": {
+        "sk": "iPhone Air"
+      },
+      "meta": {
+        "updated_at": 1766453888
+      }
+    },
+    "2218bb03b59e3ed3690ba3e8f187ece8e780819aab2a17e4170afa456b502b68": {
+      "src": "MacBook Air",
+      "dst": {
+        "sk": "MacBook Air"
+      },
+      "meta": {
+        "updated_at": 1766453888
+      }
+    },
+    "bd3439a0145e347be4898716640f3fe9392b16a928f8ad7999c333ec65766def": {
+      "src": "MacBook Pro",
+      "dst": {
+        "sk": "MacBook Pro"
+      },
+      "meta": {
+        "updated_at": 1766453889
+      }
+    },
+    "ffefd38e92dd2536d5555511af6959d38f9b4dad05a804a85c5bad11f4970fa7": {
+      "src": "iMac",
+      "dst": {
+        "sk": "iMac"
+      },
+      "meta": {
+        "updated_at": 1766453889
+      }
+    },
+    "24a612268b8a63cfdb3b93ba7e16de12699023eec6044b33c21583c8b6545ff8": {
+      "src": "Mac Mini",
+      "dst": {
+        "sk": "Mac Mini"
+      },
+      "meta": {
+        "updated_at": 1766453890
+      }
+    },
+    "4675cf7019bc6e125e22743a8919c3e24878743de8e82ed98a48f900aa63e055": {
+      "src": "Apple iPad 11\" (2025)",
+      "dst": {
+        "sk": "Apple iPad 11\" (2025)"
+      },
+      "meta": {
+        "updated_at": 1766453890
+      }
+    },
+    "a20b13c15b689eb65282e91c6db3232f72cbd19d0bf0815d0c351143bdffa223": {
+      "src": "Apple iPad Air 11\" (2025)",
+      "dst": {
+        "sk": "Apple iPad Air 11\" (2025)"
+      },
+      "meta": {
+        "updated_at": 1766453891
+      }
+    },
+    "b9f5eacc78431226506592401e6dde062fbaf963b3f5187183c9ac43fbcf25c3": {
+      "src": "Apple iPad Air 13\" (2025)",
+      "dst": {
+        "sk": "Apple iPad Air 13\" (2025)"
+      },
+      "meta": {
+        "updated_at": 1766453891
+      }
+    },
+    "5e66eefa047bd376e61d5f4ef767fc53cb9a1cef2a7b74595b2dc8a7d3fa778c": {
+      "src": "Apple iPad Air 11\" (2024)",
+      "dst": {
+        "sk": "Apple iPad Air 11\" (2024)"
+      },
+      "meta": {
+        "updated_at": 1766453892
+      }
+    },
+    "f20a11879ae92f3e7c83171145bc4779503da9e7d32c0b4dc416cc32b6825c4e": {
+      "src": "Apple Watch Series 11",
+      "dst": {
+        "sk": "Apple Watch Series 11"
+      },
+      "meta": {
+        "updated_at": 1766453893
+      }
+    },
+    "6601a3428d8b4b0feef4b34db0a808ea2eacf005cf050ae92a8135ff5de45ac4": {
+      "src": "Apple Watch Ultra 3 (2025)",
+      "dst": {
+        "sk": "Apple Watch Ultra 3 (2025)"
+      },
+      "meta": {
+        "updated_at": 1766453893
+      }
+    },
+    "fbe56b55eab52411b0d32e13cbf9f2a65ca87254e7cc18ab9b202da190134555": {
+      "src": "Apple Watch SE 3 (2025)",
+      "dst": {
+        "sk": "Apple Watch SE 3 (2025)"
+      },
+      "meta": {
+        "updated_at": 1766453894
+      }
+    },
+    "b82941cf175764a846e1b467006f3410406a6a4deb44f9684b13e262f2dc576b": {
+      "src": "Apple Watch Series 10",
+      "dst": {
+        "sk": "Apple Watch Series 10"
+      },
+      "meta": {
+        "updated_at": 1766453894
+      }
+    },
+    "5d7a0f7fecd7f4e574ed280d3fdcdc18731270a5bf91d7dc39e70d2341eb195c": {
+      "src": "Hudba",
+      "dst": {
+        "sk": "Hudba"
+      },
+      "meta": {
+        "updated_at": 1766453894
+      }
+    },
+    "009856b08f5da346a4ef7731c7e6e5ec10e61cc6a37cf49e9d26d4ebddfd1090": {
+      "src": "Monitory",
+      "dst": {
+        "sk": "Monitory"
+      },
+      "meta": {
+        "updated_at": 1766453895
+      }
+    },
+    "a03c92bb097e74115cd1a21b20c8f3b31aed48494ca3c9f5b006d56978285998": {
+      "src": "Smart produkty",
+      "dst": {
+        "sk": "Smart produkty"
+      },
+      "meta": {
+        "updated_at": 1766453895
+      }
+    },
+    "cf0d2808b022399c88e12f0b254ef4b3296e6fe675cb9a294a808db55c7bfb44": {
+      "src": "Smart Home  HomeKit",
+      "dst": {
+        "sk": "Smart Home  HomeKit"
+      },
+      "meta": {
+        "updated_at": 1766453896
+      }
+    },
+    "15dd2de68d66ac86eaa8b899061910b265ecd1528f70489106abf260bd0e02b0": {
+      "src": "Osvětlení",
+      "dst": {
+        "sk": "Osvetlenie"
+      },
+      "meta": {
+        "updated_at": 1766453896
+      }
+    },
+    "377cfcba3dc4fae734214c78878b77bdea689c8cfe8cd0d602b966e285c22254": {
+      "src": "Čidla a senzory",
+      "dst": {
+        "sk": "Čidla a senzory"
+      },
+      "meta": {
+        "updated_at": 1766453897
+      }
+    },
+    "b2c16bbbb0006a7f4fb71b6ee6143c1b3b272409ba1407561298000ba3e8e210": {
+      "src": "Zásuvky",
+      "dst": {
+        "sk": "Zásuvky"
+      },
+      "meta": {
+        "updated_at": 1766453897
+      }
+    },
+    "322c3c56ac81e4d71554c616c149598b099c4442e24e459d7e5233534e40c791": {
+      "src": "Kamery a zabezpečení",
+      "dst": {
+        "sk": "Kamery a zabezpečenie"
+      },
+      "meta": {
+        "updated_at": 1766453898
+      }
+    },
+    "98db4a2b11c5928835aa81b677dd7523e36cfbbc55cd7c9b86759e4df675bb6d": {
+      "src": "Smart Home",
+      "dst": {
+        "sk": "Smart Home"
+      },
+      "meta": {
+        "updated_at": 1766453898
+      }
+    },
+    "8a6724471699dd7561aed4c5a38688159bf76524200938a5fbbe2aefa57b2a66": {
+      "src": "Smart Sport",
+      "dst": {
+        "sk": "Smart Sport"
+      },
+      "meta": {
+        "updated_at": 1766453898
+      }
+    },
+    "c8469891c92cccef1cbd06811ce82a066319044f1f181f7ecabbf38f38e655b0": {
+      "src": "Therabody",
+      "dst": {
+        "sk": "Therabody"
+      },
+      "meta": {
+        "updated_at": 1766453899
+      }
+    },
+    "9898e062f77f61f2df25fab188679945b62a19d103afe0122ac741ee32312bcf": {
+      "src": "Chytré helmy UNIT",
+      "dst": {
+        "sk": "Chytré prilby UNIT"
+      },
+      "meta": {
+        "updated_at": 1766453900
+      }
+    },
+    "cd43b62818dbce14a2c4795d6564f37858633ebb50b2435e59f045651c828b46": {
+      "src": "Chytré láhve",
+      "dst": {
+        "sk": "Inteligentné fľaše"
+      },
+      "meta": {
+        "updated_at": 1766453900
+      }
+    },
+    "fcac3542619287272d6de5e979abd1e5a56123eacb88d97a2b552535b5ade463": {
+      "src": "Smart Zdraví",
+      "dst": {
+        "sk": "Smart Zdravie"
+      },
+      "meta": {
+        "updated_at": 1766453900
+      }
+    },
+    "a7bfa4829cdf1218a4ffb70d5e7241a9efa9e8c154797b6bd036cb68592841af": {
+      "src": "Brýle Barner Brand",
+      "dst": {
+        "sk": "Okuliare Barner Brand"
+      },
+      "meta": {
+        "updated_at": 1766453901
+      }
+    },
+    "23dd89772c220f7c9f8102185f36fefe35372ef3a127a9f485573aa7c031c5b0": {
+      "src": "Smart Hračky",
+      "dst": {
+        "sk": "Smart Hračky"
+      },
+      "meta": {
+        "updated_at": 1766453901
+      }
+    },
+    "57c3bf7678c0df8f3e2b5d6d146b2212be1efb87fe3237969ecae2d7dafb74ce": {
+      "src": "Intelino",
+      "dst": {
+        "sk": "Intelino"
+      },
+      "meta": {
+        "updated_at": 1766453902
+      }
+    },
+    "7604ac96efb131ff7db0f33e00cc5a84c77624f016c822e2558d7c4eb674a5bd": {
+      "src": "GoCube",
+      "dst": {
+        "sk": "GoCube"
+      },
+      "meta": {
+        "updated_at": 1766453902
+      }
+    },
+    "ee8e2bc404ee0d0aae1505d8f7a25af1fea9a6da2aefa7b1fd64766b85049abb": {
+      "src": "Ozobot",
+      "dst": {
+        "sk": "Ozobot"
+      },
+      "meta": {
+        "updated_at": 1766453903
+      }
+    },
+    "9d1031e3bd7f5631a8b6a01dc209533a61f64b7c2b2b0076b39c0d391d0ac350": {
+      "src": "Robobloq",
+      "dst": {
+        "sk": "Robobloq"
+      },
+      "meta": {
+        "updated_at": 1766453903
+      }
+    },
+    "9779e72e5f6f2cb641c09f59c8a1c5ddb49dbd3046b0a7889204148db873a04b": {
+      "src": "GPS a lokátory",
+      "dst": {
+        "sk": "GPS a lokalizátory"
+      },
+      "meta": {
+        "updated_at": 1766453903
+      }
+    },
+    "0fadfa22881467dc3dd6d154af97f5f0fae4851fddc6028a1860f4f7a103575b": {
+      "src": "Gaming",
+      "dst": {
+        "sk": "Hranie hier"
+      },
+      "meta": {
+        "updated_at": 1766453904
+      }
+    },
+    "e3eff257bbfd5879d0cbd16aa9096743fab8f73bd14906c94e8509666a8a51dd": {
+      "src": "Playstation",
+      "dst": {
+        "sk": "PlayStation"
+      },
+      "meta": {
+        "updated_at": 1766453904
+      }
+    },
+    "449b321e81007dfc8fe13cca852d2252d96ec4a022187f4e1178cf974774e010": {
+      "src": "Xbox",
+      "dst": {
+        "sk": "Xbox"
+      },
+      "meta": {
+        "updated_at": 1766453905
+      }
+    },
+    "0bee31ac676c1c2cfc04193f0e3859b88342603188bcadb417e31c3f090255b2": {
+      "src": "Nintendo",
+      "dst": {
+        "sk": "Nintendo"
+      },
+      "meta": {
+        "updated_at": 1766453905
+      }
+    },
+    "5313629a4fa0dfc7f34491d274f6e04fac92607a8229b6139a6d8a51e9581e47": {
+      "src": "Herní konzole",
+      "dst": {
+        "sk": "Herné konzoly"
+      },
+      "meta": {
+        "updated_at": 1766453905
+      }
+    },
+    "2d96cd5e39d375ae4563124c2030d5f0971f16eea2c7054a9045b2e47814eb03": {
+      "src": "Robovysavače",
+      "dst": {
+        "sk": "Roboti na vysávanie"
+      },
+      "meta": {
+        "updated_at": 1766453906
+      }
+    },
+    "c54617694a4cb52d7f972ca3f97a21ce18c88463567dd09849408e7c974030a3": {
+      "src": "Čtečky e-knih",
+      "dst": {
+        "sk": "Čítačky e-kníh"
+      },
+      "meta": {
+        "updated_at": 1766453907
+      }
+    },
+    "32e8d32b2cc2ce92436cea1186d2876bed1de20196d99c310c55ea8729ee5842": {
+      "src": "Příslušenství",
+      "dst": {
+        "sk": "Príslušenstvo"
+      },
+      "meta": {
+        "updated_at": 1766453907
+      }
+    },
+    "770769b56b58e53cf43f9ee2e7b39536b10af3530d73ceb08f2ae7c418c70e98": {
+      "src": "Pouzdra, kryty a ochranná skla",
+      "dst": {
+        "sk": "Puzdrá, kryty a ochranné sklá"
+      },
+      "meta": {
+        "updated_at": 1766453908
+      }
+    },
+    "3d25ac5429ec390b3d14f7292046af84082403e761ce51e18d8f574b34844e75": {
+      "src": "Pouzdra a kryty",
+      "dst": {
+        "sk": "Puzdrá a kryty"
+      },
+      "meta": {
+        "updated_at": 1766453908
+      }
+    },
+    "04b1089cb14392641cbdf6e66e921858e718e1f8504702c14ed615f8212f41b7": {
+      "src": "Ochranná skla a folie",
+      "dst": {
+        "sk": "Ochranné sklá a fólie"
+      },
+      "meta": {
+        "updated_at": 1766453909
+      }
+    },
+    "717594d32491810fc24bf953dbe2bb7bb877b72c22d18758662bca01513b331a": {
+      "src": "Řemínky pro Apple Watch",
+      "dst": {
+        "sk": "Remienky pre Apple Watch"
+      },
+      "meta": {
+        "updated_at": 1766453909
+      }
+    },
+    "606b7dcfcc3901347ab57140e2530892d5da9bc41ed12941d8e8c9774eecb178": {
+      "src": "Series 1-9 (38/40/41mm) / 10 (42mm)",
+      "dst": {
+        "sk": "Séria 1-9 (38/40/41mm) / 10 (42mm)"
+      },
+      "meta": {
+        "updated_at": 1766453910
+      }
+    },
+    "9d8b55f2cda5591d3f9c95721ba69393cd4cb231141fd82f46bbd87de89b180a": {
+      "src": "Series 1-3 (42mm) / 4-10 (44/45/46/49mm)",
+      "dst": {
+        "sk": "Séria 1-3 (42mm) / 4-10 (44/45/46/49mm)"
+      },
+      "meta": {
+        "updated_at": 1766453911
+      }
+    },
+    "cb19448bc628104819ecdb4fe6cf6698d94fc2ad9b5c43e3acc96ecb32401dea": {
+      "src": "Univerzální řemínky Quick Release",
+      "dst": {
+        "sk": "Univerzálne remienky Quick Release"
+      },
+      "meta": {
+        "updated_at": 1766453911
+      }
+    },
+    "39f54d19776363c9c50d0a7240793443456c3fb827c79f878cefeca43705c5b3": {
+      "src": "Nabíječky, kabely, redukce a huby",
+      "dst": {
+        "sk": "Nabíjačky, káble, redukcie a huby"
+      },
+      "meta": {
+        "updated_at": 1766453912
+      }
+    },
+    "1e72326d40d003bf1e3d01da0638ff7687c14ac74510642940913757bc5a5fd3": {
+      "src": "Nabíječky",
+      "dst": {
+        "sk": "Nabíjačky"
+      },
+      "meta": {
+        "updated_at": 1766453912
+      }
+    },
+    "0e7b051a5b6c567ed43f075d78458cfdabe5f8accf668a03c5e23c80baf462e3": {
+      "src": "Kabely a redukce",
+      "dst": {
+        "sk": "Káble a redukcie"
+      },
+      "meta": {
+        "updated_at": 1766453913
+      }
+    },
+    "ee7fb4745a32694418961b966b4e9eb350cbded3a29489ac4a31f461f8f56de9": {
+      "src": "USB-C Huby",
+      "dst": {
+        "sk": "USB-C Huby"
+      },
+      "meta": {
+        "updated_at": 1766453913
+      }
+    },
+    "624194b3f7c49d8e40d8dc791d7a7683f1d9a41e312f3306c9e44a0efaf95e8b": {
+      "src": "Powerbanky",
+      "dst": {
+        "sk": "Powerbanky"
+      },
+      "meta": {
+        "updated_at": 1766453914
+      }
+    },
+    "1b62ef574e43e0fae6b64a251db7292a8f42d8fdbb374e8f7e84ce49725a49b3": {
+      "src": "Držáky",
+      "dst": {
+        "sk": "Držiaky"
+      },
+      "meta": {
+        "updated_at": 1766453914
+      }
+    },
+    "b8603572899c7e103e809f73fee6dd45fd1627c739d816632634e68f1168d9c2": {
+      "src": "ShiftCam",
+      "dst": {
+        "sk": "ShiftCam"
+      },
+      "meta": {
+        "updated_at": 1766453915
+      }
+    },
+    "8a6ff2b79e4d768e5f18b796e2a9b4596ca9bcda4c534f3d8c5f62cd1dee4768": {
+      "src": "Na kolo/motorku/koloběžku",
+      "dst": {
+        "sk": "Na bicykel/motorku/kolobežku"
+      },
+      "meta": {
+        "updated_at": 1766453915
+      }
+    },
+    "fbcd97ab6bb3cde6576ffbb3096530dbe1063bbe3472a9cb2c374caa30333092": {
+      "src": "Na stůl/do ruky",
+      "dst": {
+        "sk": "Na stôl/do ruky"
+      },
+      "meta": {
+        "updated_at": 1766453916
+      }
+    },
+    "975c7918245d6919f6d1255a4f0da048dce7d2977dee75732ac72ddb702c9383": {
+      "src": "Sluchátka a reproduktory",
+      "dst": {
+        "sk": "Slúchadlá a reproduktory"
+      },
+      "meta": {
+        "updated_at": 1766453916
+      }
+    },
+    "00a1fb196513ceec3ad82300f6d3b48279ed7a1e0e1c0106bc835b07e44b4268": {
+      "src": "Marshall",
+      "dst": {
+        "sk": "Marshall"
+      },
+      "meta": {
+        "updated_at": 1766453917
+      }
+    },
+    "d1a9d3732a0be550e421b8238c64682f3f7f508189cbb9fd6f4f435c8ef1d696": {
+      "src": "Reproduktory",
+      "dst": {
+        "sk": "Reproduktory"
+      },
+      "meta": {
+        "updated_at": 1766453917
+      }
+    },
+    "3a611385886c430ead73cb1a40f249df175dcf4c1b2af67819cc50c1dfeb582a": {
+      "src": "Bezdrátová sluchátka",
+      "dst": {
+        "sk": "Bezdrôtové slúchadlá"
+      },
+      "meta": {
+        "updated_at": 1766453917
+      }
+    },
+    "527e5dc92da821c85174dcb398ef332b991ee5ddc4ca8d3ef5309c21bf4f5ed8": {
+      "src": "Drátová sluchátka",
+      "dst": {
+        "sk": "Drôtové slúchadlá"
+      },
+      "meta": {
+        "updated_at": 1766453918
+      }
+    },
+    "69ed9dab2ed099d621e181cae583773af9ade641a004148fd6360652b4059d40": {
+      "src": "Klávesnice, myši a stylusy",
+      "dst": {
+        "sk": "Klávesnice, myši a stylusy"
+      },
+      "meta": {
+        "updated_at": 1766453918
+      }
+    },
+    "c1d0d8e1baae3721ac2a7e406228cc898a6fed11909e004e5a0363cbaa21e124": {
+      "src": "Klávesnice",
+      "dst": {
+        "sk": "Klávesnice"
+      },
+      "meta": {
+        "updated_at": 1766453919
+      }
+    },
+    "6b70e776e1591992de756ec1fb18d2581f3a9a3ccafde996b2ec0b1b2b0ea919": {
+      "src": "Myši a trackpady",
+      "dst": {
+        "sk": "Myši a trackpady"
+      },
+      "meta": {
+        "updated_at": 1766453919
+      }
+    },
+    "c328103777770a78f4afd915b7eea125e1e5d0dfbd3396b924a28a320c470f41": {
+      "src": "Stylusy",
+      "dst": {
+        "sk": "Stylusy"
+      },
+      "meta": {
+        "updated_at": 1766453920
+      }
+    },
+    "550489043a692a906d837d176c0239ecf6519fafa86875b7f968afc58ad86466": {
+      "src": "Úložiště a software",
+      "dst": {
+        "sk": "Úložisko a softvér"
+      },
+      "meta": {
+        "updated_at": 1766453920
+      }
+    },
+    "66ab0a915fc594fc2e6954f49b5d7081037d4b5f130eca3da59a56019db52c35": {
+      "src": "Úložiště",
+      "dst": {
+        "sk": "Úložisko"
+      },
+      "meta": {
+        "updated_at": 1766453921
+      }
+    },
+    "9b3289a385a5301eea0c04a06fde98bc542113ab4ed24c47c9b9771984869a31": {
+      "src": "Software",
+      "dst": {
+        "sk": "Softvér"
+      },
+      "meta": {
+        "updated_at": 1766453921
+      }
+    },
+    "7002879e03669d87f8a7313b13c91be68a2e8f0790260a948685ec344b6f85dd": {
+      "src": "Peněženky a kryptopeněženky",
+      "dst": {
+        "sk": "Peňaženky a kryptopeňaženky"
+      },
+      "meta": {
+        "updated_at": 1766453922
+      }
+    },
+    "77cbedae8ec1f158b08c58a7a09a65ed4c7199b00423cc2005f72cded4e9a793": {
+      "src": "Peněženky Secrid",
+      "dst": {
+        "sk": "Peňaženky Secrid"
+      },
+      "meta": {
+        "updated_at": 1766453922
+      }
+    },
+    "673069ac81bc18de581462d051b4a853a1a5a0c0bbd1c4c58552fb5ffc2e76cc": {
+      "src": "Peněženky Spigen",
+      "dst": {
+        "sk": "Peňaženky Spigen"
+      },
+      "meta": {
+        "updated_at": 1766453923
+      }
+    },
+    "87bbbcab8a564c4147a2e9945356a0721a392ba6ca568b91a061dbee206049a3": {
+      "src": "Kryptopeněženky",
+      "dst": {
+        "sk": "Kryptopeňaženky"
+      },
+      "meta": {
+        "updated_at": 1766453923
+      }
+    },
+    "590ea5e83dc8637126e84d126a6ed9826d4d9601614237336cda8195eb0f6016": {
+      "src": "Péče o zařízení",
+      "dst": {
+        "sk": "Starostlivosť o zariadenie"
+      },
+      "meta": {
+        "updated_at": 1766453924
+      }
+    },
+    "6156c260f628ca15ca0c29e03250ab947cd04cd1c7070cb505578fbfdebfda26": {
+      "src": "Ostatní doplňky",
+      "dst": {
+        "sk": "Ostatné doplnky"
+      },
+      "meta": {
+        "updated_at": 1766453924
+      }
+    },
+    "3c5493455909e444d386121cfb2902123e47f054fcf7a9bd02f6873e0bf1d562": {
+      "src": "Příslušenství k Tesle",
+      "dst": {
+        "sk": "Príslušenstvo k Tesle"
+      },
+      "meta": {
+        "updated_at": 1766453925
+      }
+    },
+    "8cd361c011cb0601d225a9a146590c206d59cde41d7a7a15cfca5904fc1e4c06": {
+      "src": "Nářadí",
+      "dst": {
+        "sk": "Náradie"
+      },
+      "meta": {
+        "updated_at": 1766453925
+      }
+    },
+    "227a0ba2489b257c737183b5aa7319806e8bd30815382c9454332c28018c500c": {
+      "src": "Knihy",
+      "dst": {
+        "sk": "Knihy"
+      },
+      "meta": {
+        "updated_at": 1766453925
+      }
+    },
+    "4c2d808cc2dc29983dfa0373b6690a5c437ea0e00cfd83bf952cf1d2eec5410b": {
+      "src": "Dárkové vouchery a služby",
+      "dst": {
+        "sk": "Darčekové poukazy a služby"
+      },
+      "meta": {
+        "updated_at": 1766453926
+      }
+    },
+    "6e5b2f50223376752032dbe46a03adc9a8f82d46feda6ab67ac420df3fc2ffec": {
+      "src": "Nářadí a nástroje",
+      "dst": {
+        "sk": "Náradie a nástroje"
+      },
+      "meta": {
+        "updated_at": 1766453926
+      }
+    },
+    "8a1ce6cdc465928d6b8d9fac29d80163511dad5f4e66e3629926bcc1aafe21ca": {
+      "src": "Šroubováky a sady nářadí",
+      "dst": {
+        "sk": "Skrutkovače a sady náradia"
+      },
+      "meta": {
+        "updated_at": 1766453927
+      }
+    },
+    "52cbd9d29c30243d041d659208bcbc5c8bc3457eafefb61b213c1e6bcc9cb423": {
+      "src": "Páčidla a otvírače",
+      "dst": {
+        "sk": "Páčidlá a otvárače"
+      },
+      "meta": {
+        "updated_at": 1766453927
+      }
+    },
+    "6879d79d63f006d8a2f9fae49531c250e1040e4f2c06e736661493b522a257b1": {
+      "src": "Pinzety a kleště",
+      "dst": {
+        "sk": "Pinzety a kliešte"
+      },
+      "meta": {
+        "updated_at": 1766453928
+      }
+    },
+    "fd78e3c6b7a9b2dd1b6eb215f5765ad998ae18222f5c96440fc60b1afdff8d00": {
+      "src": "Lepidla a chemie",
+      "dst": {
+        "sk": "Lepidlá a chémia"
+      },
+      "meta": {
+        "updated_at": 1766453928
+      }
+    },
+    "9d712cc224e44a99e230e8e560261270d7b331a0955ee3f5b41b08368a45e996": {
+      "src": "Swissten",
+      "dst": {
+        "sk": "Swissten"
+      },
+      "meta": {
+        "updated_at": 1766453929
+      }
+    },
+    "e733dc4a26ebb65bc00a150a674cca99f74a03a21be642ab7282f0b2fa2a0fc3": {
+      "src": "Nabíjení do sítě",
+      "dst": {
+        "sk": "Nabíjanie do siete"
+      },
+      "meta": {
+        "updated_at": 1766453929
+      }
+    },
+    "ec0d2293ede3c75171601745fa1a674242b3180c9c68ec5b077693cdba7f2148": {
+      "src": "Nabíjení do auta",
+      "dst": {
+        "sk": "Nabíjanie do auta"
+      },
+      "meta": {
+        "updated_at": 1766453929
+      }
+    },
+    "b7832266705ee5c1a34533b3567a3b0422041490d2dba147b8acaf28150da833": {
+      "src": "Bezdrátové nabíjení",
+      "dst": {
+        "sk": "Bezdrôtové nabíjanie"
+      },
+      "meta": {
+        "updated_at": 1766453930
+      }
+    },
+    "49d44d6d3599d6f6a2143c49642a4bf823ca11c6aefdaea3fb7c94ea22c8ab89": {
+      "src": "Solární nabíjení",
+      "dst": {
+        "sk": "Solárne nabíjanie"
+      },
+      "meta": {
+        "updated_at": 1766453930
+      }
+    },
+    "79de7d274855a2ad5482350232aaa011ec6b8d77e5f4ce03f5370eb2f2373a0f": {
+      "src": "Náhradní díly pro Apple",
+      "dst": {
+        "sk": "Náhradné diely pre Apple"
+      },
+      "meta": {
+        "updated_at": 1766453931
+      }
+    },
+    "04c323426b396cde078fa2ce0dace9f651fd9374b1129be173db8a4dc95ee163": {
+      "src": "Díly pro iPhone",
+      "dst": {
+        "sk": "Diely pre iPhone"
+      },
+      "meta": {
+        "updated_at": 1766453931
+      }
+    },
+    "4fe78094e345879acd8b991c15f797bc5920ed586463fa221f6500988295bcc7": {
+      "src": "Díly pro MacBook",
+      "dst": {
+        "sk": "Diely pre MacBook"
+      },
+      "meta": {
+        "updated_at": 1766453932
+      }
+    },
+    "e4827695c4420a5f5a1a0d3e6980e36e6b2ce4b84fcc0d6b34a9aba54da1b558": {
+      "src": "Díly pro Apple Watch",
+      "dst": {
+        "sk": "Diely pre Apple Watch"
+      },
+      "meta": {
+        "updated_at": 1766453932
+      }
+    },
+    "d0f33384bfe4b2bd85256bf481d54dc412e01ef96800409afebe2628252c4882": {
+      "src": "Díly pro iMac",
+      "dst": {
+        "sk": "Diely pre iMac"
+      },
+      "meta": {
+        "updated_at": 1766453933
+      }
+    },
+    "172faaf5c9217e3ffb21209ba8bb7831247cd7f77f976c3395ad172ccc974813": {
+      "src": "Náhradní díly pro Samsung",
+      "dst": {
+        "sk": "Náhradné diely pre Samsung"
+      },
+      "meta": {
+        "updated_at": 1766453933
+      }
+    },
+    "68ce1a88d11b721d65a8bb1c8f74de512b2bd827d0464b9c4c124ed35560ddc8": {
+      "src": "Galaxy A",
+      "dst": {
+        "sk": "Galaxy A"
+      },
+      "meta": {
+        "updated_at": 1766453934
+      }
+    },
+    "9a34d66418e993480c5421f57d02b0fdd85a8d23f89b2e6375bd8eda60f65b30": {
+      "src": "Galaxy M",
+      "dst": {
+        "sk": "Galaxy M"
+      },
+      "meta": {
+        "updated_at": 1766453934
+      }
+    },
+    "e4e4c0461fde790ce308127778efc797a4fa00b978b8df7497bf199b8808ced2": {
+      "src": "Galaxy Note",
+      "dst": {
+        "sk": "Galaxy Note"
+      },
+      "meta": {
+        "updated_at": 1766453935
+      }
+    },
+    "ad252b361e2e93236f7834bc54c44fb0530e4a3fb134a4d9ec03b36163f2f092": {
+      "src": "Galaxy S",
+      "dst": {
+        "sk": "Galaxy S"
+      },
+      "meta": {
+        "updated_at": 1766453935
+      }
+    },
+    "e3b352b835b522ec6d01e6afa9c4d9b91e220b4669281ac4740412b936beac2d": {
+      "src": "Náhradní díly pro Xiaomi",
+      "dst": {
+        "sk": "Náhradné diely pre Xiaomi"
+      },
+      "meta": {
+        "updated_at": 1766453935
+      }
+    },
+    "9fc7c2306f5afb4bfe47feefbd193f245633febbb1817113fdf0a768172285b5": {
+      "src": "Xiaomi",
+      "dst": {
+        "sk": "Xiaomi"
+      },
+      "meta": {
+        "updated_at": 1766453936
+      }
+    },
+    "57b0378dc6ea49537015762339d0515fcf2ffc724757962e5e6f9b5564715c6c": {
+      "src": "Xiaomi Pad 4",
+      "dst": {
+        "sk": "Xiaomi Pad 4"
+      },
+      "meta": {
+        "updated_at": 1766453937
+      }
+    },
+    "3df63b7d614d9a9c47c687ac15383a1f80130ef4d8ee74f19016ddf394c64451": {
+      "src": "Mi A",
+      "dst": {
+        "sk": "Mi A"
+      },
+      "meta": {
+        "updated_at": 1766453937
+      }
+    },
+    "6988288ec62d4def1a58ee99a2b61cb2451e1854dcba424a24eea9da2dbffda9": {
+      "src": "Náhradní díly pro Vivo",
+      "dst": {
+        "sk": "Náhradné diely pre Vivo"
+      },
+      "meta": {
+        "updated_at": 1766453937
+      }
+    },
+    "4f07d543edca567a9ed3f22213c1e7bef78effed144416a9cf7001152c95c662": {
+      "src": "Náhradní díly pro Nokia",
+      "dst": {
+        "sk": "Náhradné diely pre Nokia"
+      },
+      "meta": {
+        "updated_at": 1766453938
+      }
+    },
+    "d4208fb8da7c38beaf24bd22fee61a71614875fce93e8afe93a8a8b1e6563631": {
+      "src": "Náhradní díly Motorola",
+      "dst": {
+        "sk": "Náhradné diely Motorola"
+      },
+      "meta": {
+        "updated_at": 1766453938
+      }
+    },
+    "f9cfd5629b41e0ebf4bdd294f27ba9862bfd3b9ee329650666310c49f4cfdbc3": {
+      "src": "Motorola One",
+      "dst": {
+        "sk": "Motorola One"
+      },
+      "meta": {
+        "updated_at": 1766453939
+      }
+    },
+    "2cedd99aaebe9b6cfe9183ab6c321cadd295474613aea13591946921b24a8566": {
+      "src": "Motorola Edge",
+      "dst": {
+        "sk": "Motorola Edge"
+      },
+      "meta": {
+        "updated_at": 1766453940
+      }
+    },
+    "30494cbf87ce72643ffa5f853b4de37f9c2b6890c22a701031a222c9b78873e5": {
+      "src": "Motorola E",
+      "dst": {
+        "sk": "Motorola E"
+      },
+      "meta": {
+        "updated_at": 1766453940
+      }
+    },
+    "da18a50482b0ace4634b8f9524b97efa365db82616c9c0313cf533ae4ab746cb": {
+      "src": "Motorola G",
+      "dst": {
+        "sk": "Motorola G"
+      },
+      "meta": {
+        "updated_at": 1766453941
+      }
+    },
+    "274587dce618978ec68ee6a3f6e8543a57d7bc6844687680e837d53a2dd910d0": {
+      "src": "Náhradní díly pro Infinix",
+      "dst": {
+        "sk": "Náhradné diely pre Infinix"
+      },
+      "meta": {
+        "updated_at": 1766453941
+      }
+    },
+    "1d8040081b7a063413cfeecd5e6f7bdb8835e1d378a4975d01c5f4a6363b5285": {
+      "src": "Hot 30 4G",
+      "dst": {
+        "sk": "Hot 30 4G"
+      },
+      "meta": {
+        "updated_at": 1766453942
+      }
+    },
+    "21dade459f792194165ea435a691c1a7a87eacd6eeb640ae1a9f76fed5e8f92a": {
+      "src": "Hot 30 5G",
+      "dst": {
+        "sk": "Hot 30 5G"
+      },
+      "meta": {
+        "updated_at": 1766453942
+      }
+    },
+    "ea71fdc889e8a77101810b44c122549dc9483dac0eb56c4375f9f98a8c4d25a0": {
+      "src": "Hot 40",
+      "dst": {
+        "sk": "Hot 40"
+      },
+      "meta": {
+        "updated_at": 1766453942
+      }
+    },
+    "1f5491ed5a68bed3aeddcc3f55e837a354f2b23b6b12bc23f416f8490f42d362": {
+      "src": "Náhradní díly pro Tecno",
+      "dst": {
+        "sk": "Náhradné diely pre Tecno"
+      },
+      "meta": {
+        "updated_at": 1766453943
+      }
+    },
+    "c0e2668df63e17e508fb11b3edbacfe878d5cf3964a2d571c823a21671e83403": {
+      "src": "Pova 5 Pro",
+      "dst": {
+        "sk": "Pova 5 Pro"
+      },
+      "meta": {
+        "updated_at": 1766453944
+      }
+    },
+    "855bb564512e8bb1e7bd98837b7276fb2f2356681cbd081784ddb7fe624aef33": {
+      "src": "Spark 20 Pro",
+      "dst": {
+        "sk": "Spark 20 Pro"
+      },
+      "meta": {
+        "updated_at": 1766453944
+      }
+    },
+    "b6131bbd5b988d24fcffa1cedc58e8ff5202f8402121f3ddfda413ee9e394e71": {
+      "src": "Náhradní díly pro Huawei",
+      "dst": {
+        "sk": "Náhradné diely pre Huawei"
+      },
+      "meta": {
+        "updated_at": 1766453944
+      }
+    },
+    "af357b30456b6dc44e06f9cb28b978b71db77daa44e17dcb4c3993819fdbf3af": {
+      "src": "Huawei Y",
+      "dst": {
+        "sk": "Huawei Y"
+      },
+      "meta": {
+        "updated_at": 1766453945
+      }
+    },
+    "8bf4e1c730fa26da47011d8fdc5b78fb6bb51c85eac42117dbf79d68a66987b9": {
+      "src": "Huawei P",
+      "dst": {
+        "sk": "Huawei P"
+      },
+      "meta": {
+        "updated_at": 1766453945
+      }
+    },
+    "190856ea62d6c71d40e078dec065f6ca72e3e8c9f3ad8f748e305b4982816bfb": {
+      "src": "MediaPad M2",
+      "dst": {
+        "sk": "MediaPad M2"
+      },
+      "meta": {
+        "updated_at": 1766453946
+      }
+    },
+    "9828f6261f04ab4056d8f4f463761da26765b425468cecac298bacd0a7177bec": {
+      "src": "MediaPad M3",
+      "dst": {
+        "sk": "MediaPad M3"
+      },
+      "meta": {
+        "updated_at": 1766453946
+      }
+    },
+    "f789cce4a65760493e727031f7be985d5fecef76b40cf86b976842c04e8448f7": {
+      "src": "Náhradní díly pro Lenovo",
+      "dst": {
+        "sk": "Náhradné diely pre Lenovo"
+      },
+      "meta": {
+        "updated_at": 1766453947
+      }
+    },
+    "23203965b3e76321f045f35c2600a6d0701d8d5939b6d6c3a4037a18b7cb58f2": {
+      "src": "Lenovo M",
+      "dst": {
+        "sk": "Lenovo M"
+      },
+      "meta": {
+        "updated_at": 1766453947
+      }
+    },
+    "f4bd59701a63cae8f731dba9cd79834b9af6b8f6c33e077e42b47f23f9187a8c": {
+      "src": "Lenovo tab",
+      "dst": {
+        "sk": "Lenovo tab"
+      },
+      "meta": {
+        "updated_at": 1766453947
+      }
+    },
+    "ce77c1743f7ea719c1c55e6c91d3c4ef44105b0077102bb5a39246c2df6d8f1e": {
+      "src": "Lenovo P",
+      "dst": {
+        "sk": "Lenovo P"
+      },
+      "meta": {
+        "updated_at": 1766453948
+      }
+    },
+    "b0122bc1ad93345f84a9aa19b5814592b32a931b33ab4df9cd196b9cbc792cfb": {
+      "src": "Náhradní díly pro Honor",
+      "dst": {
+        "sk": "Náhradné diely pre Honor"
+      },
+      "meta": {
+        "updated_at": 1766453948
+      }
+    },
+    "22ea092e7643557ea91b74dea27589acac28a04fce976c577c422cd3ee1c9dc2": {
+      "src": "Honor",
+      "dst": {
+        "sk": "Honor"
+      },
+      "meta": {
+        "updated_at": 1766453949
+      }
+    },
+    "360246e25315d537dc519a566629460554f5f0218ad73f5c3560d1243ba9eb5e": {
+      "src": "Honor X",
+      "dst": {
+        "sk": "Honor X"
+      },
+      "meta": {
+        "updated_at": 1766453949
+      }
+    },
+    "6f13f422a05cf4eed66fc6951a2aea3e91a7c6029b0922bf96d81d23469ef74d": {
+      "src": "Honor Magic",
+      "dst": {
+        "sk": "Honor Magic"
+      },
+      "meta": {
+        "updated_at": 1766453950
+      }
+    },
+    "8c06efedb653a072d2c725e02a73a97c0d675b6eb2a1ba0f28f04ed77229e7f0": {
+      "src": "Honor View",
+      "dst": {
+        "sk": "Honor View"
+      },
+      "meta": {
+        "updated_at": 1766453950
+      }
+    },
+    "4b1acc0002585cda1245f0e07c6f58ff0e3b5a0e8d3187fa55d6e0ed43836c1d": {
+      "src": "Realme",
+      "dst": {
+        "sk": "Realme"
+      },
+      "meta": {
+        "updated_at": 1766453950
+      }
+    },
+    "786317405c37db47a16da60a27abd4b56f9afe02bcc43209723432306711736f": {
+      "src": "Realme C",
+      "dst": {
+        "sk": "Realme C"
+      },
+      "meta": {
+        "updated_at": 1766453951
+      }
+    },
+    "977c47a316a3c7feb15808ec91d14a7961c521432d7034053d7fae3e000f3a1e": {
+      "src": "Realme Note",
+      "dst": {
+        "sk": "Realme Note"
+      },
+      "meta": {
+        "updated_at": 1766453951
+      }
+    },
+    "a1b44792d21bf0fb19495c93c317eaa6d6c01c200cdc969372198ec06f85a09b": {
+      "src": "Realme 12",
+      "dst": {
+        "sk": "Realme 12"
+      },
+      "meta": {
+        "updated_at": 1766453952
+      }
+    },
+    "dc7cde55d960f6ac9721e6f01c01d08fd436bdb77bd3c7d80b6fdf311b5d684e": {
+      "src": "Realme 10",
+      "dst": {
+        "sk": "Realme 10"
+      },
+      "meta": {
+        "updated_at": 1766453952
+      }
+    },
+    "332ee11d2067cf30d7179c13b6b36427f8195904f964e31fea2540a27af40e0e": {
+      "src": "Náhradní díly LG",
+      "dst": {
+        "sk": "Náhradné diely LG"
+      },
+      "meta": {
+        "updated_at": 1766453953
+      }
+    },
+    "163b32b3159c952152e9c0e356130641e020aa194dc0fcd7be5a9841df4fb0f0": {
+      "src": "Náhradní díly pro OnePlus",
+      "dst": {
+        "sk": "Náhradné diely pre OnePlus"
+      },
+      "meta": {
+        "updated_at": 1766453953
+      }
+    },
+    "855b67be8383567ee04223908d68e762234cf8f7faa59ee39b067565ac3cdb1a": {
+      "src": "OnePlus 9 Pro",
+      "dst": {
+        "sk": "OnePlus 9 Pro"
+      },
+      "meta": {
+        "updated_at": 1766453954
+      }
+    },
+    "d4ddc83bc7dfdf28b1712e62d7c28538eff9c305c041b673130a0988cf550af5": {
+      "src": "OnePlus 9",
+      "dst": {
+        "sk": "OnePlus 9"
+      },
+      "meta": {
+        "updated_at": 1766453954
+      }
+    },
+    "ea40412fe9408de558328e746b848f86a21a0846ff7669d0c578d896a8185cb2": {
+      "src": "OnePlus Nord N100",
+      "dst": {
+        "sk": "OnePlus Nord N100"
+      },
+      "meta": {
+        "updated_at": 1766453955
+      }
+    },
+    "a7ce80a41a98f9ce5bc21f696679ece82fcbf1e2bfb591d959f640141724981e": {
+      "src": "One Plus 6T",
+      "dst": {
+        "sk": "One Plus 6T"
+      },
+      "meta": {
+        "updated_at": 1766453955
+      }
+    },
+    "fe7bd503b767fd745a872bdeab1d6a9008fc1c0be9e735324e4a6f79758cfe84": {
+      "src": "Náhradní díly pro herní konzole",
+      "dst": {
+        "sk": "Náhradné diely pre herné konzoly"
+      },
+      "meta": {
+        "updated_at": 1766453956
+      }
+    },
+    "7a2852ed1b592eb6cea681d6f3c58a8bff99c10cd789f1d36682f866d3bd837c": {
+      "src": "Sony PS",
+      "dst": {
+        "sk": "Sony PS"
+      },
+      "meta": {
+        "updated_at": 1766453956
+      }
+    },
+    "d7fc60b31d3ccd3afb138cfea1e4f0835785510755ebda9eea14e2e3114cc395": {
+      "src": "Nintendo Switch",
+      "dst": {
+        "sk": "Nintendo Switch"
+      },
+      "meta": {
+        "updated_at": 1766453957
+      }
+    },
+    "cc50de1cdaea5299628b7eea3732d03ffd08cac9f581a9963e7de4b8ec9880d1": {
+      "src": "Slevy",
+      "dst": {
+        "sk": "Zľavy"
+      },
+      "meta": {
+        "updated_at": 1766453957
+      }
+    },
+    "d686d6118f2988fe219bd11746e4626cbfb9be9097ac61529c4e37c9e1a8f271": {
+      "src": "Servis Apple",
+      "dst": {
+        "sk": "Servis Apple"
+      },
+      "meta": {
+        "updated_at": 1766453958
+      }
+    },
+    "2ff38e28e767f9199bc20d4577a330fa55cf759d1f3a87cf3fca305c773b9c97": {
+      "src": "Samsung - ceník",
+      "dst": {
+        "sk": "Samsung - cenník"
+      },
+      "meta": {
+        "updated_at": 1766453958
+      }
+    },
+    "96267e8c785eac6810879c77dd00e2658d2e95f07ef561f110334c5bab451192": {
+      "src": "Xiaomi - ceník",
+      "dst": {
+        "sk": "Xiaomi - cenník"
+      },
+      "meta": {
+        "updated_at": 1766453958
+      }
+    },
+    "944aa857e4130d98cdf5e708f9d836b5183c9b4506605c841ab074767e525955": {
+      "src": "Huawei - ceník",
+      "dst": {
+        "sk": "Huawei - cenník"
+      },
+      "meta": {
+        "updated_at": 1766453959
+      }
+    },
+    "149a592d4e96d8dbdd629727c1695ad0d8819fedecc337d9d8e44a61e77bfe4b": {
+      "src": "Honor - ceník",
+      "dst": {
+        "sk": "Honor - cenník"
+      },
+      "meta": {
+        "updated_at": 1766453959
+      }
+    },
+    "247f1c2182a36d264e92de2dfc9baa380b94b6a4e9a338c82c019922040a688c": {
+      "src": "Elektrokoloběžky - ceník",
+      "dst": {
+        "sk": "Elektrické kolobežky - cenník"
+      },
+      "meta": {
+        "updated_at": 1766453960
+      }
+    },
+    "3f738866e70dcb2006469b28e1c0908cef507899b9b2c17f17af5e49f773ebb6": {
+      "src": "Všeobecný ceník servisu elektrokoloběžek",
+      "dst": {
+        "sk": "Všeobecný cenník servisu elektrokolobežiek"
+      },
+      "meta": {
+        "updated_at": 1766453960
+      }
+    },
+    "d5bb47c50e6c4c4db783ed818359c71af48db902bd8dad3a349848c9be7c85d7": {
+      "src": "Herní konzole - ceník",
+      "dst": {
+        "sk": "Herné konzoly - cenník"
+      },
+      "meta": {
+        "updated_at": 1766453961
+      }
+    },
+    "6eb307c902b6dacc0c99a661eb9cc6f7d0d90cfd8f57eee7a31a8cb049299269": {
+      "src": "Ostatní značky - ceník",
+      "dst": {
+        "sk": "Ostatné značky - cenník"
+      },
+      "meta": {
+        "updated_at": 1766453962
+      }
+    },
+    "0f98f6b93f61073cc91bdd5e401bb3ff480a2231acf5399f4cb07cbf50056718": {
+      "src": "Výkup",
+      "dst": {
+        "sk": "Výkup"
+      },
+      "meta": {
+        "updated_at": 1766453962
+      }
+    },
+    "6ea70451ac8dd635d4b7376aef067f071d628b4c799b4f112d4bcefbb83c4a8a": {
+      "src": "Refurbished",
+      "dst": {
+        "sk": "Refurbished"
+      },
+      "meta": {
+        "updated_at": 1766453963
+      }
     }
   },
   "pages": {
     "https://www.express-servis.cz/vykup-zarizeni": {
-      "hash": "ccd3253a955068ff79087bfe5ecbdbc4a6421264641b7d516f2e1318f706c45e",
-      "updated_at": 1766452787,
+      "hash": "37e9f0353e49d35b92086e8e4253ab264930dd7bd3ea4295f32438412874749c",
+      "updated_at": 1766453963,
       "nodes": [
         {
           "key": "p.06107357.80adc3e3.8ed976ff7e",
@@ -486,6 +2133,3184 @@
           "source": "Výkup zařízení | Express Servis",
           "dst": {
             "sk": "Výkup zariadení | Express Servis"
+          }
+        },
+        {
+          "key": "p.06107357.28021ad3.0e3215768f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "span.brand-name",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Express Servis",
+          "dst": {
+            "sk": "Express Servis"
+          }
+        },
+        {
+          "key": "p.06107357.9e556945.566f278273",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "button.btn-outline-secondary",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Vyhledat",
+          "dst": {
+            "sk": "Vyhľadať"
+          }
+        },
+        {
+          "key": "p.06107357.894fb594.1b45e15971",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/s/o-nas\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "O nás",
+          "dst": {
+            "sk": "O nás"
+          }
+        },
+        {
+          "key": "p.06107357.4ba301e8.c91b1ab7d3",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "span.nav-link.text-small",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Prodejny",
+          "dst": {
+            "sk": "Predajne"
+          }
+        },
+        {
+          "key": "p.06107357.85ef8973.92b86eaa37",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/kontakt-es\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Kontakty",
+          "dst": {
+            "sk": "Kontakty"
+          }
+        },
+        {
+          "key": "p.06107357.2166de72.d6d5204e6a",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"?do=CoreNavigation_main-Currency_akelr8-select&CoreNavigation_main-Currency_akelr8-id=CZK\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "CZK (Kč)",
+          "dst": {
+            "sk": "CZK (Kč)"
+          }
+        },
+        {
+          "key": "p.06107357.e0696052.fb29af5823",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"?do=CoreNavigation_main-Currency_akelr8-select&CoreNavigation_main-Currency_akelr8-id=EUR\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "EUR (€)",
+          "dst": {
+            "sk": "Samozrejme, pošlite mi text, ktorý chcete preložiť."
+          }
+        },
+        {
+          "key": "p.06107357.9ec347b1.2eb78d1be8",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/quad-lock-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Quad Lock",
+          "dst": {
+            "sk": "Quad Lock"
+          }
+        },
+        {
+          "key": "p.06107357.9bc26a08.9715a55779",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/quad-lock-drzaky-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Quad Lock držáky",
+          "dst": {
+            "sk": "Quad Lock držiaky"
+          }
+        },
+        {
+          "key": "p.06107357.46f55dfd.e23cc8863d",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/na-motorku-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Na motorku",
+          "dst": {
+            "sk": "Na motocykel"
+          }
+        },
+        {
+          "key": "p.06107357.0feffe02.9e72901c67",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/do-auta-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Do auta",
+          "dst": {
+            "sk": "Do auta"
+          }
+        },
+        {
+          "key": "p.06107357.0bcefed8.bd56dffdb8",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/na-kolo-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Na kolo",
+          "dst": {
+            "sk": "Na bicykel"
+          }
+        },
+        {
+          "key": "p.06107357.a146dcac.05c74fa325",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/ostatni-2-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Ostatní",
+          "dst": {
+            "sk": "Ostatní"
+          }
+        },
+        {
+          "key": "p.06107357.daac8941.8c0610b490",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/quad-lock-kryty-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Quad Lock kryty",
+          "dst": {
+            "sk": "Quad Lock kryty"
+          }
+        },
+        {
+          "key": "p.06107357.8b30ba8d.f223faa96f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/apple-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple",
+          "dst": {
+            "sk": "Apple"
+          }
+        },
+        {
+          "key": "p.06107357.7d2fb261.285075a02b",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/samsung-a-huawei-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Samsung",
+          "dst": {
+            "sk": "Samsung"
+          }
+        },
+        {
+          "key": "p.06107357.1d71355b.df853f864c",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/huawei-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Huawei",
+          "dst": {
+            "sk": "Huawei"
+          }
+        },
+        {
+          "key": "p.06107357.12f5790f.085a607a42",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/google-pixel-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Google Pixel",
+          "dst": {
+            "sk": "Google Pixel"
+          }
+        },
+        {
+          "key": "p.06107357.45c5394a.90ca650407",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/quad-lock-prislusenstvi-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Quad Lock příslušenství",
+          "dst": {
+            "sk": "Quad Lock príslušenstvo"
+          }
+        },
+        {
+          "key": "p.06107357.793bbcfc.da77839cab",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/doplnky-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Doplňky",
+          "dst": {
+            "sk": "Doplnky"
+          }
+        },
+        {
+          "key": "p.06107357.2edcbc86.a4aa7bf5bb",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/ochranna-skla-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Ochranná skla",
+          "dst": {
+            "sk": "Ochranné sklá"
+          }
+        },
+        {
+          "key": "p.06107357.3cb35d56.ee79f907e3",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly",
+          "dst": {
+            "sk": "Náhradné diely"
+          }
+        },
+        {
+          "key": "p.06107357.b9513f86.a6fb0300b3",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/quad-lock-360-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Quad Lock 360",
+          "dst": {
+            "sk": "Quad Lock 360"
+          }
+        },
+        {
+          "key": "p.06107357.f7098c0d.1338fa352e",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/quad-lock-poncho-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Quad Lock Poncho",
+          "dst": {
+            "sk": "Quad Lock Pončo"
+          }
+        },
+        {
+          "key": "p.06107357.cce1cc38.f223faa96f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/apple-2-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple",
+          "dst": {
+            "sk": "Apple"
+          }
+        },
+        {
+          "key": "p.06107357.45fd126d.285075a02b",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/samsung-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Samsung",
+          "dst": {
+            "sk": "Samsung"
+          }
+        },
+        {
+          "key": "p.06107357.eecb2887.085a607a42",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/google-pixel-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Google Pixel",
+          "dst": {
+            "sk": "Google Pixel"
+          }
+        },
+        {
+          "key": "p.06107357.c4e72876.df853f864c",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/huawei-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Huawei",
+          "dst": {
+            "sk": "Huawei"
+          }
+        },
+        {
+          "key": "p.06107357.36b6add2.f223faa96f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/apple-3-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple",
+          "dst": {
+            "sk": "Apple"
+          }
+        },
+        {
+          "key": "p.06107357.7f8c06ad.38fdf51931",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/iphone-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "iPhone",
+          "dst": {
+            "sk": "iPhone"
+          }
+        },
+        {
+          "key": "p.06107357.479487aa.6fefc8d73d",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/iphone-17-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "iPhone 17",
+          "dst": {
+            "sk": "iPhone 17"
+          }
+        },
+        {
+          "key": "p.06107357.44a118d4.9ac2caadab",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/iphone-17-pro-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "iPhone 17 Pro",
+          "dst": {
+            "sk": "iPhone 17 Pro"
+          }
+        },
+        {
+          "key": "p.06107357.744c454d.95c961fb77",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/iphone-17-pro-max-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "iPhone 17 Pro Max",
+          "dst": {
+            "sk": "iPhone 17 Pro Max"
+          }
+        },
+        {
+          "key": "p.06107357.4ae17648.68fce2aa13",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/iphone-air-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "iPhone Air",
+          "dst": {
+            "sk": "iPhone Air"
+          }
+        },
+        {
+          "key": "p.06107357.de2ca51d.8b3795aa25",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/mac-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Mac",
+          "dst": {
+            "sk": "Mac"
+          }
+        },
+        {
+          "key": "p.06107357.d78f6887.2218bb03b5",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/macbook-air-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "MacBook Air",
+          "dst": {
+            "sk": "MacBook Air"
+          }
+        },
+        {
+          "key": "p.06107357.f55f174d.bd3439a014",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/macbook-pro-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "MacBook Pro",
+          "dst": {
+            "sk": "MacBook Pro"
+          }
+        },
+        {
+          "key": "p.06107357.d19a72f2.ffefd38e92",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/imac-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "iMac",
+          "dst": {
+            "sk": "iMac"
+          }
+        },
+        {
+          "key": "p.06107357.4c1491c4.24a612268b",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/mac-mini-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Mac Mini",
+          "dst": {
+            "sk": "Mac Mini"
+          }
+        },
+        {
+          "key": "p.06107357.854bfd96.23cbcfc3e8",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/ipad-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "iPad",
+          "dst": {
+            "sk": "iPad"
+          }
+        },
+        {
+          "key": "p.06107357.62f4e560.4675cf7019",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/apple-ipad-11-2025-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple iPad 11\" (2025)",
+          "dst": {
+            "sk": "Apple iPad 11\" (2025)"
+          }
+        },
+        {
+          "key": "p.06107357.b4474081.a20b13c15b",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/apple-ipad-air-11-2025-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple iPad Air 11\" (2025)",
+          "dst": {
+            "sk": "Apple iPad Air 11\" (2025)"
+          }
+        },
+        {
+          "key": "p.06107357.b13a6e21.b9f5eacc78",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/apple-ipad-air-13-2025-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple iPad Air 13\" (2025)",
+          "dst": {
+            "sk": "Apple iPad Air 13\" (2025)"
+          }
+        },
+        {
+          "key": "p.06107357.b97fb808.5e66eefa04",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/apple-ipad-air-11-2024-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple iPad Air 11\" (2024)",
+          "dst": {
+            "sk": "Apple iPad Air 11\" (2024)"
+          }
+        },
+        {
+          "key": "p.06107357.f57b4322.a71e757324",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/watch-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Watch",
+          "dst": {
+            "sk": "Hodinky"
+          }
+        },
+        {
+          "key": "p.06107357.8e74921d.f20a11879a",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/apple-watch-series-11-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple Watch Series 11",
+          "dst": {
+            "sk": "Apple Watch Series 11"
+          }
+        },
+        {
+          "key": "p.06107357.3f9465d0.6601a3428d",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/apple-watch-ultra-3-2025-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple Watch Ultra 3 (2025)",
+          "dst": {
+            "sk": "Apple Watch Ultra 3 (2025)"
+          }
+        },
+        {
+          "key": "p.06107357.a0e8e4ea.fbe56b55ea",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/apple-watch-se-3-2025-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple Watch SE 3 (2025)",
+          "dst": {
+            "sk": "Apple Watch SE 3 (2025)"
+          }
+        },
+        {
+          "key": "p.06107357.36406295.b82941cf17",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/apple-watch-series-10-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple Watch Series 10",
+          "dst": {
+            "sk": "Apple Watch Series 10"
+          }
+        },
+        {
+          "key": "p.06107357.e3ef9ea6.5d7a0f7fec",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/hudba-apple-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Hudba",
+          "dst": {
+            "sk": "Hudba"
+          }
+        },
+        {
+          "key": "p.06107357.ccd745a2.009856b08f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/monitory-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Monitory",
+          "dst": {
+            "sk": "Monitory"
+          }
+        },
+        {
+          "key": "p.06107357.9b1c932e.a03c92bb09",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/smart-produkty-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Smart produkty",
+          "dst": {
+            "sk": "Smart produkty"
+          }
+        },
+        {
+          "key": "p.06107357.21a423e6.cf0d2808b0",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/smart-home-homekit-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Smart Home  HomeKit",
+          "dst": {
+            "sk": "Smart Home  HomeKit"
+          }
+        },
+        {
+          "key": "p.06107357.6bc1df6d.15dd2de68d",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/osvetleni-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Osvětlení",
+          "dst": {
+            "sk": "Osvetlenie"
+          }
+        },
+        {
+          "key": "p.06107357.dd9e7de7.377cfcba3d",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/cidla-a-senzory-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Čidla a senzory",
+          "dst": {
+            "sk": "Čidla a senzory"
+          }
+        },
+        {
+          "key": "p.06107357.1337118c.b2c16bbbb0",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/zasuvky-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Zásuvky",
+          "dst": {
+            "sk": "Zásuvky"
+          }
+        },
+        {
+          "key": "p.06107357.2074164f.322c3c56ac",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/kamery-a-zabezpeceni-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Kamery a zabezpečení",
+          "dst": {
+            "sk": "Kamery a zabezpečenie"
+          }
+        },
+        {
+          "key": "p.06107357.87926418.98db4a2b11",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/smart-home-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Smart Home",
+          "dst": {
+            "sk": "Smart Home"
+          }
+        },
+        {
+          "key": "p.06107357.fbbbe24f.15dd2de68d",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/osvetleni-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Osvětlení",
+          "dst": {
+            "sk": "Osvetlenie"
+          }
+        },
+        {
+          "key": "p.06107357.79de2f62.377cfcba3d",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/cidla-a-senzory-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Čidla a senzory",
+          "dst": {
+            "sk": "Čidla a senzory"
+          }
+        },
+        {
+          "key": "p.06107357.f590f26a.b2c16bbbb0",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/zasuvky-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Zásuvky",
+          "dst": {
+            "sk": "Zásuvky"
+          }
+        },
+        {
+          "key": "p.06107357.b247a819.322c3c56ac",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/kamery-a-zabezpeceni-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Kamery a zabezpečení",
+          "dst": {
+            "sk": "Kamery a zabezpečenie"
+          }
+        },
+        {
+          "key": "p.06107357.b8af3839.8a67244716",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/smart-sport-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Smart Sport",
+          "dst": {
+            "sk": "Smart Sport"
+          }
+        },
+        {
+          "key": "p.06107357.c54ceb99.c8469891c9",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/therabody-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Therabody",
+          "dst": {
+            "sk": "Therabody"
+          }
+        },
+        {
+          "key": "p.06107357.237eaf81.9898e062f7",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/chytre-helmy-unit-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Chytré helmy UNIT",
+          "dst": {
+            "sk": "Chytré prilby UNIT"
+          }
+        },
+        {
+          "key": "p.06107357.1180884d.cd43b62818",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/chytre-lahve-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Chytré láhve",
+          "dst": {
+            "sk": "Inteligentné fľaše"
+          }
+        },
+        {
+          "key": "p.06107357.f08b2a75.8a67244716",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/smart-sport-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Smart Sport",
+          "dst": {
+            "sk": "Smart Sport"
+          }
+        },
+        {
+          "key": "p.06107357.009857dc.fcac354261",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/smart-zdravi-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Smart Zdraví",
+          "dst": {
+            "sk": "Smart Zdravie"
+          }
+        },
+        {
+          "key": "p.06107357.9f523fd8.fcac354261",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/smart-zdravi-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Smart Zdraví",
+          "dst": {
+            "sk": "Smart Zdravie"
+          }
+        },
+        {
+          "key": "p.06107357.23e3072e.a7bfa4829c",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/bryle-barner-brand-r-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Brýle Barner Brand",
+          "dst": {
+            "sk": "Okuliare Barner Brand"
+          }
+        },
+        {
+          "key": "p.06107357.d75aca1d.23dd89772c",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/smart-hracky-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Smart Hračky",
+          "dst": {
+            "sk": "Smart Hračky"
+          }
+        },
+        {
+          "key": "p.06107357.23754e7b.57c3bf7678",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/intelino-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Intelino",
+          "dst": {
+            "sk": "Intelino"
+          }
+        },
+        {
+          "key": "p.06107357.07138649.7604ac96ef",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/gocube-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "GoCube",
+          "dst": {
+            "sk": "GoCube"
+          }
+        },
+        {
+          "key": "p.06107357.874a40d7.ee8e2bc404",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/ozobot-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Ozobot",
+          "dst": {
+            "sk": "Ozobot"
+          }
+        },
+        {
+          "key": "p.06107357.7dec4a8f.9d1031e3bd",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/robobloq-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Robobloq",
+          "dst": {
+            "sk": "Robobloq"
+          }
+        },
+        {
+          "key": "p.06107357.85660fc2.9779e72e5f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/gps-a-lokatory-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "GPS a lokátory",
+          "dst": {
+            "sk": "GPS a lokalizátory"
+          }
+        },
+        {
+          "key": "p.06107357.7d5ea553.0fadfa2288",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/gaming-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Gaming",
+          "dst": {
+            "sk": "Hranie hier"
+          }
+        },
+        {
+          "key": "p.06107357.b4dd9819.e3eff257bb",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/playstation-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Playstation",
+          "dst": {
+            "sk": "PlayStation"
+          }
+        },
+        {
+          "key": "p.06107357.8563237f.449b321e81",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/xbox-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Xbox",
+          "dst": {
+            "sk": "Xbox"
+          }
+        },
+        {
+          "key": "p.06107357.b2488e68.0bee31ac67",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nintendo-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Nintendo",
+          "dst": {
+            "sk": "Nintendo"
+          }
+        },
+        {
+          "key": "p.06107357.396a67a1.5313629a4f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/herni-konzole-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Herní konzole",
+          "dst": {
+            "sk": "Herné konzoly"
+          }
+        },
+        {
+          "key": "p.06107357.143efb10.2d96cd5e39",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/robovysavace-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Robovysavače",
+          "dst": {
+            "sk": "Roboti na vysávanie"
+          }
+        },
+        {
+          "key": "p.06107357.66c3d1d2.c54617694a",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/ctecky-e-knih-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Čtečky e-knih",
+          "dst": {
+            "sk": "Čítačky e-kníh"
+          }
+        },
+        {
+          "key": "p.06107357.53dde4bc.32e8d32b2c",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/prislusenstvi-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Příslušenství",
+          "dst": {
+            "sk": "Príslušenstvo"
+          }
+        },
+        {
+          "key": "p.06107357.10d2759b.770769b56b",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/pouzdra-kryty-a-ochranna-skla-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Pouzdra, kryty a ochranná skla",
+          "dst": {
+            "sk": "Puzdrá, kryty a ochranné sklá"
+          }
+        },
+        {
+          "key": "p.06107357.46624bb7.3d25ac5429",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/pouzdra-a-kryty-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Pouzdra a kryty",
+          "dst": {
+            "sk": "Puzdrá a kryty"
+          }
+        },
+        {
+          "key": "p.06107357.ffb5e41d.04b1089cb1",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/ochranna-skla-a-folie-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Ochranná skla a folie",
+          "dst": {
+            "sk": "Ochranné sklá a fólie"
+          }
+        },
+        {
+          "key": "p.06107357.e049a103.717594d324",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/reminky-pro-apple-watch-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Řemínky pro Apple Watch",
+          "dst": {
+            "sk": "Remienky pre Apple Watch"
+          }
+        },
+        {
+          "key": "p.06107357.ffaf7b3d.606b7dcfcc",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/series-1-9-38-40-41mm-10-42mm-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Series 1-9 (38/40/41mm) / 10 (42mm)",
+          "dst": {
+            "sk": "Séria 1-9 (38/40/41mm) / 10 (42mm)"
+          }
+        },
+        {
+          "key": "p.06107357.e1fa738f.9d8b55f2cd",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/series-1-3-42mm-4-10-44-45-46-49mm-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Series 1-3 (42mm) / 4-10 (44/45/46/49mm)",
+          "dst": {
+            "sk": "Séria 1-3 (42mm) / 4-10 (44/45/46/49mm)"
+          }
+        },
+        {
+          "key": "p.06107357.77311e62.cb19448bc6",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/univerzalni-reminky-quick-release-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Univerzální řemínky Quick Release",
+          "dst": {
+            "sk": "Univerzálne remienky Quick Release"
+          }
+        },
+        {
+          "key": "p.06107357.304d7006.39f54d1977",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nabijecky-kabely-redukce-a-huby-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Nabíječky, kabely, redukce a huby",
+          "dst": {
+            "sk": "Nabíjačky, káble, redukcie a huby"
+          }
+        },
+        {
+          "key": "p.06107357.65c742b7.1e72326d40",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nabijecky-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Nabíječky",
+          "dst": {
+            "sk": "Nabíjačky"
+          }
+        },
+        {
+          "key": "p.06107357.f53d636e.0e7b051a5b",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/kabely-a-redukce-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Kabely a redukce",
+          "dst": {
+            "sk": "Káble a redukcie"
+          }
+        },
+        {
+          "key": "p.06107357.ca2666e8.ee7fb4745a",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/usb-c-huby-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "USB-C Huby",
+          "dst": {
+            "sk": "USB-C Huby"
+          }
+        },
+        {
+          "key": "p.06107357.303edfd0.624194b3f7",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/powerbanky-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Powerbanky",
+          "dst": {
+            "sk": "Powerbanky"
+          }
+        },
+        {
+          "key": "p.06107357.7ab6743d.1b62ef574e",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/drzaky-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Držáky",
+          "dst": {
+            "sk": "Držiaky"
+          }
+        },
+        {
+          "key": "p.06107357.03e54077.b860357289",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/shiftcam-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "ShiftCam",
+          "dst": {
+            "sk": "ShiftCam"
+          }
+        },
+        {
+          "key": "p.06107357.3274d3f1.9e72901c67",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/do-auta-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Do auta",
+          "dst": {
+            "sk": "Do auta"
+          }
+        },
+        {
+          "key": "p.06107357.116fd6c5.8a6ff2b79e",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/na-kolo-motorku-kolobezku-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Na kolo/motorku/koloběžku",
+          "dst": {
+            "sk": "Na bicykel/motorku/kolobežku"
+          }
+        },
+        {
+          "key": "p.06107357.602b3db6.fbcd97ab6b",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/na-stul-do-ruky-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Na stůl/do ruky",
+          "dst": {
+            "sk": "Na stôl/do ruky"
+          }
+        },
+        {
+          "key": "p.06107357.ea374ad4.975c791824",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/sluchatka-a-reproduktory-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Sluchátka a reproduktory",
+          "dst": {
+            "sk": "Slúchadlá a reproduktory"
+          }
+        },
+        {
+          "key": "p.06107357.18b0139c.00a1fb1965",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/marshall-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Marshall",
+          "dst": {
+            "sk": "Marshall"
+          }
+        },
+        {
+          "key": "p.06107357.27823f6e.d1a9d3732a",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/reproduktory-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Reproduktory",
+          "dst": {
+            "sk": "Reproduktory"
+          }
+        },
+        {
+          "key": "p.06107357.92be1831.3a61138588",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/bezdratova-sluchatka-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Bezdrátová sluchátka",
+          "dst": {
+            "sk": "Bezdrôtové slúchadlá"
+          }
+        },
+        {
+          "key": "p.06107357.ad4dc29f.527e5dc92d",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/dratova-sluchatka-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Drátová sluchátka",
+          "dst": {
+            "sk": "Drôtové slúchadlá"
+          }
+        },
+        {
+          "key": "p.06107357.50b5335b.69ed9dab2e",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/klavesnice-mysi-a-stylusy-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Klávesnice, myši a stylusy",
+          "dst": {
+            "sk": "Klávesnice, myši a stylusy"
+          }
+        },
+        {
+          "key": "p.06107357.8b4433b0.c1d0d8e1ba",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/klavesnice-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Klávesnice",
+          "dst": {
+            "sk": "Klávesnice"
+          }
+        },
+        {
+          "key": "p.06107357.faa0a639.6b70e776e1",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/mysi-a-trackpady-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Myši a trackpady",
+          "dst": {
+            "sk": "Myši a trackpady"
+          }
+        },
+        {
+          "key": "p.06107357.28b96f0e.c328103777",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/stylusy-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Stylusy",
+          "dst": {
+            "sk": "Stylusy"
+          }
+        },
+        {
+          "key": "p.06107357.80c4d3bd.550489043a",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/uloziste-a-software-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Úložiště a software",
+          "dst": {
+            "sk": "Úložisko a softvér"
+          }
+        },
+        {
+          "key": "p.06107357.a8eae59f.66ab0a915f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/uloziste-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Úložiště",
+          "dst": {
+            "sk": "Úložisko"
+          }
+        },
+        {
+          "key": "p.06107357.f4d61ea3.9b3289a385",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/software-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Software",
+          "dst": {
+            "sk": "Softvér"
+          }
+        },
+        {
+          "key": "p.06107357.062e6a40.7002879e03",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/penezenky-a-kryptopenezenky-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Peněženky a kryptopeněženky",
+          "dst": {
+            "sk": "Peňaženky a kryptopeňaženky"
+          }
+        },
+        {
+          "key": "p.06107357.25f1981a.77cbedae8e",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/penezenky-secrid-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Peněženky Secrid",
+          "dst": {
+            "sk": "Peňaženky Secrid"
+          }
+        },
+        {
+          "key": "p.06107357.4f5f2882.673069ac81",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/penezenky-spigen-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Peněženky Spigen",
+          "dst": {
+            "sk": "Peňaženky Spigen"
+          }
+        },
+        {
+          "key": "p.06107357.e444b8f3.87bbbcab8a",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/kryptopenezenky-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Kryptopeněženky",
+          "dst": {
+            "sk": "Kryptopeňaženky"
+          }
+        },
+        {
+          "key": "p.06107357.916bbe9d.590ea5e83d",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/pece-o-zarizeni-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Péče o zařízení",
+          "dst": {
+            "sk": "Starostlivosť o zariadenie"
+          }
+        },
+        {
+          "key": "p.06107357.2e690ef8.6156c260f6",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/ostatni-doplnky-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Ostatní doplňky",
+          "dst": {
+            "sk": "Ostatné doplnky"
+          }
+        },
+        {
+          "key": "p.06107357.c9c53971.3c54934559",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/prislusenstvi-k-tesle-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Příslušenství k Tesle",
+          "dst": {
+            "sk": "Príslušenstvo k Tesle"
+          }
+        },
+        {
+          "key": "p.06107357.e6076c05.8cd361c011",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/naradi-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Nářadí",
+          "dst": {
+            "sk": "Náradie"
+          }
+        },
+        {
+          "key": "p.06107357.36e62cd1.227a0ba248",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/knihy-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Knihy",
+          "dst": {
+            "sk": "Knihy"
+          }
+        },
+        {
+          "key": "p.06107357.035162e1.4c2d808cc2",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/darkove-vouchery-a-sluzby-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Dárkové vouchery a služby",
+          "dst": {
+            "sk": "Darčekové poukazy a služby"
+          }
+        },
+        {
+          "key": "p.06107357.a92a173f.6e5b2f5022",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/naradi-a-nastroje-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Nářadí a nástroje",
+          "dst": {
+            "sk": "Náradie a nástroje"
+          }
+        },
+        {
+          "key": "p.06107357.db95628d.8a1ce6cdc4",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/sroubovaky-a-sady-naradi-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Šroubováky a sady nářadí",
+          "dst": {
+            "sk": "Skrutkovače a sady náradia"
+          }
+        },
+        {
+          "key": "p.06107357.6c277f38.52cbd9d29c",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/pacidla-a-otvirace-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Páčidla a otvírače",
+          "dst": {
+            "sk": "Páčidlá a otvárače"
+          }
+        },
+        {
+          "key": "p.06107357.716baef1.6879d79d63",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/pinzety-a-kleste-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Pinzety a kleště",
+          "dst": {
+            "sk": "Pinzety a kliešte"
+          }
+        },
+        {
+          "key": "p.06107357.4d2ae8bf.fd78e3c6b7",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/lepidla-a-chemie-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Lepidla a chemie",
+          "dst": {
+            "sk": "Lepidlá a chémia"
+          }
+        },
+        {
+          "key": "p.06107357.990b5ec1.9d712cc224",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/swissten-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Swissten",
+          "dst": {
+            "sk": "Swissten"
+          }
+        },
+        {
+          "key": "p.06107357.7b97d11f.e733dc4a26",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/swissten-nabijeni-do-site-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Nabíjení do sítě",
+          "dst": {
+            "sk": "Nabíjanie do siete"
+          }
+        },
+        {
+          "key": "p.06107357.4b1609ea.ec0d2293ed",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nabijeni-do-auta-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Nabíjení do auta",
+          "dst": {
+            "sk": "Nabíjanie do auta"
+          }
+        },
+        {
+          "key": "p.06107357.61951b60.b783226670",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/bezdratove-nabijeni-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Bezdrátové nabíjení",
+          "dst": {
+            "sk": "Bezdrôtové nabíjanie"
+          }
+        },
+        {
+          "key": "p.06107357.d7278abe.49d44d6d35",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/solarni-nabijeni-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Solární nabíjení",
+          "dst": {
+            "sk": "Solárne nabíjanie"
+          }
+        },
+        {
+          "key": "p.06107357.5d5c7cbc.ee79f907e3",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/b2b-nahradni-dily-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly",
+          "dst": {
+            "sk": "Náhradné diely"
+          }
+        },
+        {
+          "key": "p.06107357.50f80738.79de7d2748",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-pro-apple-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly pro Apple",
+          "dst": {
+            "sk": "Náhradné diely pre Apple"
+          }
+        },
+        {
+          "key": "p.06107357.aca728dc.04c323426b",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/dily-pro-iphone-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Díly pro iPhone",
+          "dst": {
+            "sk": "Diely pre iPhone"
+          }
+        },
+        {
+          "key": "p.06107357.088fca44.4fe78094e3",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/dily-pro-macbook-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Díly pro MacBook",
+          "dst": {
+            "sk": "Diely pre MacBook"
+          }
+        },
+        {
+          "key": "p.06107357.3e336a8e.e4827695c4",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/dily-pro-apple-watch-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Díly pro Apple Watch",
+          "dst": {
+            "sk": "Diely pre Apple Watch"
+          }
+        },
+        {
+          "key": "p.06107357.05282306.d0f33384bf",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/dily-pro-imac-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Díly pro iMac",
+          "dst": {
+            "sk": "Diely pre iMac"
+          }
+        },
+        {
+          "key": "p.06107357.6d84acbf.172faaf5c9",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-pro-samsung-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly pro Samsung",
+          "dst": {
+            "sk": "Náhradné diely pre Samsung"
+          }
+        },
+        {
+          "key": "p.06107357.484282bf.68ce1a88d1",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/galaxy-a-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Galaxy A",
+          "dst": {
+            "sk": "Galaxy A"
+          }
+        },
+        {
+          "key": "p.06107357.0af0bc94.9a34d66418",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/galaxy-m-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Galaxy M",
+          "dst": {
+            "sk": "Galaxy M"
+          }
+        },
+        {
+          "key": "p.06107357.bb25fdff.e4e4c0461f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/galaxy-note-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Galaxy Note",
+          "dst": {
+            "sk": "Galaxy Note"
+          }
+        },
+        {
+          "key": "p.06107357.5ad1c0b2.ad252b361e",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/galaxy-s-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Galaxy S",
+          "dst": {
+            "sk": "Galaxy S"
+          }
+        },
+        {
+          "key": "p.06107357.a37e1ac2.e3b352b835",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-pro-xiaomi-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly pro Xiaomi",
+          "dst": {
+            "sk": "Náhradné diely pre Xiaomi"
+          }
+        },
+        {
+          "key": "p.06107357.9cce7764.9fc7c2306f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/xiaomi-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Xiaomi",
+          "dst": {
+            "sk": "Xiaomi"
+          }
+        },
+        {
+          "key": "p.06107357.7c5c582c.57b0378dc6",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-xiaomi-pad-4-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Xiaomi Pad 4",
+          "dst": {
+            "sk": "Xiaomi Pad 4"
+          }
+        },
+        {
+          "key": "p.06107357.4d458816.3df63b7d61",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/mi-a-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Mi A",
+          "dst": {
+            "sk": "Mi A"
+          }
+        },
+        {
+          "key": "p.06107357.bbbcc82f.6988288ec6",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-pro-vivo-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly pro Vivo",
+          "dst": {
+            "sk": "Náhradné diely pre Vivo"
+          }
+        },
+        {
+          "key": "p.06107357.c9a78744.4f07d543ed",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-pro-nokia-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly pro Nokia",
+          "dst": {
+            "sk": "Náhradné diely pre Nokia"
+          }
+        },
+        {
+          "key": "p.06107357.c8667a47.d4208fb8da",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-motorola-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly Motorola",
+          "dst": {
+            "sk": "Náhradné diely Motorola"
+          }
+        },
+        {
+          "key": "p.06107357.2eb41a21.f9cfd5629b",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/motorola-nahradni-dily-motorola-one-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Motorola One",
+          "dst": {
+            "sk": "Motorola One"
+          }
+        },
+        {
+          "key": "p.06107357.dbb8a0b7.2cedd99aae",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/motorola-edge-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Motorola Edge",
+          "dst": {
+            "sk": "Motorola Edge"
+          }
+        },
+        {
+          "key": "p.06107357.67c0d5c2.30494cbf87",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/motorola-e-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Motorola E",
+          "dst": {
+            "sk": "Motorola E"
+          }
+        },
+        {
+          "key": "p.06107357.169b884c.da18a50482",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/motorola-g-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Motorola G",
+          "dst": {
+            "sk": "Motorola G"
+          }
+        },
+        {
+          "key": "p.06107357.7b255bd6.274587dce6",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-pro-infinix-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly pro Infinix",
+          "dst": {
+            "sk": "Náhradné diely pre Infinix"
+          }
+        },
+        {
+          "key": "p.06107357.a30eb4ab.1d8040081b",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/hot-30-4g-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Hot 30 4G",
+          "dst": {
+            "sk": "Hot 30 4G"
+          }
+        },
+        {
+          "key": "p.06107357.095393a5.21dade459f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/hot-30-5g-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Hot 30 5G",
+          "dst": {
+            "sk": "Hot 30 5G"
+          }
+        },
+        {
+          "key": "p.06107357.a4a538b6.ea71fdc889",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/hot-40-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Hot 40",
+          "dst": {
+            "sk": "Hot 40"
+          }
+        },
+        {
+          "key": "p.06107357.353378b0.1f5491ed5a",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-pro-tecno-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly pro Tecno",
+          "dst": {
+            "sk": "Náhradné diely pre Tecno"
+          }
+        },
+        {
+          "key": "p.06107357.cfa24bf0.c0e2668df6",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/pova-5-pro-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Pova 5 Pro",
+          "dst": {
+            "sk": "Pova 5 Pro"
+          }
+        },
+        {
+          "key": "p.06107357.3fa649b1.855bb56451",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/spark-20-pro-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Spark 20 Pro",
+          "dst": {
+            "sk": "Spark 20 Pro"
+          }
+        },
+        {
+          "key": "p.06107357.4d14edbc.b6131bbd5b",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-pro-huawei-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly pro Huawei",
+          "dst": {
+            "sk": "Náhradné diely pre Huawei"
+          }
+        },
+        {
+          "key": "p.06107357.81ac9101.af357b3045",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/huawei-y-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Huawei Y",
+          "dst": {
+            "sk": "Huawei Y"
+          }
+        },
+        {
+          "key": "p.06107357.e4c19adb.8bf4e1c730",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/huawei-p-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Huawei P",
+          "dst": {
+            "sk": "Huawei P"
+          }
+        },
+        {
+          "key": "p.06107357.f9e4c882.190856ea62",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/mediapad-m2-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "MediaPad M2",
+          "dst": {
+            "sk": "MediaPad M2"
+          }
+        },
+        {
+          "key": "p.06107357.3844bdcc.9828f6261f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/mediapad-m3-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "MediaPad M3",
+          "dst": {
+            "sk": "MediaPad M3"
+          }
+        },
+        {
+          "key": "p.06107357.eaef048a.f789cce4a6",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-pro-lenovo-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly pro Lenovo",
+          "dst": {
+            "sk": "Náhradné diely pre Lenovo"
+          }
+        },
+        {
+          "key": "p.06107357.460a0196.23203965b3",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/lenovo-m-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Lenovo M",
+          "dst": {
+            "sk": "Lenovo M"
+          }
+        },
+        {
+          "key": "p.06107357.089fb449.f4bd59701a",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/lenovo-tab-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Lenovo tab",
+          "dst": {
+            "sk": "Lenovo tab"
+          }
+        },
+        {
+          "key": "p.06107357.d72e2c78.ce77c1743f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/lenovo-p-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Lenovo P",
+          "dst": {
+            "sk": "Lenovo P"
+          }
+        },
+        {
+          "key": "p.06107357.b92adcba.b0122bc1ad",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-pro-honor-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly pro Honor",
+          "dst": {
+            "sk": "Náhradné diely pre Honor"
+          }
+        },
+        {
+          "key": "p.06107357.87020631.22ea092e76",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/honor-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Honor",
+          "dst": {
+            "sk": "Honor"
+          }
+        },
+        {
+          "key": "p.06107357.3d9c6d3f.360246e253",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/honor-x-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Honor X",
+          "dst": {
+            "sk": "Honor X"
+          }
+        },
+        {
+          "key": "p.06107357.af1e5fd6.6f13f422a0",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/honor-magic-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Honor Magic",
+          "dst": {
+            "sk": "Honor Magic"
+          }
+        },
+        {
+          "key": "p.06107357.c77a9889.8c06efedb6",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/honor-view-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Honor View",
+          "dst": {
+            "sk": "Honor View"
+          }
+        },
+        {
+          "key": "p.06107357.2228d868.4b1acc0002",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/realme-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Realme",
+          "dst": {
+            "sk": "Realme"
+          }
+        },
+        {
+          "key": "p.06107357.4b8662d7.786317405c",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/realme-c-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Realme C",
+          "dst": {
+            "sk": "Realme C"
+          }
+        },
+        {
+          "key": "p.06107357.7248f53b.977c47a316",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/realme-note-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Realme Note",
+          "dst": {
+            "sk": "Realme Note"
+          }
+        },
+        {
+          "key": "p.06107357.971ed4d6.a1b44792d2",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/realme-12-2-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Realme 12",
+          "dst": {
+            "sk": "Realme 12"
+          }
+        },
+        {
+          "key": "p.06107357.7fb825c6.dc7cde55d9",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/realme-10-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Realme 10",
+          "dst": {
+            "sk": "Realme 10"
+          }
+        },
+        {
+          "key": "p.06107357.3262f4ff.332ee11d20",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-lg-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly LG",
+          "dst": {
+            "sk": "Náhradné diely LG"
+          }
+        },
+        {
+          "key": "p.06107357.556c1e23.163b32b315",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-pro-oneplus-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly pro OnePlus",
+          "dst": {
+            "sk": "Náhradné diely pre OnePlus"
+          }
+        },
+        {
+          "key": "p.06107357.736955c5.855b67be83",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/oneplus-9-pro-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "OnePlus 9 Pro",
+          "dst": {
+            "sk": "OnePlus 9 Pro"
+          }
+        },
+        {
+          "key": "p.06107357.26397bcb.d4ddc83bc7",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/oneplus-9-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "OnePlus 9",
+          "dst": {
+            "sk": "OnePlus 9"
+          }
+        },
+        {
+          "key": "p.06107357.43646a6d.ea40412fe9",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/oneplus-nord-n100-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "OnePlus Nord N100",
+          "dst": {
+            "sk": "OnePlus Nord N100"
+          }
+        },
+        {
+          "key": "p.06107357.d371c8d2.a7ce80a41a",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/one-plus-6t-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "One Plus 6T",
+          "dst": {
+            "sk": "One Plus 6T"
+          }
+        },
+        {
+          "key": "p.06107357.6dfae781.fe7bd503b7",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nahradni-dily-pro-herni-konzole-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly pro herní konzole",
+          "dst": {
+            "sk": "Náhradné diely pre herné konzoly"
+          }
+        },
+        {
+          "key": "p.06107357.83be24f5.7a2852ed1b",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/sony-ps-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Sony PS",
+          "dst": {
+            "sk": "Sony PS"
+          }
+        },
+        {
+          "key": "p.06107357.47153a6b.449b321e81",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/xbox-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Xbox",
+          "dst": {
+            "sk": "Xbox"
+          }
+        },
+        {
+          "key": "p.06107357.96078dda.d7fc60b31d",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/nintendo-switch-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Nintendo Switch",
+          "dst": {
+            "sk": "Nintendo Switch"
+          }
+        },
+        {
+          "key": "p.06107357.85d43d59.cc50de1cda",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/eshop/:sort/recommended/tags/8\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Slevy",
+          "dst": {
+            "sk": "Zľavy"
+          }
+        },
+        {
+          "key": "p.06107357.88886acf.b16fe556be",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/servis-zarizeni\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Servis",
+          "dst": {
+            "sk": "Servis"
+          }
+        },
+        {
+          "key": "p.06107357.d0be1a08.d686d6118f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/servis-oprava/servis-apple-plzen\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Servis Apple",
+          "dst": {
+            "sk": "Servis Apple"
+          }
+        },
+        {
+          "key": "p.06107357.9a02a26b.2ff38e28e7",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/servis-oprava/samsung-cenik-plzen\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Samsung - ceník",
+          "dst": {
+            "sk": "Samsung - cenník"
+          }
+        },
+        {
+          "key": "p.06107357.ee358a3f.96267e8c78",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/servis-oprava/xiaomi-cenik-plzen\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Xiaomi - ceník",
+          "dst": {
+            "sk": "Xiaomi - cenník"
+          }
+        },
+        {
+          "key": "p.06107357.6c246727.944aa857e4",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/servis-oprava/huawei-cenik-plzen\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Huawei - ceník",
+          "dst": {
+            "sk": "Huawei - cenník"
+          }
+        },
+        {
+          "key": "p.06107357.501ea3c8.149a592d4e",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/servis-oprava/honor-cenik-plzen\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Honor - ceník",
+          "dst": {
+            "sk": "Honor - cenník"
+          }
+        },
+        {
+          "key": "p.06107357.bc4334f9.247f1c2182",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/servis-oprava/elektrokolobezky-cenik-plzen\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Elektrokoloběžky - ceník",
+          "dst": {
+            "sk": "Elektrické kolobežky - cenník"
+          }
+        },
+        {
+          "key": "p.06107357.4757dd20.3f738866e7",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/servis-oprava/vseobecny-cenik-servisu-elektrokolobezek-plzen/cenik\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Všeobecný ceník servisu elektrokoloběžek",
+          "dst": {
+            "sk": "Všeobecný cenník servisu elektrokolobežiek"
+          }
+        },
+        {
+          "key": "p.06107357.a5fa92ae.d5bb47c50e",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/servis-oprava/herni-konzole-cenik-plzen\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Herní konzole - ceník",
+          "dst": {
+            "sk": "Herné konzoly - cenník"
+          }
+        },
+        {
+          "key": "p.06107357.8c524351.6eb307c902",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/servis-oprava/ostatni-znacky-cenik-plzen\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Ostatní značky - ceník",
+          "dst": {
+            "sk": "Ostatné značky - cenník"
+          }
+        },
+        {
+          "key": "p.06107357.3984792f.0f98f6b93f",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/vykup-zarizeni\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Výkup",
+          "dst": {
+            "sk": "Výkup"
+          }
+        },
+        {
+          "key": "p.06107357.249d79a7.6ea70451ac",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/s/repasovany-apple-zachran-planetu\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Refurbished",
+          "dst": {
+            "sk": "Refurbished"
+          }
+        },
+        {
+          "key": "p.06107357.894fb594.1b45e15971",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/s/o-nas\"]",
+          "index": 1,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "O nás",
+          "dst": {
+            "sk": "O nás"
+          }
+        },
+        {
+          "key": "p.06107357.b5f211b4.c91b1ab7d3",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "span.nav-link",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Prodejny",
+          "dst": {
+            "sk": "Predajne"
+          }
+        },
+        {
+          "key": "p.06107357.85ef8973.92b86eaa37",
+          "parentId": "",
+          "parent": ".component--core-navigation",
+          "selector": "a[href=\"/kontakt-es\"]",
+          "index": 1,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Kontakty",
+          "dst": {
+            "sk": "Kontakty"
+          }
+        },
+        {
+          "key": "p.06107357.78aad3f8.9715a55779",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/quad-lock-drzaky-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Quad Lock držáky",
+          "dst": {
+            "sk": "Quad Lock držiaky"
+          }
+        },
+        {
+          "key": "p.06107357.51bd3813.e23cc8863d",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/na-motorku-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Na motorku",
+          "dst": {
+            "sk": "Na motocykel"
+          }
+        },
+        {
+          "key": "p.06107357.c41a77a8.9e72901c67",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/do-auta-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Do auta",
+          "dst": {
+            "sk": "Do auta"
+          }
+        },
+        {
+          "key": "p.06107357.ff6c41a3.bd56dffdb8",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/na-kolo-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Na kolo",
+          "dst": {
+            "sk": "Na bicykel"
+          }
+        },
+        {
+          "key": "p.06107357.c2f208cf.05c74fa325",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/ostatni-2-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Ostatní",
+          "dst": {
+            "sk": "Ostatní"
+          }
+        },
+        {
+          "key": "p.06107357.b376304f.8c0610b490",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/quad-lock-kryty-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Quad Lock kryty",
+          "dst": {
+            "sk": "Quad Lock kryty"
+          }
+        },
+        {
+          "key": "p.06107357.2fb5ec42.f223faa96f",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/apple-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple",
+          "dst": {
+            "sk": "Apple"
+          }
+        },
+        {
+          "key": "p.06107357.b8e27e1f.285075a02b",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/samsung-a-huawei-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Samsung",
+          "dst": {
+            "sk": "Samsung"
+          }
+        },
+        {
+          "key": "p.06107357.5b751885.df853f864c",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/huawei-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Huawei",
+          "dst": {
+            "sk": "Huawei"
+          }
+        },
+        {
+          "key": "p.06107357.c60bc2b7.085a607a42",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/google-pixel-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Google Pixel",
+          "dst": {
+            "sk": "Google Pixel"
+          }
+        },
+        {
+          "key": "p.06107357.c231a4ff.90ca650407",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/quad-lock-prislusenstvi-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Quad Lock příslušenství",
+          "dst": {
+            "sk": "Quad Lock príslušenstvo"
+          }
+        },
+        {
+          "key": "p.06107357.81d108bf.da77839cab",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/doplnky-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Doplňky",
+          "dst": {
+            "sk": "Doplnky"
+          }
+        },
+        {
+          "key": "p.06107357.64307ee6.a4aa7bf5bb",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/ochranna-skla-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Ochranná skla",
+          "dst": {
+            "sk": "Ochranné sklá"
+          }
+        },
+        {
+          "key": "p.06107357.a6afa183.ee79f907e3",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/nahradni-dily-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Náhradní díly",
+          "dst": {
+            "sk": "Náhradné diely"
+          }
+        },
+        {
+          "key": "p.06107357.20cd6b11.a6fb0300b3",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/quad-lock-360-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Quad Lock 360",
+          "dst": {
+            "sk": "Quad Lock 360"
+          }
+        },
+        {
+          "key": "p.06107357.b410a39a.1338fa352e",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/quad-lock-poncho-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Quad Lock Poncho",
+          "dst": {
+            "sk": "Quad Lock Pončo"
+          }
+        },
+        {
+          "key": "p.06107357.b56746ee.f223faa96f",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/apple-2-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Apple",
+          "dst": {
+            "sk": "Apple"
+          }
+        },
+        {
+          "key": "p.06107357.d8eaa56d.285075a02b",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/samsung-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Samsung",
+          "dst": {
+            "sk": "Samsung"
+          }
+        },
+        {
+          "key": "p.06107357.98cd05d5.085a607a42",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/google-pixel-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Google Pixel",
+          "dst": {
+            "sk": "Google Pixel"
+          }
+        },
+        {
+          "key": "p.06107357.510c677b.df853f864c",
+          "parentId": "",
+          "parent": ".submenu",
+          "selector": "a[href=\"/huawei-1-c\"]",
+          "index": 0,
+          "textIndex": 0,
+          "mode": "textnode",
+          "attr": "",
+          "source": "Huawei",
+          "dst": {
+            "sk": "Huawei"
           }
         },
         {
