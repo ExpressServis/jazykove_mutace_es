@@ -165,8 +165,8 @@
   },
   "pages": {
     "https://www.express-servis.cz/vykup-zarizeni": {
-      "hash": "295d2f5cebf98a0d59b76742f2d1e2c35c05e9fb23b933a4440bd51a8ceb0a43",
-      "updated_at": 1766447468,
+      "hash": "777a12813d3a06f3e7cef0d0307806ea64a85c3ad8c8f75fa53ba8de5a889a3f",
+      "updated_at": 1766450895,
       "nodes": [
         {
           "key": "p.06107357.80adc3e3.8ed976ff7e",
@@ -174,6 +174,7 @@
           "parent": "head",
           "selector": "title#snippet--title",
           "index": 0,
+          "textIndex": 0,
           "mode": "text",
           "attr": "",
           "source": "Výkup zařízení | Express Servis",
@@ -182,12 +183,13 @@
           }
         },
         {
-          "key": "p.06107357.ba411747.08e7c88c99",
+          "key": "p.06107357.5f6a4c25.08e7c88c99",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "h1",
           "index": 0,
-          "mode": "text",
+          "textIndex": 0,
+          "mode": "textnode",
           "attr": "",
           "source": "Výkup použitých zařízení",
           "dst": {
@@ -195,12 +197,13 @@
           }
         },
         {
-          "key": "p.06107357.0f7f3ed5.54be06e87f",
+          "key": "p.06107357.75bdab2a.54be06e87f",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "p",
           "index": 0,
-          "mode": "text",
+          "textIndex": 0,
+          "mode": "textnode",
           "attr": "",
           "source": "Vlastníte staré Apple zařízení? My jej vykoupíme! Děláme výkupy",
           "dst": {
@@ -208,12 +211,13 @@
           }
         },
         {
-          "key": "p.06107357.b4f66b79.8000f59b60",
+          "key": "p.06107357.dd569efc.8000f59b60",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "p",
-          "index": 1,
-          "mode": "text",
+          "index": 0,
+          "textIndex": 1,
+          "mode": "textnode",
           "attr": "",
           "source": ", výkup",
           "dst": {
@@ -221,12 +225,13 @@
           }
         },
         {
-          "key": "p.06107357.36758a96.acc1350792",
+          "key": "p.06107357.bb96a36c.acc1350792",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "p",
-          "index": 2,
-          "mode": "text",
+          "index": 0,
+          "textIndex": 2,
+          "mode": "textnode",
           "attr": "",
           "source": "a výkup",
           "dst": {
@@ -234,12 +239,13 @@
           }
         },
         {
-          "key": "p.06107357.47fe5033.1ad4a7d4a7",
+          "key": "p.06107357.c3b3ae30.1ad4a7d4a7",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "p",
-          "index": 3,
-          "mode": "text",
+          "index": 0,
+          "textIndex": 3,
+          "mode": "textnode",
           "attr": "",
           "source": "za nejlepší možnou cenu. Výkup můžete uskutečnit rychle a bezpečně na naší prodejně v centru Plzně.",
           "dst": {
@@ -247,12 +253,13 @@
           }
         },
         {
-          "key": "p.06107357.acfb8db2.38fdf51931",
+          "key": "p.06107357.511067d1.38fdf51931",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "strong",
           "index": 0,
-          "mode": "text",
+          "textIndex": 0,
+          "mode": "textnode",
           "attr": "",
           "source": "iPhone",
           "dst": {
@@ -260,12 +267,13 @@
           }
         },
         {
-          "key": "p.06107357.334947a0.ac92e76130",
+          "key": "p.06107357.f8530b06.ac92e76130",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "strong",
-          "index": 1,
-          "mode": "text",
+          "index": 0,
+          "textIndex": 1,
+          "mode": "textnode",
           "attr": "",
           "source": "MacBook",
           "dst": {
@@ -273,12 +281,13 @@
           }
         },
         {
-          "key": "p.06107357.4dd60a77.9371bab2ce",
+          "key": "p.06107357.4c21bf37.9371bab2ce",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "strong",
-          "index": 2,
-          "mode": "text",
+          "index": 0,
+          "textIndex": 2,
+          "mode": "textnode",
           "attr": "",
           "source": "Apple Watch",
           "dst": {
@@ -286,12 +295,13 @@
           }
         },
         {
-          "key": "p.06107357.a318e439.a10366d50a",
+          "key": "p.06107357.f2a6d11a.a10366d50a",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "h2",
           "index": 0,
-          "mode": "text",
+          "textIndex": 0,
+          "mode": "textnode",
           "attr": "",
           "source": "Proč jít s výkupem k nám?",
           "dst": {
@@ -299,12 +309,13 @@
           }
         },
         {
-          "key": "p.06107357.9ecf6d5c.1a2e8191b4",
+          "key": "p.06107357.393e59f2.1a2e8191b4",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "h2",
-          "index": 1,
-          "mode": "text",
+          "index": 0,
+          "textIndex": 1,
+          "mode": "textnode",
           "attr": "",
           "source": "Co vykupujeme?",
           "dst": {
@@ -312,12 +323,13 @@
           }
         },
         {
-          "key": "p.06107357.09c3834d.af85e3749c",
+          "key": "p.06107357.59bed2ba.af85e3749c",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "li",
           "index": 0,
-          "mode": "text",
+          "textIndex": 0,
+          "mode": "textnode",
           "attr": "",
           "source": "Nabízíme ty nejvyšší možné výkupní ceny",
           "dst": {
@@ -325,12 +337,13 @@
           }
         },
         {
-          "key": "p.06107357.cce08ce7.b168ab3ee5",
+          "key": "p.06107357.2e3d0ba6.b168ab3ee5",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "li",
-          "index": 1,
-          "mode": "text",
+          "index": 0,
+          "textIndex": 1,
+          "mode": "textnode",
           "attr": "",
           "source": "Hodnotu výkupu vám pošleme na účet, dáme v hotovosti nebo odečteme z nákupu",
           "dst": {
@@ -338,12 +351,13 @@
           }
         },
         {
-          "key": "p.06107357.3ab53f1b.b7dea965af",
+          "key": "p.06107357.ccaf4a9c.b7dea965af",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "li",
-          "index": 2,
-          "mode": "text",
+          "index": 0,
+          "textIndex": 2,
+          "mode": "textnode",
           "attr": "",
           "source": "K výkupu Vám postačí pouze občanský průkaz",
           "dst": {
@@ -351,12 +365,13 @@
           }
         },
         {
-          "key": "p.06107357.a1c121c6.87df0deeab",
+          "key": "p.06107357.8b9357dc.87df0deeab",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "li",
-          "index": 3,
-          "mode": "text",
+          "index": 0,
+          "textIndex": 3,
+          "mode": "textnode",
           "attr": "",
           "source": "Nevyžadujeme doklad o koupi zařízení",
           "dst": {
@@ -364,12 +379,13 @@
           }
         },
         {
-          "key": "p.06107357.405b5f57.38fdf51931",
+          "key": "p.06107357.be87b2d0.38fdf51931",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "div.title",
           "index": 0,
-          "mode": "text",
+          "textIndex": 0,
+          "mode": "textnode",
           "attr": "",
           "source": "iPhone",
           "dst": {
@@ -377,12 +393,13 @@
           }
         },
         {
-          "key": "p.06107357.098ac811.23cbcfc3e8",
+          "key": "p.06107357.f18a641e.23cbcfc3e8",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "div.title",
-          "index": 1,
-          "mode": "text",
+          "index": 0,
+          "textIndex": 1,
+          "mode": "textnode",
           "attr": "",
           "source": "iPad",
           "dst": {
@@ -390,12 +407,13 @@
           }
         },
         {
-          "key": "p.06107357.279410ce.8b3795aa25",
+          "key": "p.06107357.0f5053fb.8b3795aa25",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "div.title",
-          "index": 2,
-          "mode": "text",
+          "index": 0,
+          "textIndex": 2,
+          "mode": "textnode",
           "attr": "",
           "source": "Mac",
           "dst": {
@@ -403,12 +421,13 @@
           }
         },
         {
-          "key": "p.06107357.290e0a42.a71e757324",
+          "key": "p.06107357.a9c0b790.a71e757324",
           "parentId": "snippet--content",
           "parent": "",
           "selector": "div.title",
-          "index": 3,
-          "mode": "text",
+          "index": 0,
+          "textIndex": 3,
+          "mode": "textnode",
           "attr": "",
           "source": "Watch",
           "dst": {
