@@ -180,8 +180,7 @@
       "src": "Mac",
       "dst": {
         "sk": "Mac",
-        "en": "Mac",
-        "de": "Bitte geben Sie den zu übersetzenden Text an, damit ich Ihnen helfen kann."
+        "en": "Mac"
       },
       "meta": {
         "updated_at": 1766524860
@@ -441,7 +440,7 @@
       "dst": {
         "sk": "E-shop",
         "en": "E-shop",
-        "de": "E-Shop"
+        "de": "E-shop"
       },
       "meta": {
         "updated_at": 1766525036
@@ -460,8 +459,8 @@
       "src": "Servis",
       "dst": {
         "sk": "Servis",
-        "en": "Service",
-        "de": "Service"
+        "en": "Servis",
+        "de": "Servis"
       },
       "meta": {
         "updated_at": 1766524988
@@ -525,7 +524,7 @@
       "dst": {
         "sk": "TikTok",
         "en": "TikTok",
-        "de": "Es tut mir leid, aber ich benötige den spezifischen Text, den Sie aus dem Tschechischen ins Deutsche übersetzen möchten. Bitte geben Sie den Text an, und ich helfe Ihnen gerne weiter!"
+        "de": "TikTok"
       },
       "meta": {
         "updated_at": 1766525042
@@ -599,8 +598,7 @@
       "src": "CZK (Kč)",
       "dst": {
         "sk": "CZK (Kč)",
-        "en": "CZK (Kč)",
-        "de": "Bitte geben Sie den zu übersetzenden Text an, damit ich Ihnen helfen kann."
+        "en": "CZK (Kč)"
       },
       "meta": {
         "updated_at": 1766524840
@@ -610,8 +608,7 @@
       "src": "EUR (€)",
       "dst": {
         "sk": "Samozrejme, pošlite mi text, ktorý chcete preložiť.",
-        "en": "EUR (€)",
-        "de": "Bitte geben Sie den zu übersetzenden Text an, damit ich Ihnen helfen kann."
+        "en": "EUR (€)"
       },
       "meta": {
         "updated_at": 1766524842
@@ -2530,8 +2527,8 @@
   },
   "pages": {
     "https://www.express-servis.cz/vykup-zarizeni": {
-      "hash": "e1756674982feec250d244c2a64c70e6291828b1b36bdfe8939c806e68de5aba",
-      "updated_at": 1766525045,
+      "hash": "432195d4cbc33453cbfa911e2428c59f106c39deb50962b346f1da577c240f77",
+      "updated_at": 1766531748,
       "nodes": [
         {
           "key": "p.06107357.80adc3e3.8ed976ff7e",
@@ -2630,10 +2627,10 @@
           }
         },
         {
-          "key": "p.06107357.fa6cfdc6.d6d5204e6a",
+          "key": "p.06107357.ed7b568e.d6d5204e6a",
           "parentId": "",
           "parent": ".component--core-navigation",
-          "selector": "a[href=\"?do=CoreNavigation_main-Currency_5cy8c8-select&CoreNavigation_main-Currency_5cy8c8-id=CZK\"]",
+          "selector": "a[href=\"?do=CoreNavigation_main-Currency_w12fb3-select&CoreNavigation_main-Currency_w12fb3-id=CZK\"]",
           "index": 0,
           "textIndex": 0,
           "mode": "textnode",
@@ -2641,15 +2638,14 @@
           "source": "CZK (Kč)",
           "dst": {
             "sk": "CZK (Kč)",
-            "en": "CZK (Kč)",
-            "de": "Bitte geben Sie den zu übersetzenden Text an, damit ich Ihnen helfen kann."
+            "en": "CZK (Kč)"
           }
         },
         {
-          "key": "p.06107357.feeb5cf8.fb29af5823",
+          "key": "p.06107357.969a0dbb.fb29af5823",
           "parentId": "",
           "parent": ".component--core-navigation",
-          "selector": "a[href=\"?do=CoreNavigation_main-Currency_5cy8c8-select&CoreNavigation_main-Currency_5cy8c8-id=EUR\"]",
+          "selector": "a[href=\"?do=CoreNavigation_main-Currency_w12fb3-select&CoreNavigation_main-Currency_w12fb3-id=EUR\"]",
           "index": 0,
           "textIndex": 0,
           "mode": "textnode",
@@ -2657,8 +2653,7 @@
           "source": "EUR (€)",
           "dst": {
             "sk": "Samozrejme, pošlite mi text, ktorý chcete preložiť.",
-            "en": "EUR (€)",
-            "de": "Bitte geben Sie den zu übersetzenden Text an, damit ich Ihnen helfen kann."
+            "en": "EUR (€)"
           }
         },
         {
@@ -3041,8 +3036,7 @@
           "source": "Mac",
           "dst": {
             "sk": "Mac",
-            "en": "Mac",
-            "de": "Bitte geben Sie den zu übersetzenden Text an, damit ich Ihnen helfen kann."
+            "en": "Mac"
           }
         },
         {
@@ -5249,8 +5243,8 @@
           "source": "Servis",
           "dst": {
             "sk": "Servis",
-            "en": "Service",
-            "de": "Service"
+            "en": "Servis",
+            "de": "Servis"
           }
         },
         {
@@ -6049,8 +6043,7 @@
           "source": "Mac",
           "dst": {
             "sk": "Mac",
-            "en": "Mac",
-            "de": "Bitte geben Sie den zu übersetzenden Text an, damit ich Ihnen helfen kann."
+            "en": "Mac"
           }
         },
         {
@@ -6402,7 +6395,7 @@
           "dst": {
             "sk": "E-shop",
             "en": "E-shop",
-            "de": "E-Shop"
+            "de": "E-shop"
           }
         },
         {
@@ -6417,8 +6410,8 @@
           "source": "Servis",
           "dst": {
             "sk": "Servis",
-            "en": "Service",
-            "de": "Service"
+            "en": "Servis",
+            "de": "Servis"
           }
         },
         {
@@ -6498,7 +6491,7 @@
           "dst": {
             "sk": "TikTok",
             "en": "TikTok",
-            "de": "Es tut mir leid, aber ich benötige den spezifischen Text, den Sie aus dem Tschechischen ins Deutsche übersetzen möchten. Bitte geben Sie den Text an, und ich helfe Ihnen gerne weiter!"
+            "de": "TikTok"
           }
         },
         {
