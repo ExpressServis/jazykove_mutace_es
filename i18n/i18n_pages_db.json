@@ -471,8 +471,8 @@
   },
   "pages": {
     "https://www.express-servis.cz/vykup-zarizeni": {
-      "hash": "b21cd027c2c50414aaabd3ed5900cdef270363d2148dd3f32ba5ec2685352b76",
-      "updated_at": 1766451757,
+      "hash": "ccd3253a955068ff79087bfe5ecbdbc4a6421264641b7d516f2e1318f706c45e",
+      "updated_at": 1766452787,
       "nodes": [
         {
           "key": "p.06107357.80adc3e3.8ed976ff7e",
@@ -769,10 +769,10 @@
           }
         },
         {
-          "key": "p.06107357.11d3be56.8f4cdaa463",
+          "key": "p.06107357.057ce20f.8f4cdaa463",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a",
+          "selector": "a[href=\"/s/vse-o-nakupu\"]",
           "index": 0,
           "textIndex": 0,
           "mode": "textnode",
@@ -783,11 +783,11 @@
           }
         },
         {
-          "key": "p.06107357.11d3be56.d0c5a6e519",
+          "key": "p.06107357.087389ba.d0c5a6e519",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 1,
+          "selector": "a[href=\"/s/cena-dopravy\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -797,11 +797,11 @@
           }
         },
         {
-          "key": "p.06107357.11d3be56.56bf1ddfe9",
+          "key": "p.06107357.885e1072.56bf1ddfe9",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 2,
+          "selector": "a[href=\"/s/apple-servis-pro-firmy\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -811,11 +811,11 @@
           }
         },
         {
-          "key": "p.06107357.11d3be56.0a67d666bb",
+          "key": "p.06107357.6f500c75.0a67d666bb",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 3,
+          "selector": "a[href=\"/s/pro-partnery\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -825,11 +825,11 @@
           }
         },
         {
-          "key": "p.06107357.11d3be56.1b45e15971",
+          "key": "p.06107357.9f1edb63.1b45e15971",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 4,
+          "selector": "a[href=\"/s/o-nas\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -839,11 +839,11 @@
           }
         },
         {
-          "key": "p.06107357.11d3be56.829fd016cc",
+          "key": "p.06107357.c05a5a8b.829fd016cc",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 5,
+          "selector": "a[href=\"/s/volne-pozice\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -853,11 +853,11 @@
           }
         },
         {
-          "key": "p.06107357.11d3be56.08744e6ba9",
+          "key": "p.06107357.2835e467.08744e6ba9",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 6,
+          "selector": "a[href=\"/s/novinky\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -881,11 +881,11 @@
           }
         },
         {
-          "key": "p.06107357.11d3be56.b3373090bf",
+          "key": "p.06107357.d86d25eb.b3373090bf",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 7,
+          "selector": "a[href=\"/s/paf\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -895,11 +895,11 @@
           }
         },
         {
-          "key": "p.06107357.11d3be56.1e1996a3d6",
+          "key": "p.06107357.508eba3a.1e1996a3d6",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 8,
+          "selector": "a[href=\"/nejcastejsi-dotazy-es\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -909,11 +909,11 @@
           }
         },
         {
-          "key": "p.06107357.11d3be56.8857ce774d",
+          "key": "p.06107357.bb6472d9.8857ce774d",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 9,
+          "selector": "a[href=\"http://www.apple.com/support/exchange_repair/\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -923,11 +923,11 @@
           }
         },
         {
-          "key": "p.06107357.11d3be56.5ab302b591",
+          "key": "p.06107357.59ffa5ab.5ab302b591",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 10,
+          "selector": "a[href=\"https://checkcoverage.apple.com\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -937,11 +937,11 @@
           }
         },
         {
-          "key": "p.06107357.11d3be56.e4168cc4c4",
+          "key": "p.06107357.33c753c8.e4168cc4c4",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 11,
+          "selector": "a[href=\"/navody-a-clanky\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -951,11 +951,11 @@
           }
         },
         {
-          "key": "p.06107357.11d3be56.924b392f1d",
+          "key": "p.06107357.25a7fb58.924b392f1d",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 12,
+          "selector": "a[href=\"/nejcastejsi-dotazy-es/co-delat-v-pripade-kdyz-mate-vytopeny-iphone\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -965,11 +965,11 @@
           }
         },
         {
-          "key": "p.06107357.11d3be56.831096f6a4",
+          "key": "p.06107357.cc914f0e.831096f6a4",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a",
-          "index": 13,
+          "selector": "a[href=\"/s/svoz-zarizeni\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -1067,7 +1067,7 @@
           "parentId": "",
           "parent": ".component--core-footer",
           "selector": "a",
-          "index": 14,
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -1095,7 +1095,7 @@
           "parentId": "",
           "parent": ".component--core-footer",
           "selector": "a",
-          "index": 15,
+          "index": 1,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -1119,10 +1119,10 @@
           }
         },
         {
-          "key": "p.06107357.727c4c9d.d41f5b4977",
+          "key": "p.06107357.4124a7e5.d41f5b4977",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a.social",
+          "selector": "a[href=\"https://bit.ly/FB-Express\"]",
           "index": 0,
           "textIndex": 0,
           "mode": "textnode",
@@ -1133,11 +1133,11 @@
           }
         },
         {
-          "key": "p.06107357.727c4c9d.fb7accfff8",
+          "key": "p.06107357.6d70e6d0.fb7accfff8",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a.social",
-          "index": 1,
+          "selector": "a[href=\"https://bit.ly/YTB-EXS\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -1147,11 +1147,11 @@
           }
         },
         {
-          "key": "p.06107357.727c4c9d.bad57ef783",
+          "key": "p.06107357.70307b76.bad57ef783",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a.social",
-          "index": 2,
+          "selector": "a[href=\"https://www.instagram.com/klucizexpressu\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -1161,11 +1161,11 @@
           }
         },
         {
-          "key": "p.06107357.727c4c9d.1bb6fcfbf1",
+          "key": "p.06107357.8c4f1847.1bb6fcfbf1",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a.social",
-          "index": 3,
+          "selector": "a[href=\"https://www.tiktok.com/@klucizexpressu\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
@@ -1175,11 +1175,11 @@
           }
         },
         {
-          "key": "p.06107357.727c4c9d.7005c0064b",
+          "key": "p.06107357.e08988f8.7005c0064b",
           "parentId": "",
           "parent": ".component--core-footer",
-          "selector": "a.social",
-          "index": 4,
+          "selector": "a[href=\"https://open.spotify.com/show/36w6q8mKEJBlqW4EEox1mG\"]",
+          "index": 0,
           "textIndex": 0,
           "mode": "textnode",
           "attr": "",
