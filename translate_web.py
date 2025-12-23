@@ -68,6 +68,26 @@ _code_like_re = re.compile(r"^[A-Z0-9][A-Z0-9\-_./+ ]{1,}$")
 _only_symbols_digits_re = re.compile(r"^[\d\s\W_]+$")
 _urlish_re = re.compile(r"https?://|www\.", re.I)
 
+# ✅ NEPŘEKLÁDAT KONTAKTY / ADRESY
+_email_re = re.compile(r"\b[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]{2,}\b", re.I)
+_phone_re = re.compile(r"(\+?\d[\d\s()\-]{7,}\d)")
+_postal_re = re.compile(r"\b\d{3}\s?\d{2}\b")
+_street_num_re = re.compile(r"\b[^\d,]{3,}\s+\d{1,5}(?:/\d{1,5})?(?:\b|,)", re.U)
+
+def looks_like_contact_or_address(t: str) -> bool:
+    t = normalize_spaces(t)
+    if not t:
+        return False
+    if _email_re.search(t):
+        return True
+    if _phone_re.search(t):
+        return True
+    if _postal_re.search(t):
+        return True
+    if _street_num_re.search(t):
+        return True
+    return False
+
 def is_translatable(text: str) -> bool:
     t = normalize_spaces(text)
     if not t:
@@ -80,6 +100,11 @@ def is_translatable(text: str) -> bool:
         return False
     if SKIP_IF_CONTAINS_URL and _urlish_re.search(t):
         return False
+
+    # ✅ blokovat emaily, telefony, PSČ, ulice+číslo
+    if looks_like_contact_or_address(t):
+        return False
+
     if _code_like_re.match(t) and not any(ch.islower() for ch in t):
         return False
     return True
@@ -150,7 +175,6 @@ def short_lang_prompt(lang: str) -> str:
             "Do not change numbers, units, abbreviations. "
             "Return only the translated text."
         )
-
     if lang == "de":
         return (
             "Übersetze aus dem Tschechischen ins natürliche, professionelle Deutsch für eine Website. "
@@ -339,6 +363,22 @@ def extract_textnodes_from_root(root, parent_selector: str = "", parent_id: str 
         parent = node.parent
         if not parent or not getattr(parent, "name", None):
             continue
+
+        # ✅ nebrat texty z mailto/tel odkazů
+        if parent.name == "a":
+            href = (parent.get("href") or "").strip().lower()
+            if href.startswith("mailto:") or href.startswith("tel:"):
+                continue
+
+        # ✅ pokud je to v <address>, také nepřekládat
+        if parent.name == "address":
+            continue
+
+        # ✅ některé šablony označují adresu itempropem
+        itemprop = (parent.get("itemprop") or "").strip().lower()
+        if itemprop in {"address", "streetaddress", "postalcode", "addresslocality"}:
+            continue
+
         if parent.name.lower() in skip_parents:
             continue
         if len(txt) > 900:
@@ -407,7 +447,6 @@ def extract_body_text_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
 def extract_nodes_from_html(html: str) -> List[Dict[str, Any]]:
     soup = BeautifulSoup(html, "lxml")
     return extract_head_nodes(soup) + extract_body_text_nodes(soup)
-
 
 def page_hash(nodes: List[Dict[str, Any]]) -> str:
     payload = "||".join([
