@@ -34,6 +34,11 @@ PAGES_DIR = I18N_DIR / "pages"
 INDEX_JSON = I18N_DIR / "index.json"
 GLOBAL_JSON = I18N_DIR / "global.json"
 
+# State for batching
+STATE_JSON = I18N_DIR / "state.json"
+BATCH_SIZE = int(os.environ.get("I18N_BATCH_SIZE", "30"))
+REFRESH_SITEMAP_EVERY_RUN = True  # keep for future use
+
 # (Optional) legacy monolith for backward compatibility
 LEGACY_DB = I18N_DIR / "i18n_pages_db.json"
 WRITE_LEGACY_DB = True
@@ -49,7 +54,7 @@ TEST_URLS = [
     "https://www.express-servis.cz/navody-a-clanky/ktere-servisy-jsou-nejdoporucovanejsi-pro-opravu-mobilnich-telefonu-v-ceske-republice",
     "https://www.express-servis.cz/kontakt-es",
 ]
-TEST_ONLY = True
+TEST_ONLY = True  # při produkci nastav na False
 
 # Z jaké stránky brát GLOBAL (menu/footer) – typicky homepage
 GLOBAL_SOURCE_URL = "https://www.express-servis.cz"
@@ -83,6 +88,69 @@ def ensure_dir(path: Path) -> None:
 def normalize_spaces(s: str) -> str:
     # sjednocení whitespace, NBSP ošetříme v JS
     return re.sub(r"\s+", " ", (s or "")).strip()
+
+def normalize_url(url: str) -> str:
+    return (url or "").split("#")[0].strip().rstrip("/")
+
+def page_id(url: str) -> str:
+    # krátké, stabilní ID pro soubory
+    return sha(normalize_url(url))[:12]
+
+def html_fingerprint(html: str) -> str:
+    """
+    Fingerprint z viditelného textu (po odstranění script/style/noscript/svg),
+    aby nevadily drobné změny v HTML.
+    """
+    soup = BeautifulSoup(html or "", "lxml")
+    for bad in soup(["script", "style", "noscript", "svg"]):
+        bad.decompose()
+    txt = soup.get_text(" ", strip=True)
+    return sha(normalize_spaces(txt))
+
+# ----------------------------
+# STATE (batch queue)
+# ----------------------------
+def load_state() -> Dict[str, Any]:
+    if not STATE_JSON.exists():
+        return {"updated_at": 0, "queue": [], "cursor": 0, "pages": {}}
+    try:
+        s = json.loads(STATE_JSON.read_text(encoding="utf-8"))
+        if not isinstance(s, dict):
+            return {"updated_at": 0, "queue": [], "cursor": 0, "pages": {}}
+        s.setdefault("queue", [])
+        s.setdefault("cursor", 0)
+        s.setdefault("pages", {})
+        return s
+    except Exception:
+        return {"updated_at": 0, "queue": [], "cursor": 0, "pages": {}}
+
+def save_state(state: Dict[str, Any]) -> None:
+    state["updated_at"] = int(time.time())
+    ensure_parent_dir(STATE_JSON)
+    STATE_JSON.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
+
+def update_queue(state: Dict[str, Any], urls: List[str]) -> None:
+    """
+    Stabilní queue: zachová pořadí už existujících URL, přidá nové na konec.
+    URL, které ze sitemap zmizely, se odstraní.
+    """
+    current = [u for u in state.get("queue", []) if u in urls]
+    current_set = set(current)
+    new = [u for u in urls if u not in current_set]
+    state["queue"] = current + new
+    if state.get("cursor", 0) >= len(state["queue"]):
+        state["cursor"] = 0
+
+def pick_batch(state: Dict[str, Any], batch_size: int) -> List[str]:
+    q = state.get("queue", [])
+    if not q:
+        return []
+    cur = int(state.get("cursor", 0) or 0)
+    out: List[str] = []
+    for i in range(min(batch_size, len(q))):
+        out.append(q[(cur + i) % len(q)])
+    state["cursor"] = (cur + len(out)) % len(q)
+    return out
 
 _units_re = re.compile(r"^\s*[\d\.,]+\s*(gb|mb|tb|mah|w|kw|v|a|mm|cm|m|kg|g|hz|khz|mhz|ghz|°c|dpi|%|x)\s*$", re.I)
 _code_like_re = re.compile(r"^[A-Z0-9][A-Z0-9\-_./+ ]{1,}$")
@@ -126,20 +194,11 @@ def is_translatable(text: str) -> bool:
         return False
     return True
 
-def normalize_url(url: str) -> str:
-    return (url or "").split("#")[0].strip().rstrip("/")
-
-def page_id(url: str) -> str:
-    # krátké, stabilní ID pro soubory
-    return sha(normalize_url(url))[:12]
-
-
 # ----------------------------
 # Translation cache (texts)
 # ----------------------------
 def load_texts_cache() -> Dict[str, Any]:
-    # Pro jednoduchost držíme cache v legacy DB souboru, aby se nepřekládalo znovu.
-    # (Můžeš to později přesunout do zvláštního texts.json)
+    # Cache držíme v legacy DB, aby se nepřekládalo znovu.
     ensure_parent_dir(LEGACY_DB)
     if not LEGACY_DB.exists():
         return {"texts": {}}
@@ -150,7 +209,6 @@ def load_texts_cache() -> Dict[str, Any]:
     return raw
 
 def save_texts_cache(cache: Dict[str, Any]) -> None:
-    # zachováme i pages/global pokud bys chtěl – tady ukládáme jen texts + případně legacy
     ensure_parent_dir(LEGACY_DB)
     LEGACY_DB.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
 
@@ -225,7 +283,6 @@ def translate_cached(text: str, lang: str, cache: Dict[str, Any]) -> str:
     texts[key] = entry
     return dst
 
-
 # ----------------------------
 # Fetch
 # ----------------------------
@@ -251,7 +308,6 @@ def fetch_sitemap_urls(sitemap_url: str) -> List[str]:
     xml = requests.get(sitemap_url, timeout=REQUEST_TIMEOUT, headers=HTTP_HEADERS).text
     soup = BeautifulSoup(xml, "xml")
     return [loc.text.strip() for loc in soup.find_all("loc") if loc.text]
-
 
 # ----------------------------
 # Selector building
@@ -293,7 +349,6 @@ def nearest_parent_id(el) -> Optional[str]:
             return cur.get("id")
         cur = cur.parent
     return None
-
 
 # ----------------------------
 # Extraction
@@ -393,7 +448,6 @@ def extract_textnodes_from_root(root, parent_selector: str = "", parent_id: str 
     return nodes
 
 def make_node_key(scope_id: str, n: Dict[str, Any]) -> str:
-    # scope_id = pageId nebo "global"
     ident = f"{scope_id}|{n.get('mode')}|{n.get('attr')}|{n.get('parentId')}|{n.get('parent')}|{n.get('selector')}|{n.get('index')}|{n.get('textIndex')}"
     ident_h = sha(ident)[:10]
     src_h = sha(n.get("source",""))[:10]
@@ -421,7 +475,6 @@ def build_nodes_with_translations(nodes_raw: List[Dict[str, Any]], cache: Dict[s
             "dst": dst_map,
         })
     return out
-
 
 # ----------------------------
 # Build GLOBAL and PAGES
@@ -456,7 +509,7 @@ def extract_page_nodes_from_html(html: str) -> List[Dict[str, Any]]:
 
     nodes: List[Dict[str, Any]] = []
 
-    # title (volitelné – můžeš vyhodit, pokud nechceš)
+    # title (volitelné)
     nodes += extract_head_nodes(soup)
 
     # pouze hlavní obsah
@@ -468,7 +521,6 @@ def extract_page_nodes_from_html(html: str) -> List[Dict[str, Any]]:
 
     return nodes
 
-
 def main():
     if "OPENAI_API_KEY" not in os.environ:
         raise RuntimeError("Chybí OPENAI_API_KEY")
@@ -478,17 +530,28 @@ def main():
 
     print("ROOT_DIR:", ROOT_DIR.resolve())
     print("I18N_DIR:", I18N_DIR.resolve())
+    print("BATCH_SIZE:", BATCH_SIZE, "TEST_ONLY:", TEST_ONLY)
 
     cache = load_texts_cache()
+    state = load_state()
 
     # URLs
     if TEST_ONLY:
         urls = [normalize_url(u) for u in TEST_URLS]
+        batch_urls = urls
     else:
         urls = fetch_sitemap_urls(SITEMAP_URL)
         urls = [normalize_url(u) for u in urls if u]
+        update_queue(state, urls)
+        batch_urls = pick_batch(state, BATCH_SIZE)
 
-    # 1) GLOBAL (menu+footer jednou)
+    if not batch_urls:
+        print("No URLs to process (empty batch).")
+        save_state(state)
+        return
+
+    # 1) GLOBAL (menu+footer) – můžeš případně omezit (např. 1x denně),
+    # zatím se generuje každý běh.
     print("Building GLOBAL from:", GLOBAL_SOURCE_URL)
     global_html = fetch_url_with_retry(GLOBAL_SOURCE_URL)
     global_nodes_raw = extract_global_nodes_from_html(global_html)
@@ -502,19 +565,56 @@ def main():
     GLOBAL_JSON.write_text(json.dumps(global_payload, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Saved GLOBAL: {GLOBAL_JSON} nodes={len(global_nodes)}")
 
-    # 2) PAGES
-    index_payload: Dict[str, Any] = {
-        "updated_at": int(time.time()),
-        "pages": {}  # url -> pageId
+    # 2) PAGES + INDEX
+    # načti existující index.json (aby se nemazalo mapování už přeložených stránek)
+    index_payload: Dict[str, Any]
+    if INDEX_JSON.exists():
+        try:
+            index_payload = json.loads(INDEX_JSON.read_text(encoding="utf-8"))
+            if not isinstance(index_payload, dict):
+                index_payload = {"updated_at": int(time.time()), "pages": {}}
+            index_payload.setdefault("pages", {})
+        except Exception:
+            index_payload = {"updated_at": int(time.time()), "pages": {}}
+    else:
+        index_payload = {"updated_at": int(time.time()), "pages": {}}
+
+    legacy_db: Dict[str, Any] = {
+        "texts": cache.get("texts", {}),
+        "pages": {},
+        "global": global_payload
     }
 
-    legacy_db: Dict[str, Any] = {"texts": cache.get("texts", {}), "pages": {}, "global": global_payload}
-
-    for url in urls:
+    for url in batch_urls:
+        url = normalize_url(url)
         pid = page_id(url)
+        page_file = PAGES_DIR / f"{pid}.json"
+
         print(f"Processing page: {url} -> {pid}")
 
         html = fetch_url_with_retry(url)
+        fp = html_fingerprint(html)
+
+        pmeta = state.get("pages", {}).get(url, {}) if isinstance(state.get("pages", {}), dict) else {}
+        prev_fp = (pmeta.get("last_fp") or "")
+
+        # Pokud se stránka nezměnila a soubor existuje, přeskoč
+        if prev_fp == fp and page_file.exists():
+            if DEBUG:
+                print(f"  skip unchanged: {url}")
+            state.setdefault("pages", {})[url] = {
+                **(pmeta if isinstance(pmeta, dict) else {}),
+                "last_seen_at": int(time.time()),
+                "last_fp": fp,
+                "status": "skipped_unchanged",
+                "pid": pid,
+            }
+            save_state(state)
+            # index mapping mít i tak
+            index_payload["pages"][url] = pid
+            continue
+
+        # změněno / nové -> zpracuj
         page_nodes_raw = extract_page_nodes_from_html(html)
         page_nodes = build_nodes_with_translations(page_nodes_raw, cache, scope_id=pid)
 
@@ -525,34 +625,60 @@ def main():
             "nodes": page_nodes
         }
 
-        # write split file
-        page_file = PAGES_DIR / f"{pid}.json"
         page_file.write_text(json.dumps(page_payload, ensure_ascii=False, indent=2), encoding="utf-8")
-
-        # index mapping
         index_payload["pages"][url] = pid
 
-        # legacy (optional)
+        # legacy (optional) – jen pro aktuální batch
         legacy_db["pages"][url] = {
             "hash": sha("||".join([f"{n['key']}|{n['selector']}|{n['index']}|{n['textIndex']}|{n['source']}" for n in page_nodes])),
             "updated_at": int(time.time()),
             "nodes": page_nodes
         }
 
+        # update state
+        state.setdefault("pages", {})[url] = {
+            "last_fp": fp,
+            "last_done_at": int(time.time()),
+            "last_seen_at": int(time.time()),
+            "status": "done",
+            "pid": pid,
+        }
+        save_state(state)
+
         print(f"  saved {len(page_nodes)} nodes -> {page_file}")
 
         time.sleep(1)
 
+    index_payload["updated_at"] = int(time.time())
     INDEX_JSON.write_text(json.dumps(index_payload, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Saved INDEX: {INDEX_JSON} pages={len(index_payload['pages'])}")
 
-    # save cache (texts)
+    # save cache (texts) + legacy DB
     cache_out = {"texts": cache.get("texts", {})}
     if WRITE_LEGACY_DB:
-        # legacy includes texts + global + pages (pro jistotu / kompatibilitu)
-        LEGACY_DB.write_text(json.dumps(legacy_db, ensure_ascii=False, indent=2), encoding="utf-8")
-        print(f"Saved LEGACY DB: {LEGACY_DB}")
+        # legacy includes texts + global + pages (jen batch; index & pages split zůstávají zdroj pravdy)
+        # Pokud chceš legacy obsahovat VŠECHNY stránky, musíš ho načíst a merge-nout, ne přepsat.
+        existing = None
+        if LEGACY_DB.exists():
+            try:
+                existing = json.loads(LEGACY_DB.read_text(encoding="utf-8"))
+            except Exception:
+                existing = None
 
+        if isinstance(existing, dict):
+            existing.setdefault("texts", {})
+            existing.setdefault("pages", {})
+            # merge texts cache
+            existing["texts"] = cache.get("texts", {}) or {}
+            # merge global
+            existing["global"] = global_payload
+            # merge pages for current batch
+            existing["pages"].update(legacy_db.get("pages", {}) or {})
+            LEGACY_DB.write_text(json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8")
+        else:
+            LEGACY_DB.write_text(json.dumps(legacy_db, ensure_ascii=False, indent=2), encoding="utf-8")
+
+        print(f"Saved LEGACY DB: {LEGACY_DB}")
     else:
         save_texts_cache(cache_out)
 
