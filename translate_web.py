@@ -91,7 +91,7 @@ def normalize_url(url: str) -> str:
 
 def node_pos(n: Dict[str, Any]) -> int:
     """
-    ✅ Jednotná "pozice" uzlu:
+    ✅ Jednotná "pozice" uzlu pro hash/key:
     - pro textnode používá textIndex
     - pro ostatní (text/attr) používá index
     """
@@ -105,16 +105,6 @@ def node_pos(n: Dict[str, Any]) -> int:
 # DB load/save with migration
 # ----------------------------
 def migrate_old_list_db(old_list: List[Dict[str, Any]]) -> Dict[str, Any]:
-    """
-    Starý formát byl array nodes pro jednu stránku (např. výkup).
-    Převedeme na nový formát:
-    {
-      "texts": {},
-      "pages": {
-        "https://www.express-servis.cz/vykup-zarizeni": { "hash": "", "updated_at": ..., "nodes": [...] }
-      }
-    }
-    """
     url = normalize_url(TEST_ONLY_URL)
     return {
         "texts": {},
@@ -134,7 +124,6 @@ def load_db() -> Dict[str, Any]:
 
     raw = json.loads(TRANSLATION_DB.read_text(encoding="utf-8"))
 
-    # ✅ MIGRACE: když je to list, převeď na nový formát
     if isinstance(raw, list):
         db = migrate_old_list_db(raw)
         return db
@@ -278,7 +267,11 @@ def nearest_parent_id(el) -> Optional[str]:
 # Extraction
 # ----------------------------
 def strip_global_layout(soup: BeautifulSoup) -> None:
-    for bad in soup.select("header, footer, nav, aside"):
+    """
+    ✅ NAV a HEADER nechceme překládat (odstraníme)
+    ✅ FOOTER chceme překládat (necháme ho v DOMu)
+    """
+    for bad in soup.select("header, nav, aside"):
         bad.decompose()
 
 def extract_head_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
@@ -307,17 +300,29 @@ def pick_content_root(soup: BeautifulSoup):
         or soup
     )
 
-def extract_body_text_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
-    for bad in soup(["script", "style", "noscript", "svg"]):
-        bad.decompose()
+def extract_textnodes_from_root(root, parent_selector: str = "", parent_id: str = "") -> List[Dict[str, Any]]:
+    """
+    ✅ Vytáhne všechny přeložitelné textové uzly z daného rootu:
+    - index = pořadí elementu mezi root.querySelectorAll(selector)
+    - textIndex = pořadí textového uzlu uvnitř konkrétního elementu
+    - parent / parentId nastaví root pro JS resolveRoot()
+    """
+    if not root:
+        return []
 
-    strip_global_layout(soup)
-    content_root = pick_content_root(soup)
-
-    buckets: Dict[Tuple[str, str], List[str]] = {}
     skip_parents = {"script", "style", "noscript", "svg", "head", "title", "meta", "link"}
 
-    for node in content_root.descendants:
+    # (root_marker, selector) -> list element_ids in order
+    elements_order: Dict[Tuple[str, str], List[int]] = {}
+    # (root_marker, selector, element_id) -> elementIndex
+    element_index_map: Dict[Tuple[str, str, int], int] = {}
+    # (root_marker, selector, element_id) -> textIndex counter
+    text_index_counter: Dict[Tuple[str, str, int], int] = {}
+
+    nodes: List[Dict[str, Any]] = []
+    root_marker = parent_id or parent_selector or "document"
+
+    for node in root.descendants:
         if not isinstance(node, NavigableString):
             continue
 
@@ -330,7 +335,6 @@ def extract_body_text_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
             continue
         if parent.name.lower() in skip_parents:
             continue
-
         if len(txt) > 900:
             continue
 
@@ -338,22 +342,52 @@ def extract_body_text_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
         if not sel:
             continue
 
-        pid = nearest_parent_id(parent) or ""
-        buckets.setdefault((pid, sel), []).append(txt)
+        group_key = (root_marker, sel)
+        el_id = id(parent)
+
+        if (root_marker, sel, el_id) not in element_index_map:
+            order = elements_order.setdefault(group_key, [])
+            element_index_map[(root_marker, sel, el_id)] = len(order)
+            order.append(el_id)
+
+        element_index = element_index_map[(root_marker, sel, el_id)]
+
+        ti_key = (root_marker, sel, el_id)
+        text_index = text_index_counter.get(ti_key, 0)
+        text_index_counter[ti_key] = text_index + 1
+
+        nodes.append({
+            "mode": "textnode",
+            "attr": "",
+            "parent": parent_selector or "",
+            "parentId": parent_id or "",
+            "selector": sel,
+            "index": element_index,
+            "textIndex": text_index,
+            "source": txt,
+        })
+
+    return nodes
+
+def extract_body_text_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
+    for bad in soup(["script", "style", "noscript", "svg"]):
+        bad.decompose()
+
+    strip_global_layout(soup)
 
     nodes: List[Dict[str, Any]] = []
-    for (pid, sel), texts in buckets.items():
-        for idx, txt in enumerate(texts):
-            nodes.append({
-                "mode": "textnode",      # ✅ text uzel v rámci elementu
-                "attr": "",
-                "parent": "",
-                "parentId": pid,
-                "selector": sel,
-                "index": 0,              # ✅ důležité: JS vybírá element přes n.index
-                "textIndex": idx,         # ✅ index textového uzlu uvnitř elementu
-                "source": txt,
-            })
+
+    # 1) hlavní obsah
+    content_root = pick_content_root(soup)
+    content_pid = ""
+    if content_root is not None:
+        content_pid = nearest_parent_id(content_root) or ""
+    nodes += extract_textnodes_from_root(content_root, parent_selector="", parent_id=content_pid)
+
+    # 2) footer (patička)
+    footer_root = soup.select_one(".component--core-footer")
+    nodes += extract_textnodes_from_root(footer_root, parent_selector=".component--core-footer", parent_id="")
+
     return nodes
 
 def extract_nodes_from_html(html: str) -> List[Dict[str, Any]]:
@@ -428,8 +462,8 @@ def main():
                 "parentId": n.get("parentId") or "",
                 "parent": n.get("parent") or "",
                 "selector": n.get("selector") or "",
-                "index": int(n.get("index") or 0),              # ✅ zachovat pro JS (element index)
-                "textIndex": int(n.get("textIndex") or 0),      # ✅ nově pro textnode
+                "index": int(n.get("index") or 0),              # ✅ element index
+                "textIndex": int(n.get("textIndex") or 0),      # ✅ textnode index
                 "mode": (n.get("mode") or "textnode"),
                 "attr": n.get("attr") or "",
                 "source": src,
