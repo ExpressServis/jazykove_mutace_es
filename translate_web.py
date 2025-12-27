@@ -50,9 +50,6 @@ DEFAULT_LANG = "cs"
 TEST_URLS = [
     "https://www.express-servis.cz",
     "https://www.express-servis.cz/p/apple-iphone-17-pro-max-256gb-kosmicky-oranzovy",
-    "https://www.express-servis.cz/servis-oprava/iphone-15-pro-plzen/cenik",
-    "https://www.express-servis.cz/navody-a-clanky/ktere-servisy-jsou-nejdoporucovanejsi-pro-opravu-mobilnich-telefonu-v-ceske-republice",
-    "https://www.express-servis.cz/kontakt-es",
 ]
 TEST_ONLY = True  # při produkci nastav na False
 
