@@ -558,7 +558,8 @@ def build_nodes_with_translations(nodes_raw: List[Dict[str, Any]], cache: Dict[s
         dst_map: Dict[str, str] = {}
         for lang in TARGET_LANGS:
             if lang != DEFAULT_LANG:
-                dst_map[lang] = translate_cached(src_norm, lang, cache)
+                base = translate_cached(src_norm, lang, cache)
+                dst_map[lang] = preserve_edge_whitespace(src_raw, base)
 
         out.append({
             "key": make_node_key(scope_id, n),
