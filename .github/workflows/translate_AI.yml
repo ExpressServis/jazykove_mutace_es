@@ -3,6 +3,10 @@ name: Generate i18n pages DB
 on:
   workflow_dispatch: {}
 
+concurrency:
+  group: i18n-generation-main
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -29,11 +33,10 @@ jobs:
       - name: Run i18n generator
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          I18N_BATCH_SIZE: "30"
         run: |
           python translate_web.py
 
-      # Pozn.: clean_i18n_db.py teď čistí pouze i18n/i18n_pages_db.json.
-      # Pokud WRITE_LEGACY_DB=True, můžeš to zatím nechat.
       - name: Clean legacy i18n DB (optional)
         run: |
           if [ -f "i18n/i18n_pages_db.json" ]; then
@@ -64,7 +67,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Přidej celý i18n strom (global/index/pages + případně legacy db)
           git add i18n
 
           if git diff --cached --quiet; then
@@ -73,4 +75,8 @@ jobs:
           fi
 
           git commit -m "chore: update i18n outputs"
-          git push
+
+          git fetch origin main
+          git rebase origin/main
+
+          git push origin HEAD:main
