@@ -28,7 +28,8 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml openai
+          pip install requests beautifulsoup4 lxml openai playwright
+          playwright install chromium
 
       - name: Run i18n generator
         env:
