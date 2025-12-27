@@ -1,0 +1,5426 @@
+{
+  "id": "645a2602428b",
+  "url": "https://www.express-servis.cz",
+  "updated_at": 1766848522,
+  "nodes": [
+    {
+      "key": "645a2602428b.3a282efba2.43f3a2b878",
+      "parentId": "",
+      "parent": "head",
+      "selector": "title#snippet--title",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "text",
+      "attr": "",
+      "source": "iPhone Servis a Autorizovaný prodejce příslušenství | Express Servis",
+      "dst": {
+        "sk": "iPhone Servis a Autorizovaný predajca príslušenstva | Express Servis",
+        "en": "iPhone Service and Authorized Accessory Retailer | Express Service",
+        "de": "iPhone-Service und autorisierter Zubehörhändler | Express-Service"
+      }
+    },
+    {
+      "key": "645a2602428b.a15ac9540b.61d859347d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Novinka",
+      "dst": {
+        "sk": "Novinka",
+        "en": "New Arrival",
+        "de": "Neuheit"
+      }
+    },
+    {
+      "key": "645a2602428b.a70e1dfb61.1937cb2353",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 0,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Nová kvalitní ochranná skla RIXUS >",
+      "dst": {
+        "sk": "Nové kvalitné ochranné sklá RIXUS >",
+        "en": "New high-quality protective glasses RIXUS >",
+        "de": "Neue hochwertige Schutzgläser RIXUS >"
+      }
+    },
+    {
+      "key": "645a2602428b.e7187f6641.61d859347d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Novinka",
+      "dst": {
+        "sk": "Novinka",
+        "en": "New Arrival",
+        "de": "Neuheit"
+      }
+    },
+    {
+      "key": "645a2602428b.07db0d9e47.61d859347d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Novinka",
+      "dst": {
+        "sk": "Novinka",
+        "en": "New Arrival",
+        "de": "Neuheit"
+      }
+    },
+    {
+      "key": "645a2602428b.fa579cd006.544f88e73a",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 2,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Express Servis přináší systém MyRepair >",
+      "dst": {
+        "sk": "Express Servis prináša systém MyRepair >",
+        "en": "Express Service introduces the MyRepair system.",
+        "de": "Der Express-Service bringt das System MyRepair."
+      }
+    },
+    {
+      "key": "645a2602428b.3a53dbce1d.61d859347d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 3,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Novinka",
+      "dst": {
+        "sk": "Novinka",
+        "en": "New Arrival",
+        "de": "Neuheit"
+      }
+    },
+    {
+      "key": "645a2602428b.f06e1152d0.6b51fd4263",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 3,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "ES Marketing pro B2B partnery >",
+      "dst": {
+        "sk": "ES Marketing pre B2B partnerov >",
+        "en": "ES Marketing for B2B Partners",
+        "de": "ES Marketing für B2B-Partner"
+      }
+    },
+    {
+      "key": "645a2602428b.1262f79d8f.cfb5f30ee1",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 4,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "I ze Štrůdlu uděláme zase jablko.",
+      "dst": {
+        "sk": "I zo Štrúdlu urobíme zase jablko.",
+        "en": "And we will turn the Strudel back into an apple.",
+        "de": "Aus dem Strudel machen wir wieder einen Apfel."
+      }
+    },
+    {
+      "key": "645a2602428b.61df2a6b0d.91c8e55760",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Express Servis.",
+      "dst": {
+        "sk": "Express Servis.",
+        "en": "Express Service.",
+        "de": "Express-Service."
+      }
+    },
+    {
+      "key": "645a2602428b.2f02f847b8.ff38720f4c",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Kvalitní ochrana displeje",
+      "dst": {
+        "sk": "Kvalitná ochrana displeja",
+        "en": "High-quality display protection",
+        "de": "Hochwertiger Displayschutz"
+      }
+    },
+    {
+      "key": "645a2602428b.a1b4ba7e80.ca0db71a78",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Prémiová ochrana za dostupnou cenu.",
+      "dst": {
+        "sk": "Prémiová ochrana za dostupnú cenu.",
+        "en": "Premium protection at an affordable price.",
+        "de": "Premiumschutz zu einem erschwinglichen Preis."
+      }
+    },
+    {
+      "key": "645a2602428b.be367c76de.4b3126b4f1",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 2,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Snadná aplikace, přesné výřezy.",
+      "dst": {
+        "sk": "Jednoduchá aplikácia, presné výrezy.",
+        "en": "Easy application, precise cutouts.",
+        "de": "Einfache Anwendung, präzise Ausschnitte."
+      }
+    },
+    {
+      "key": "645a2602428b.ebc5b93241.44517fdc5b",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 5,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Systém pro správu zakázek.",
+      "dst": {
+        "sk": "Systém na správu zákaziek.",
+        "en": "Order management system.",
+        "de": "System zur Auftragsverwaltung."
+      }
+    },
+    {
+      "key": "645a2602428b.f8b61ca817.59165d6fdb",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 3,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Který vám zlepší přehled, tržby, pohlídá termíny, zvýší důvěru.",
+      "dst": {
+        "sk": "Ktorý vám zlepší prehľad, tržby, postráži termíny, zvýši dôveru.",
+        "en": "Which will improve your overview, sales, monitor deadlines, and increase trust.",
+        "de": "Der Ihnen einen besseren Überblick verschafft, den Umsatz steigert, Fristen überwacht und das Vertrauen erhöht."
+      }
+    },
+    {
+      "key": "645a2602428b.84b5cce3bf.6c904e8ff8",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 4,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Už žádné studené obědy",
+      "dst": {
+        "sk": "Už žiadne studené obedy",
+        "en": "No more cold lunches.",
+        "de": "Keine kalten Mittagessen mehr"
+      }
+    },
+    {
+      "key": "645a2602428b.687df4bf33.ea5dc0a056",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 5,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Světově nejchytřejší topný obědový box.",
+      "dst": {
+        "sk": "Svetovo najinteligentnejší vyhrievaný obedový box.",
+        "en": "The world's smartest heating lunch box.",
+        "de": "Weltweit die intelligenteste Heizbox für das Mittagessen."
+      }
+    },
+    {
+      "key": "645a2602428b.90b5ab3e57.e8bd8f2581",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 5,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Teplá jídla kdekoli a kdykoli.",
+      "dst": {
+        "sk": "Teplé jedlá kdekoľvek a kedykoľvek.",
+        "en": "Hot meals anywhere, anytime.",
+        "de": "Warme Speisen überall und jederzeit."
+      }
+    },
+    {
+      "key": "645a2602428b.02a2de6477.a9d109a822",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 6,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Posuňte se na další úroveň",
+      "dst": {
+        "sk": "Posuňte sa na ďalšiu úroveň.",
+        "en": "Take your performance to the next level.",
+        "de": "Begeben Sie sich auf die nächste Stufe."
+      }
+    },
+    {
+      "key": "645a2602428b.b6bda61a77.7269b79042",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 7,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Masážní pistole pro rychlejší",
+      "dst": {
+        "sk": "Masážna pištoľ pre rýchlejšie",
+        "en": "Massage gun for faster recovery",
+        "de": "Massagepistole für schnellere"
+      }
+    },
+    {
+      "key": "645a2602428b.6baadf3406.320c1a5cbe",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 7,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "regeneraci po výkonu",
+      "dst": {
+        "sk": "regenerácia po výkone",
+        "en": "performance recovery",
+        "de": "Regeneration nach der Leistung"
+      }
+    },
+    {
+      "key": "645a2602428b.2fdfc96457.307797292d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 6,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Pouzdra a držáky na telefon",
+      "dst": {
+        "sk": "Puzdrá a držiaky na telefón",
+        "en": "Phone cases and holders",
+        "de": "Hüllen und Halterungen für Telefone"
+      }
+    },
+    {
+      "key": "645a2602428b.63cafd1155.c244d3da32",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 8,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Bezpečné a spolehlivé",
+      "dst": {
+        "sk": "Bezpečné a spoľahlivé",
+        "en": "Safe and reliable",
+        "de": "Sicher und zuverlässig"
+      }
+    },
+    {
+      "key": "645a2602428b.f782d956d9.5b58d3f5ae",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 9,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "uchycení telefonu",
+      "dst": {
+        "sk": "uchytenie telefónu",
+        "en": "phone mount",
+        "de": "Befestigung des Telefons"
+      }
+    },
+    {
+      "key": "645a2602428b.e976055bbd.f223faa96f",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 7,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Apple",
+      "dst": {
+        "sk": "Apple",
+        "en": "Apple",
+        "de": "Apple"
+      }
+    },
+    {
+      "key": "645a2602428b.7dbd381100.8f5d1ee532",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 10,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Produkty navržené",
+      "dst": {
+        "sk": "Produkty navrhnuté",
+        "en": "Products designed",
+        "de": "Produkte entworfen"
+      }
+    },
+    {
+      "key": "645a2602428b.00a59ec487.a3ef788d51",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 11,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "tak, aby měnily věci",
+      "dst": {
+        "sk": "tak, aby menili veci",
+        "en": "to change things",
+        "de": "um Dinge zu verändern"
+      }
+    },
+    {
+      "key": "645a2602428b.297bf630a1.7084ba5be7",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 12,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "k lepšímu",
+      "dst": {
+        "sk": "k lepšiemu",
+        "en": "for the better",
+        "de": "zu einer besseren Lösung"
+      }
+    },
+    {
+      "key": "645a2602428b.2f36468c84.6c9143ec78",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 13,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Rychlý a kvalitní servis",
+      "dst": {
+        "sk": "Rýchly a kvalitný servis",
+        "en": "Fast and high-quality service",
+        "de": "Schneller und qualitativ hochwertiger Service"
+      }
+    },
+    {
+      "key": "645a2602428b.ef7067126a.edeca44701",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Máme tisíce spokojených zákazníků",
+      "dst": {
+        "sk": "Máme tisíce spokojných zákazníkov.",
+        "en": "We have thousands of satisfied customers.",
+        "de": "Wir haben tausende zufriedene Kunden."
+      }
+    },
+    {
+      "key": "645a2602428b.ff96423bf8.99f71546e1",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 14,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Autorizované příslušenství",
+      "dst": {
+        "sk": "Autorizované príslušenstvo",
+        "en": "Authorized Accessories",
+        "de": "Autorisierte Zubehörteile"
+      }
+    },
+    {
+      "key": "645a2602428b.7a28f8e2c6.f76693032c",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Pečlivě vybrané a spolehlivé značky",
+      "dst": {
+        "sk": "Starostlivo vybrané a spoľahlivé značky",
+        "en": "Carefully selected and reliable brands",
+        "de": "Sorgfältig ausgewählte und zuverlässige Marken"
+      }
+    },
+    {
+      "key": "645a2602428b.50894a24b9.83e61fde91",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 8,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Velkoobchodní spolupráce",
+      "dst": {
+        "sk": "Veľkoobchodná spolupráca",
+        "en": "Wholesale Cooperation",
+        "de": "Großhandelskooperation"
+      }
+    },
+    {
+      "key": "645a2602428b.cfdb45f85c.d89ceb8a79",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Náhradní díly a příslušenství za nejlepší ceny",
+      "dst": {
+        "sk": "Náhradné diely a príslušenstvo za najlepšie ceny",
+        "en": "Spare parts and accessories at the best prices",
+        "de": "Ersatzteile und Zubehör zu den besten Preisen"
+      }
+    },
+    {
+      "key": "645a2602428b.b9e9886f10.ce7984533c",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 9,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Začněte tím, co Vás zajímá",
+      "dst": {
+        "sk": "Začnite tým, čo vás zaujíma.",
+        "en": "Start with what interests you.",
+        "de": "Beginnen Sie mit dem, was Sie interessiert."
+      }
+    },
+    {
+      "key": "645a2602428b.afa263aa24.2a0023b230",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 15,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Široký výběr kvalitních a spolehlivých produktů",
+      "dst": {
+        "sk": "Široký výber kvalitných a spoľahlivých produktov",
+        "en": "A wide selection of high-quality and reliable products",
+        "de": "Breite Auswahl an qualitativ hochwertigen und zuverlässigen Produkten"
+      }
+    },
+    {
+      "key": "645a2602428b.7efe0460ec.ee79f907e3",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 16,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Náhradní díly",
+      "dst": {
+        "sk": "Náhradné diely",
+        "en": "Spare Parts",
+        "de": "Ersatzteile"
+      }
+    },
+    {
+      "key": "645a2602428b.aa1a73699d.2cd14a93b4",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 3,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Apple, Samsung, Xioami..",
+      "dst": {
+        "sk": "Apple, Samsung, Xiaomi..",
+        "en": "Apple, Samsung, Xiaomi..",
+        "de": "Apple, Samsung, Xiaomi.."
+      }
+    },
+    {
+      "key": "645a2602428b.f45620dd0e.4a1c1054c1",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 17,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Smart příslušenství",
+      "dst": {
+        "sk": "Smart príslušenstvo",
+        "en": "Smart accessories",
+        "de": "Smart Zubehör"
+      }
+    },
+    {
+      "key": "645a2602428b.8eb1bf7a1a.e0c819df30",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 4,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "svět chytrých technologií",
+      "dst": {
+        "sk": "svet chytrých technológií",
+        "en": "the world of smart technologies",
+        "de": "Welt der intelligenten Technologien"
+      }
+    },
+    {
+      "key": "645a2602428b.30fa22e67b.4f064edd53",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 10,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Quad Lock systém",
+      "dst": {
+        "sk": "Quad Lock systém",
+        "en": "Quad Lock system",
+        "de": "Quad Lock System"
+      }
+    },
+    {
+      "key": "645a2602428b.ce2575eb4a.4b4cee615b",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 5,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "na kolo, motorku, do auta",
+      "dst": {
+        "sk": "na bicykel, motocykel, do auta",
+        "en": "for bicycle, motorcycle, car",
+        "de": "für das Fahrrad, den Motor, ins Auto"
+      }
+    },
+    {
+      "key": "645a2602428b.937a4438fe.32e8d32b2c",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 18,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Příslušenství",
+      "dst": {
+        "sk": "Príslušenstvo",
+        "en": "Accessories",
+        "de": "Zubehör"
+      }
+    },
+    {
+      "key": "645a2602428b.80c167294b.79ca68a078",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 6,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "pro mobily tablety a počítače",
+      "dst": {
+        "sk": "pre mobily, tablety a počítače",
+        "en": "for mobile phones, tablets, and computers",
+        "de": "für Mobiltelefone, Tablets und Computer"
+      }
+    },
+    {
+      "key": "645a2602428b.beb9abcd70.c430bb85a1",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 19,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Potřebujete opravit mobil, tablet či počítač?",
+      "dst": {
+        "sk": "Potrebujete opraviť mobil, tablet alebo počítač?",
+        "en": "Do you need to repair a mobile phone, tablet, or computer?",
+        "de": "Brauchen Sie eine Reparatur für Ihr Mobiltelefon, Tablet oder Ihren Computer?"
+      }
+    },
+    {
+      "key": "645a2602428b.f152d6cd13.74d340330d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 20,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Zvládneme i herní konzoli, elektrokoloběžku nebo robovysavač",
+      "dst": {
+        "sk": "Zvládneme aj hernú konzolu, elektrokolobežku alebo robotický vysávač.",
+        "en": "We can also handle gaming consoles, electric scooters, or robot vacuum cleaners.",
+        "de": "Wir meistern auch die Spielkonsole, den Elektroroller oder den Saugroboter."
+      }
+    },
+    {
+      "key": "645a2602428b.86716aaeef.fdca7eaedc",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 21,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Servis zařízení",
+      "dst": {
+        "sk": "Servis zariadenia",
+        "en": "Device Service",
+        "de": "Geräteservice"
+      }
+    },
+    {
+      "key": "645a2602428b.4099df9e8d.fefb380881",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 22,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Jsme tu pro vás",
+      "dst": {
+        "sk": "Sme tu pre vás",
+        "en": "We are here for you.",
+        "de": "Wir sind für Sie da."
+      }
+    },
+    {
+      "key": "645a2602428b.bca592df3c.2f96049076",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 22,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "ať se děje, co se děje.",
+      "dst": {
+        "sk": "Nech sa deje, čo sa deje.",
+        "en": "no matter what happens.",
+        "de": "Egal, was passiert."
+      }
+    },
+    {
+      "key": "645a2602428b.5683f60151.059447794f",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 23,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Servis herních konzolí",
+      "dst": {
+        "sk": "Servis herných konzolí",
+        "en": "Game Console Service",
+        "de": "Service für Spielkonsolen"
+      }
+    },
+    {
+      "key": "645a2602428b.2ca1cfd81e.47972d2552",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 24,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Pro vaši ničím",
+      "dst": {
+        "sk": "Pro vašu ničím",
+        "en": "For your nothing"
+      }
+    },
+    {
+      "key": "645a2602428b.7259c4bc1e.ea5f174d05",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 25,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "nerušenou hru.",
+      "dst": {
+        "sk": "nerušenú hru.",
+        "en": "uninterrupted gameplay.",
+        "de": "ununterbrochenes Spiel."
+      }
+    },
+    {
+      "key": "645a2602428b.043bc2a0b8.c2e3ed35fa",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 26,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Proč nakoupit právě u nás?",
+      "dst": {
+        "sk": "Prečo nakúpiť práve u nás?",
+        "en": "Why shop with us?",
+        "de": "Warum sollten Sie gerade bei uns einkaufen?"
+      }
+    },
+    {
+      "key": "645a2602428b.26378f9085.3dfc46d481",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 27,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Hned čtyři důvody proč do toho jít s námi.",
+      "dst": {
+        "sk": "Hneď štyri dôvody, prečo ísť do toho s nami.",
+        "en": "Here are four reasons to partner with us.",
+        "de": "Gleich vier Gründe, warum Sie mit uns zusammenarbeiten sollten."
+      }
+    },
+    {
+      "key": "645a2602428b.86da89dd64.5f67b4c8ca",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 11,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Velkoobchod s náhradními",
+      "dst": {
+        "sk": "Veľkoobchod s náhradnými",
+        "en": "Wholesale of spare parts",
+        "de": "Großhandel mit Ersatzteilen"
+      }
+    },
+    {
+      "key": "645a2602428b.db01a8a397.5655e6ef9a",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 11,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "díly",
+      "dst": {
+        "sk": "diely",
+        "en": "parts",
+        "de": "Teile"
+      }
+    },
+    {
+      "key": "645a2602428b.8c524341ea.c16554a289",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 12,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "a příslušenstvím",
+      "dst": {
+        "sk": "a príslušenstvom",
+        "en": "and accessories",
+        "de": "und Zubehör"
+      }
+    },
+    {
+      "key": "645a2602428b.2616463adc.376ec11999",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 7,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Spolehlivý partner pro servisy",
+      "dst": {
+        "sk": "Spoľahlivý partner pre servisy",
+        "en": "A reliable partner for service providers",
+        "de": "Zuverlässiger Partner für Serviceleistungen"
+      }
+    },
+    {
+      "key": "645a2602428b.b5eaea7027.f0b0aeafc1",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 7,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "a prodejce po celé ČR a SK",
+      "dst": {
+        "sk": "a predajca po celej ČR a SK",
+        "en": "and a dealer throughout the Czech Republic and Slovakia",
+        "de": "und Verkäufer in ganz Tschechien und der Slowakei"
+      }
+    },
+    {
+      "key": "645a2602428b.0ecdb224f7.770e8edbe3",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 13,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Jsme odborníci na",
+      "dst": {
+        "sk": "Sme odborníci na",
+        "en": "We are experts in",
+        "de": "Wir sind Experten für"
+      }
+    },
+    {
+      "key": "645a2602428b.45190bd0e4.cfe6242157",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 14,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "produkty Apple",
+      "dst": {
+        "sk": "produkty Apple",
+        "en": "Apple products",
+        "de": "Apple-Produkte"
+      }
+    },
+    {
+      "key": "645a2602428b.2240546e13.c1babe826e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 8,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Kvalitní poradenství a",
+      "dst": {
+        "sk": "Kvalitné poradenstvo a",
+        "en": "Quality consulting and",
+        "de": "Kvalitní poradenství und"
+      }
+    },
+    {
+      "key": "645a2602428b.af2cdd5b0f.4371f1f76b",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 8,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "špičkový servis",
+      "dst": {
+        "sk": "špičkový servis",
+        "en": "top-notch service",
+        "de": "erstklassiger Service"
+      }
+    },
+    {
+      "key": "645a2602428b.31c29c8697.10d29c07cc",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 15,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Jsme autorizovaným",
+      "dst": {
+        "sk": "Sme autorizovaným",
+        "en": "We are an authorized",
+        "de": "Wir sind ein autorisierter"
+      }
+    },
+    {
+      "key": "645a2602428b.0cf80cbffd.d33f1fd669",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 15,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "prodejcem příslušenství",
+      "dst": {
+        "sk": "predajcom príslušenstva",
+        "en": "accessory retailer",
+        "de": "Verkäufer von Zubehör"
+      }
+    },
+    {
+      "key": "645a2602428b.af2f7a4cad.3069358879",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 9,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Zaručujeme kvalitu a",
+      "dst": {
+        "sk": "Zaručujeme kvalitu a",
+        "en": "We guarantee quality and",
+        "de": "Wir garantieren Qualität und"
+      }
+    },
+    {
+      "key": "645a2602428b.42f1b789d8.ab168bf81c",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 9,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "spolehlivost",
+      "dst": {
+        "sk": "spoľahlivosť",
+        "en": "reliability",
+        "de": "Zuverlässigkeit"
+      }
+    },
+    {
+      "key": "645a2602428b.569ae44aa8.5c9ed66bf6",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 16,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Máme stovky",
+      "dst": {
+        "sk": "Máme stovky",
+        "en": "We have hundreds",
+        "de": "Wir haben Hunderte"
+      }
+    },
+    {
+      "key": "645a2602428b.6b400e3dd6.13af6cb12b",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 16,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "spokojených zákazníků",
+      "dst": {
+        "sk": "spokojných zákazníkov",
+        "en": "satisfied customers",
+        "de": "zufriedene Kunden"
+      }
+    },
+    {
+      "key": "645a2602428b.84f2598948.d4f161241c",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 10,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Staňte se také",
+      "dst": {
+        "sk": "Staňte sa tiež",
+        "en": "Become one too",
+        "de": "Werden Sie auch"
+      }
+    },
+    {
+      "key": "645a2602428b.f269305612.673a0015fa",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 10,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "jedním z nich",
+      "dst": {
+        "sk": "jedným z nich",
+        "en": "one of them",
+        "de": "einer von ihnen"
+      }
+    },
+    {
+      "key": "645a2602428b.dc4d7569fe.3b9f793182",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 17,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Výběr těch nejlepších produktů",
+      "dst": {
+        "sk": "Výber tých najlepších produktov",
+        "en": "Selection of the Best Products",
+        "de": "Auswahl der besten Produkte"
+      }
+    },
+    {
+      "key": "645a2602428b.d433d26ba3.4a74a2b27b",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 28,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Výběr těch nejlepších produktů, prověřených stovkami zákazníků.",
+      "dst": {
+        "sk": "Výber tých najlepších produktov, overených stovkami zákazníkov.",
+        "en": "A selection of the best products, verified by hundreds of customers.",
+        "de": "Auswahl der besten Produkte, geprüft von Hunderten von Kunden."
+      }
+    },
+    {
+      "key": "645a2602428b.1cfea0b74a.802ed8405c",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 18,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Držáky na mobil",
+      "dst": {
+        "sk": "Držiaky na mobil",
+        "en": "Mobile holders",
+        "de": "Mobilhalterungen"
+      }
+    },
+    {
+      "key": "645a2602428b.6d7dd8e356.7eaf552a00",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 29,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Nabídka těch nejlepších držáků, které dělají radost stovkám zákazníků",
+      "dst": {
+        "sk": "Ponuka tých najlepších držiakov, ktoré robia radosť stovkám zákazníkov.",
+        "en": "A selection of the best holders that bring joy to hundreds of customers.",
+        "de": "Angebot der besten Halterungen, die Hunderte von Kunden erfreuen."
+      }
+    },
+    {
+      "key": "645a2602428b.0d1932dcc6.394ee74a12",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.title",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Quad Lock Motorcycle / Scooter Mirror Mount - Držák mobilního telefonu na motorku",
+      "dst": {
+        "sk": "Quad Lock Motorcycle / Scooter Mirror Mount - Držiak mobilného telefónu na motorku",
+        "en": "Quad Lock Motorcycle / Scooter Mirror Mount - Mobile Phone Holder for Motorcycles",
+        "de": "Quad Lock Motorrad / Roller Spiegelhalterung - Halterung für Mobiltelefone am Motorrad"
+      }
+    },
+    {
+      "key": "645a2602428b.4c3e3cb2a3.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.7b8591915c.0cd5c528e7",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1 145 Kč",
+      "dst": {
+        "sk": "1 145 Kč",
+        "en": "1,145 CZK",
+        "de": "1 145 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.b577be948e.ed12ffaf11",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Bestseller",
+      "dst": {
+        "sk": "Bestseller",
+        "en": "Bestseller",
+        "de": "Bestseller"
+      }
+    },
+    {
+      "key": "645a2602428b.a16cb827aa.5d23453a1d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Sportuje",
+      "dst": {
+        "sk": "Športuje",
+        "en": "Sportuje",
+        "de": "Sportuje"
+      }
+    },
+    {
+      "key": "645a2602428b.5de9c05283.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_jtu7ls-Products_f9fnpe-Product_2712-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.5d033ffe92.0a169355bd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.title",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Quad Lock Motorcycle Handlebar Mount - Držák mobilního telefonu na motorku",
+      "dst": {
+        "sk": "Quad Lock Motorcycle Handlebar Mount - Držiak mobilného telefónu na motorku",
+        "en": "Quad Lock Motorcycle Handlebar Mount - Mobile Phone Holder for Motorcycles",
+        "de": "Quad Lock Motorradlenkerhalterung - Halterung für Mobiltelefone am Motorrad"
+      }
+    },
+    {
+      "key": "645a2602428b.2f12336344.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.5095cc4fb2.1b4ceb03dd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1 495 Kč",
+      "dst": {
+        "sk": "1 495 Kč",
+        "en": "1,495 CZK",
+        "de": "1 495 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.251e5b332d.ed12ffaf11",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Bestseller",
+      "dst": {
+        "sk": "Bestseller",
+        "en": "Bestseller",
+        "de": "Bestseller"
+      }
+    },
+    {
+      "key": "645a2602428b.fe9d1257f4.5d23453a1d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 3,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Sportuje",
+      "dst": {
+        "sk": "Športuje",
+        "en": "Sportuje",
+        "de": "Sportuje"
+      }
+    },
+    {
+      "key": "645a2602428b.c1ec35593f.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_jtu7ls-Products_f9fnpe-Product_2713-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.c97fc94d81.cfbf3bd31f",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.title",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Quad Lock - Desk Mount Home/Office - Stojánek na stůl",
+      "dst": {
+        "sk": "Quad Lock - Desk Mount Home/Office - Stojan na stôl",
+        "en": "Quad Lock - Desk Mount Home/Office - Desk Stand",
+        "de": "Quad Lock - Desk Mount Home/Office - Tischständer"
+      }
+    },
+    {
+      "key": "645a2602428b.5471adb4f0.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.a558743729.1b4ceb03dd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1 495 Kč",
+      "dst": {
+        "sk": "1 495 Kč",
+        "en": "1,495 CZK",
+        "de": "1 495 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.bf3f2b824b.ed12ffaf11",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 4,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Bestseller",
+      "dst": {
+        "sk": "Bestseller",
+        "en": "Bestseller",
+        "de": "Bestseller"
+      }
+    },
+    {
+      "key": "645a2602428b.40193f6dca.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_jtu7ls-Products_f9fnpe-Product_3764-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.cc979ae394.6a038f696b",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.title",
+      "index": 3,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Quad Lock Tripod adaptér - stativový adaptér",
+      "dst": {
+        "sk": "Quad Lock Tripod adaptér - stativový adaptér",
+        "en": "Quad Lock Tripod Adapter - Tripod Adapter",
+        "de": "Quad Lock Tripod-Adapter - Stativadapter"
+      }
+    },
+    {
+      "key": "645a2602428b.176fdbbbb5.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 3,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.82be870f6e.9b51a512f2",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 3,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "445 Kč",
+      "dst": {
+        "sk": "445 Kč",
+        "en": "445 CZK",
+        "de": "445 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.d5aeef90f8.ed12ffaf11",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 5,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Bestseller",
+      "dst": {
+        "sk": "Bestseller",
+        "en": "Bestseller",
+        "de": "Bestseller"
+      }
+    },
+    {
+      "key": "645a2602428b.459be9902f.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_jtu7ls-Products_f9fnpe-Product_1844-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.91b20dd75c.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 4,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.224b22673b.81bfd9b8d7",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 4,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "895 Kč",
+      "dst": {
+        "sk": "895 Kč",
+        "en": "895 CZK",
+        "de": "895 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.48a0ee3a2a.ed12ffaf11",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 6,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Bestseller",
+      "dst": {
+        "sk": "Bestseller",
+        "en": "Bestseller",
+        "de": "Bestseller"
+      }
+    },
+    {
+      "key": "645a2602428b.0abdeb4c85.5d23453a1d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 7,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Sportuje",
+      "dst": {
+        "sk": "Športuje",
+        "en": "Sportuje",
+        "de": "Sportuje"
+      }
+    },
+    {
+      "key": "645a2602428b.b86cbfd068.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_jtu7ls-Products_f9fnpe-Product_3773-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.27685580b0.bbefa61fea",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 19,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "SMART produkty",
+      "dst": {
+        "sk": "SMART produkty",
+        "en": "SMART products",
+        "de": "SMART Produkte"
+      }
+    },
+    {
+      "key": "645a2602428b.208306823d.7178dfac32",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 30,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Výběr těch nejlepších smart produktů ze světa technologií.",
+      "dst": {
+        "sk": "Výber tých najlepších smart produktov zo sveta technológií.",
+        "en": "A selection of the best smart products from the world of technology.",
+        "de": "Auswahl der besten Smart-Produkte aus der Welt der Technologie."
+      }
+    },
+    {
+      "key": "645a2602428b.3b81256a41.1d057e15e6",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.title",
+      "index": 4,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Barner Brand® - Dalston - Black Noir - brýle potlačující modré světlo z obrazovek",
+      "dst": {
+        "sk": "Barner Brand® - Dalston - Black Noir - okuliare potláčajúce modré svetlo z obrazoviek",
+        "en": "Barner Brand® - Dalston - Black Noir - blue light blocking glasses for screens",
+        "de": "Barner Brand® - Dalston - Black Noir - Brillen zur Reduzierung von blauem Licht von Bildschirmen"
+      }
+    },
+    {
+      "key": "645a2602428b.a942f67a17.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 5,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.8183df0346.1b4ceb03dd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 5,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1 495 Kč",
+      "dst": {
+        "sk": "1 495 Kč",
+        "en": "1,495 CZK",
+        "de": "1 495 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.f5efdafeaa.ed12ffaf11",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 8,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Bestseller",
+      "dst": {
+        "sk": "Bestseller",
+        "en": "Bestseller",
+        "de": "Bestseller"
+      }
+    },
+    {
+      "key": "645a2602428b.66fa87737b.7129149b61",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 9,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Parádí se",
+      "dst": {
+        "sk": "Parádi sa",
+        "en": "It looks great!"
+      }
+    },
+    {
+      "key": "645a2602428b.9544da06c8.16251c65fd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 10,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Furt maká",
+      "dst": {
+        "sk": "Stále pracuje.",
+        "en": "It keeps working.",
+        "de": "Furt funktioniert."
+      }
+    },
+    {
+      "key": "645a2602428b.e4f107c1ab.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_6rk5af-Products_qtgf4y-Product_3193-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.4a9800b8c6.ddc57d0e24",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.title",
+      "index": 5,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Equa Smart – chytrá nerezová lahev, temně černá",
+      "dst": {
+        "sk": "Equa Smart – inteligentná nerezová fľaša, tmavo čierna",
+        "en": "Equa Smart – smart stainless steel bottle, deep black",
+        "de": "Equa Smart – intelligente Edelstahlflasche, tiefschwarz"
+      }
+    },
+    {
+      "key": "645a2602428b.1a4b28a41f.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 6,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.d6915d70e3.277e8912cd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 6,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "2 195 Kč",
+      "dst": {
+        "sk": "2 195 Kč",
+        "en": "2,195 CZK",
+        "de": "2 195 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.f984a5cd62.5d23453a1d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 11,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Sportuje",
+      "dst": {
+        "sk": "Športuje",
+        "en": "Sportuje",
+        "de": "Sportuje"
+      }
+    },
+    {
+      "key": "645a2602428b.6ccf48b672.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_6rk5af-Products_qtgf4y-Product_3506-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.053dd2208c.0acb6bd37b",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.title",
+      "index": 6,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Barner Brand® - Dalston - Dusty Pink - brýle potlačující modré světlo z obrazovek",
+      "dst": {
+        "sk": "Barner Brand® - Dalston - Dusty Pink - okuliare potláčajúce modré svetlo z obrazoviek",
+        "en": "Barner Brand® - Dalston - Dusty Pink - blue light blocking glasses for screens",
+        "de": "Barner Brand® - Dalston - Dusty Pink - Blaulichtfilterbrille für Bildschirme"
+      }
+    },
+    {
+      "key": "645a2602428b.a03ea0fbc5.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 7,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.1e51f9eac9.96b68a1140",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 7,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1 195 Kč",
+      "dst": {
+        "sk": "1 195 Kč",
+        "en": "1,195 CZK",
+        "de": "1 195 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.cbb0ba1ade.7129149b61",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 12,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Parádí se",
+      "dst": {
+        "sk": "Parádi sa",
+        "en": "It looks great!"
+      }
+    },
+    {
+      "key": "645a2602428b.a4314f3e81.16251c65fd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 13,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Furt maká",
+      "dst": {
+        "sk": "Stále pracuje.",
+        "en": "It keeps working.",
+        "de": "Furt funktioniert."
+      }
+    },
+    {
+      "key": "645a2602428b.4ba4494865.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_6rk5af-Products_qtgf4y-Product_3887-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.bee2867b50.8a1b27f165",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.title",
+      "index": 7,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Robobloq Qobo – programovatelný interaktivní šnek pro děti, 3-8 let",
+      "dst": {
+        "sk": "Robobloq Qobo – programovateľný interaktívny šnek pre deti, 3-8 rokov",
+        "en": "Robobloq Qobo – a programmable interactive snail for children aged 3-8 years",
+        "de": "Robobloq Qobo – programmierbarer interaktiver Schnecke für Kinder von 3 bis 8 Jahren"
+      }
+    },
+    {
+      "key": "645a2602428b.45a4cb3f47.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 8,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.240443d8df.08ad45f182",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 8,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "2 495 Kč",
+      "dst": {
+        "sk": "2 495 Kč",
+        "en": "2,495 CZK",
+        "de": "2 495 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.b39b240cb6.09f09b62e3",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 14,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Hraje si",
+      "dst": {
+        "sk": "Hrá si",
+        "en": "It plays.",
+        "de": "Spielt."
+      }
+    },
+    {
+      "key": "645a2602428b.e4955dd9c2.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_6rk5af-Products_qtgf4y-Product_5653-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.54da2d22da.47168b47bb",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.title",
+      "index": 8,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Plegium smart pepřový sprej - černý",
+      "dst": {
+        "sk": "Plegium smart korenistý sprej - čierny",
+        "en": "Plegium Smart Pepper Spray - Black",
+        "de": "Plegium Smart Pfefferspray - schwarz"
+      }
+    },
+    {
+      "key": "645a2602428b.36e75a864b.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 9,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.06a3a10852.31fd19276b",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 9,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1 545 Kč",
+      "dst": {
+        "sk": "1 545 Kč",
+        "en": "1,545 CZK",
+        "de": "1 545 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.979561b5b9.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_6rk5af-Products_qtgf4y-Product_6158-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.2265bd42ac.32e8d32b2c",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 20,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Příslušenství",
+      "dst": {
+        "sk": "Príslušenstvo",
+        "en": "Accessories",
+        "de": "Zubehör"
+      }
+    },
+    {
+      "key": "645a2602428b.788a74fcb1.8e57d8cdb1",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 31,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Výběr toho nejlepšího příslušenství od našich odborníků.",
+      "dst": {
+        "sk": "Výber toho najlepšieho príslušenstva od našich odborníkov.",
+        "en": "Selection of the best accessories from our experts.",
+        "de": "Auswahl des besten Zubehörs von unseren Experten."
+      }
+    },
+    {
+      "key": "645a2602428b.477c7b777e.3f5c023540",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.title",
+      "index": 9,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Marshall Major IV - bezdrátová bluetooth sluchátka - černá",
+      "dst": {
+        "sk": "Marshall Major IV - bezdrôtové bluetooth slúchadlá - čierna",
+        "en": "Marshall Major IV - wireless Bluetooth headphones - black",
+        "de": "Marshall Major IV - kabellose Bluetooth-Kopfhörer - schwarz"
+      }
+    },
+    {
+      "key": "645a2602428b.5b084fd0a4.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 10,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.c04cdc7cfe.f58dea16e4",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 10,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1 490 Kč",
+      "dst": {
+        "sk": "1 490 Kč",
+        "en": "1,490 CZK",
+        "de": "1 490 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.b6abfa54f2.ed12ffaf11",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 15,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Bestseller",
+      "dst": {
+        "sk": "Bestseller",
+        "en": "Bestseller",
+        "de": "Bestseller"
+      }
+    },
+    {
+      "key": "645a2602428b.560c87c144.02abac332a",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 16,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Doprodej",
+      "dst": {
+        "sk": "Doprodej",
+        "en": "Clearance Sale",
+        "de": "Abverkauf"
+      }
+    },
+    {
+      "key": "645a2602428b.8dfb1a9c0f.032eaec089",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 17,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Relaxuje",
+      "dst": {
+        "sk": "Relaxuje",
+        "en": "Relaxing",
+        "de": "Entspannt"
+      }
+    },
+    {
+      "key": "645a2602428b.2776321df6.cebf5f3f1a",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 18,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Baví se",
+      "dst": {
+        "sk": "Baví sa",
+        "en": "Enjoy!"
+      }
+    },
+    {
+      "key": "645a2602428b.de20142b76.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_99oxu8-Products_n1gqtv-Product_6077-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.d396872680.81209dc025",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.title",
+      "index": 10,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Spello by Epico - skládací bezdrátová nabíječka 3v1, bílá",
+      "dst": {
+        "sk": "Spello by Epico - skladacia bezdrôtová nabíjačka 3v1, biela",
+        "en": "Spello by Epico - 3-in-1 Foldable Wireless Charger, White",
+        "de": "Spello von Epico - faltbare kabellose 3-in-1-Ladestation, weiß"
+      }
+    },
+    {
+      "key": "645a2602428b.fc28631fcd.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 11,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.02da78f7c6.1b4ceb03dd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 11,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1 495 Kč",
+      "dst": {
+        "sk": "1 495 Kč",
+        "en": "1,495 CZK",
+        "de": "1 495 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.7d68bcc68b.16251c65fd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 19,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Furt maká",
+      "dst": {
+        "sk": "Stále pracuje.",
+        "en": "It keeps working.",
+        "de": "Furt funktioniert."
+      }
+    },
+    {
+      "key": "645a2602428b.de78e1cac4.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_99oxu8-Products_n1gqtv-Product_6881-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.239d010957.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 12,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.ab7b4a49a1.dff1af812b",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 12,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "595 Kč",
+      "dst": {
+        "sk": "595 Kč",
+        "en": "595 CZK",
+        "de": "595 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.bf3d1b3847.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_99oxu8-Products_n1gqtv-Product_7109-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.085160618b.a834dd47c2",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.title",
+      "index": 11,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Spello by Epico - solární powerbanka, 24 000mAh",
+      "dst": {
+        "sk": "Spello by Epico - solárna powerbanka, 24 000mAh",
+        "en": "Spello by Epico - solar power bank, 24,000mAh",
+        "de": "Spello von Epico - Solar-Powerbank, 24.000 mAh"
+      }
+    },
+    {
+      "key": "645a2602428b.62f4291f6e.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 13,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.b58b3124a8.8de1ab14b2",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 13,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1 695 Kč",
+      "dst": {
+        "sk": "1 695 Kč",
+        "en": "1,695 CZK",
+        "de": "1 695 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.3e56e8123e.16251c65fd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 20,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Furt maká",
+      "dst": {
+        "sk": "Stále pracuje.",
+        "en": "It keeps working.",
+        "de": "Furt funktioniert."
+      }
+    },
+    {
+      "key": "645a2602428b.bdc0fcde72.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_99oxu8-Products_n1gqtv-Product_7342-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.5538d9cef1.3877b2badc",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.title",
+      "index": 12,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Secrid Miniwallet Stich, peněženka, modrá magnólie",
+      "dst": {
+        "sk": "Secrid Miniwallet Stich, peňaženka, modrá magnólia",
+        "en": "Secrid Miniwallet Stich, wallet, blue magnolia",
+        "de": "Secrid Miniwallet Stich, Geldbörse, blaue Magnolie"
+      }
+    },
+    {
+      "key": "645a2602428b.5e9f79ef92.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 14,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.7e09200a05.bd563d5f82",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 14,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "2 149 Kč",
+      "dst": {
+        "sk": "2 149 Kč",
+        "en": "2,149 CZK",
+        "de": "2 149 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.de094c454b.02abac332a",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 21,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Doprodej",
+      "dst": {
+        "sk": "Doprodej",
+        "en": "Clearance Sale",
+        "de": "Abverkauf"
+      }
+    },
+    {
+      "key": "645a2602428b.bd348a5ec9.7129149b61",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 22,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Parádí se",
+      "dst": {
+        "sk": "Parádi sa",
+        "en": "It looks great!"
+      }
+    },
+    {
+      "key": "645a2602428b.adda73c251.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_99oxu8-Products_n1gqtv-Product_7467-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.56a06ddc54.3c5b949d6f",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 21,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Novinky, které jsme přidali",
+      "dst": {
+        "sk": "Novinky, ktoré sme pridali",
+        "en": "New items we have added",
+        "de": "Neuigkeiten, die wir hinzugefügt haben"
+      }
+    },
+    {
+      "key": "645a2602428b.029c8f07eb.b4b9fdde5e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 32,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Výběr těch nejnovějších produktu, které jsme přidali.",
+      "dst": {
+        "sk": "Výber tých najnovších produktov, ktoré sme pridali.",
+        "en": "Selection of the latest products we have added.",
+        "de": "Auswahl der neuesten Produkte, die wir hinzugefügt haben."
+      }
+    },
+    {
+      "key": "645a2602428b.4c48697350.11a56717cd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 23,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "VO - Ekonomická variata",
+      "dst": {
+        "sk": "VO - Ekonomická varianta",
+        "en": "VO - Economic Variant",
+        "de": "VO - Wirtschaftliche Variante"
+      }
+    },
+    {
+      "key": "645a2602428b.4bb5dc6d25.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 15,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.72d141440c.db18fb4c62",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.previous",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "795 Kč",
+      "dst": {
+        "sk": "795 Kč",
+        "en": "795 CZK",
+        "de": "795 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.723d7a9053.b347f0de64",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 15,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "765 Kč",
+      "dst": {
+        "sk": "765 Kč",
+        "en": "765 CZK",
+        "de": "765 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.98d919faf4.aadfc94755",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 24,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Akce!",
+      "dst": {
+        "sk": "Akcia!",
+        "en": "Promotion!",
+        "de": "Aktion!"
+      }
+    },
+    {
+      "key": "645a2602428b.1bc9cf3e30.61d859347d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 25,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Novinka",
+      "dst": {
+        "sk": "Novinka",
+        "en": "New Arrival",
+        "de": "Neuheit"
+      }
+    },
+    {
+      "key": "645a2602428b.ccb91127b8.5ae30df425",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.discount-title",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "sleva",
+      "dst": {
+        "sk": "zľava",
+        "en": "discount",
+        "de": "Rabatt"
+      }
+    },
+    {
+      "key": "645a2602428b.1d2b727544.d26af65cf0",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "30 Kč",
+      "dst": {
+        "sk": "30 Kč",
+        "en": "30 CZK",
+        "de": "30 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.2ca82acc18.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_kmi0o6-Products_9j74cd-Product_20939-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.b31c8bf5c7.11a56717cd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 26,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "VO - Ekonomická variata",
+      "dst": {
+        "sk": "VO - Ekonomická varianta",
+        "en": "VO - Economic Variant",
+        "de": "VO - Wirtschaftliche Variante"
+      }
+    },
+    {
+      "key": "645a2602428b.70dc1b3b99.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 16,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.df727bf5ae.d97c6d9f09",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.previous",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "905 Kč",
+      "dst": {
+        "sk": "905 Kč",
+        "en": "905 CZK",
+        "de": "905 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.7592b57562.3b6a3a7260",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 16,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "755 Kč",
+      "dst": {
+        "sk": "755 Kč",
+        "en": "755 CZK",
+        "de": "755 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.181522db8e.aadfc94755",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 27,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Akce!",
+      "dst": {
+        "sk": "Akcia!",
+        "en": "Promotion!",
+        "de": "Aktion!"
+      }
+    },
+    {
+      "key": "645a2602428b.286f58a0b7.61d859347d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 28,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Novinka",
+      "dst": {
+        "sk": "Novinka",
+        "en": "New Arrival",
+        "de": "Neuheit"
+      }
+    },
+    {
+      "key": "645a2602428b.7daeefbf84.5ae30df425",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.discount-title",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "sleva",
+      "dst": {
+        "sk": "zľava",
+        "en": "discount",
+        "de": "Rabatt"
+      }
+    },
+    {
+      "key": "645a2602428b.efe655b3b9.cd940838f9",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "150 Kč",
+      "dst": {
+        "sk": "150 Kč",
+        "en": "150 CZK",
+        "de": "150 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.4c4d50901b.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_kmi0o6-Products_9j74cd-Product_20940-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.6f9d9497b8.11a56717cd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 29,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "VO - Ekonomická variata",
+      "dst": {
+        "sk": "VO - Ekonomická varianta",
+        "en": "VO - Economic Variant",
+        "de": "VO - Wirtschaftliche Variante"
+      }
+    },
+    {
+      "key": "645a2602428b.5e062f4874.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 17,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.bae15173a1.e2a1376a67",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.previous",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1 115 Kč",
+      "dst": {
+        "sk": "1 115 Kč",
+        "en": "1,115 CZK",
+        "de": "1 115 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.10d1d69662.d97c6d9f09",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 17,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "905 Kč",
+      "dst": {
+        "sk": "905 Kč",
+        "en": "905 CZK",
+        "de": "905 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.264ac5753e.aadfc94755",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 30,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Akce!",
+      "dst": {
+        "sk": "Akcia!",
+        "en": "Promotion!",
+        "de": "Aktion!"
+      }
+    },
+    {
+      "key": "645a2602428b.f1603a3fc3.61d859347d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 31,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Novinka",
+      "dst": {
+        "sk": "Novinka",
+        "en": "New Arrival",
+        "de": "Neuheit"
+      }
+    },
+    {
+      "key": "645a2602428b.d4082aef81.5ae30df425",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.discount-title",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "sleva",
+      "dst": {
+        "sk": "zľava",
+        "en": "discount",
+        "de": "Rabatt"
+      }
+    },
+    {
+      "key": "645a2602428b.7854f99d64.19d41f209d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "210 Kč",
+      "dst": {
+        "sk": "210 Kč",
+        "en": "210 CZK",
+        "de": "210 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.3ec1d7a8a0.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_kmi0o6-Products_9j74cd-Product_20941-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.fb91db2ba1.11a56717cd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 32,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "VO - Ekonomická variata",
+      "dst": {
+        "sk": "VO - Ekonomická varianta",
+        "en": "VO - Economic Variant",
+        "de": "VO - Wirtschaftliche Variante"
+      }
+    },
+    {
+      "key": "645a2602428b.45d3e8593b.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 18,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.b758a95c1a.d97c6d9f09",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 18,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "905 Kč",
+      "dst": {
+        "sk": "905 Kč",
+        "en": "905 CZK",
+        "de": "905 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.f05eeec7f0.61d859347d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 33,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Novinka",
+      "dst": {
+        "sk": "Novinka",
+        "en": "New Arrival",
+        "de": "Neuheit"
+      }
+    },
+    {
+      "key": "645a2602428b.b1a375c3c4.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_kmi0o6-Products_9j74cd-Product_20945-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.4b2a31cd4d.11a56717cd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 34,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "VO - Ekonomická variata",
+      "dst": {
+        "sk": "VO - Ekonomická varianta",
+        "en": "VO - Economic Variant",
+        "de": "VO - Wirtschaftliche Variante"
+      }
+    },
+    {
+      "key": "645a2602428b.8b4828cf99.356012ce3e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.green",
+      "index": 19,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skladem",
+      "dst": {
+        "sk": "na sklade",
+        "en": "in stock",
+        "de": "auf Lager"
+      }
+    },
+    {
+      "key": "645a2602428b.e75dd788f0.db18fb4c62",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.previous",
+      "index": 3,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "795 Kč",
+      "dst": {
+        "sk": "795 Kč",
+        "en": "795 CZK",
+        "de": "795 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.6c97a6e3e9.92723b9d72",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.current",
+      "index": 19,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "775 Kč",
+      "dst": {
+        "sk": "775 Kč",
+        "en": "775 CZK",
+        "de": "775 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.811f4f1ee4.aadfc94755",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 35,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Akce!",
+      "dst": {
+        "sk": "Akcia!",
+        "en": "Promotion!",
+        "de": "Aktion!"
+      }
+    },
+    {
+      "key": "645a2602428b.0318d0ab8e.61d859347d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span.tag-text",
+      "index": 36,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Novinka",
+      "dst": {
+        "sk": "Novinka",
+        "en": "New Arrival",
+        "de": "Neuheit"
+      }
+    },
+    {
+      "key": "645a2602428b.f6f151ae03.5ae30df425",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.discount-title",
+      "index": 3,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "sleva",
+      "dst": {
+        "sk": "zľava",
+        "en": "discount",
+        "de": "Rabatt"
+      }
+    },
+    {
+      "key": "645a2602428b.7885e66cf1.c9353ef45d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div",
+      "index": 3,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "20 Kč",
+      "dst": {
+        "sk": "20 Kč",
+        "en": "20 CZK",
+        "de": "20 Kč"
+      }
+    },
+    {
+      "key": "645a2602428b.f9e70c7255.9d52cfec57",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_kmi0o6-Products_9j74cd-Product_20947-add\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Přidat do košíku",
+      "dst": {
+        "sk": "Pridať do košíka",
+        "en": "Add to cart",
+        "de": "In den Warenkorb legen"
+      }
+    },
+    {
+      "key": "645a2602428b.01080e2b81.a2de1d2b69",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "source",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Your browser does not support the video tag.",
+      "dst": {
+        "sk": "Váš prehliadač nepodporuje video tag.",
+        "en": "Your browser does not support the video tag.",
+        "de": "Ihr Browser unterstützt das Video-Tag nicht."
+      }
+    },
+    {
+      "key": "645a2602428b.20f0bfe30c.75e22261b9",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 33,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Každý telefon si zaslouží druhou šanci.",
+      "dst": {
+        "sk": "Každý telefón si zaslúži druhú šancu.",
+        "en": "Every phone deserves a second chance.",
+        "de": "Jedes Telefon verdient eine zweite Chance."
+      }
+    },
+    {
+      "key": "645a2602428b.81f2d183f4.5decf5233c",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 34,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Nabízíme široký výběr náhradních dílů pro",
+      "dst": {
+        "sk": "Ponúkame široký výber náhradných dielov pre",
+        "en": "We offer a wide selection of spare parts for",
+        "de": "Wir bieten eine große Auswahl an Ersatzteilen für"
+      }
+    },
+    {
+      "key": "645a2602428b.1173de6152.38fdf51931",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 22,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "iPhone",
+      "dst": {
+        "sk": "iPhone",
+        "en": "iPhone",
+        "de": "iPhone"
+      }
+    },
+    {
+      "key": "645a2602428b.e28e308a48.ac92e76130",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 23,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "MacBook",
+      "dst": {
+        "sk": "MacBook",
+        "en": "MacBook",
+        "de": "MacBook"
+      }
+    },
+    {
+      "key": "645a2602428b.350df00e12.23cbcfc3e8",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 24,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "iPad",
+      "dst": {
+        "sk": "iPad",
+        "en": "iPad",
+        "de": "iPad"
+      }
+    },
+    {
+      "key": "645a2602428b.608c099bfd.e72597ad19",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 34,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": ", ale i",
+      "dst": {
+        "sk": ", ale aj",
+        "en": ", but also"
+      }
+    },
+    {
+      "key": "645a2602428b.e4f9959f4a.6d612a86be",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 25,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Android",
+      "dst": {
+        "sk": "Android",
+        "en": "Android",
+        "de": "Android"
+      }
+    },
+    {
+      "key": "645a2602428b.8269b37697.e1145842bd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 34,
+      "textIndex": 2,
+      "mode": "textnode",
+      "attr": "",
+      "source": "zařízení, také máme široukou nabídku",
+      "dst": {
+        "sk": "zariadenie, tiež máme širokú ponuku",
+        "en": "devices, we also have a wide range of offerings",
+        "de": "Geräte, außerdem haben wir ein breites Angebot."
+      }
+    },
+    {
+      "key": "645a2602428b.2bb7b97fd8.bf986c72d7",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 26,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "příslušenství",
+      "dst": {
+        "sk": "príslušenstvo",
+        "en": "accessories",
+        "de": "Zubehör"
+      }
+    },
+    {
+      "key": "645a2602428b.ca8f3c2d5f.bcf564c402",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 34,
+      "textIndex": 3,
+      "mode": "textnode",
+      "attr": "",
+      "source": "pro B2B. Vše máme skladem a připravené k rychlému odeslání!",
+      "dst": {
+        "sk": "pre B2B. Všetko máme na sklade a pripravené na rýchle odoslanie!",
+        "en": "for B2B. We have everything in stock and ready for quick dispatch!",
+        "de": "für B2B. Alles haben wir auf Lager und bereit für den schnellen Versand!"
+      }
+    },
+    {
+      "key": "645a2602428b.f4fab40341.95ea0615ba",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 27,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Výběr toho nejlepšího příslušenství pro Vás",
+      "dst": {
+        "sk": "Výber toho najlepšieho príslušenstva pre Vás",
+        "en": "Choosing the Best Accessories for You",
+        "de": "Die Auswahl des besten Zubehörs für Sie"
+      }
+    },
+    {
+      "key": "645a2602428b.783ab5c85c.c4c69b517c",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 35,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Pečlivě vybrané a ozkoušené produkty, které nám dávají smysl.",
+      "dst": {
+        "sk": "Starostlivo vybrané a otestované produkty, ktoré nám dávajú zmysel.",
+        "en": "Carefully selected and tested products that make sense to us.",
+        "de": "Sorgfältig ausgewählte und getestete Produkte, die für uns Sinn machen."
+      }
+    },
+    {
+      "key": "645a2602428b.efea70f5c8.c5d05988b7",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 36,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Masážní přístroj od Therabody",
+      "dst": {
+        "sk": "Masážny prístroj od Therabody",
+        "en": "Massage device from Therabody",
+        "de": "Massagegerät von Therabody"
+      }
+    },
+    {
+      "key": "645a2602428b.f358b40d6e.fbb20d46b0",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 28,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Zvyšte svůj výkon",
+      "dst": {
+        "sk": "Zvýšte svoj výkon",
+        "en": "Boost Your Performance",
+        "de": "Steigern Sie Ihre Leistung"
+      }
+    },
+    {
+      "key": "645a2602428b.b3415c6a8f.07157d48f2",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 37,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Pokročilá úleva od bolesti.",
+      "dst": {
+        "sk": "Pokročilá úľava od bolesti.",
+        "en": "Advanced pain relief.",
+        "de": "Fortgeschrittene Schmerztherapie."
+      }
+    },
+    {
+      "key": "645a2602428b.ef8adb1244.01db7f674d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 37,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Technologie navržená",
+      "dst": {
+        "sk": "Technológia navrhnutá",
+        "en": "Technology designed",
+        "de": "Technologie entworfen"
+      }
+    },
+    {
+      "key": "645a2602428b.89d1093e3c.27ea270592",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 29,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "pro zlepšení výkonu.",
+      "dst": {
+        "sk": "pre zlepšenie výkonu.",
+        "en": "for performance enhancement.",
+        "de": "zur Leistungssteigerung."
+      }
+    },
+    {
+      "key": "645a2602428b.a945f86a13.c441a52d8d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 38,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Chytrý zámek Tedee",
+      "dst": {
+        "sk": "Chytrý zámok Tedee",
+        "en": "Tedee Smart Lock",
+        "de": "Intelligentes Schloss Tedee"
+      }
+    },
+    {
+      "key": "645a2602428b.220cb0d60f.06e4aa5a68",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 39,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Odemkněte svůj",
+      "dst": {
+        "sk": "Odomknite svoj",
+        "en": "Unlock your",
+        "de": "Entsperren Sie Ihr"
+      }
+    },
+    {
+      "key": "645a2602428b.8ec7077c49.e3bd2d9def",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 39,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "život bez klíče",
+      "dst": {
+        "sk": "život bez kľúča",
+        "en": "keyless life",
+        "de": "Leben ohne Schlüssel"
+      }
+    },
+    {
+      "key": "645a2602428b.16887bfa17.d930433220",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 40,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Chytrý zámek a Váš",
+      "dst": {
+        "sk": "Chytrý zámok a Váš",
+        "en": "Smart lock and Your",
+        "de": "Intelligentes Schloss und Ihr"
+      }
+    },
+    {
+      "key": "645a2602428b.69173d7b57.4bfec05c73",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 41,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "telefon.",
+      "dst": {
+        "sk": "telefon.",
+        "en": "phone.",
+        "de": "Telefon."
+      }
+    },
+    {
+      "key": "645a2602428b.29ce830449.12174e585f",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 41,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "To je",
+      "dst": {
+        "sk": "To je",
+        "en": "This is",
+        "de": "Das ist"
+      }
+    },
+    {
+      "key": "645a2602428b.8f3c14977e.01dc59b14c",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 30,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "vše",
+      "dst": {
+        "sk": "všetko",
+        "en": "everything"
+      }
+    },
+    {
+      "key": "645a2602428b.dfba84756b.c47053f8de",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 31,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "co potřebujete.",
+      "dst": {
+        "sk": "čo potrebujete.",
+        "en": "what you need.",
+        "de": "Was Sie benötigen."
+      }
+    },
+    {
+      "key": "645a2602428b.7f2caaa8b7.8f18f5927c",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 42,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Invoxia",
+      "dst": {
+        "sk": "Invoxia",
+        "en": "Invoxia",
+        "de": "Invoxia"
+      }
+    },
+    {
+      "key": "645a2602428b.c734a5cdfc.4c9fd690d1",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 43,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "GPS trackery",
+      "dst": {
+        "sk": "GPS trackery",
+        "en": "GPS Trackers",
+        "de": "GPS-Tracker"
+      }
+    },
+    {
+      "key": "645a2602428b.478bc69726.6e55c49fc0",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 44,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Hlídají vše na čem Vám",
+      "dst": {
+        "sk": "Strážia všetko, na čom Vám",
+        "en": "They monitor everything that matters to you.",
+        "de": "Sie überwachen alles, was Ihnen wichtig ist."
+      }
+    },
+    {
+      "key": "645a2602428b.445453f72d.63b9859a91",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 44,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "záleží. Dokonalá ochrana",
+      "dst": {
+        "sk": "záleží. Dokonalá ochrana",
+        "en": "it matters. Perfect protection",
+        "de": "Es kommt darauf an. Perfekter Schutz"
+      }
+    },
+    {
+      "key": "645a2602428b.c710f0307c.bf672c49b1",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 32,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Vašeho majetku.",
+      "dst": {
+        "sk": "Váš majetok.",
+        "en": "Your property.",
+        "de": "Ihr Eigentum."
+      }
+    },
+    {
+      "key": "645a2602428b.e2c3eb7af8.8c7a7bf2d4",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 45,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Powerbanky Epico",
+      "dst": {
+        "sk": "Powerbanky Epico",
+        "en": "Epico Power Banks",
+        "de": "Powerbanks von Epico"
+      }
+    },
+    {
+      "key": "645a2602428b.a6ad946b94.4c3de0bdd0",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 46,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Připraveny na dobrodružství",
+      "dst": {
+        "sk": "Pripravení na dobrodružstvo",
+        "en": "Ready for adventure",
+        "de": "Bereit für das Abenteuer"
+      }
+    },
+    {
+      "key": "645a2602428b.ca8c1577c8.77927f07cb",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 47,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Powerbanky Epico kombinující",
+      "dst": {
+        "sk": "Powerbanky Epico kombinujúce",
+        "en": "Epico power banks combining",
+        "de": "Powerbanks von Epico kombinieren"
+      }
+    },
+    {
+      "key": "645a2602428b.68ca12854e.a31d49321c",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 47,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "skvělý design a kvalitní materiál.",
+      "dst": {
+        "sk": "skvelý dizajn a kvalitný materiál.",
+        "en": "excellent design and high-quality materials.",
+        "de": "Hervorragendes Design und hochwertige Materialien."
+      }
+    },
+    {
+      "key": "645a2602428b.a5fc056eee.55d494bba6",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 33,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Společníkem v každé situaci.",
+      "dst": {
+        "sk": "Spoločník v každej situácii.",
+        "en": "A companion in every situation.",
+        "de": "Ein Begleiter in jeder Situation."
+      }
+    },
+    {
+      "key": "645a2602428b.a505bddd27.3eae8de408",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 48,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Chytrá láhev Muggo",
+      "dst": {
+        "sk": "Chytrá fľaša Muggo",
+        "en": "Smart Bottle Muggo",
+        "de": "Intelligente Flasche Muggo"
+      }
+    },
+    {
+      "key": "645a2602428b.8a5ce0285b.783d24d5a1",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 49,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Voda jako ze studánky",
+      "dst": {
+        "sk": "Voda ako zo studničky",
+        "en": "Water like from a spring",
+        "de": "Wasser wie aus einer Quelle"
+      }
+    },
+    {
+      "key": "645a2602428b.94b4978085.8c2ac210b2",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 50,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Čistá voda vždy po ruce",
+      "dst": {
+        "sk": "Čistá voda vždy po ruke",
+        "en": "Clean water always at hand",
+        "de": "Reines Wasser immer zur Hand"
+      }
+    },
+    {
+      "key": "645a2602428b.090b668288.66d6fe9e84",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 50,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "díky UV technoligi. Ideální",
+      "dst": {
+        "sk": "vďaka UV technológii. Ideálne",
+        "en": "thanks to UV technology. Ideal",
+        "de": "Dank der UV-Technologie. Ideal"
+      }
+    },
+    {
+      "key": "645a2602428b.8c18f78c0c.8d30e116df",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 34,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "pro kohoutkovou vodu.",
+      "dst": {
+        "sk": "pre kohútikovú vodu.",
+        "en": "for tap water.",
+        "de": "für Leitungswasser."
+      }
+    },
+    {
+      "key": "645a2602428b.47017e33f6.e9e848747e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 51,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Držáky do auta iOttie",
+      "dst": {
+        "sk": "Držiaky do auta iOttie",
+        "en": "iOttie Car Mounts",
+        "de": "iOttie Autohalterungen"
+      }
+    },
+    {
+      "key": "645a2602428b.c1c46b943d.9bc6c47dab",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 52,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Vyražte na cestu",
+      "dst": {
+        "sk": "Vyrazte na cestu",
+        "en": "Hit the road",
+        "de": "Starten Sie Ihre Reise."
+      }
+    },
+    {
+      "key": "645a2602428b.08434dad00.fe91085030",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 53,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Jednoduché držáky do auta.",
+      "dst": {
+        "sk": "Jednoduché držiaky do auta.",
+        "en": "Simple car mounts.",
+        "de": "Einfache Halterungen für das Auto."
+      }
+    },
+    {
+      "key": "645a2602428b.aae64c1076.957b0b8745",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 54,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Pro",
+      "dst": {
+        "sk": "Pro",
+        "en": "For",
+        "de": "Pro"
+      }
+    },
+    {
+      "key": "645a2602428b.09cd9739ad.ddbbfb6543",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 35,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "bezpečnější",
+      "dst": {
+        "sk": "bezpečnejší",
+        "en": "safer",
+        "de": "sicherer"
+      }
+    },
+    {
+      "key": "645a2602428b.ccaacce632.f4d7da2732",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 36,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "pohodlnější",
+      "dst": {
+        "sk": "pohodlnejší",
+        "en": "more comfortable",
+        "de": "bequemer"
+      }
+    },
+    {
+      "key": "645a2602428b.8fd24c179e.5e526c9fb5",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 54,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "zážitek z jízdy.",
+      "dst": {
+        "sk": "zážitok z jazdy.",
+        "en": "driving experience.",
+        "de": "Fahrerlebnis."
+      }
+    },
+    {
+      "key": "645a2602428b.b165f51689.d7bb9c0e24",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 37,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Co o nás naši zákazníci říkaji?",
+      "dst": {
+        "sk": "Čo o nás hovoria naši zákazníci?",
+        "en": "What do our customers say about us?",
+        "de": "Was sagen unsere Kunden über uns?"
+      }
+    },
+    {
+      "key": "645a2602428b.6cad4ed161.387a6aad8d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 38,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Prohlédněte si rezenze našich spokojených zákazníků",
+      "dst": {
+        "sk": "Prezrite si recenzie našich spokojných zákazníkov.",
+        "en": "Check out the reviews from our satisfied customers.",
+        "de": "Sehen Sie sich die Bewertungen unserer zufriedenen Kunden an."
+      }
+    },
+    {
+      "key": "645a2602428b.651ef9426d.81f3bf42a9",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://www.zbozi.cz/obchod/129412/\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Tom",
+      "dst": {
+        "sk": "Tom"
+      }
+    },
+    {
+      "key": "645a2602428b.03b49565de.efe9bc7fab",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 39,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "doporučuje Express Servis",
+      "dst": {
+        "sk": "odporúča Express Servis",
+        "en": "recommended by Express Service",
+        "de": "empfiehlt Express Service"
+      }
+    },
+    {
+      "key": "645a2602428b.7fd22fff7f.30e1e6e894",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 11,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "I přes zádrhel co se týče ceny zboží mi byla nabídnuta dobrá alternativa. Obchod reagoval rychle. Chválím bezproblémovou komunikaci a rychlé dodání.",
+      "dst": {
+        "sk": "Aj napriek problému, pokiaľ ide o cenu tovaru, mi bola ponúknutá dobrá alternatíva. Obchod reagoval rýchlo. Chválim bezproblémovú komunikáciu a rýchle dodanie.",
+        "en": "Despite the issue regarding the price of the goods, I was offered a good alternative. The store responded quickly. I commend the seamless communication and fast delivery.",
+        "de": "Trotz eines Problems bezüglich des Preises des Produkts wurde mir eine gute Alternative angeboten. Der Shop reagierte schnell. Ich loben die reibungslose Kommunikation und die schnelle Lieferung."
+      }
+    },
+    {
+      "key": "645a2602428b.27a13d863e.a9392aa1fb",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 12,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "➕ Rychlé dodání",
+      "dst": {
+        "sk": "➕ Rýchle dodanie",
+        "en": "➕ Fast Delivery",
+        "de": "➕ Schnelle Lieferung"
+      }
+    },
+    {
+      "key": "645a2602428b.4e772fd854.ca0089fac1",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 12,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "➕ Bezproblémová komunikace",
+      "dst": {
+        "sk": "➕ Bezproblémová komunikácia",
+        "en": "➕ Seamless communication",
+        "de": "➕ Problemloser Austausch"
+      }
+    },
+    {
+      "key": "645a2602428b.0169f2e2a5.02a268ab39",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://obchody.heureka.cz/express-servis-cz/recenze/\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Jiří Mrázek",
+      "dst": {
+        "sk": "Jiří Mrázek",
+        "en": "Jiří Mrázek",
+        "de": "Jiří Mrázek"
+      }
+    },
+    {
+      "key": "645a2602428b.efc802ccea.efe9bc7fab",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 40,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "doporučuje Express Servis",
+      "dst": {
+        "sk": "odporúča Express Servis",
+        "en": "recommended by Express Service",
+        "de": "empfiehlt Express Service"
+      }
+    },
+    {
+      "key": "645a2602428b.d167e4c670.821ba4d9fd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 13,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Personál milý a vstřícný. Přestože pán tvrdil, že nemůže ohledně délky opravy nic slíbit, druhý den ráno přišla sms k vyzvednutí, takže opravdu expres servis! Komunikace se zákazníkem i služby profi, jen tak dál. Děkuji a velmi doporučuji!",
+      "dst": {
+        "sk": "Personál milý a ochotný. Hoci pán tvrdil, že nemôže ohľadom dĺžky opravy nič sľúbiť, druhý deň ráno prišla sms k vyzdvihnutiu, takže naozaj expres servis! Komunikácia so zákazníkom aj služby profesionálne, len tak ďalej. Ďakujem a veľmi odporúčam!",
+        "en": "The staff is friendly and accommodating. Although the gentleman stated that he couldn't promise anything regarding the repair duration, I received a text message the next morning for pickup, so it truly is express service! Communication with the customer and the services provided are professional; keep it up! Thank you, and I highly recommend!",
+        "de": "Das Personal ist freundlich und zuvorkommend. Obwohl der Herr sagte, dass er bezüglich der Reparaturdauer nichts versprechen könne, erhielt ich am nächsten Morgen eine SMS zur Abholung, also wirklich ein Express-Service! Die Kommunikation mit dem Kunden und die Dienstleistungen sind professionell, weiter so. Vielen Dank und sehr zu empfehlen!"
+      }
+    },
+    {
+      "key": "645a2602428b.9793edb0b5.9181c13751",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://www.google.com/maps/contrib/112459888768696011030?hl=cs&sa=X&ved=2ahUKEwiW3_Pgot-BAxWEg_0HHarGCXoQvvQBegQIARAj\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Lucie",
+      "dst": {
+        "sk": "Lucia",
+        "en": "Lucie"
+      }
+    },
+    {
+      "key": "645a2602428b.d28dd8ba6c.759a1fb7bd",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://www.google.com/maps/contrib/112459888768696011030?hl=cs&sa=X&ved=2ahUKEwiW3_Pgot-BAxWEg_0HHarGCXoQvvQBegQIARAj\"]",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Šťastná",
+      "dst": {
+        "sk": "Šťastná",
+        "en": "Happy",
+        "de": "Glücklich"
+      }
+    },
+    {
+      "key": "645a2602428b.511d495d0b.efe9bc7fab",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 41,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "doporučuje Express Servis",
+      "dst": {
+        "sk": "odporúča Express Servis",
+        "en": "recommended by Express Service",
+        "de": "empfiehlt Express Service"
+      }
+    },
+    {
+      "key": "645a2602428b.313a7fef26.32c1b13961",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 14,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "➕ Prodávají jako jediní produkt který jsem sháněl.",
+      "dst": {
+        "sk": "➕ Predávajú ako jediní produkt, ktorý som hľadal.",
+        "en": "➕ They are the only ones selling the product I was looking for.",
+        "de": "➕ Sie verkaufen als einzige den Produkt, den ich gesucht habe."
+      }
+    },
+    {
+      "key": "645a2602428b.3274322b01.288eb6ff02",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 14,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "➕ Zboží měli skladem",
+      "dst": {
+        "sk": "➕ Tovar mali na sklade",
+        "en": "➕ The goods were in stock.",
+        "de": "➕ Die Ware war auf Lager."
+      }
+    },
+    {
+      "key": "645a2602428b.895d45fcff.a9392aa1fb",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 14,
+      "textIndex": 2,
+      "mode": "textnode",
+      "attr": "",
+      "source": "➕ Rychlé dodání",
+      "dst": {
+        "sk": "➕ Rýchle dodanie",
+        "en": "➕ Fast Delivery",
+        "de": "➕ Schnelle Lieferung"
+      }
+    },
+    {
+      "key": "645a2602428b.8075910333.a5257e46aa",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 14,
+      "textIndex": 3,
+      "mode": "textnode",
+      "attr": "",
+      "source": "➕ Držák+obal na telefon přesně dle mého očekávání.",
+      "dst": {
+        "sk": "➕ Držiak+obal na telefón presne podľa mojich očakávaní.",
+        "en": "➕ The phone holder and case met my expectations perfectly.",
+        "de": "➕ Halterung + Hülle für das Telefon entspricht genau meinen Erwartungen."
+      }
+    },
+    {
+      "key": "645a2602428b.6141522277.2ed11d0b31",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://obchody.heureka.cz/express-servis-cz/recenze/\"]",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Radek Vyhnal",
+      "dst": {
+        "sk": "Radek Vyhnal",
+        "en": "Radek Vyhnal",
+        "de": "Radek Vyhnal"
+      }
+    },
+    {
+      "key": "645a2602428b.36af174d95.efe9bc7fab",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 42,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "doporučuje Express Servis",
+      "dst": {
+        "sk": "odporúča Express Servis",
+        "en": "recommended by Express Service",
+        "de": "empfiehlt Express Service"
+      }
+    },
+    {
+      "key": "645a2602428b.e5902cb937.d833cae796",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 15,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Mohu jen doporučit, obrátila jsem se na servis, neboť mi nefungovala klávesnice na notebooku. I když jsme byli domluveni na opravě, která bude trvat pár dnů, byla provedena ještě týž den, pracovníci byli velmi milí, ochotní, profesionální přístup. Byla jsem velmi spokojená.",
+      "dst": {
+        "sk": "Môžem len odporučiť, obrátila som sa na servis, pretože mi nefungovala klávesnica na notebooku. Aj keď sme sa dohodli na oprave, ktorá bude trvať pár dní, bola vykonaná ešte v ten deň, pracovníci boli veľmi milí, ochotní, profesionálny prístup. Bola som veľmi spokojná.",
+        "en": "I can only recommend it. I contacted the service because my laptop keyboard was not working. Although we had agreed on a repair that would take a few days, it was completed the same day. The staff were very friendly, helpful, and professional. I was very satisfied.",
+        "de": "Ich kann es nur empfehlen, ich habe mich an den Service gewandt, da die Tastatur meines Notebooks nicht funktionierte. Obwohl wir uns auf eine Reparatur geeinigt hatten, die ein paar Tage dauern würde, wurde sie noch am selben Tag durchgeführt. Die Mitarbeiter waren sehr freundlich, hilfsbereit und hatten einen professionellen Ansatz. Ich war sehr zufrieden."
+      }
+    },
+    {
+      "key": "645a2602428b.58923d31e8.ae12f92943",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://www.google.com/maps/contrib/117950401218291204671?hl=cs&sa=X&ved=2ahUKEwiW3_Pgot-BAxWEg_0HHarGCXoQvvQBegQIARBh\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Alena Koželoušková",
+      "dst": {
+        "sk": "Alena Koželoušková",
+        "en": "Alena Koželoušková",
+        "de": "Alena Koželoušková"
+      }
+    },
+    {
+      "key": "645a2602428b.8bf3901f29.efe9bc7fab",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 43,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "doporučuje Express Servis",
+      "dst": {
+        "sk": "odporúča Express Servis",
+        "en": "recommended by Express Service",
+        "de": "empfiehlt Express Service"
+      }
+    },
+    {
+      "key": "645a2602428b.27c3f77b4a.db6a6f3382",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 16,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Mohu pouze doporučit . Byl jsem dnes měnit baterii na iPhonu X a bez problému mobil opět jede jako hodinky. Čekal jsem cca necelou hodinku dal jsem si naproti kávu a telefon byl připraven . Navštívil jsem pobočku poprvé a určitě ještě využiji její služby . Opravdu paráda.",
+      "dst": {
+        "sk": "Môžem len odporučiť. Dnes som menil batériu na iPhone X a bez problémov mobil opäť funguje ako hodinky. Čakal som cca necelú hodinku, dal som si naproti kávu a telefón bol pripravený. Navštívil som pobočku prvýkrát a určite ešte využijem jej služby. Naozaj paráda.",
+        "en": "I can only recommend it. I had my iPhone X battery replaced today, and the phone is working like a charm again. I waited for about less than an hour, enjoyed a coffee across the street, and the phone was ready. I visited the branch for the first time and will definitely use their services again. Truly fantastic.",
+        "de": "Ich kann es nur empfehlen. Ich habe heute den Akku meines iPhone X wechseln lassen und das Handy läuft wieder wie am Schnürchen. Ich habe etwa eine knappe Stunde gewartet, während ich mir gegenüber einen Kaffee gegönnt habe, und das Telefon war bereit. Ich habe die Filiale zum ersten Mal besucht und werde ihre Dienstleistungen auf jeden Fall noch einmal in Anspruch nehmen. Wirklich großartig."
+      }
+    },
+    {
+      "key": "645a2602428b.8edd1cabd9.de4883175d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://www.google.com/maps/contrib/108354616530493665403?hl=cs&sa=X&ved=2ahUKEwj_yOeho9-BAxWCh_0HHUdGDGYQvvQBegQIARAi\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Tomáš Zedníček",
+      "dst": {
+        "sk": "Tomáš Zedníček",
+        "en": "Tomáš Zedníček",
+        "de": "Tomáš Zedníček"
+      }
+    },
+    {
+      "key": "645a2602428b.d5a59515a8.efe9bc7fab",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 44,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "doporučuje Express Servis",
+      "dst": {
+        "sk": "odporúča Express Servis",
+        "en": "recommended by Express Service",
+        "de": "empfiehlt Express Service"
+      }
+    },
+    {
+      "key": "645a2602428b.690d87b41e.273778ed82",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 55,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Ochota a odbornost prodavačů ve velice hezkém prostředí prodejny.",
+      "dst": {
+        "sk": "Ochota a odbornosť predajcov v veľmi peknom prostredí predajne.",
+        "en": "The willingness and expertise of the sales staff in a very pleasant store environment.",
+        "de": "Die Hilfsbereitschaft und Fachkompetenz der Verkäufer in einer sehr ansprechenden Verkaufsumgebung."
+      }
+    },
+    {
+      "key": "645a2602428b.7b6daa5685.12378b2f09",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://www.zbozi.cz/obchod/129412/\"]",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Václav Pechman",
+      "dst": {
+        "sk": "Václav Pechman",
+        "en": "Václav Pechman",
+        "de": "Václav Pechman"
+      }
+    },
+    {
+      "key": "645a2602428b.c943d85f60.efe9bc7fab",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 45,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "doporučuje Express Servis",
+      "dst": {
+        "sk": "odporúča Express Servis",
+        "en": "recommended by Express Service",
+        "de": "empfiehlt Express Service"
+      }
+    },
+    {
+      "key": "645a2602428b.6de9ccf327.b3b38717bc",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 17,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "➕ Sortiment",
+      "dst": {
+        "sk": "➕ Sortiment",
+        "en": "➕ Product Range",
+        "de": "➕ Sortiment"
+      }
+    },
+    {
+      "key": "645a2602428b.71f4de03ff.1c01224b62",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 17,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "➕ Možnosti dopravy",
+      "dst": {
+        "sk": "➕ Možnosti dopravy",
+        "en": "➕ Shipping Options",
+        "de": "➕ Versandoptionen"
+      }
+    },
+    {
+      "key": "645a2602428b.df72677a2f.8dadd20098",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 17,
+      "textIndex": 2,
+      "mode": "textnode",
+      "attr": "",
+      "source": "➕ Komunikace obchodu",
+      "dst": {
+        "sk": "➕ Komunikácia obchodu",
+        "en": "➕ Store Communication",
+        "de": "➕ Kommunikation des Geschäfts"
+      }
+    },
+    {
+      "key": "645a2602428b.f6e1790bb5.8a9246e05d",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 17,
+      "textIndex": 3,
+      "mode": "textnode",
+      "attr": "",
+      "source": "➕ Rychlost vyřízení objednávky",
+      "dst": {
+        "sk": "➕ Rýchlosť vybavenia objednávky",
+        "en": "➕ Order processing speed",
+        "de": "➕ Schnelligkeit der Auftragsbearbeitung"
+      }
+    },
+    {
+      "key": "645a2602428b.6f884d0315.a55c787bf1",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://obchody.heureka.cz/express-servis-cz/recenze/\"]",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Jiří Pruzek",
+      "dst": {
+        "sk": "Jiří Pruzek",
+        "en": "Jiří Pruzek",
+        "de": "Jiří Pruzek"
+      }
+    },
+    {
+      "key": "645a2602428b.2d0baf406a.efe9bc7fab",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 46,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "doporučuje Express Servis",
+      "dst": {
+        "sk": "odporúča Express Servis",
+        "en": "recommended by Express Service",
+        "de": "empfiehlt Express Service"
+      }
+    },
+    {
+      "key": "645a2602428b.9410f0f2ae.a41c2fec8c",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 18,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "➕ Rychlost",
+      "dst": {
+        "sk": "➕ Rýchlosť",
+        "en": "➕ Speed",
+        "de": "➕ Geschwindigkeit"
+      }
+    },
+    {
+      "key": "645a2602428b.4b3c1e8eb4.4843375776",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 18,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "➕ Seriózní a přátelské vystupování",
+      "dst": {
+        "sk": "➕ Seriózne a priateľské vystupovanie",
+        "en": "➕ Serious and friendly demeanor",
+        "de": "➕ Seriöses und freundliches Auftreten"
+      }
+    },
+    {
+      "key": "645a2602428b.6670348c6e.e17f8fb1b0",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 18,
+      "textIndex": 2,
+      "mode": "textnode",
+      "attr": "",
+      "source": "➕ Kvalita produktu",
+      "dst": {
+        "sk": "➕ Kvalita produktu",
+        "en": "➕ Product Quality",
+        "de": "➕ Produktqualität"
+      }
+    },
+    {
+      "key": "645a2602428b.d7981517e2.184bddc055",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://www.zbozi.cz/obchod/129412/\"]",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Jakub Pejcha",
+      "dst": {
+        "sk": "Jakub Pejcha",
+        "en": "Jakub Pejcha",
+        "de": "Jakub Pejcha"
+      }
+    },
+    {
+      "key": "645a2602428b.bf605533a1.efe9bc7fab",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 47,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "doporučuje Express Servis",
+      "dst": {
+        "sk": "odporúča Express Servis",
+        "en": "recommended by Express Service",
+        "de": "empfiehlt Express Service"
+      }
+    },
+    {
+      "key": "645a2602428b.578de848ad.622201e676",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 48,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Zánovní, použitá a repasovaná zařízení",
+      "dst": {
+        "sk": "Zánovné, použité a repasované zariadenia",
+        "en": "Like-new, used, and refurbished equipment",
+        "de": "Neuwertige, gebrauchte und generalüberholte Geräte"
+      }
+    },
+    {
+      "key": "645a2602428b.b722067aad.b8e95e0bbb",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 56,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Ušetřete desítky procent oproti koupi nového s garancí kvality.",
+      "dst": {
+        "sk": "Ušetrite desiatky percent oproti kúpe nového s garanciou kvality.",
+        "en": "Save dozens of percent compared to buying new, with a quality guarantee.",
+        "de": "Sparen Sie Dutzende Prozent im Vergleich zum Kauf eines Neugeräts mit Qualitätsgarantie."
+      }
+    },
+    {
+      "key": "645a2602428b.c0b660ec68.e41ee7ac37",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 57,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Repasovaná technika",
+      "dst": {
+        "sk": "Repasovaná technika",
+        "en": "Refurbished Equipment",
+        "de": "Überholte Technik"
+      }
+    },
+    {
+      "key": "645a2602428b.d2d7f9084b.c8401690bb",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 58,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Druhá šance",
+      "dst": {
+        "sk": "Druhá šanca",
+        "en": "Second Chance",
+        "de": "Zweite Chance"
+      }
+    },
+    {
+      "key": "645a2602428b.5feac66ca5.d687e3cf27",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 59,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "pro plně funkční",
+      "dst": {
+        "sk": "pre plne funkčné",
+        "en": "for full functionality",
+        "de": "für voll funktionsfähig"
+      }
+    },
+    {
+      "key": "645a2602428b.08e7d47a89.f2efa3a4b4",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 60,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "zařízení",
+      "dst": {
+        "sk": "zariadenie",
+        "en": "device",
+        "de": "Gerät"
+      }
+    },
+    {
+      "key": "645a2602428b.0efcbe15ec.7cd1119139",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 49,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Více referencí o nás",
+      "dst": {
+        "sk": "Viac referencií o nás",
+        "en": "More references about us",
+        "de": "Mehr Referenzen über uns"
+      }
+    },
+    {
+      "key": "645a2602428b.b326946da5.e5e239560b",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.component--web-html-module",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "html",
+      "dst": {
+        "sk": "html"
+      }
+    },
+    {
+      "key": "645a2602428b.a5e725e2ff.0166823ac5",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1. sloupec: logo Google",
+      "dst": {
+        "sk": "1. stĺpec: logo Google",
+        "en": "1. Column: Google logo",
+        "de": "1. Spalte: Google-Logo"
+      }
+    },
+    {
+      "key": "645a2602428b.47bfb87a04.27df845f60",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 0,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "2. sloupec: hodnocení",
+      "dst": {
+        "sk": "2. stĺpec: hodnotenie",
+        "en": "2nd column: rating",
+        "de": "2. Spalte: Bewertung"
+      }
+    },
+    {
+      "key": "645a2602428b.d02f91cc8d.a6e1244551",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div",
+      "index": 4,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "z 5",
+      "dst": {
+        "sk": "z 5",
+        "en": "from 5"
+      }
+    },
+    {
+      "key": "645a2602428b.3e6562fa93.e5301d8415",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.muted",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "(456 hodnocení)",
+      "dst": {
+        "sk": "(456 hodnotení)",
+        "en": "(456 reviews)",
+        "de": "(456 Bewertungen)"
+      }
+    },
+    {
+      "key": "645a2602428b.dce41ee6f8.f51bf64475",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 0,
+      "textIndex": 2,
+      "mode": "textnode",
+      "attr": "",
+      "source": "3. sloupec: tlačítko",
+      "dst": {
+        "sk": "3. stĺpec: tlačidlo",
+        "en": "3rd column: button",
+        "de": "3. Spalte: Taste"
+      }
+    },
+    {
+      "key": "645a2602428b.7722275e70.ece08e6b75",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://g.page/r/CVtADA6lWnrtEAE/review\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Doporučte nás na Google",
+      "dst": {
+        "sk": "Odporučte nás na Google",
+        "en": "Recommend us on Google",
+        "de": "Empfehlen Sie uns auf Google"
+      }
+    },
+    {
+      "key": "645a2602428b.230e487f53.e5e239560b",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.component--web-html-module",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "html",
+      "dst": {
+        "sk": "html"
+      }
+    },
+    {
+      "key": "645a2602428b.fcd589ae41.cd33c6a052",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1) Logo Firmy.cz",
+      "dst": {
+        "sk": "1) Logo Firmy.sk",
+        "en": "1) Company Logo.cz",
+        "de": "1) Logo Firmy.cz"
+      }
+    },
+    {
+      "key": "645a2602428b.41bda9853b.25de2abf86",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 1,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "2) Hodnocení",
+      "dst": {
+        "sk": "2) Hodnotenie",
+        "en": "2) Evaluation",
+        "de": "2) Bewertung"
+      }
+    },
+    {
+      "key": "645a2602428b.e2095f97a7.85dd04daef",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 1,
+      "textIndex": 2,
+      "mode": "textnode",
+      "attr": "",
+      "source": "3) Tlačítko",
+      "dst": {
+        "sk": "3) Tlačidlo",
+        "en": "3) Button",
+        "de": "3) Taste"
+      }
+    },
+    {
+      "key": "645a2602428b.cbb955994a.68ecbb6d76",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://www.firmy.cz/detail/12898381-express-servis-servis-iphone-samsung-xiaomi-honor-plzen.html\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Doporučte nás na Seznam.cz",
+      "dst": {
+        "sk": "Odporučte nás na Seznam.cz",
+        "en": "Recommend us on Seznam.cz",
+        "de": "Empfehlen Sie uns auf Seznam.cz"
+      }
+    },
+    {
+      "key": "645a2602428b.d88d60b2cd.e5e239560b",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.component--web-html-module",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "html",
+      "dst": {
+        "sk": "html"
+      }
+    },
+    {
+      "key": "645a2602428b.67b04c9f63.2149a74a3a",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1. sloupec: logo Zboží.cz",
+      "dst": {
+        "sk": "1. stĺpec: logo Zboží.cz",
+        "en": "1. Column: Zboží.cz logo",
+        "de": "1. Spalte: Logo Zboží.cz"
+      }
+    },
+    {
+      "key": "645a2602428b.5b118f8258.27df845f60",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 2,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "2. sloupec: hodnocení",
+      "dst": {
+        "sk": "2. stĺpec: hodnotenie",
+        "en": "2nd column: rating",
+        "de": "2. Spalte: Bewertung"
+      }
+    },
+    {
+      "key": "645a2602428b.732c45ccef.d4b4d45ee7",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 2,
+      "textIndex": 2,
+      "mode": "textnode",
+      "attr": "",
+      "source": "3. sloupec: zelené tlačítko",
+      "dst": {
+        "sk": "3. stĺpec: zelené tlačidlo",
+        "en": "3rd column: green button",
+        "de": "3. Spalte: grüner Knopf"
+      }
+    },
+    {
+      "key": "645a2602428b.22d44f2650.b9551d2af8",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://www.zbozi.cz/obchod/129412\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Naše hodnocení na Zboží.cz",
+      "dst": {
+        "sk": "Naše hodnotenie na Zboží.cz",
+        "en": "Our rating on Zboží.cz",
+        "de": "Unsere Bewertung auf Zboží.cz"
+      }
+    },
+    {
+      "key": "645a2602428b.18e312eb60.e5e239560b",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.component--web-html-module",
+      "index": 3,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "html",
+      "dst": {
+        "sk": "html"
+      }
+    },
+    {
+      "key": "645a2602428b.4feefb1f8a.218d9f97a3",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 3,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1) logo Heuréky",
+      "dst": {
+        "sk": "1) logo Heuréky",
+        "en": "1) Heureka logo",
+        "de": "1) Heuréka-Logo"
+      }
+    },
+    {
+      "key": "645a2602428b.e32e7c0f93.2771be6cc5",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 3,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "2) hodnocení",
+      "dst": {
+        "sk": "2) hodnotenie",
+        "en": "2) evaluation",
+        "de": "2) Bewertung"
+      }
+    },
+    {
+      "key": "645a2602428b.073cc036ae.0fd6e10844",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.muted",
+      "index": 1,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "(145 hodnocení)",
+      "dst": {
+        "sk": "(145 hodnotení)",
+        "en": "(145 reviews)",
+        "de": "(145 Bewertungen)"
+      }
+    },
+    {
+      "key": "645a2602428b.31afb63fe2.87916980f3",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 3,
+      "textIndex": 2,
+      "mode": "textnode",
+      "attr": "",
+      "source": "3) tlačítko",
+      "dst": {
+        "sk": "3) tlačidlo",
+        "en": "3) button",
+        "de": "3) Taste"
+      }
+    },
+    {
+      "key": "645a2602428b.31a25bc87f.677c4f690a",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://obchody.heureka.cz/express-servis-cz/recenze/\"]",
+      "index": 3,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Naše hodnocení na Heuréce",
+      "dst": {
+        "sk": "Naše hodnotenie na Heuréke",
+        "en": "Our rating on Heureka",
+        "de": "Unsere Bewertung auf Heureka"
+      }
+    },
+    {
+      "key": "645a2602428b.514e9df083.e5e239560b",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.component--web-html-module",
+      "index": 4,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "html",
+      "dst": {
+        "sk": "html"
+      }
+    },
+    {
+      "key": "645a2602428b.c08f813f7f.c1b4d1f11e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 4,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "1) logo Facebooku",
+      "dst": {
+        "sk": "1) logo Facebooku",
+        "en": "1) Facebook logo",
+        "de": "1) Facebook-Logo"
+      }
+    },
+    {
+      "key": "645a2602428b.6453dd57ad.e5cd6ad8e4",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 4,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": "2) hodnocení (nahraď reálnými čísly, pokud chceš)",
+      "dst": {
+        "sk": "2) hodnotenie",
+        "en": "2) rating (replace with actual numbers if you wish)",
+        "de": "2) Bewertung (ersetze durch reale Zahlen, wenn du möchtest)"
+      }
+    },
+    {
+      "key": "645a2602428b.f6f556b736.87916980f3",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "div.hdr",
+      "index": 4,
+      "textIndex": 2,
+      "mode": "textnode",
+      "attr": "",
+      "source": "3) tlačítko",
+      "dst": {
+        "sk": "3) tlačidlo",
+        "en": "3) button",
+        "de": "3) Taste"
+      }
+    },
+    {
+      "key": "645a2602428b.3c2091a1cf.0694804cd3",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://www.facebook.com/expressserviscz/reviews\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Doporučite nás na Facebooku",
+      "dst": {
+        "sk": "Odporučte nás na Facebooku.",
+        "en": "Recommend us on Facebook",
+        "de": "Empfehlen Sie uns auf Facebook."
+      }
+    },
+    {
+      "key": "645a2602428b.6e27d08ea7.4511d4cc70",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "span",
+      "index": 61,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Jsme tu pro Vás, ať se děje co se děje",
+      "dst": {
+        "sk": "Sme tu pre Vás, nech sa deje čokoľvek.",
+        "en": "We are here for you, no matter what happens.",
+        "de": "Wir sind für Sie da, egal was passiert."
+      }
+    },
+    {
+      "key": "645a2602428b.ff62025b5d.a226d6fe75",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 50,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Zásobujeme Vás krásou technologie",
+      "dst": {
+        "sk": "Zásobujeme vás krásou technológie.",
+        "en": "We supply you with the beauty of technology.",
+        "de": "Wir versorgen Sie mit der Schönheit der Technologie."
+      }
+    },
+    {
+      "key": "645a2602428b.1c336296a1.2bd9e2a2b8",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 19,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Jsme",
+      "dst": {
+        "sk": "Sme",
+        "en": "We are",
+        "de": "Wir sind"
+      }
+    },
+    {
+      "key": "645a2602428b.e0cf5a7099.33cb77af14",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 51,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "specialisté na mobilní příslušenství",
+      "dst": {
+        "sk": "špecialisti na mobilné príslušenstvo",
+        "en": "specialists in mobile accessories",
+        "de": "Spezialisten für mobiles Zubehör"
+      }
+    },
+    {
+      "key": "645a2602428b.fae0754c27.0e6bdb0615",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 19,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": ", Apple produkty a",
+      "dst": {
+        "sk": ", Apple produkty a",
+        "en": ", Apple products and",
+        "de": "Apple-Produkte und"
+      }
+    },
+    {
+      "key": "645a2602428b.23afecc8e8.16bb97bbc5",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 52,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "profesionální servis",
+      "dst": {
+        "sk": "profesionálny servis",
+        "en": "professional service",
+        "de": "professioneller Service"
+      }
+    },
+    {
+      "key": "645a2602428b.cf59fab0f3.c87f734057",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 19,
+      "textIndex": 2,
+      "mode": "textnode",
+      "attr": "",
+      "source": ". Jsme také e-shop a prodejna",
+      "dst": {
+        "sk": ". Sme tiež e-shop a predajňa",
+        "en": "We are also an online store and a retail shop.",
+        "de": "Wir sind auch ein E-Shop und ein Geschäft."
+      }
+    },
+    {
+      "key": "645a2602428b.c380659971.7e1cf9e734",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 53,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "kvalitního příslušenství",
+      "dst": {
+        "sk": "kvalitného príslušenstva",
+        "en": "high-quality accessories",
+        "de": "hochwertiges Zubehör"
+      }
+    },
+    {
+      "key": "645a2602428b.b4b14f78ab.57d2020481",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 19,
+      "textIndex": 3,
+      "mode": "textnode",
+      "attr": "",
+      "source": ". Nabízíme široký sortiment od nejlepších výrobců z celého světa.",
+      "dst": {
+        "sk": "Ponúkame široký sortiment od najlepších výrobcov z celého sveta.",
+        "en": "We offer a wide range of products from the best manufacturers around the world.",
+        "de": "Wir bieten ein breites Sortiment von den besten Herstellern aus der ganzen Welt an."
+      }
+    },
+    {
+      "key": "645a2602428b.d5473a9173.43600897a9",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 54,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Express-Servis.cz",
+      "dst": {
+        "sk": "Express-Servis.sk",
+        "en": "Express-Servis.cz",
+        "de": "Express-Servis.cz"
+      }
+    },
+    {
+      "key": "645a2602428b.61e8c09991.5620a27b7f",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 20,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "je zde, aby Vám pomohl vybrat správné příslušenství pro plnohodnotné a maxilmální využití Vašich Apple produktů. U nás najdete nejen",
+      "dst": {
+        "sk": "je tu, aby vám pomohol vybrať správne príslušenstvo pre plnohodnotné a maximálne využitie vašich Apple produktov. U nás nájdete nielen",
+        "en": "is here to help you choose the right accessories for the full and maximum utilization of your Apple products. With us, you will find not only",
+        "de": "hier, um Ihnen zu helfen, das richtige Zubehör für die vollumfängliche und maximale Nutzung Ihrer Apple-Produkte auszuwählen. Bei uns finden Sie nicht nur"
+      }
+    },
+    {
+      "key": "645a2602428b.45baf3dda4.5661ff19bb",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 55,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "nejlepší ceny, ale i odborníky",
+      "dst": {
+        "sk": "najlepšie ceny, ale aj odborníkov",
+        "en": "the best prices, but also experts",
+        "de": "beste Preise, aber auch Experten"
+      }
+    },
+    {
+      "key": "645a2602428b.71d1ea0b3d.7d9c00ec2e",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "p",
+      "index": 20,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": ", kteří Vám ochotně poradí s výběrem i technickými dotazy.",
+      "dst": {
+        "sk": ", ktorí Vám ochotne poradia s výberom aj technickými otázkami.",
+        "en": "who will gladly assist you with selection and technical inquiries.",
+        "de": ", die Ihnen gerne bei der Auswahl sowie bei technischen Fragen zur Seite stehen."
+      }
+    },
+    {
+      "key": "645a2602428b.2ee8028279.3e8e5228c0",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "strong",
+      "index": 56,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Jsme Express-servis.cz",
+      "dst": {
+        "sk": "Sme Express-servis.sk",
+        "en": "We are Express-servis.cz",
+        "de": "Wir sind Express-servis.cz."
+      }
+    },
+    {
+      "key": "645a2602428b.40d17dd041.d6259782b6",
+      "parentId": "snippet--content",
+      "parent": "",
+      "selector": "a[href=\"https://www.express-servis.cz/s/o-nas\"]",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Více o nás",
+      "dst": {
+        "sk": "Viac o nás",
+        "en": "More about us",
+        "de": "Mehr über uns"
+      }
+    }
+  ]
+}
