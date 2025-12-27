@@ -1,6 +1,6 @@
 {
-  "hash": "0b1170d162f7ca04a1486cf1eaf3473a996876f11c1b81d9a2dffb1523c6a329",
-  "updated_at": 1766848093,
+  "hash": "4e76888fc4c1ddc96610344140b62d079d25ae8dccaed810082875428ab243b1",
+  "updated_at": 1766877796,
   "nodes": [
     {
       "key": "global.a6a638c00f.0e3215768f",
@@ -12,6 +12,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Express Servis",
+      "sourceNorm": "Express Servis",
       "dst": {
         "sk": "Express Servis",
         "en": "Express Service",
@@ -28,6 +29,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Vyhledat",
+      "sourceNorm": "Vyhledat",
       "dst": {
         "sk": "Vyhľadať",
         "en": "Search",
@@ -35,15 +37,16 @@
       }
     },
     {
-      "key": "global.020f11cac0.1b45e15971",
+      "key": "global.7c84d9a6b6.1b45e15971",
       "parentId": "",
       "parent": ".component--core-navigation",
-      "selector": "a[href=\"/s/o-nas\"]",
+      "selector": "span.inline-exp-text",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "O nás",
+      "source": "\n                    O nás\n                ",
+      "sourceNorm": "O nás",
       "dst": {
         "sk": "O nás",
         "en": "About Us",
@@ -59,7 +62,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Prodejny",
+      "source": "\n                    Prodejny\n                ",
+      "sourceNorm": "Prodejny",
       "dst": {
         "sk": "Predajne",
         "en": "Stores",
@@ -75,7 +79,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Kontakty",
+      "source": "\n                    Kontakty\n                ",
+      "sourceNorm": "Kontakty",
       "dst": {
         "sk": "Kontakty",
         "en": "Contacts",
@@ -83,30 +88,32 @@
       }
     },
     {
-      "key": "global.26be30a755.d6d5204e6a",
+      "key": "global.1d6b6e8165.d6d5204e6a",
       "parentId": "",
       "parent": ".component--core-navigation",
-      "selector": "a[href=\"?do=CoreNavigation_main-Currency_zz9f5r-select&CoreNavigation_main-Currency_zz9f5r-id=CZK\"]",
+      "selector": "a[href=\"?do=CoreNavigation_main-Currency_jksx98-select&CoreNavigation_main-Currency_jksx98-id=CZK\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "CZK (Kč)",
+      "source": "\n            CZK (Kč)\n        ",
+      "sourceNorm": "CZK (Kč)",
       "dst": {
         "sk": "CZK (Kč)",
         "en": "CZK (Kč)"
       }
     },
     {
-      "key": "global.11c36cfe32.fb29af5823",
+      "key": "global.aa866413a4.fb29af5823",
       "parentId": "",
       "parent": ".component--core-navigation",
-      "selector": "a[href=\"?do=CoreNavigation_main-Currency_zz9f5r-select&CoreNavigation_main-Currency_zz9f5r-id=EUR\"]",
+      "selector": "a[href=\"?do=CoreNavigation_main-Currency_jksx98-select&CoreNavigation_main-Currency_jksx98-id=EUR\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "EUR (€)",
+      "source": "\n            EUR (€)\n        ",
+      "sourceNorm": "EUR (€)",
       "dst": {
         "sk": "Samozrejme, pošlite mi text, ktorý chcete preložiť.",
         "en": "EUR (€)"
@@ -121,7 +128,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Quad Lock",
+      "source": "\n            Quad Lock\n            ",
+      "sourceNorm": "Quad Lock",
       "dst": {
         "sk": "Quad Lock",
         "en": "Quad Lock",
@@ -138,6 +146,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Quad Lock držáky",
+      "sourceNorm": "Quad Lock držáky",
       "dst": {
         "sk": "Quad Lock držiaky",
         "en": "Quad Lock mounts",
@@ -154,6 +163,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Na motorku",
+      "sourceNorm": "Na motorku",
       "dst": {
         "sk": "Na motocykel",
         "en": "For the motorcycle",
@@ -170,6 +180,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Do auta",
+      "sourceNorm": "Do auta",
       "dst": {
         "sk": "Do auta",
         "en": "To the car",
@@ -186,6 +197,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Na kolo",
+      "sourceNorm": "Na kolo",
       "dst": {
         "sk": "Na bicykel",
         "en": "On the bike",
@@ -202,6 +214,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Ostatní",
+      "sourceNorm": "Ostatní",
       "dst": {
         "sk": "Ostatní",
         "en": "Others",
@@ -218,6 +231,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Quad Lock kryty",
+      "sourceNorm": "Quad Lock kryty",
       "dst": {
         "sk": "Quad Lock kryty",
         "en": "Quad Lock cases",
@@ -234,6 +248,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Apple",
+      "sourceNorm": "Apple",
       "dst": {
         "sk": "Apple",
         "en": "Apple",
@@ -250,6 +265,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Samsung",
+      "sourceNorm": "Samsung",
       "dst": {
         "sk": "Samsung",
         "en": "Samsung",
@@ -266,6 +282,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Huawei",
+      "sourceNorm": "Huawei",
       "dst": {
         "sk": "Huawei",
         "en": "Huawei",
@@ -282,6 +299,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Google Pixel",
+      "sourceNorm": "Google Pixel",
       "dst": {
         "sk": "Google Pixel",
         "en": "Google Pixel",
@@ -298,6 +316,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Quad Lock příslušenství",
+      "sourceNorm": "Quad Lock příslušenství",
       "dst": {
         "sk": "Quad Lock príslušenstvo",
         "en": "Quad Lock accessories",
@@ -314,6 +333,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Doplňky",
+      "sourceNorm": "Doplňky",
       "dst": {
         "sk": "Doplnky",
         "en": "Accessories",
@@ -330,6 +350,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Ochranná skla",
+      "sourceNorm": "Ochranná skla",
       "dst": {
         "sk": "Ochranné sklá",
         "en": "Protective Glasses",
@@ -346,6 +367,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly",
+      "sourceNorm": "Náhradní díly",
       "dst": {
         "sk": "Náhradné diely",
         "en": "Spare Parts",
@@ -362,6 +384,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Quad Lock Poncho",
+      "sourceNorm": "Quad Lock Poncho",
       "dst": {
         "sk": "Quad Lock Pončo",
         "en": "Quad Lock Poncho",
@@ -378,6 +401,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Apple",
+      "sourceNorm": "Apple",
       "dst": {
         "sk": "Apple",
         "en": "Apple",
@@ -394,6 +418,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Samsung",
+      "sourceNorm": "Samsung",
       "dst": {
         "sk": "Samsung",
         "en": "Samsung",
@@ -410,6 +435,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Google Pixel",
+      "sourceNorm": "Google Pixel",
       "dst": {
         "sk": "Google Pixel",
         "en": "Google Pixel",
@@ -426,6 +452,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Huawei",
+      "sourceNorm": "Huawei",
       "dst": {
         "sk": "Huawei",
         "en": "Huawei",
@@ -441,7 +468,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Apple",
+      "source": "\n            Apple\n            ",
+      "sourceNorm": "Apple",
       "dst": {
         "sk": "Apple",
         "en": "Apple",
@@ -458,6 +486,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "iPhone",
+      "sourceNorm": "iPhone",
       "dst": {
         "sk": "iPhone",
         "en": "iPhone",
@@ -474,6 +503,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "iPhone Air",
+      "sourceNorm": "iPhone Air",
       "dst": {
         "sk": "iPhone Air",
         "en": "iPhone Air",
@@ -490,6 +520,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Mac",
+      "sourceNorm": "Mac",
       "dst": {
         "sk": "Mac",
         "en": "Mac"
@@ -505,6 +536,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "MacBook Air",
+      "sourceNorm": "MacBook Air",
       "dst": {
         "sk": "MacBook Air",
         "en": "MacBook Air",
@@ -521,6 +553,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "MacBook Pro",
+      "sourceNorm": "MacBook Pro",
       "dst": {
         "sk": "MacBook Pro",
         "en": "MacBook Pro",
@@ -537,6 +570,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "iMac",
+      "sourceNorm": "iMac",
       "dst": {
         "sk": "iMac",
         "en": "iMac",
@@ -553,6 +587,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Mac Mini",
+      "sourceNorm": "Mac Mini",
       "dst": {
         "sk": "Mac Mini",
         "en": "Mac Mini",
@@ -569,6 +604,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "iPad",
+      "sourceNorm": "iPad",
       "dst": {
         "sk": "iPad",
         "en": "iPad",
@@ -585,6 +621,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Watch",
+      "sourceNorm": "Watch",
       "dst": {
         "sk": "Hodinky",
         "en": "Watch",
@@ -601,6 +638,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Hudba",
+      "sourceNorm": "Hudba",
       "dst": {
         "sk": "Hudba",
         "en": "Music",
@@ -617,6 +655,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Monitory",
+      "sourceNorm": "Monitory",
       "dst": {
         "sk": "Monitory",
         "en": "Monitors",
@@ -632,7 +671,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Smart produkty",
+      "source": "\n            Smart produkty\n            ",
+      "sourceNorm": "Smart produkty",
       "dst": {
         "sk": "Smart produkty",
         "en": "Smart Products",
@@ -649,6 +689,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Smart Home  HomeKit",
+      "sourceNorm": "Smart Home  HomeKit",
       "dst": {
         "sk": "Smart Home  HomeKit",
         "en": "Smart Home  HomeKit",
@@ -665,6 +706,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Osvětlení",
+      "sourceNorm": "Osvětlení",
       "dst": {
         "sk": "Osvetlenie",
         "en": "Lighting",
@@ -681,6 +723,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Čidla a senzory",
+      "sourceNorm": "Čidla a senzory",
       "dst": {
         "sk": "Čidla a senzory",
         "en": "Sensors and Detectors",
@@ -697,6 +740,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Zásuvky",
+      "sourceNorm": "Zásuvky",
       "dst": {
         "sk": "Zásuvky",
         "en": "Sockets",
@@ -713,6 +757,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Kamery a zabezpečení",
+      "sourceNorm": "Kamery a zabezpečení",
       "dst": {
         "sk": "Kamery a zabezpečenie",
         "en": "Cameras and Security",
@@ -729,6 +774,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Smart Home",
+      "sourceNorm": "Smart Home",
       "dst": {
         "sk": "Smart Home",
         "en": "Smart Home",
@@ -745,6 +791,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Osvětlení",
+      "sourceNorm": "Osvětlení",
       "dst": {
         "sk": "Osvetlenie",
         "en": "Lighting",
@@ -761,6 +808,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Čidla a senzory",
+      "sourceNorm": "Čidla a senzory",
       "dst": {
         "sk": "Čidla a senzory",
         "en": "Sensors and Detectors",
@@ -777,6 +825,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Zásuvky",
+      "sourceNorm": "Zásuvky",
       "dst": {
         "sk": "Zásuvky",
         "en": "Sockets",
@@ -793,6 +842,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Kamery a zabezpečení",
+      "sourceNorm": "Kamery a zabezpečení",
       "dst": {
         "sk": "Kamery a zabezpečenie",
         "en": "Cameras and Security",
@@ -809,6 +859,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Smart Sport",
+      "sourceNorm": "Smart Sport",
       "dst": {
         "sk": "Smart Sport",
         "en": "Smart Sport",
@@ -825,6 +876,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Therabody",
+      "sourceNorm": "Therabody",
       "dst": {
         "sk": "Therabody",
         "en": "Therabody",
@@ -841,6 +893,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Chytré helmy UNIT",
+      "sourceNorm": "Chytré helmy UNIT",
       "dst": {
         "sk": "Chytré prilby UNIT",
         "en": "Smart Helmets UNIT",
@@ -857,6 +910,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Chytré láhve",
+      "sourceNorm": "Chytré láhve",
       "dst": {
         "sk": "Inteligentné fľaše",
         "en": "Smart bottles",
@@ -873,6 +927,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Smart Sport",
+      "sourceNorm": "Smart Sport",
       "dst": {
         "sk": "Smart Sport",
         "en": "Smart Sport",
@@ -889,6 +944,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Smart Zdraví",
+      "sourceNorm": "Smart Zdraví",
       "dst": {
         "sk": "Smart Zdravie",
         "en": "Smart Health",
@@ -905,6 +961,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Smart Zdraví",
+      "sourceNorm": "Smart Zdraví",
       "dst": {
         "sk": "Smart Zdravie",
         "en": "Smart Health",
@@ -921,6 +978,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Brýle Barner Brand",
+      "sourceNorm": "Brýle Barner Brand",
       "dst": {
         "sk": "Okuliare Barner Brand",
         "en": "Barner Brand Glasses",
@@ -937,6 +995,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Smart Hračky",
+      "sourceNorm": "Smart Hračky",
       "dst": {
         "sk": "Smart Hračky",
         "en": "Smart Toys",
@@ -953,6 +1012,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Intelino",
+      "sourceNorm": "Intelino",
       "dst": {
         "sk": "Intelino",
         "en": "Intelino",
@@ -969,6 +1029,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "GoCube",
+      "sourceNorm": "GoCube",
       "dst": {
         "sk": "GoCube",
         "en": "GoCube",
@@ -985,6 +1046,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Ozobot",
+      "sourceNorm": "Ozobot",
       "dst": {
         "sk": "Ozobot",
         "en": "Ozobot",
@@ -1001,6 +1063,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Robobloq",
+      "sourceNorm": "Robobloq",
       "dst": {
         "sk": "Robobloq",
         "en": "Robobloq",
@@ -1017,6 +1080,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "GPS a lokátory",
+      "sourceNorm": "GPS a lokátory",
       "dst": {
         "sk": "GPS a lokalizátory",
         "en": "GPS and Trackers",
@@ -1033,6 +1097,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Gaming",
+      "sourceNorm": "Gaming",
       "dst": {
         "sk": "Hranie hier",
         "en": "Gaming",
@@ -1049,6 +1114,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Playstation",
+      "sourceNorm": "Playstation",
       "dst": {
         "sk": "PlayStation",
         "en": "PlayStation",
@@ -1065,6 +1131,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Xbox",
+      "sourceNorm": "Xbox",
       "dst": {
         "sk": "Xbox",
         "en": "Xbox",
@@ -1081,6 +1148,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Nintendo",
+      "sourceNorm": "Nintendo",
       "dst": {
         "sk": "Nintendo",
         "en": "Nintendo",
@@ -1097,6 +1165,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Herní konzole",
+      "sourceNorm": "Herní konzole",
       "dst": {
         "sk": "Herné konzoly",
         "en": "Gaming console",
@@ -1113,6 +1182,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Robovysavače",
+      "sourceNorm": "Robovysavače",
       "dst": {
         "sk": "Roboti na vysávanie",
         "en": "Robot Vacuums",
@@ -1129,6 +1199,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Čtečky e-knih",
+      "sourceNorm": "Čtečky e-knih",
       "dst": {
         "sk": "Čítačky e-kníh",
         "en": "E-book Readers",
@@ -1144,7 +1215,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Příslušenství",
+      "source": "\n            Příslušenství\n            ",
+      "sourceNorm": "Příslušenství",
       "dst": {
         "sk": "Príslušenstvo",
         "en": "Accessories",
@@ -1161,6 +1233,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Pouzdra, kryty a ochranná skla",
+      "sourceNorm": "Pouzdra, kryty a ochranná skla",
       "dst": {
         "sk": "Puzdrá, kryty a ochranné sklá",
         "en": "Cases, covers, and protective glasses",
@@ -1177,6 +1250,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Pouzdra a kryty",
+      "sourceNorm": "Pouzdra a kryty",
       "dst": {
         "sk": "Puzdrá a kryty",
         "en": "Cases and Covers",
@@ -1193,6 +1267,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Ochranná skla a folie",
+      "sourceNorm": "Ochranná skla a folie",
       "dst": {
         "sk": "Ochranné sklá a fólie",
         "en": "Protective Glasses and Films",
@@ -1209,6 +1284,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Řemínky pro Apple Watch",
+      "sourceNorm": "Řemínky pro Apple Watch",
       "dst": {
         "sk": "Remienky pre Apple Watch",
         "en": "Straps for Apple Watch",
@@ -1225,6 +1301,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Univerzální řemínky Quick Release",
+      "sourceNorm": "Univerzální řemínky Quick Release",
       "dst": {
         "sk": "Univerzálne remienky Quick Release",
         "en": "Universal Quick Release Straps",
@@ -1241,6 +1318,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Nabíječky, kabely, redukce a huby",
+      "sourceNorm": "Nabíječky, kabely, redukce a huby",
       "dst": {
         "sk": "Nabíjačky, káble, redukcie a huby",
         "en": "Chargers, cables, adapters, and hubs",
@@ -1257,6 +1335,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Nabíječky",
+      "sourceNorm": "Nabíječky",
       "dst": {
         "sk": "Nabíjačky",
         "en": "Chargers",
@@ -1273,6 +1352,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Kabely a redukce",
+      "sourceNorm": "Kabely a redukce",
       "dst": {
         "sk": "Káble a redukcie",
         "en": "Cables and Adapters",
@@ -1289,6 +1369,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "USB-C Huby",
+      "sourceNorm": "USB-C Huby",
       "dst": {
         "sk": "USB-C Huby",
         "en": "USB-C Hubs",
@@ -1305,6 +1386,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Powerbanky",
+      "sourceNorm": "Powerbanky",
       "dst": {
         "sk": "Powerbanky",
         "en": "Power Banks",
@@ -1321,6 +1403,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Držáky",
+      "sourceNorm": "Držáky",
       "dst": {
         "sk": "Držiaky",
         "en": "Holders",
@@ -1337,6 +1420,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "ShiftCam",
+      "sourceNorm": "ShiftCam",
       "dst": {
         "sk": "ShiftCam",
         "en": "ShiftCam",
@@ -1353,6 +1437,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Do auta",
+      "sourceNorm": "Do auta",
       "dst": {
         "sk": "Do auta",
         "en": "To the car",
@@ -1369,6 +1454,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Na kolo/motorku/koloběžku",
+      "sourceNorm": "Na kolo/motorku/koloběžku",
       "dst": {
         "sk": "Na bicykel/motorku/kolobežku",
         "en": "For bicycle/motorcycle/scooter",
@@ -1385,6 +1471,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Na stůl/do ruky",
+      "sourceNorm": "Na stůl/do ruky",
       "dst": {
         "sk": "Na stôl/do ruky",
         "en": "On the table/in hand",
@@ -1401,6 +1488,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Sluchátka a reproduktory",
+      "sourceNorm": "Sluchátka a reproduktory",
       "dst": {
         "sk": "Slúchadlá a reproduktory",
         "en": "Headphones and Speakers",
@@ -1417,6 +1505,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Marshall",
+      "sourceNorm": "Marshall",
       "dst": {
         "sk": "Marshall",
         "en": "Marshall",
@@ -1433,6 +1522,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Reproduktory",
+      "sourceNorm": "Reproduktory",
       "dst": {
         "sk": "Reproduktory",
         "en": "Speakers",
@@ -1449,6 +1539,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Bezdrátová sluchátka",
+      "sourceNorm": "Bezdrátová sluchátka",
       "dst": {
         "sk": "Bezdrôtové slúchadlá",
         "en": "Wireless headphones",
@@ -1465,6 +1556,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Drátová sluchátka",
+      "sourceNorm": "Drátová sluchátka",
       "dst": {
         "sk": "Drôtové slúchadlá",
         "en": "Wired Headphones",
@@ -1481,6 +1573,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Klávesnice, myši a stylusy",
+      "sourceNorm": "Klávesnice, myši a stylusy",
       "dst": {
         "sk": "Klávesnice, myši a stylusy",
         "en": "Keyboards, mice, and styluses",
@@ -1497,6 +1590,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Klávesnice",
+      "sourceNorm": "Klávesnice",
       "dst": {
         "sk": "Klávesnice",
         "en": "Keyboard",
@@ -1513,6 +1607,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Myši a trackpady",
+      "sourceNorm": "Myši a trackpady",
       "dst": {
         "sk": "Myši a trackpady",
         "en": "Mice and Trackpads",
@@ -1529,6 +1624,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Stylusy",
+      "sourceNorm": "Stylusy",
       "dst": {
         "sk": "Stylusy",
         "en": "Styluses",
@@ -1545,6 +1641,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Úložiště a software",
+      "sourceNorm": "Úložiště a software",
       "dst": {
         "sk": "Úložisko a softvér",
         "en": "Storage and Software",
@@ -1561,6 +1658,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Úložiště",
+      "sourceNorm": "Úložiště",
       "dst": {
         "sk": "Úložisko",
         "en": "Storage",
@@ -1577,6 +1675,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Software",
+      "sourceNorm": "Software",
       "dst": {
         "sk": "Softvér",
         "en": "Software",
@@ -1593,6 +1692,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Peněženky a kryptopeněženky",
+      "sourceNorm": "Peněženky a kryptopeněženky",
       "dst": {
         "sk": "Peňaženky a kryptopeňaženky",
         "en": "Wallets and Crypto Wallets",
@@ -1609,6 +1709,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Peněženky Secrid",
+      "sourceNorm": "Peněženky Secrid",
       "dst": {
         "sk": "Peňaženky Secrid",
         "en": "Secrid Wallets",
@@ -1625,6 +1726,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Peněženky Spigen",
+      "sourceNorm": "Peněženky Spigen",
       "dst": {
         "sk": "Peňaženky Spigen",
         "en": "Spigen Wallets",
@@ -1641,6 +1743,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Kryptopeněženky",
+      "sourceNorm": "Kryptopeněženky",
       "dst": {
         "sk": "Kryptopeňaženky",
         "en": "Cryptowallets",
@@ -1657,6 +1760,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Péče o zařízení",
+      "sourceNorm": "Péče o zařízení",
       "dst": {
         "sk": "Starostlivosť o zariadenie",
         "en": "Device Care",
@@ -1673,6 +1777,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Ostatní doplňky",
+      "sourceNorm": "Ostatní doplňky",
       "dst": {
         "sk": "Ostatné doplnky",
         "en": "Other Accessories",
@@ -1689,6 +1794,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Příslušenství k Tesle",
+      "sourceNorm": "Příslušenství k Tesle",
       "dst": {
         "sk": "Príslušenstvo k Tesle",
         "en": "Accessories for Tesla",
@@ -1705,6 +1811,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Nářadí",
+      "sourceNorm": "Nářadí",
       "dst": {
         "sk": "Náradie",
         "en": "Tools",
@@ -1721,6 +1828,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Knihy",
+      "sourceNorm": "Knihy",
       "dst": {
         "sk": "Knihy",
         "en": "Books",
@@ -1737,6 +1845,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Dárkové vouchery a služby",
+      "sourceNorm": "Dárkové vouchery a služby",
       "dst": {
         "sk": "Darčekové poukazy a služby",
         "en": "Gift vouchers and services",
@@ -1753,6 +1862,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Nářadí a nástroje",
+      "sourceNorm": "Nářadí a nástroje",
       "dst": {
         "sk": "Náradie a nástroje",
         "en": "Tools and Equipment",
@@ -1769,6 +1879,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Šroubováky a sady nářadí",
+      "sourceNorm": "Šroubováky a sady nářadí",
       "dst": {
         "sk": "Skrutkovače a sady náradia",
         "en": "Screwdrivers and Tool Sets",
@@ -1785,6 +1896,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Páčidla a otvírače",
+      "sourceNorm": "Páčidla a otvírače",
       "dst": {
         "sk": "Páčidlá a otvárače",
         "en": "Crowbars and Openers",
@@ -1801,6 +1913,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Pinzety a kleště",
+      "sourceNorm": "Pinzety a kleště",
       "dst": {
         "sk": "Pinzety a kliešte",
         "en": "Tweezers and Pliers",
@@ -1817,6 +1930,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Lepidla a chemie",
+      "sourceNorm": "Lepidla a chemie",
       "dst": {
         "sk": "Lepidlá a chémia",
         "en": "Adhesives and Chemicals",
@@ -1833,6 +1947,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Swissten",
+      "sourceNorm": "Swissten",
       "dst": {
         "sk": "Swissten",
         "en": "Swissten",
@@ -1849,6 +1964,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Nabíjení do sítě",
+      "sourceNorm": "Nabíjení do sítě",
       "dst": {
         "sk": "Nabíjanie do siete",
         "en": "Grid charging",
@@ -1865,6 +1981,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Nabíjení do auta",
+      "sourceNorm": "Nabíjení do auta",
       "dst": {
         "sk": "Nabíjanie do auta",
         "en": "Car Charging",
@@ -1881,6 +1998,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Bezdrátové nabíjení",
+      "sourceNorm": "Bezdrátové nabíjení",
       "dst": {
         "sk": "Bezdrôtové nabíjanie",
         "en": "Wireless charging",
@@ -1897,6 +2015,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Solární nabíjení",
+      "sourceNorm": "Solární nabíjení",
       "dst": {
         "sk": "Solárne nabíjanie",
         "en": "Solar Charging",
@@ -1912,7 +2031,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Náhradní díly",
+      "source": "\n            Náhradní díly\n            ",
+      "sourceNorm": "Náhradní díly",
       "dst": {
         "sk": "Náhradné diely",
         "en": "Spare Parts",
@@ -1929,6 +2049,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly pro Apple",
+      "sourceNorm": "Náhradní díly pro Apple",
       "dst": {
         "sk": "Náhradné diely pre Apple",
         "en": "Apple Spare Parts",
@@ -1945,6 +2066,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Díly pro iPhone",
+      "sourceNorm": "Díly pro iPhone",
       "dst": {
         "sk": "Diely pre iPhone",
         "en": "Parts for iPhone",
@@ -1961,6 +2083,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Díly pro MacBook",
+      "sourceNorm": "Díly pro MacBook",
       "dst": {
         "sk": "Diely pre MacBook",
         "en": "Parts for MacBook",
@@ -1977,6 +2100,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Díly pro Apple Watch",
+      "sourceNorm": "Díly pro Apple Watch",
       "dst": {
         "sk": "Diely pre Apple Watch",
         "en": "Parts for Apple Watch",
@@ -1993,6 +2117,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Díly pro iMac",
+      "sourceNorm": "Díly pro iMac",
       "dst": {
         "sk": "Diely pre iMac",
         "en": "Parts for iMac",
@@ -2009,6 +2134,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly pro Samsung",
+      "sourceNorm": "Náhradní díly pro Samsung",
       "dst": {
         "sk": "Náhradné diely pre Samsung",
         "en": "Spare Parts for Samsung",
@@ -2025,6 +2151,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Galaxy A",
+      "sourceNorm": "Galaxy A",
       "dst": {
         "sk": "Galaxy A",
         "en": "Galaxy A",
@@ -2041,6 +2168,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Galaxy M",
+      "sourceNorm": "Galaxy M",
       "dst": {
         "sk": "Galaxy M",
         "en": "Galaxy M",
@@ -2057,6 +2185,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Galaxy Note",
+      "sourceNorm": "Galaxy Note",
       "dst": {
         "sk": "Galaxy Note",
         "en": "Galaxy Note",
@@ -2073,6 +2202,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Galaxy S",
+      "sourceNorm": "Galaxy S",
       "dst": {
         "sk": "Galaxy S",
         "en": "Galaxy S",
@@ -2089,6 +2219,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly pro Xiaomi",
+      "sourceNorm": "Náhradní díly pro Xiaomi",
       "dst": {
         "sk": "Náhradné diely pre Xiaomi",
         "en": "Spare Parts for Xiaomi",
@@ -2105,6 +2236,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Xiaomi",
+      "sourceNorm": "Xiaomi",
       "dst": {
         "sk": "Xiaomi",
         "en": "Xiaomi",
@@ -2121,6 +2253,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Mi A",
+      "sourceNorm": "Mi A",
       "dst": {
         "sk": "Mi A",
         "en": "Mi A",
@@ -2137,6 +2270,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly pro Vivo",
+      "sourceNorm": "Náhradní díly pro Vivo",
       "dst": {
         "sk": "Náhradné diely pre Vivo",
         "en": "Spare Parts for Vivo",
@@ -2153,6 +2287,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly pro Nokia",
+      "sourceNorm": "Náhradní díly pro Nokia",
       "dst": {
         "sk": "Náhradné diely pre Nokia",
         "en": "Spare Parts for Nokia",
@@ -2169,6 +2304,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly Motorola",
+      "sourceNorm": "Náhradní díly Motorola",
       "dst": {
         "sk": "Náhradné diely Motorola",
         "en": "Motorola Spare Parts",
@@ -2185,6 +2321,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Motorola One",
+      "sourceNorm": "Motorola One",
       "dst": {
         "sk": "Motorola One",
         "en": "Motorola One",
@@ -2201,6 +2338,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Motorola Edge",
+      "sourceNorm": "Motorola Edge",
       "dst": {
         "sk": "Motorola Edge",
         "en": "Motorola Edge",
@@ -2217,6 +2355,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Motorola E",
+      "sourceNorm": "Motorola E",
       "dst": {
         "sk": "Motorola E",
         "en": "Motorola E",
@@ -2233,6 +2372,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Motorola G",
+      "sourceNorm": "Motorola G",
       "dst": {
         "sk": "Motorola G",
         "en": "Motorola G",
@@ -2249,6 +2389,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly pro Infinix",
+      "sourceNorm": "Náhradní díly pro Infinix",
       "dst": {
         "sk": "Náhradné diely pre Infinix",
         "en": "Spare Parts for Infinix",
@@ -2265,6 +2406,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly pro Tecno",
+      "sourceNorm": "Náhradní díly pro Tecno",
       "dst": {
         "sk": "Náhradné diely pre Tecno",
         "en": "Spare Parts for Tecno",
@@ -2281,6 +2423,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly pro Huawei",
+      "sourceNorm": "Náhradní díly pro Huawei",
       "dst": {
         "sk": "Náhradné diely pre Huawei",
         "en": "Spare Parts for Huawei",
@@ -2297,6 +2440,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Huawei Y",
+      "sourceNorm": "Huawei Y",
       "dst": {
         "sk": "Huawei Y",
         "en": "Huawei Y",
@@ -2313,6 +2457,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Huawei P",
+      "sourceNorm": "Huawei P",
       "dst": {
         "sk": "Huawei P",
         "en": "Huawei P",
@@ -2329,6 +2474,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "MediaPad M2",
+      "sourceNorm": "MediaPad M2",
       "dst": {
         "sk": "MediaPad M2",
         "en": "MediaPad M2",
@@ -2345,6 +2491,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "MediaPad M3",
+      "sourceNorm": "MediaPad M3",
       "dst": {
         "sk": "MediaPad M3",
         "en": "MediaPad M3",
@@ -2361,6 +2508,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly pro Lenovo",
+      "sourceNorm": "Náhradní díly pro Lenovo",
       "dst": {
         "sk": "Náhradné diely pre Lenovo",
         "en": "Spare Parts for Lenovo",
@@ -2377,6 +2525,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Lenovo M",
+      "sourceNorm": "Lenovo M",
       "dst": {
         "sk": "Lenovo M",
         "en": "Lenovo M",
@@ -2393,6 +2542,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Lenovo tab",
+      "sourceNorm": "Lenovo tab",
       "dst": {
         "sk": "Lenovo tab",
         "en": "Lenovo Tab",
@@ -2409,6 +2559,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Lenovo P",
+      "sourceNorm": "Lenovo P",
       "dst": {
         "sk": "Lenovo P",
         "en": "Lenovo P",
@@ -2425,6 +2576,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly pro Honor",
+      "sourceNorm": "Náhradní díly pro Honor",
       "dst": {
         "sk": "Náhradné diely pre Honor",
         "en": "Spare Parts for Honor",
@@ -2441,6 +2593,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Honor",
+      "sourceNorm": "Honor",
       "dst": {
         "sk": "Honor",
         "en": "Honor",
@@ -2457,6 +2610,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Honor X",
+      "sourceNorm": "Honor X",
       "dst": {
         "sk": "Honor X",
         "en": "Honor X",
@@ -2473,6 +2627,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Honor Magic",
+      "sourceNorm": "Honor Magic",
       "dst": {
         "sk": "Honor Magic",
         "en": "Honor Magic",
@@ -2489,6 +2644,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Honor View",
+      "sourceNorm": "Honor View",
       "dst": {
         "sk": "Honor View",
         "en": "Honor View",
@@ -2505,6 +2661,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Realme",
+      "sourceNorm": "Realme",
       "dst": {
         "sk": "Realme",
         "en": "Realme",
@@ -2521,6 +2678,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Realme C",
+      "sourceNorm": "Realme C",
       "dst": {
         "sk": "Realme C",
         "en": "Realme C",
@@ -2537,6 +2695,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Realme Note",
+      "sourceNorm": "Realme Note",
       "dst": {
         "sk": "Realme Note",
         "en": "Realme Note",
@@ -2553,6 +2712,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly LG",
+      "sourceNorm": "Náhradní díly LG",
       "dst": {
         "sk": "Náhradné diely LG",
         "en": "LG Spare Parts",
@@ -2569,6 +2729,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly pro OnePlus",
+      "sourceNorm": "Náhradní díly pro OnePlus",
       "dst": {
         "sk": "Náhradné diely pre OnePlus",
         "en": "Spare Parts for OnePlus",
@@ -2585,6 +2746,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "OnePlus Nord N100",
+      "sourceNorm": "OnePlus Nord N100",
       "dst": {
         "sk": "OnePlus Nord N100",
         "en": "OnePlus Nord N100",
@@ -2601,6 +2763,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "One Plus 6T",
+      "sourceNorm": "One Plus 6T",
       "dst": {
         "sk": "One Plus 6T",
         "en": "OnePlus 6T",
@@ -2617,6 +2780,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly pro herní konzole",
+      "sourceNorm": "Náhradní díly pro herní konzole",
       "dst": {
         "sk": "Náhradné diely pre herné konzoly",
         "en": "Spare parts for gaming consoles",
@@ -2633,6 +2797,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Sony PS",
+      "sourceNorm": "Sony PS",
       "dst": {
         "sk": "Sony PS",
         "en": "Sony PS",
@@ -2649,6 +2814,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Xbox",
+      "sourceNorm": "Xbox",
       "dst": {
         "sk": "Xbox",
         "en": "Xbox",
@@ -2665,6 +2831,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Nintendo Switch",
+      "sourceNorm": "Nintendo Switch",
       "dst": {
         "sk": "Nintendo Switch",
         "en": "Nintendo Switch",
@@ -2680,7 +2847,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Slevy",
+      "source": "\n                        Slevy\n                        ",
+      "sourceNorm": "Slevy",
       "dst": {
         "sk": "Zľavy",
         "en": "Discounts",
@@ -2696,7 +2864,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Servis",
+      "source": "\n            Servis\n            ",
+      "sourceNorm": "Servis",
       "dst": {
         "sk": "Servis",
         "en": "Servis",
@@ -2713,6 +2882,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Servis Apple",
+      "sourceNorm": "Servis Apple",
       "dst": {
         "sk": "Servis Apple",
         "en": "Apple Service",
@@ -2729,6 +2899,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Samsung - ceník",
+      "sourceNorm": "Samsung - ceník",
       "dst": {
         "sk": "Samsung - cenník",
         "en": "Samsung - price list",
@@ -2745,6 +2916,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Xiaomi - ceník",
+      "sourceNorm": "Xiaomi - ceník",
       "dst": {
         "sk": "Xiaomi - cenník",
         "en": "Xiaomi - Price List",
@@ -2761,6 +2933,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Huawei - ceník",
+      "sourceNorm": "Huawei - ceník",
       "dst": {
         "sk": "Huawei - cenník",
         "en": "Huawei - Price List",
@@ -2777,6 +2950,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Honor - ceník",
+      "sourceNorm": "Honor - ceník",
       "dst": {
         "sk": "Honor - cenník",
         "en": "Honor - Price List",
@@ -2793,6 +2967,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Elektrokoloběžky - ceník",
+      "sourceNorm": "Elektrokoloběžky - ceník",
       "dst": {
         "sk": "Elektrické kolobežky - cenník",
         "en": "Electric Scooters - Price List",
@@ -2809,6 +2984,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Všeobecný ceník servisu elektrokoloběžek",
+      "sourceNorm": "Všeobecný ceník servisu elektrokoloběžek",
       "dst": {
         "sk": "Všeobecný cenník servisu elektrokolobežiek",
         "en": "General Price List for Electric Scooter Service",
@@ -2825,6 +3001,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Herní konzole - ceník",
+      "sourceNorm": "Herní konzole - ceník",
       "dst": {
         "sk": "Herné konzoly - cenník",
         "en": "Gaming Consoles - Price List",
@@ -2841,6 +3018,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Ostatní značky - ceník",
+      "sourceNorm": "Ostatní značky - ceník",
       "dst": {
         "sk": "Ostatné značky - cenník",
         "en": "Other Brands - Price List",
@@ -2856,7 +3034,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Výkup",
+      "source": "\n            Výkup\n        ",
+      "sourceNorm": "Výkup",
       "dst": {
         "sk": "Výkup",
         "en": "Purchase",
@@ -2872,7 +3051,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Refurbished",
+      "source": "\n            Refurbished\n        ",
+      "sourceNorm": "Refurbished",
       "dst": {
         "sk": "Refurbished",
         "en": "Refurbished",
@@ -2880,15 +3060,16 @@
       }
     },
     {
-      "key": "global.eae9c46028.1b45e15971",
+      "key": "global.a046abd221.1b45e15971",
       "parentId": "",
       "parent": ".component--core-navigation",
-      "selector": "a[href=\"/s/o-nas\"]",
+      "selector": "span.inline-exp-text",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "O nás",
+      "source": "\n                        O nás\n                    ",
+      "sourceNorm": "O nás",
       "dst": {
         "sk": "O nás",
         "en": "About Us",
@@ -2904,7 +3085,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Prodejny",
+      "source": "\n                    Prodejny\n                ",
+      "sourceNorm": "Prodejny",
       "dst": {
         "sk": "Predajne",
         "en": "Stores",
@@ -2920,7 +3102,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Kontakty",
+      "source": "\n                        Kontakty\n                    ",
+      "sourceNorm": "Kontakty",
       "dst": {
         "sk": "Kontakty",
         "en": "Contacts",
@@ -2937,6 +3120,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Quad Lock držáky",
+      "sourceNorm": "Quad Lock držáky",
       "dst": {
         "sk": "Quad Lock držiaky",
         "en": "Quad Lock mounts",
@@ -2953,6 +3137,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Na motorku",
+      "sourceNorm": "Na motorku",
       "dst": {
         "sk": "Na motocykel",
         "en": "For the motorcycle",
@@ -2969,6 +3154,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Do auta",
+      "sourceNorm": "Do auta",
       "dst": {
         "sk": "Do auta",
         "en": "To the car",
@@ -2985,6 +3171,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Na kolo",
+      "sourceNorm": "Na kolo",
       "dst": {
         "sk": "Na bicykel",
         "en": "On the bike",
@@ -3001,6 +3188,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Ostatní",
+      "sourceNorm": "Ostatní",
       "dst": {
         "sk": "Ostatní",
         "en": "Others",
@@ -3017,6 +3205,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Quad Lock kryty",
+      "sourceNorm": "Quad Lock kryty",
       "dst": {
         "sk": "Quad Lock kryty",
         "en": "Quad Lock cases",
@@ -3033,6 +3222,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Apple",
+      "sourceNorm": "Apple",
       "dst": {
         "sk": "Apple",
         "en": "Apple",
@@ -3049,6 +3239,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Samsung",
+      "sourceNorm": "Samsung",
       "dst": {
         "sk": "Samsung",
         "en": "Samsung",
@@ -3065,6 +3256,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Huawei",
+      "sourceNorm": "Huawei",
       "dst": {
         "sk": "Huawei",
         "en": "Huawei",
@@ -3081,6 +3273,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Google Pixel",
+      "sourceNorm": "Google Pixel",
       "dst": {
         "sk": "Google Pixel",
         "en": "Google Pixel",
@@ -3097,6 +3290,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Quad Lock příslušenství",
+      "sourceNorm": "Quad Lock příslušenství",
       "dst": {
         "sk": "Quad Lock príslušenstvo",
         "en": "Quad Lock accessories",
@@ -3113,6 +3307,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Doplňky",
+      "sourceNorm": "Doplňky",
       "dst": {
         "sk": "Doplnky",
         "en": "Accessories",
@@ -3129,6 +3324,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Ochranná skla",
+      "sourceNorm": "Ochranná skla",
       "dst": {
         "sk": "Ochranné sklá",
         "en": "Protective Glasses",
@@ -3145,6 +3341,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Náhradní díly",
+      "sourceNorm": "Náhradní díly",
       "dst": {
         "sk": "Náhradné diely",
         "en": "Spare Parts",
@@ -3161,6 +3358,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Quad Lock Poncho",
+      "sourceNorm": "Quad Lock Poncho",
       "dst": {
         "sk": "Quad Lock Pončo",
         "en": "Quad Lock Poncho",
@@ -3177,6 +3375,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Apple",
+      "sourceNorm": "Apple",
       "dst": {
         "sk": "Apple",
         "en": "Apple",
@@ -3193,6 +3392,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Samsung",
+      "sourceNorm": "Samsung",
       "dst": {
         "sk": "Samsung",
         "en": "Samsung",
@@ -3209,6 +3409,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Google Pixel",
+      "sourceNorm": "Google Pixel",
       "dst": {
         "sk": "Google Pixel",
         "en": "Google Pixel",
@@ -3225,6 +3426,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Huawei",
+      "sourceNorm": "Huawei",
       "dst": {
         "sk": "Huawei",
         "en": "Huawei",
@@ -3241,6 +3443,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Express Servis",
+      "sourceNorm": "Express Servis",
       "dst": {
         "sk": "Express Servis",
         "en": "Express Service",
@@ -3257,6 +3460,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Výhody nákupu u nás",
+      "sourceNorm": "Výhody nákupu u nás",
       "dst": {
         "sk": "Výhody nákupu u nás",
         "en": "Advantages of shopping with us",
@@ -3273,6 +3477,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Vše o nákupu",
+      "sourceNorm": "Vše o nákupu",
       "dst": {
         "sk": "Všetko o nákupe",
         "en": "Everything About Purchasing",
@@ -3289,6 +3494,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Cena dopravy",
+      "sourceNorm": "Cena dopravy",
       "dst": {
         "sk": "Cena dopravy",
         "en": "Shipping cost",
@@ -3305,6 +3511,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Apple servis pro firmy",
+      "sourceNorm": "Apple servis pro firmy",
       "dst": {
         "sk": "Apple servis pre firmy",
         "en": "Apple service for businesses",
@@ -3321,6 +3528,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Pro partnery",
+      "sourceNorm": "Pro partnery",
       "dst": {
         "sk": "Pre partnerov",
         "en": "For Partners",
@@ -3337,6 +3545,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "O nás",
+      "sourceNorm": "O nás",
       "dst": {
         "sk": "O nás",
         "en": "About Us",
@@ -3353,6 +3562,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Volné pozice",
+      "sourceNorm": "Volné pozice",
       "dst": {
         "sk": "Voľné pozície",
         "en": "Job Openings",
@@ -3369,6 +3579,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Co je nového",
+      "sourceNorm": "Co je nového",
       "dst": {
         "sk": "Čo je nového",
         "en": "What's New",
@@ -3385,6 +3596,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Užitečné",
+      "sourceNorm": "Užitečné",
       "dst": {
         "sk": "Užitočné",
         "en": "Useful",
@@ -3401,6 +3613,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Podmínky a formuláře",
+      "sourceNorm": "Podmínky a formuláře",
       "dst": {
         "sk": "Podmienky a formuláre",
         "en": "Terms and Forms",
@@ -3417,6 +3630,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Nejčastější dotazy",
+      "sourceNorm": "Nejčastější dotazy",
       "dst": {
         "sk": "Najčastejšie otázky",
         "en": "Frequently Asked Questions",
@@ -3433,6 +3647,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Apple service programs",
+      "sourceNorm": "Apple service programs",
       "dst": {
         "sk": "Apple servisné programy",
         "en": "Apple Service Programs",
@@ -3449,6 +3664,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Ověření záruky Apple",
+      "sourceNorm": "Ověření záruky Apple",
       "dst": {
         "sk": "Overenie záruky Apple",
         "en": "Apple Warranty Verification",
@@ -3465,6 +3681,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Návody",
+      "sourceNorm": "Návody",
       "dst": {
         "sk": "Návody",
         "en": "Instructions",
@@ -3481,6 +3698,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Vytopený iPhone, co dělat?",
+      "sourceNorm": "Vytopený iPhone, co dělat?",
       "dst": {
         "sk": "Zatopený iPhone, čo robiť?",
         "en": "Heated iPhone, what to do?",
@@ -3497,6 +3715,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Objednat svoz ZDARMA",
+      "sourceNorm": "Objednat svoz ZDARMA",
       "dst": {
         "sk": "Objednať zvoz ZDARMA",
         "en": "Order free pickup",
@@ -3513,6 +3732,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Rychlý kontakt",
+      "sourceNorm": "Rychlý kontakt",
       "dst": {
         "sk": "Rýchly kontakt",
         "en": "Quick Contact",
@@ -3528,7 +3748,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Express Servis Company s.r.o.",
+      "source": " Express Servis Company s.r.o.",
+      "sourceNorm": "Express Servis Company s.r.o.",
       "dst": {
         "sk": "Express Servis Company s.r.o.",
         "en": "Express Servis Company s.r.o.",
@@ -3544,7 +3765,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Po-Pá",
+      "source": " Po-Pá ",
+      "sourceNorm": "Po-Pá",
       "dst": {
         "sk": "Po-Pá",
         "en": "Mon-Fri",
@@ -3561,6 +3783,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "E-shop",
+      "sourceNorm": "E-shop",
       "dst": {
         "sk": "E-shop",
         "en": "E-shop",
@@ -3577,6 +3800,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Servis",
+      "sourceNorm": "Servis",
       "dst": {
         "sk": "Servis",
         "en": "Servis",
@@ -3593,6 +3817,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Sledujte nás",
+      "sourceNorm": "Sledujte nás",
       "dst": {
         "sk": "Sledujte nás",
         "en": "Follow us",
@@ -3608,7 +3833,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Facebook",
+      "source": " Facebook",
+      "sourceNorm": "Facebook",
       "dst": {
         "sk": "Facebook",
         "en": "Facebook",
@@ -3624,7 +3850,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "YouTube",
+      "source": " YouTube",
+      "sourceNorm": "YouTube",
       "dst": {
         "sk": "YouTube",
         "en": "YouTube",
@@ -3640,7 +3867,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Instagram",
+      "source": " Instagram",
+      "sourceNorm": "Instagram",
       "dst": {
         "sk": "Instagram",
         "en": "Instagram",
@@ -3656,7 +3884,8 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "TikTok",
+      "source": " TikTok",
+      "sourceNorm": "TikTok",
       "dst": {
         "sk": "TikTok",
         "en": "TikTok",
@@ -3672,11 +3901,80 @@
       "textIndex": 0,
       "mode": "textnode",
       "attr": "",
-      "source": "Spotify",
+      "source": " Spotify",
+      "sourceNorm": "Spotify",
       "dst": {
         "sk": "Spotify",
         "en": "Spotify",
         "de": "Spotify"
+      }
+    },
+    {
+      "key": "global.956069aaf4.cc6f3ed54c",
+      "parentId": "",
+      "parent": ".component--core-footer",
+      "selector": "div",
+      "index": 2,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": " bílá čára ",
+      "sourceNorm": "bílá čára",
+      "dst": {
+        "sk": "biela čiara",
+        "en": "white line",
+        "de": "weiße Linie"
+      }
+    },
+    {
+      "key": "global.f341267946.a622b10ddc",
+      "parentId": "",
+      "parent": ".component--core-footer",
+      "selector": "div",
+      "index": 2,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": " wrapper ",
+      "sourceNorm": "wrapper",
+      "dst": {
+        "sk": "wrapper",
+        "en": "wrapper",
+        "de": "Wrapper"
+      }
+    },
+    {
+      "key": "global.c23f8dee5b.1fb3dd8cdf",
+      "parentId": "",
+      "parent": ".component--core-footer",
+      "selector": "div",
+      "index": 3,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": " platební metody (vlevo) ",
+      "sourceNorm": "platební metody (vlevo)",
+      "dst": {
+        "sk": "platobné metódy (vľavo)",
+        "en": "payment methods (on the left)",
+        "de": "Zahlungsmethoden (links)"
+      }
+    },
+    {
+      "key": "global.2ffb35669b.4603e986f6",
+      "parentId": "",
+      "parent": ".component--core-footer",
+      "selector": "div",
+      "index": 3,
+      "textIndex": 1,
+      "mode": "textnode",
+      "attr": "",
+      "source": " dopravci (vpravo) ",
+      "sourceNorm": "dopravci (vpravo)",
+      "dst": {
+        "sk": "dopravcovia (vpravo)",
+        "en": "carriers (on the right)",
+        "de": "Transportdienstleister (rechts)"
       }
     },
     {
@@ -3689,6 +3987,7 @@
       "mode": "textnode",
       "attr": "",
       "source": "Apple, logo společnosti Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air, and MacBook Pro jsou ochranné známky společnosti Apple Inc., registrované v USA a ostatních zemích",
+      "sourceNorm": "Apple, logo společnosti Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air, and MacBook Pro jsou ochranné známky společnosti Apple Inc., registrované v USA a ostatních zemích",
       "dst": {
         "sk": "Apple, logo spoločnosti Apple, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air a MacBook Pro sú ochranné známky spoločnosti Apple Inc., registrované v USA a iných krajinách.",
         "en": "Apple, the Apple logo, Mac, MacBook, iMac, Mac Pro, Mac mini, MacBook Air, and MacBook Pro are trademarks of Apple Inc., registered in the USA and other countries.",
