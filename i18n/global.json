@@ -1,6 +1,6 @@
 {
-  "hash": "4e76888fc4c1ddc96610344140b62d079d25ae8dccaed810082875428ab243b1",
-  "updated_at": 1766877796,
+  "hash": "1f08c5d2f3e2431f338ab9a9b30f38adb10c86a9b7ff16ab30e8249b113271e5",
+  "updated_at": 1766879181,
   "nodes": [
     {
       "key": "global.a6a638c00f.0e3215768f",
@@ -48,9 +48,9 @@
       "source": "\n                    O nás\n                ",
       "sourceNorm": "O nás",
       "dst": {
-        "sk": "O nás",
-        "en": "About Us",
-        "de": "Über uns"
+        "sk": "\n                    O nás\n                ",
+        "en": "\n                    About Us\n                ",
+        "de": "\n                    Über uns\n                "
       }
     },
     {
@@ -65,9 +65,9 @@
       "source": "\n                    Prodejny\n                ",
       "sourceNorm": "Prodejny",
       "dst": {
-        "sk": "Predajne",
-        "en": "Stores",
-        "de": "Verkaufsgeschäfte"
+        "sk": "\n                    Predajne\n                ",
+        "en": "\n                    Stores\n                ",
+        "de": "\n                    Verkaufsgeschäfte\n                "
       }
     },
     {
@@ -82,16 +82,16 @@
       "source": "\n                    Kontakty\n                ",
       "sourceNorm": "Kontakty",
       "dst": {
-        "sk": "Kontakty",
-        "en": "Contacts",
-        "de": "Kontakte"
+        "sk": "\n                    Kontakty\n                ",
+        "en": "\n                    Contacts\n                ",
+        "de": "\n                    Kontakte\n                "
       }
     },
     {
-      "key": "global.1d6b6e8165.d6d5204e6a",
+      "key": "global.4902bf1333.d6d5204e6a",
       "parentId": "",
       "parent": ".component--core-navigation",
-      "selector": "a[href=\"?do=CoreNavigation_main-Currency_jksx98-select&CoreNavigation_main-Currency_jksx98-id=CZK\"]",
+      "selector": "a[href=\"?do=CoreNavigation_main-Currency_donifw-select&CoreNavigation_main-Currency_donifw-id=CZK\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -99,15 +99,15 @@
       "source": "\n            CZK (Kč)\n        ",
       "sourceNorm": "CZK (Kč)",
       "dst": {
-        "sk": "CZK (Kč)",
-        "en": "CZK (Kč)"
+        "sk": "\n            CZK (Kč)\n        ",
+        "en": "\n            CZK (Kč)\n        "
       }
     },
     {
-      "key": "global.aa866413a4.fb29af5823",
+      "key": "global.afbcb605d7.fb29af5823",
       "parentId": "",
       "parent": ".component--core-navigation",
-      "selector": "a[href=\"?do=CoreNavigation_main-Currency_jksx98-select&CoreNavigation_main-Currency_jksx98-id=EUR\"]",
+      "selector": "a[href=\"?do=CoreNavigation_main-Currency_donifw-select&CoreNavigation_main-Currency_donifw-id=EUR\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -115,8 +115,8 @@
       "source": "\n            EUR (€)\n        ",
       "sourceNorm": "EUR (€)",
       "dst": {
-        "sk": "Samozrejme, pošlite mi text, ktorý chcete preložiť.",
-        "en": "EUR (€)"
+        "sk": "\n            Samozrejme, pošlite mi text, ktorý chcete preložiť.\n        ",
+        "en": "\n            EUR (€)\n        "
       }
     },
     {
@@ -131,9 +131,9 @@
       "source": "\n            Quad Lock\n            ",
       "sourceNorm": "Quad Lock",
       "dst": {
-        "sk": "Quad Lock",
-        "en": "Quad Lock",
-        "de": "Quad Lock"
+        "sk": "\n            Quad Lock\n            ",
+        "en": "\n            Quad Lock\n            ",
+        "de": "\n            Quad Lock\n            "
       }
     },
     {
@@ -471,9 +471,9 @@
       "source": "\n            Apple\n            ",
       "sourceNorm": "Apple",
       "dst": {
-        "sk": "Apple",
-        "en": "Apple",
-        "de": "Apple"
+        "sk": "\n            Apple\n            ",
+        "en": "\n            Apple\n            ",
+        "de": "\n            Apple\n            "
       }
     },
     {
@@ -674,9 +674,9 @@
       "source": "\n            Smart produkty\n            ",
       "sourceNorm": "Smart produkty",
       "dst": {
-        "sk": "Smart produkty",
-        "en": "Smart Products",
-        "de": "Smart Produkte"
+        "sk": "\n            Smart produkty\n            ",
+        "en": "\n            Smart Products\n            ",
+        "de": "\n            Smart Produkte\n            "
       }
     },
     {
@@ -1218,9 +1218,9 @@
       "source": "\n            Příslušenství\n            ",
       "sourceNorm": "Příslušenství",
       "dst": {
-        "sk": "Príslušenstvo",
-        "en": "Accessories",
-        "de": "Zubehör"
+        "sk": "\n            Príslušenstvo\n            ",
+        "en": "\n            Accessories\n            ",
+        "de": "\n            Zubehör\n            "
       }
     },
     {
@@ -2034,9 +2034,9 @@
       "source": "\n            Náhradní díly\n            ",
       "sourceNorm": "Náhradní díly",
       "dst": {
-        "sk": "Náhradné diely",
-        "en": "Spare Parts",
-        "de": "Ersatzteile"
+        "sk": "\n            Náhradné diely\n            ",
+        "en": "\n            Spare Parts\n            ",
+        "de": "\n            Ersatzteile\n            "
       }
     },
     {
@@ -2850,9 +2850,9 @@
       "source": "\n                        Slevy\n                        ",
       "sourceNorm": "Slevy",
       "dst": {
-        "sk": "Zľavy",
-        "en": "Discounts",
-        "de": "Rabatte"
+        "sk": "\n                        Zľavy\n                        ",
+        "en": "\n                        Discounts\n                        ",
+        "de": "\n                        Rabatte\n                        "
       }
     },
     {
@@ -2867,9 +2867,9 @@
       "source": "\n            Servis\n            ",
       "sourceNorm": "Servis",
       "dst": {
-        "sk": "Servis",
-        "en": "Servis",
-        "de": "Servis"
+        "sk": "\n            Servis\n            ",
+        "en": "\n            Servis\n            ",
+        "de": "\n            Servis\n            "
       }
     },
     {
@@ -3037,9 +3037,9 @@
       "source": "\n            Výkup\n        ",
       "sourceNorm": "Výkup",
       "dst": {
-        "sk": "Výkup",
-        "en": "Purchase",
-        "de": "Ankauf"
+        "sk": "\n            Výkup\n        ",
+        "en": "\n            Purchase\n        ",
+        "de": "\n            Ankauf\n        "
       }
     },
     {
@@ -3054,9 +3054,9 @@
       "source": "\n            Refurbished\n        ",
       "sourceNorm": "Refurbished",
       "dst": {
-        "sk": "Refurbished",
-        "en": "Refurbished",
-        "de": "Generalüberholt"
+        "sk": "\n            Refurbished\n        ",
+        "en": "\n            Refurbished\n        ",
+        "de": "\n            Generalüberholt\n        "
       }
     },
     {
@@ -3071,9 +3071,9 @@
       "source": "\n                        O nás\n                    ",
       "sourceNorm": "O nás",
       "dst": {
-        "sk": "O nás",
-        "en": "About Us",
-        "de": "Über uns"
+        "sk": "\n                        O nás\n                    ",
+        "en": "\n                        About Us\n                    ",
+        "de": "\n                        Über uns\n                    "
       }
     },
     {
@@ -3088,9 +3088,9 @@
       "source": "\n                    Prodejny\n                ",
       "sourceNorm": "Prodejny",
       "dst": {
-        "sk": "Predajne",
-        "en": "Stores",
-        "de": "Verkaufsgeschäfte"
+        "sk": "\n                    Predajne\n                ",
+        "en": "\n                    Stores\n                ",
+        "de": "\n                    Verkaufsgeschäfte\n                "
       }
     },
     {
@@ -3105,9 +3105,26 @@
       "source": "\n                        Kontakty\n                    ",
       "sourceNorm": "Kontakty",
       "dst": {
-        "sk": "Kontakty",
-        "en": "Contacts",
-        "de": "Kontakte"
+        "sk": "\n                        Kontakty\n                    ",
+        "en": "\n                        Contacts\n                    ",
+        "de": "\n                        Kontakte\n                    "
+      }
+    },
+    {
+      "key": "global.ddfd46fa4f.011a5d575a",
+      "parentId": "",
+      "parent": ".component--core-navigation",
+      "selector": "span.label",
+      "index": 0,
+      "textIndex": 0,
+      "mode": "textnode",
+      "attr": "",
+      "source": "Jazyk",
+      "sourceNorm": "Jazyk",
+      "dst": {
+        "sk": "Jazyk",
+        "en": "Language",
+        "de": "Sprache"
       }
     },
     {
@@ -3751,9 +3768,9 @@
       "source": " Express Servis Company s.r.o.",
       "sourceNorm": "Express Servis Company s.r.o.",
       "dst": {
-        "sk": "Express Servis Company s.r.o.",
-        "en": "Express Servis Company s.r.o.",
-        "de": "Express Servis Company s.r.o."
+        "sk": " Express Servis Company s.r.o.",
+        "en": " Express Servis Company s.r.o.",
+        "de": " Express Servis Company s.r.o."
       }
     },
     {
@@ -3768,9 +3785,9 @@
       "source": " Po-Pá ",
       "sourceNorm": "Po-Pá",
       "dst": {
-        "sk": "Po-Pá",
-        "en": "Mon-Fri",
-        "de": "Montag bis Freitag"
+        "sk": " Po-Pá ",
+        "en": " Mon-Fri ",
+        "de": " Montag bis Freitag "
       }
     },
     {
@@ -3836,9 +3853,9 @@
       "source": " Facebook",
       "sourceNorm": "Facebook",
       "dst": {
-        "sk": "Facebook",
-        "en": "Facebook",
-        "de": "Facebook"
+        "sk": " Facebook",
+        "en": " Facebook",
+        "de": " Facebook"
       }
     },
     {
@@ -3853,9 +3870,9 @@
       "source": " YouTube",
       "sourceNorm": "YouTube",
       "dst": {
-        "sk": "YouTube",
-        "en": "YouTube",
-        "de": "YouTube"
+        "sk": " YouTube",
+        "en": " YouTube",
+        "de": " YouTube"
       }
     },
     {
@@ -3870,9 +3887,9 @@
       "source": " Instagram",
       "sourceNorm": "Instagram",
       "dst": {
-        "sk": "Instagram",
-        "en": "Instagram",
-        "de": "Instagram"
+        "sk": " Instagram",
+        "en": " Instagram",
+        "de": " Instagram"
       }
     },
     {
@@ -3887,9 +3904,9 @@
       "source": " TikTok",
       "sourceNorm": "TikTok",
       "dst": {
-        "sk": "TikTok",
-        "en": "TikTok",
-        "de": "TikTok"
+        "sk": " TikTok",
+        "en": " TikTok",
+        "de": " TikTok"
       }
     },
     {
@@ -3904,9 +3921,9 @@
       "source": " Spotify",
       "sourceNorm": "Spotify",
       "dst": {
-        "sk": "Spotify",
-        "en": "Spotify",
-        "de": "Spotify"
+        "sk": " Spotify",
+        "en": " Spotify",
+        "de": " Spotify"
       }
     },
     {
@@ -3921,9 +3938,9 @@
       "source": " bílá čára ",
       "sourceNorm": "bílá čára",
       "dst": {
-        "sk": "biela čiara",
-        "en": "white line",
-        "de": "weiße Linie"
+        "sk": " biela čiara ",
+        "en": " white line ",
+        "de": " weiße Linie "
       }
     },
     {
@@ -3938,9 +3955,9 @@
       "source": " wrapper ",
       "sourceNorm": "wrapper",
       "dst": {
-        "sk": "wrapper",
-        "en": "wrapper",
-        "de": "Wrapper"
+        "sk": " wrapper ",
+        "en": " wrapper ",
+        "de": " Wrapper "
       }
     },
     {
@@ -3955,9 +3972,9 @@
       "source": " platební metody (vlevo) ",
       "sourceNorm": "platební metody (vlevo)",
       "dst": {
-        "sk": "platobné metódy (vľavo)",
-        "en": "payment methods (on the left)",
-        "de": "Zahlungsmethoden (links)"
+        "sk": " platobné metódy (vľavo) ",
+        "en": " payment methods (on the left) ",
+        "de": " Zahlungsmethoden (links) "
       }
     },
     {
@@ -3972,9 +3989,9 @@
       "source": " dopravci (vpravo) ",
       "sourceNorm": "dopravci (vpravo)",
       "dst": {
-        "sk": "dopravcovia (vpravo)",
-        "en": "carriers (on the right)",
-        "de": "Transportdienstleister (rechts)"
+        "sk": " dopravcovia (vpravo) ",
+        "en": " carriers (on the right) ",
+        "de": " Transportdienstleister (rechts) "
       }
     },
     {

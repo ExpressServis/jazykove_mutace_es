@@ -1,7 +1,7 @@
 {
   "id": "645a2602428b",
   "url": "https://www.express-servis.cz",
-  "updated_at": 1766877815,
+  "updated_at": 1766879192,
   "nodes": [
     {
       "key": "645a2602428b.3a282efba2.43f3a2b878",
@@ -100,9 +100,9 @@
       "source": "Novinka ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "Novinka ",
+        "en": "New Arrival ",
+        "de": "Neuheit "
       }
     },
     {
@@ -219,9 +219,9 @@
       "source": "Novinka ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "Novinka ",
+        "en": "New Arrival ",
+        "de": "Neuheit "
       }
     },
     {
@@ -287,9 +287,9 @@
       "source": "Bezpečné a spolehlivé ",
       "sourceNorm": "Bezpečné a spolehlivé",
       "dst": {
-        "sk": "Bezpečné a spoľahlivé",
-        "en": "Safe and reliable",
-        "de": "Sicher und zuverlässig"
+        "sk": "Bezpečné a spoľahlivé ",
+        "en": "Safe and reliable ",
+        "de": "Sicher und zuverlässig "
       }
     },
     {
@@ -627,9 +627,9 @@
       "source": "Bezpečné a spolehlivé ",
       "sourceNorm": "Bezpečné a spolehlivé",
       "dst": {
-        "sk": "Bezpečné a spoľahlivé",
-        "en": "Safe and reliable",
-        "de": "Sicher und zuverlässig"
+        "sk": "Bezpečné a spoľahlivé ",
+        "en": "Safe and reliable ",
+        "de": "Sicher und zuverlässig "
       }
     },
     {
@@ -1255,9 +1255,9 @@
       "source": "Velkoobchod s náhradními ",
       "sourceNorm": "Velkoobchod s náhradními",
       "dst": {
-        "sk": "Veľkoobchod s náhradnými",
-        "en": "Wholesale of spare parts",
-        "de": "Großhandel mit Ersatzteilen"
+        "sk": "Veľkoobchod s náhradnými ",
+        "en": "Wholesale of spare parts ",
+        "de": "Großhandel mit Ersatzteilen "
       }
     },
     {
@@ -1272,9 +1272,9 @@
       "source": "díly ",
       "sourceNorm": "díly",
       "dst": {
-        "sk": "diely",
-        "en": "parts",
-        "de": "Teile"
+        "sk": "diely ",
+        "en": "parts ",
+        "de": "Teile "
       }
     },
     {
@@ -1340,9 +1340,9 @@
       "source": "Jsme odborníci na ",
       "sourceNorm": "Jsme odborníci na",
       "dst": {
-        "sk": "Sme odborníci na",
-        "en": "We are experts in",
-        "de": "Wir sind Experten für"
+        "sk": "Sme odborníci na ",
+        "en": "We are experts in ",
+        "de": "Wir sind Experten für "
       }
     },
     {
@@ -1374,9 +1374,9 @@
       "source": "Kvalitní poradenství a ",
       "sourceNorm": "Kvalitní poradenství a",
       "dst": {
-        "sk": "Kvalitné poradenstvo a",
-        "en": "Quality consulting and",
-        "de": "Kvalitní poradenství und"
+        "sk": "Kvalitné poradenstvo a ",
+        "en": "Quality consulting and ",
+        "de": "Kvalitní poradenství und "
       }
     },
     {
@@ -1408,9 +1408,9 @@
       "source": "Jsme autorizovaným ",
       "sourceNorm": "Jsme autorizovaným",
       "dst": {
-        "sk": "Sme autorizovaným",
-        "en": "We are an authorized",
-        "de": "Wir sind ein autorisierter"
+        "sk": "Sme autorizovaným ",
+        "en": "We are an authorized ",
+        "de": "Wir sind ein autorisierter "
       }
     },
     {
@@ -1442,9 +1442,9 @@
       "source": "Zaručujeme kvalitu a ",
       "sourceNorm": "Zaručujeme kvalitu a",
       "dst": {
-        "sk": "Zaručujeme kvalitu a",
-        "en": "We guarantee quality and",
-        "de": "Wir garantieren Qualität und"
+        "sk": "Zaručujeme kvalitu a ",
+        "en": "We guarantee quality and ",
+        "de": "Wir garantieren Qualität und "
       }
     },
     {
@@ -1510,9 +1510,9 @@
       "source": "Staňte se také ",
       "sourceNorm": "Staňte se také",
       "dst": {
-        "sk": "Staňte sa tiež",
-        "en": "Become one too",
-        "de": "Werden Sie auch"
+        "sk": "Staňte sa tiež ",
+        "en": "Become one too ",
+        "de": "Werden Sie auch "
       }
     },
     {
@@ -1612,9 +1612,9 @@
       "source": "\n            Quad Lock Motorcycle / Scooter Mirror Mount - Držák mobilního telefonu na motorku\n        ",
       "sourceNorm": "Quad Lock Motorcycle / Scooter Mirror Mount - Držák mobilního telefonu na motorku",
       "dst": {
-        "sk": "Quad Lock Motorcycle / Scooter Mirror Mount - Držiak mobilného telefónu na motorku",
-        "en": "Quad Lock Motorcycle / Scooter Mirror Mount - Mobile Phone Holder for Motorcycles",
-        "de": "Quad Lock Motorrad / Roller Spiegelhalterung - Halterung für Mobiltelefone am Motorrad"
+        "sk": "\n            Quad Lock Motorcycle / Scooter Mirror Mount - Držiak mobilného telefónu na motorku\n        ",
+        "en": "\n            Quad Lock Motorcycle / Scooter Mirror Mount - Mobile Phone Holder for Motorcycles\n        ",
+        "de": "\n            Quad Lock Motorrad / Roller Spiegelhalterung - Halterung für Mobiltelefone am Motorrad\n        "
       }
     },
     {
@@ -1629,9 +1629,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -1663,9 +1663,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -1680,16 +1680,16 @@
       "source": "\n        Sportuje\n\n    ",
       "sourceNorm": "Sportuje",
       "dst": {
-        "sk": "Športuje",
-        "en": "Sportuje",
-        "de": "Sportuje"
+        "sk": "\n        Športuje\n\n    ",
+        "en": "\n        Sportuje\n\n    ",
+        "de": "\n        Sportuje\n\n    "
       }
     },
     {
-      "key": "645a2602428b.c4cc9e5a50.9d52cfec57",
+      "key": "645a2602428b.fff1f6646d.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_2712-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_2712-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -1697,9 +1697,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -1714,9 +1714,9 @@
       "source": "\n            Quad Lock Motorcycle Handlebar Mount - Držák mobilního telefonu na motorku\n        ",
       "sourceNorm": "Quad Lock Motorcycle Handlebar Mount - Držák mobilního telefonu na motorku",
       "dst": {
-        "sk": "Quad Lock Motorcycle Handlebar Mount - Držiak mobilného telefónu na motorku",
-        "en": "Quad Lock Motorcycle Handlebar Mount - Mobile Phone Holder for Motorcycles",
-        "de": "Quad Lock Motorradlenkerhalterung - Halterung für Mobiltelefone am Motorrad"
+        "sk": "\n            Quad Lock Motorcycle Handlebar Mount - Držiak mobilného telefónu na motorku\n        ",
+        "en": "\n            Quad Lock Motorcycle Handlebar Mount - Mobile Phone Holder for Motorcycles\n        ",
+        "de": "\n            Quad Lock Motorradlenkerhalterung - Halterung für Mobiltelefone am Motorrad\n        "
       }
     },
     {
@@ -1731,9 +1731,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -1765,9 +1765,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -1782,16 +1782,16 @@
       "source": "\n        Sportuje\n\n    ",
       "sourceNorm": "Sportuje",
       "dst": {
-        "sk": "Športuje",
-        "en": "Sportuje",
-        "de": "Sportuje"
+        "sk": "\n        Športuje\n\n    ",
+        "en": "\n        Sportuje\n\n    ",
+        "de": "\n        Sportuje\n\n    "
       }
     },
     {
-      "key": "645a2602428b.2090720321.9d52cfec57",
+      "key": "645a2602428b.15654ac88a.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_2713-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_2713-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -1799,9 +1799,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -1816,9 +1816,9 @@
       "source": "\n            Quad Lock - Desk Mount Home/Office - Stojánek na stůl\n        ",
       "sourceNorm": "Quad Lock - Desk Mount Home/Office - Stojánek na stůl",
       "dst": {
-        "sk": "Quad Lock - Desk Mount Home/Office - Stojan na stôl",
-        "en": "Quad Lock - Desk Mount Home/Office - Desk Stand",
-        "de": "Quad Lock - Desk Mount Home/Office - Tischständer"
+        "sk": "\n            Quad Lock - Desk Mount Home/Office - Stojan na stôl\n        ",
+        "en": "\n            Quad Lock - Desk Mount Home/Office - Desk Stand\n        ",
+        "de": "\n            Quad Lock - Desk Mount Home/Office - Tischständer\n        "
       }
     },
     {
@@ -1833,9 +1833,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -1867,16 +1867,16 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
-      "key": "645a2602428b.8c3c3dd2dc.9d52cfec57",
+      "key": "645a2602428b.e0a2d3f082.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_3764-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_3764-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -1884,9 +1884,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -1901,9 +1901,9 @@
       "source": "\n            Quad Lock Tripod adaptér - stativový adaptér\n        ",
       "sourceNorm": "Quad Lock Tripod adaptér - stativový adaptér",
       "dst": {
-        "sk": "Quad Lock Tripod adaptér - stativový adaptér",
-        "en": "Quad Lock Tripod Adapter - Tripod Adapter",
-        "de": "Quad Lock Tripod-Adapter - Stativadapter"
+        "sk": "\n            Quad Lock Tripod adaptér - stativový adaptér\n        ",
+        "en": "\n            Quad Lock Tripod Adapter - Tripod Adapter\n        ",
+        "de": "\n            Quad Lock Tripod-Adapter - Stativadapter\n        "
       }
     },
     {
@@ -1918,9 +1918,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -1952,16 +1952,16 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
-      "key": "645a2602428b.51b8018994.9d52cfec57",
+      "key": "645a2602428b.a97aa2fbab.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_1844-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_1844-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -1969,9 +1969,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -1986,9 +1986,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -2020,9 +2020,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -2037,16 +2037,16 @@
       "source": "\n        Sportuje\n\n    ",
       "sourceNorm": "Sportuje",
       "dst": {
-        "sk": "Športuje",
-        "en": "Sportuje",
-        "de": "Sportuje"
+        "sk": "\n        Športuje\n\n    ",
+        "en": "\n        Sportuje\n\n    ",
+        "de": "\n        Sportuje\n\n    "
       }
     },
     {
-      "key": "645a2602428b.25e3576704.9d52cfec57",
+      "key": "645a2602428b.45a846b3f8.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_3773-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_3773-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -2054,9 +2054,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -2071,9 +2071,9 @@
       "source": "\n            Quad Lock Motorcycle / Scooter Mirror Mount - Držák mobilního telefonu na motorku\n        ",
       "sourceNorm": "Quad Lock Motorcycle / Scooter Mirror Mount - Držák mobilního telefonu na motorku",
       "dst": {
-        "sk": "Quad Lock Motorcycle / Scooter Mirror Mount - Držiak mobilného telefónu na motorku",
-        "en": "Quad Lock Motorcycle / Scooter Mirror Mount - Mobile Phone Holder for Motorcycles",
-        "de": "Quad Lock Motorrad / Roller Spiegelhalterung - Halterung für Mobiltelefone am Motorrad"
+        "sk": "\n            Quad Lock Motorcycle / Scooter Mirror Mount - Držiak mobilného telefónu na motorku\n        ",
+        "en": "\n            Quad Lock Motorcycle / Scooter Mirror Mount - Mobile Phone Holder for Motorcycles\n        ",
+        "de": "\n            Quad Lock Motorrad / Roller Spiegelhalterung - Halterung für Mobiltelefone am Motorrad\n        "
       }
     },
     {
@@ -2088,9 +2088,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -2122,9 +2122,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -2139,16 +2139,16 @@
       "source": "\n        Sportuje\n\n    ",
       "sourceNorm": "Sportuje",
       "dst": {
-        "sk": "Športuje",
-        "en": "Sportuje",
-        "de": "Sportuje"
+        "sk": "\n        Športuje\n\n    ",
+        "en": "\n        Sportuje\n\n    ",
+        "de": "\n        Sportuje\n\n    "
       }
     },
     {
-      "key": "645a2602428b.7e9b309cc7.9d52cfec57",
+      "key": "645a2602428b.ed32fd2925.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_2712-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_2712-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -2156,9 +2156,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -2173,9 +2173,9 @@
       "source": "\n            Quad Lock Motorcycle Handlebar Mount - Držák mobilního telefonu na motorku\n        ",
       "sourceNorm": "Quad Lock Motorcycle Handlebar Mount - Držák mobilního telefonu na motorku",
       "dst": {
-        "sk": "Quad Lock Motorcycle Handlebar Mount - Držiak mobilného telefónu na motorku",
-        "en": "Quad Lock Motorcycle Handlebar Mount - Mobile Phone Holder for Motorcycles",
-        "de": "Quad Lock Motorradlenkerhalterung - Halterung für Mobiltelefone am Motorrad"
+        "sk": "\n            Quad Lock Motorcycle Handlebar Mount - Držiak mobilného telefónu na motorku\n        ",
+        "en": "\n            Quad Lock Motorcycle Handlebar Mount - Mobile Phone Holder for Motorcycles\n        ",
+        "de": "\n            Quad Lock Motorradlenkerhalterung - Halterung für Mobiltelefone am Motorrad\n        "
       }
     },
     {
@@ -2190,9 +2190,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -2224,9 +2224,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -2241,16 +2241,16 @@
       "source": "\n        Sportuje\n\n    ",
       "sourceNorm": "Sportuje",
       "dst": {
-        "sk": "Športuje",
-        "en": "Sportuje",
-        "de": "Sportuje"
+        "sk": "\n        Športuje\n\n    ",
+        "en": "\n        Sportuje\n\n    ",
+        "de": "\n        Sportuje\n\n    "
       }
     },
     {
-      "key": "645a2602428b.7911003932.9d52cfec57",
+      "key": "645a2602428b.3dd63c231e.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_2713-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_2713-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -2258,9 +2258,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -2275,9 +2275,9 @@
       "source": "\n            Quad Lock - Desk Mount Home/Office - Stojánek na stůl\n        ",
       "sourceNorm": "Quad Lock - Desk Mount Home/Office - Stojánek na stůl",
       "dst": {
-        "sk": "Quad Lock - Desk Mount Home/Office - Stojan na stôl",
-        "en": "Quad Lock - Desk Mount Home/Office - Desk Stand",
-        "de": "Quad Lock - Desk Mount Home/Office - Tischständer"
+        "sk": "\n            Quad Lock - Desk Mount Home/Office - Stojan na stôl\n        ",
+        "en": "\n            Quad Lock - Desk Mount Home/Office - Desk Stand\n        ",
+        "de": "\n            Quad Lock - Desk Mount Home/Office - Tischständer\n        "
       }
     },
     {
@@ -2292,9 +2292,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -2326,16 +2326,16 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
-      "key": "645a2602428b.6c9d270de0.9d52cfec57",
+      "key": "645a2602428b.5f1b18d412.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_3764-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_3764-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -2343,9 +2343,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -2360,9 +2360,9 @@
       "source": "\n            Quad Lock Tripod adaptér - stativový adaptér\n        ",
       "sourceNorm": "Quad Lock Tripod adaptér - stativový adaptér",
       "dst": {
-        "sk": "Quad Lock Tripod adaptér - stativový adaptér",
-        "en": "Quad Lock Tripod Adapter - Tripod Adapter",
-        "de": "Quad Lock Tripod-Adapter - Stativadapter"
+        "sk": "\n            Quad Lock Tripod adaptér - stativový adaptér\n        ",
+        "en": "\n            Quad Lock Tripod Adapter - Tripod Adapter\n        ",
+        "de": "\n            Quad Lock Tripod-Adapter - Stativadapter\n        "
       }
     },
     {
@@ -2377,9 +2377,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -2411,16 +2411,16 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
-      "key": "645a2602428b.291b270813.9d52cfec57",
+      "key": "645a2602428b.bdef75705f.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_1844-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_1844-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -2428,9 +2428,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -2445,9 +2445,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -2479,9 +2479,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -2496,16 +2496,16 @@
       "source": "\n        Sportuje\n\n    ",
       "sourceNorm": "Sportuje",
       "dst": {
-        "sk": "Športuje",
-        "en": "Sportuje",
-        "de": "Sportuje"
+        "sk": "\n        Športuje\n\n    ",
+        "en": "\n        Sportuje\n\n    ",
+        "de": "\n        Sportuje\n\n    "
       }
     },
     {
-      "key": "645a2602428b.06dda02c3d.9d52cfec57",
+      "key": "645a2602428b.04d6ed5e4b.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_3773-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_3773-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -2513,9 +2513,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -2530,9 +2530,9 @@
       "source": "\n            Quad Lock Motorcycle / Scooter Mirror Mount - Držák mobilního telefonu na motorku\n        ",
       "sourceNorm": "Quad Lock Motorcycle / Scooter Mirror Mount - Držák mobilního telefonu na motorku",
       "dst": {
-        "sk": "Quad Lock Motorcycle / Scooter Mirror Mount - Držiak mobilného telefónu na motorku",
-        "en": "Quad Lock Motorcycle / Scooter Mirror Mount - Mobile Phone Holder for Motorcycles",
-        "de": "Quad Lock Motorrad / Roller Spiegelhalterung - Halterung für Mobiltelefone am Motorrad"
+        "sk": "\n            Quad Lock Motorcycle / Scooter Mirror Mount - Držiak mobilného telefónu na motorku\n        ",
+        "en": "\n            Quad Lock Motorcycle / Scooter Mirror Mount - Mobile Phone Holder for Motorcycles\n        ",
+        "de": "\n            Quad Lock Motorrad / Roller Spiegelhalterung - Halterung für Mobiltelefone am Motorrad\n        "
       }
     },
     {
@@ -2547,9 +2547,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -2581,9 +2581,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -2598,16 +2598,16 @@
       "source": "\n        Sportuje\n\n    ",
       "sourceNorm": "Sportuje",
       "dst": {
-        "sk": "Športuje",
-        "en": "Sportuje",
-        "de": "Sportuje"
+        "sk": "\n        Športuje\n\n    ",
+        "en": "\n        Sportuje\n\n    ",
+        "de": "\n        Sportuje\n\n    "
       }
     },
     {
-      "key": "645a2602428b.7b32e420fa.9d52cfec57",
+      "key": "645a2602428b.b6a0bd3223.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_2712-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_2712-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -2615,9 +2615,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -2632,9 +2632,9 @@
       "source": "\n            Quad Lock Motorcycle Handlebar Mount - Držák mobilního telefonu na motorku\n        ",
       "sourceNorm": "Quad Lock Motorcycle Handlebar Mount - Držák mobilního telefonu na motorku",
       "dst": {
-        "sk": "Quad Lock Motorcycle Handlebar Mount - Držiak mobilného telefónu na motorku",
-        "en": "Quad Lock Motorcycle Handlebar Mount - Mobile Phone Holder for Motorcycles",
-        "de": "Quad Lock Motorradlenkerhalterung - Halterung für Mobiltelefone am Motorrad"
+        "sk": "\n            Quad Lock Motorcycle Handlebar Mount - Držiak mobilného telefónu na motorku\n        ",
+        "en": "\n            Quad Lock Motorcycle Handlebar Mount - Mobile Phone Holder for Motorcycles\n        ",
+        "de": "\n            Quad Lock Motorradlenkerhalterung - Halterung für Mobiltelefone am Motorrad\n        "
       }
     },
     {
@@ -2649,9 +2649,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -2683,9 +2683,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -2700,16 +2700,16 @@
       "source": "\n        Sportuje\n\n    ",
       "sourceNorm": "Sportuje",
       "dst": {
-        "sk": "Športuje",
-        "en": "Sportuje",
-        "de": "Sportuje"
+        "sk": "\n        Športuje\n\n    ",
+        "en": "\n        Sportuje\n\n    ",
+        "de": "\n        Sportuje\n\n    "
       }
     },
     {
-      "key": "645a2602428b.9b8f5a3534.9d52cfec57",
+      "key": "645a2602428b.2673824bed.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_2713-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_2713-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -2717,9 +2717,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -2734,9 +2734,9 @@
       "source": "\n            Quad Lock - Desk Mount Home/Office - Stojánek na stůl\n        ",
       "sourceNorm": "Quad Lock - Desk Mount Home/Office - Stojánek na stůl",
       "dst": {
-        "sk": "Quad Lock - Desk Mount Home/Office - Stojan na stôl",
-        "en": "Quad Lock - Desk Mount Home/Office - Desk Stand",
-        "de": "Quad Lock - Desk Mount Home/Office - Tischständer"
+        "sk": "\n            Quad Lock - Desk Mount Home/Office - Stojan na stôl\n        ",
+        "en": "\n            Quad Lock - Desk Mount Home/Office - Desk Stand\n        ",
+        "de": "\n            Quad Lock - Desk Mount Home/Office - Tischständer\n        "
       }
     },
     {
@@ -2751,9 +2751,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -2785,16 +2785,16 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
-      "key": "645a2602428b.6b68c854b1.9d52cfec57",
+      "key": "645a2602428b.8c67f3ace4.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_3764-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_3764-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -2802,9 +2802,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -2819,9 +2819,9 @@
       "source": "\n            Quad Lock Tripod adaptér - stativový adaptér\n        ",
       "sourceNorm": "Quad Lock Tripod adaptér - stativový adaptér",
       "dst": {
-        "sk": "Quad Lock Tripod adaptér - stativový adaptér",
-        "en": "Quad Lock Tripod Adapter - Tripod Adapter",
-        "de": "Quad Lock Tripod-Adapter - Stativadapter"
+        "sk": "\n            Quad Lock Tripod adaptér - stativový adaptér\n        ",
+        "en": "\n            Quad Lock Tripod Adapter - Tripod Adapter\n        ",
+        "de": "\n            Quad Lock Tripod-Adapter - Stativadapter\n        "
       }
     },
     {
@@ -2836,9 +2836,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -2870,16 +2870,16 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
-      "key": "645a2602428b.8ee9d02833.9d52cfec57",
+      "key": "645a2602428b.dd7724f274.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_1844-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_1844-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -2887,9 +2887,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -2904,9 +2904,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -2938,9 +2938,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -2955,16 +2955,16 @@
       "source": "\n        Sportuje\n\n    ",
       "sourceNorm": "Sportuje",
       "dst": {
-        "sk": "Športuje",
-        "en": "Sportuje",
-        "de": "Sportuje"
+        "sk": "\n        Športuje\n\n    ",
+        "en": "\n        Sportuje\n\n    ",
+        "de": "\n        Sportuje\n\n    "
       }
     },
     {
-      "key": "645a2602428b.c63ba6b088.9d52cfec57",
+      "key": "645a2602428b.66be09246c.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_gnxcxn-Products_9tptup-Product_3773-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1154-Module_k35bdj-Products_hy4sak-Product_3773-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -2972,9 +2972,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -3023,9 +3023,9 @@
       "source": "\n            Barner Brand® - Dalston - Black Noir - brýle potlačující modré světlo z obrazovek\n        ",
       "sourceNorm": "Barner Brand® - Dalston - Black Noir - brýle potlačující modré světlo z obrazovek",
       "dst": {
-        "sk": "Barner Brand® - Dalston - Black Noir - okuliare potláčajúce modré svetlo z obrazoviek",
-        "en": "Barner Brand® - Dalston - Black Noir - blue light blocking glasses for screens",
-        "de": "Barner Brand® - Dalston - Black Noir - Brillen zur Reduzierung von blauem Licht von Bildschirmen"
+        "sk": "\n            Barner Brand® - Dalston - Black Noir - okuliare potláčajúce modré svetlo z obrazoviek\n        ",
+        "en": "\n            Barner Brand® - Dalston - Black Noir - blue light blocking glasses for screens\n        ",
+        "de": "\n            Barner Brand® - Dalston - Black Noir - Brillen zur Reduzierung von blauem Licht von Bildschirmen\n        "
       }
     },
     {
@@ -3040,9 +3040,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -3074,9 +3074,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -3091,9 +3091,9 @@
       "source": "\n        Parádí se\n\n    ",
       "sourceNorm": "Parádí se",
       "dst": {
-        "sk": "Parádi sa",
-        "en": "It looks great!",
-        "de": "Es sieht großartig aus."
+        "sk": "\n        Parádi sa\n\n    ",
+        "en": "\n        It looks great!\n\n    ",
+        "de": "\n        Es sieht großartig aus.\n\n    "
       }
     },
     {
@@ -3108,16 +3108,16 @@
       "source": "\n        Furt maká\n\n    ",
       "sourceNorm": "Furt maká",
       "dst": {
-        "sk": "Stále pracuje.",
-        "en": "It keeps working.",
-        "de": "Furt funktioniert."
+        "sk": "\n        Stále pracuje.\n\n    ",
+        "en": "\n        It keeps working.\n\n    ",
+        "de": "\n        Furt funktioniert.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.fcdc95bc33.9d52cfec57",
+      "key": "645a2602428b.42d10f7b41.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_3193-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_3193-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -3125,9 +3125,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -3142,9 +3142,9 @@
       "source": "\n            Equa Smart – chytrá nerezová lahev, temně černá\n        ",
       "sourceNorm": "Equa Smart – chytrá nerezová lahev, temně černá",
       "dst": {
-        "sk": "Equa Smart – inteligentná nerezová fľaša, tmavo čierna",
-        "en": "Equa Smart – smart stainless steel bottle, deep black",
-        "de": "Equa Smart – intelligente Edelstahlflasche, tiefschwarz"
+        "sk": "\n            Equa Smart – inteligentná nerezová fľaša, tmavo čierna\n        ",
+        "en": "\n            Equa Smart – smart stainless steel bottle, deep black\n        ",
+        "de": "\n            Equa Smart – intelligente Edelstahlflasche, tiefschwarz\n        "
       }
     },
     {
@@ -3159,9 +3159,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -3193,16 +3193,16 @@
       "source": "\n        Sportuje\n\n    ",
       "sourceNorm": "Sportuje",
       "dst": {
-        "sk": "Športuje",
-        "en": "Sportuje",
-        "de": "Sportuje"
+        "sk": "\n        Športuje\n\n    ",
+        "en": "\n        Sportuje\n\n    ",
+        "de": "\n        Sportuje\n\n    "
       }
     },
     {
-      "key": "645a2602428b.737131e334.9d52cfec57",
+      "key": "645a2602428b.55ab633819.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_3506-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_3506-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -3210,9 +3210,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -3227,9 +3227,9 @@
       "source": "\n            Barner Brand® - Dalston - Dusty Pink - brýle potlačující modré světlo z obrazovek\n        ",
       "sourceNorm": "Barner Brand® - Dalston - Dusty Pink - brýle potlačující modré světlo z obrazovek",
       "dst": {
-        "sk": "Barner Brand® - Dalston - Dusty Pink - okuliare potláčajúce modré svetlo z obrazoviek",
-        "en": "Barner Brand® - Dalston - Dusty Pink - blue light blocking glasses for screens",
-        "de": "Barner Brand® - Dalston - Dusty Pink - Blaulichtfilterbrille für Bildschirme"
+        "sk": "\n            Barner Brand® - Dalston - Dusty Pink - okuliare potláčajúce modré svetlo z obrazoviek\n        ",
+        "en": "\n            Barner Brand® - Dalston - Dusty Pink - blue light blocking glasses for screens\n        ",
+        "de": "\n            Barner Brand® - Dalston - Dusty Pink - Blaulichtfilterbrille für Bildschirme\n        "
       }
     },
     {
@@ -3244,9 +3244,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -3278,9 +3278,9 @@
       "source": "\n        Parádí se\n\n    ",
       "sourceNorm": "Parádí se",
       "dst": {
-        "sk": "Parádi sa",
-        "en": "It looks great!",
-        "de": "Es sieht großartig aus."
+        "sk": "\n        Parádi sa\n\n    ",
+        "en": "\n        It looks great!\n\n    ",
+        "de": "\n        Es sieht großartig aus.\n\n    "
       }
     },
     {
@@ -3295,16 +3295,16 @@
       "source": "\n        Furt maká\n\n    ",
       "sourceNorm": "Furt maká",
       "dst": {
-        "sk": "Stále pracuje.",
-        "en": "It keeps working.",
-        "de": "Furt funktioniert."
+        "sk": "\n        Stále pracuje.\n\n    ",
+        "en": "\n        It keeps working.\n\n    ",
+        "de": "\n        Furt funktioniert.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.e0de6f284e.9d52cfec57",
+      "key": "645a2602428b.f812ac25de.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_3887-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_3887-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -3312,9 +3312,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -3329,9 +3329,9 @@
       "source": "\n            Robobloq Qobo – programovatelný interaktivní šnek pro děti, 3-8 let\n        ",
       "sourceNorm": "Robobloq Qobo – programovatelný interaktivní šnek pro děti, 3-8 let",
       "dst": {
-        "sk": "Robobloq Qobo – programovateľný interaktívny šnek pre deti, 3-8 rokov",
-        "en": "Robobloq Qobo – a programmable interactive snail for children aged 3-8 years",
-        "de": "Robobloq Qobo – programmierbarer interaktiver Schnecke für Kinder von 3 bis 8 Jahren"
+        "sk": "\n            Robobloq Qobo – programovateľný interaktívny šnek pre deti, 3-8 rokov\n        ",
+        "en": "\n            Robobloq Qobo – a programmable interactive snail for children aged 3-8 years\n        ",
+        "de": "\n            Robobloq Qobo – programmierbarer interaktiver Schnecke für Kinder von 3 bis 8 Jahren\n        "
       }
     },
     {
@@ -3346,9 +3346,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -3380,16 +3380,16 @@
       "source": "\n        Hraje si\n\n    ",
       "sourceNorm": "Hraje si",
       "dst": {
-        "sk": "Hrá si",
-        "en": "It plays.",
-        "de": "Spielt."
+        "sk": "\n        Hrá si\n\n    ",
+        "en": "\n        It plays.\n\n    ",
+        "de": "\n        Spielt.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.8c246e754c.9d52cfec57",
+      "key": "645a2602428b.c5dded42df.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_5653-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_5653-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -3397,9 +3397,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -3414,9 +3414,9 @@
       "source": "\n            Plegium smart pepřový sprej - černý\n        ",
       "sourceNorm": "Plegium smart pepřový sprej - černý",
       "dst": {
-        "sk": "Plegium smart korenistý sprej - čierny",
-        "en": "Plegium Smart Pepper Spray - Black",
-        "de": "Plegium Smart Pfefferspray - schwarz"
+        "sk": "\n            Plegium smart korenistý sprej - čierny\n        ",
+        "en": "\n            Plegium Smart Pepper Spray - Black\n        ",
+        "de": "\n            Plegium Smart Pfefferspray - schwarz\n        "
       }
     },
     {
@@ -3431,9 +3431,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -3454,10 +3454,10 @@
       }
     },
     {
-      "key": "645a2602428b.dd1e059fd1.9d52cfec57",
+      "key": "645a2602428b.7afbb2d9ff.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_6158-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_6158-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -3465,9 +3465,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -3482,9 +3482,9 @@
       "source": "\n            Barner Brand® - Dalston - Black Noir - brýle potlačující modré světlo z obrazovek\n        ",
       "sourceNorm": "Barner Brand® - Dalston - Black Noir - brýle potlačující modré světlo z obrazovek",
       "dst": {
-        "sk": "Barner Brand® - Dalston - Black Noir - okuliare potláčajúce modré svetlo z obrazoviek",
-        "en": "Barner Brand® - Dalston - Black Noir - blue light blocking glasses for screens",
-        "de": "Barner Brand® - Dalston - Black Noir - Brillen zur Reduzierung von blauem Licht von Bildschirmen"
+        "sk": "\n            Barner Brand® - Dalston - Black Noir - okuliare potláčajúce modré svetlo z obrazoviek\n        ",
+        "en": "\n            Barner Brand® - Dalston - Black Noir - blue light blocking glasses for screens\n        ",
+        "de": "\n            Barner Brand® - Dalston - Black Noir - Brillen zur Reduzierung von blauem Licht von Bildschirmen\n        "
       }
     },
     {
@@ -3499,9 +3499,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -3533,9 +3533,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -3550,9 +3550,9 @@
       "source": "\n        Parádí se\n\n    ",
       "sourceNorm": "Parádí se",
       "dst": {
-        "sk": "Parádi sa",
-        "en": "It looks great!",
-        "de": "Es sieht großartig aus."
+        "sk": "\n        Parádi sa\n\n    ",
+        "en": "\n        It looks great!\n\n    ",
+        "de": "\n        Es sieht großartig aus.\n\n    "
       }
     },
     {
@@ -3567,16 +3567,16 @@
       "source": "\n        Furt maká\n\n    ",
       "sourceNorm": "Furt maká",
       "dst": {
-        "sk": "Stále pracuje.",
-        "en": "It keeps working.",
-        "de": "Furt funktioniert."
+        "sk": "\n        Stále pracuje.\n\n    ",
+        "en": "\n        It keeps working.\n\n    ",
+        "de": "\n        Furt funktioniert.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.123ddbd467.9d52cfec57",
+      "key": "645a2602428b.9df6bf0a0d.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_3193-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_3193-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -3584,9 +3584,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -3601,9 +3601,9 @@
       "source": "\n            Equa Smart – chytrá nerezová lahev, temně černá\n        ",
       "sourceNorm": "Equa Smart – chytrá nerezová lahev, temně černá",
       "dst": {
-        "sk": "Equa Smart – inteligentná nerezová fľaša, tmavo čierna",
-        "en": "Equa Smart – smart stainless steel bottle, deep black",
-        "de": "Equa Smart – intelligente Edelstahlflasche, tiefschwarz"
+        "sk": "\n            Equa Smart – inteligentná nerezová fľaša, tmavo čierna\n        ",
+        "en": "\n            Equa Smart – smart stainless steel bottle, deep black\n        ",
+        "de": "\n            Equa Smart – intelligente Edelstahlflasche, tiefschwarz\n        "
       }
     },
     {
@@ -3618,9 +3618,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -3652,16 +3652,16 @@
       "source": "\n        Sportuje\n\n    ",
       "sourceNorm": "Sportuje",
       "dst": {
-        "sk": "Športuje",
-        "en": "Sportuje",
-        "de": "Sportuje"
+        "sk": "\n        Športuje\n\n    ",
+        "en": "\n        Sportuje\n\n    ",
+        "de": "\n        Sportuje\n\n    "
       }
     },
     {
-      "key": "645a2602428b.f4debb645c.9d52cfec57",
+      "key": "645a2602428b.b8e2f40a44.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_3506-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_3506-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -3669,9 +3669,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -3686,9 +3686,9 @@
       "source": "\n            Barner Brand® - Dalston - Dusty Pink - brýle potlačující modré světlo z obrazovek\n        ",
       "sourceNorm": "Barner Brand® - Dalston - Dusty Pink - brýle potlačující modré světlo z obrazovek",
       "dst": {
-        "sk": "Barner Brand® - Dalston - Dusty Pink - okuliare potláčajúce modré svetlo z obrazoviek",
-        "en": "Barner Brand® - Dalston - Dusty Pink - blue light blocking glasses for screens",
-        "de": "Barner Brand® - Dalston - Dusty Pink - Blaulichtfilterbrille für Bildschirme"
+        "sk": "\n            Barner Brand® - Dalston - Dusty Pink - okuliare potláčajúce modré svetlo z obrazoviek\n        ",
+        "en": "\n            Barner Brand® - Dalston - Dusty Pink - blue light blocking glasses for screens\n        ",
+        "de": "\n            Barner Brand® - Dalston - Dusty Pink - Blaulichtfilterbrille für Bildschirme\n        "
       }
     },
     {
@@ -3703,9 +3703,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -3737,9 +3737,9 @@
       "source": "\n        Parádí se\n\n    ",
       "sourceNorm": "Parádí se",
       "dst": {
-        "sk": "Parádi sa",
-        "en": "It looks great!",
-        "de": "Es sieht großartig aus."
+        "sk": "\n        Parádi sa\n\n    ",
+        "en": "\n        It looks great!\n\n    ",
+        "de": "\n        Es sieht großartig aus.\n\n    "
       }
     },
     {
@@ -3754,16 +3754,16 @@
       "source": "\n        Furt maká\n\n    ",
       "sourceNorm": "Furt maká",
       "dst": {
-        "sk": "Stále pracuje.",
-        "en": "It keeps working.",
-        "de": "Furt funktioniert."
+        "sk": "\n        Stále pracuje.\n\n    ",
+        "en": "\n        It keeps working.\n\n    ",
+        "de": "\n        Furt funktioniert.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.acee7897b1.9d52cfec57",
+      "key": "645a2602428b.81c8ade173.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_3887-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_3887-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -3771,9 +3771,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -3788,9 +3788,9 @@
       "source": "\n            Robobloq Qobo – programovatelný interaktivní šnek pro děti, 3-8 let\n        ",
       "sourceNorm": "Robobloq Qobo – programovatelný interaktivní šnek pro děti, 3-8 let",
       "dst": {
-        "sk": "Robobloq Qobo – programovateľný interaktívny šnek pre deti, 3-8 rokov",
-        "en": "Robobloq Qobo – a programmable interactive snail for children aged 3-8 years",
-        "de": "Robobloq Qobo – programmierbarer interaktiver Schnecke für Kinder von 3 bis 8 Jahren"
+        "sk": "\n            Robobloq Qobo – programovateľný interaktívny šnek pre deti, 3-8 rokov\n        ",
+        "en": "\n            Robobloq Qobo – a programmable interactive snail for children aged 3-8 years\n        ",
+        "de": "\n            Robobloq Qobo – programmierbarer interaktiver Schnecke für Kinder von 3 bis 8 Jahren\n        "
       }
     },
     {
@@ -3805,9 +3805,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -3839,16 +3839,16 @@
       "source": "\n        Hraje si\n\n    ",
       "sourceNorm": "Hraje si",
       "dst": {
-        "sk": "Hrá si",
-        "en": "It plays.",
-        "de": "Spielt."
+        "sk": "\n        Hrá si\n\n    ",
+        "en": "\n        It plays.\n\n    ",
+        "de": "\n        Spielt.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.8790c54ff2.9d52cfec57",
+      "key": "645a2602428b.fb60cc6023.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_5653-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_5653-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -3856,9 +3856,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -3873,9 +3873,9 @@
       "source": "\n            Plegium smart pepřový sprej - černý\n        ",
       "sourceNorm": "Plegium smart pepřový sprej - černý",
       "dst": {
-        "sk": "Plegium smart korenistý sprej - čierny",
-        "en": "Plegium Smart Pepper Spray - Black",
-        "de": "Plegium Smart Pfefferspray - schwarz"
+        "sk": "\n            Plegium smart korenistý sprej - čierny\n        ",
+        "en": "\n            Plegium Smart Pepper Spray - Black\n        ",
+        "de": "\n            Plegium Smart Pfefferspray - schwarz\n        "
       }
     },
     {
@@ -3890,9 +3890,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -3913,10 +3913,10 @@
       }
     },
     {
-      "key": "645a2602428b.909d327a4d.9d52cfec57",
+      "key": "645a2602428b.55ce1e0102.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_6158-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_6158-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -3924,9 +3924,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -3941,9 +3941,9 @@
       "source": "\n            Barner Brand® - Dalston - Black Noir - brýle potlačující modré světlo z obrazovek\n        ",
       "sourceNorm": "Barner Brand® - Dalston - Black Noir - brýle potlačující modré světlo z obrazovek",
       "dst": {
-        "sk": "Barner Brand® - Dalston - Black Noir - okuliare potláčajúce modré svetlo z obrazoviek",
-        "en": "Barner Brand® - Dalston - Black Noir - blue light blocking glasses for screens",
-        "de": "Barner Brand® - Dalston - Black Noir - Brillen zur Reduzierung von blauem Licht von Bildschirmen"
+        "sk": "\n            Barner Brand® - Dalston - Black Noir - okuliare potláčajúce modré svetlo z obrazoviek\n        ",
+        "en": "\n            Barner Brand® - Dalston - Black Noir - blue light blocking glasses for screens\n        ",
+        "de": "\n            Barner Brand® - Dalston - Black Noir - Brillen zur Reduzierung von blauem Licht von Bildschirmen\n        "
       }
     },
     {
@@ -3958,9 +3958,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -3992,9 +3992,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -4009,9 +4009,9 @@
       "source": "\n        Parádí se\n\n    ",
       "sourceNorm": "Parádí se",
       "dst": {
-        "sk": "Parádi sa",
-        "en": "It looks great!",
-        "de": "Es sieht großartig aus."
+        "sk": "\n        Parádi sa\n\n    ",
+        "en": "\n        It looks great!\n\n    ",
+        "de": "\n        Es sieht großartig aus.\n\n    "
       }
     },
     {
@@ -4026,16 +4026,16 @@
       "source": "\n        Furt maká\n\n    ",
       "sourceNorm": "Furt maká",
       "dst": {
-        "sk": "Stále pracuje.",
-        "en": "It keeps working.",
-        "de": "Furt funktioniert."
+        "sk": "\n        Stále pracuje.\n\n    ",
+        "en": "\n        It keeps working.\n\n    ",
+        "de": "\n        Furt funktioniert.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.900e14bec7.9d52cfec57",
+      "key": "645a2602428b.9ae8e9169a.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_3193-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_3193-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -4043,9 +4043,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -4060,9 +4060,9 @@
       "source": "\n            Equa Smart – chytrá nerezová lahev, temně černá\n        ",
       "sourceNorm": "Equa Smart – chytrá nerezová lahev, temně černá",
       "dst": {
-        "sk": "Equa Smart – inteligentná nerezová fľaša, tmavo čierna",
-        "en": "Equa Smart – smart stainless steel bottle, deep black",
-        "de": "Equa Smart – intelligente Edelstahlflasche, tiefschwarz"
+        "sk": "\n            Equa Smart – inteligentná nerezová fľaša, tmavo čierna\n        ",
+        "en": "\n            Equa Smart – smart stainless steel bottle, deep black\n        ",
+        "de": "\n            Equa Smart – intelligente Edelstahlflasche, tiefschwarz\n        "
       }
     },
     {
@@ -4077,9 +4077,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -4111,16 +4111,16 @@
       "source": "\n        Sportuje\n\n    ",
       "sourceNorm": "Sportuje",
       "dst": {
-        "sk": "Športuje",
-        "en": "Sportuje",
-        "de": "Sportuje"
+        "sk": "\n        Športuje\n\n    ",
+        "en": "\n        Sportuje\n\n    ",
+        "de": "\n        Sportuje\n\n    "
       }
     },
     {
-      "key": "645a2602428b.a125853d05.9d52cfec57",
+      "key": "645a2602428b.5cc834a597.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_3506-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_3506-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -4128,9 +4128,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -4145,9 +4145,9 @@
       "source": "\n            Barner Brand® - Dalston - Dusty Pink - brýle potlačující modré světlo z obrazovek\n        ",
       "sourceNorm": "Barner Brand® - Dalston - Dusty Pink - brýle potlačující modré světlo z obrazovek",
       "dst": {
-        "sk": "Barner Brand® - Dalston - Dusty Pink - okuliare potláčajúce modré svetlo z obrazoviek",
-        "en": "Barner Brand® - Dalston - Dusty Pink - blue light blocking glasses for screens",
-        "de": "Barner Brand® - Dalston - Dusty Pink - Blaulichtfilterbrille für Bildschirme"
+        "sk": "\n            Barner Brand® - Dalston - Dusty Pink - okuliare potláčajúce modré svetlo z obrazoviek\n        ",
+        "en": "\n            Barner Brand® - Dalston - Dusty Pink - blue light blocking glasses for screens\n        ",
+        "de": "\n            Barner Brand® - Dalston - Dusty Pink - Blaulichtfilterbrille für Bildschirme\n        "
       }
     },
     {
@@ -4162,9 +4162,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -4196,9 +4196,9 @@
       "source": "\n        Parádí se\n\n    ",
       "sourceNorm": "Parádí se",
       "dst": {
-        "sk": "Parádi sa",
-        "en": "It looks great!",
-        "de": "Es sieht großartig aus."
+        "sk": "\n        Parádi sa\n\n    ",
+        "en": "\n        It looks great!\n\n    ",
+        "de": "\n        Es sieht großartig aus.\n\n    "
       }
     },
     {
@@ -4213,16 +4213,16 @@
       "source": "\n        Furt maká\n\n    ",
       "sourceNorm": "Furt maká",
       "dst": {
-        "sk": "Stále pracuje.",
-        "en": "It keeps working.",
-        "de": "Furt funktioniert."
+        "sk": "\n        Stále pracuje.\n\n    ",
+        "en": "\n        It keeps working.\n\n    ",
+        "de": "\n        Furt funktioniert.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.c45a4bfcf1.9d52cfec57",
+      "key": "645a2602428b.e773853968.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_3887-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_3887-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -4230,9 +4230,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -4247,9 +4247,9 @@
       "source": "\n            Robobloq Qobo – programovatelný interaktivní šnek pro děti, 3-8 let\n        ",
       "sourceNorm": "Robobloq Qobo – programovatelný interaktivní šnek pro děti, 3-8 let",
       "dst": {
-        "sk": "Robobloq Qobo – programovateľný interaktívny šnek pre deti, 3-8 rokov",
-        "en": "Robobloq Qobo – a programmable interactive snail for children aged 3-8 years",
-        "de": "Robobloq Qobo – programmierbarer interaktiver Schnecke für Kinder von 3 bis 8 Jahren"
+        "sk": "\n            Robobloq Qobo – programovateľný interaktívny šnek pre deti, 3-8 rokov\n        ",
+        "en": "\n            Robobloq Qobo – a programmable interactive snail for children aged 3-8 years\n        ",
+        "de": "\n            Robobloq Qobo – programmierbarer interaktiver Schnecke für Kinder von 3 bis 8 Jahren\n        "
       }
     },
     {
@@ -4264,9 +4264,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -4298,16 +4298,16 @@
       "source": "\n        Hraje si\n\n    ",
       "sourceNorm": "Hraje si",
       "dst": {
-        "sk": "Hrá si",
-        "en": "It plays.",
-        "de": "Spielt."
+        "sk": "\n        Hrá si\n\n    ",
+        "en": "\n        It plays.\n\n    ",
+        "de": "\n        Spielt.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.854e3384ae.9d52cfec57",
+      "key": "645a2602428b.b523ea25e3.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_5653-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_5653-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -4315,9 +4315,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -4332,9 +4332,9 @@
       "source": "\n            Plegium smart pepřový sprej - černý\n        ",
       "sourceNorm": "Plegium smart pepřový sprej - černý",
       "dst": {
-        "sk": "Plegium smart korenistý sprej - čierny",
-        "en": "Plegium Smart Pepper Spray - Black",
-        "de": "Plegium Smart Pfefferspray - schwarz"
+        "sk": "\n            Plegium smart korenistý sprej - čierny\n        ",
+        "en": "\n            Plegium Smart Pepper Spray - Black\n        ",
+        "de": "\n            Plegium Smart Pfefferspray - schwarz\n        "
       }
     },
     {
@@ -4349,9 +4349,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -4372,10 +4372,10 @@
       }
     },
     {
-      "key": "645a2602428b.74f1280fa5.9d52cfec57",
+      "key": "645a2602428b.f0ebe50e62.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_2ahb7n-Products_afms7j-Product_6158-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1763-Module_7krj1b-Products_g4k7bn-Product_6158-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -4383,9 +4383,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -4434,9 +4434,9 @@
       "source": "\n            Marshall Major IV - bezdrátová bluetooth sluchátka - černá\n        ",
       "sourceNorm": "Marshall Major IV - bezdrátová bluetooth sluchátka - černá",
       "dst": {
-        "sk": "Marshall Major IV - bezdrôtové bluetooth slúchadlá - čierna",
-        "en": "Marshall Major IV - wireless Bluetooth headphones - black",
-        "de": "Marshall Major IV - kabellose Bluetooth-Kopfhörer - schwarz"
+        "sk": "\n            Marshall Major IV - bezdrôtové bluetooth slúchadlá - čierna\n        ",
+        "en": "\n            Marshall Major IV - wireless Bluetooth headphones - black\n        ",
+        "de": "\n            Marshall Major IV - kabellose Bluetooth-Kopfhörer - schwarz\n        "
       }
     },
     {
@@ -4451,9 +4451,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -4485,9 +4485,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -4502,9 +4502,9 @@
       "source": "\n        Doprodej\n\n    ",
       "sourceNorm": "Doprodej",
       "dst": {
-        "sk": "Doprodej",
-        "en": "Clearance Sale",
-        "de": "Abverkauf"
+        "sk": "\n        Doprodej\n\n    ",
+        "en": "\n        Clearance Sale\n\n    ",
+        "de": "\n        Abverkauf\n\n    "
       }
     },
     {
@@ -4519,9 +4519,9 @@
       "source": "\n        Relaxuje\n\n    ",
       "sourceNorm": "Relaxuje",
       "dst": {
-        "sk": "Relaxuje",
-        "en": "Relaxing",
-        "de": "Entspannt"
+        "sk": "\n        Relaxuje\n\n    ",
+        "en": "\n        Relaxing\n\n    ",
+        "de": "\n        Entspannt\n\n    "
       }
     },
     {
@@ -4536,15 +4536,16 @@
       "source": "\n        Baví se\n\n    ",
       "sourceNorm": "Baví se",
       "dst": {
-        "sk": "Baví sa",
-        "en": "Enjoy!"
+        "sk": "\n        Baví sa\n\n    ",
+        "en": "\n        Enjoy!\n\n    ",
+        "de": "\n        Es macht Spaß\n\n    "
       }
     },
     {
-      "key": "645a2602428b.a8b719edad.9d52cfec57",
+      "key": "645a2602428b.97390a70d0.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_6077-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_6077-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -4552,9 +4553,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -4569,9 +4570,9 @@
       "source": "\n            Spello by Epico - skládací bezdrátová nabíječka 3v1, bílá\n        ",
       "sourceNorm": "Spello by Epico - skládací bezdrátová nabíječka 3v1, bílá",
       "dst": {
-        "sk": "Spello by Epico - skladacia bezdrôtová nabíjačka 3v1, biela",
-        "en": "Spello by Epico - 3-in-1 Foldable Wireless Charger, White",
-        "de": "Spello von Epico - faltbare kabellose 3-in-1-Ladestation, weiß"
+        "sk": "\n            Spello by Epico - skladacia bezdrôtová nabíjačka 3v1, biela\n        ",
+        "en": "\n            Spello by Epico - 3-in-1 Foldable Wireless Charger, White\n        ",
+        "de": "\n            Spello von Epico - faltbare kabellose 3-in-1-Ladestation, weiß\n        "
       }
     },
     {
@@ -4586,9 +4587,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -4620,16 +4621,16 @@
       "source": "\n        Furt maká\n\n    ",
       "sourceNorm": "Furt maká",
       "dst": {
-        "sk": "Stále pracuje.",
-        "en": "It keeps working.",
-        "de": "Furt funktioniert."
+        "sk": "\n        Stále pracuje.\n\n    ",
+        "en": "\n        It keeps working.\n\n    ",
+        "de": "\n        Furt funktioniert.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.09c1840529.9d52cfec57",
+      "key": "645a2602428b.dc64944241.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_6881-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_6881-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -4637,9 +4638,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -4654,9 +4655,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -4677,10 +4678,10 @@
       }
     },
     {
-      "key": "645a2602428b.2d68521d8b.9d52cfec57",
+      "key": "645a2602428b.ee6d0365e3.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_7109-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_7109-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -4688,9 +4689,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -4705,9 +4706,9 @@
       "source": "\n            Spello by Epico - solární powerbanka, 24 000mAh\n        ",
       "sourceNorm": "Spello by Epico - solární powerbanka, 24 000mAh",
       "dst": {
-        "sk": "Spello by Epico - solárna powerbanka, 24 000mAh",
-        "en": "Spello by Epico - solar power bank, 24,000mAh",
-        "de": "Spello von Epico - Solar-Powerbank, 24.000 mAh"
+        "sk": "\n            Spello by Epico - solárna powerbanka, 24 000mAh\n        ",
+        "en": "\n            Spello by Epico - solar power bank, 24,000mAh\n        ",
+        "de": "\n            Spello von Epico - Solar-Powerbank, 24.000 mAh\n        "
       }
     },
     {
@@ -4722,9 +4723,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -4756,16 +4757,16 @@
       "source": "\n        Furt maká\n\n    ",
       "sourceNorm": "Furt maká",
       "dst": {
-        "sk": "Stále pracuje.",
-        "en": "It keeps working.",
-        "de": "Furt funktioniert."
+        "sk": "\n        Stále pracuje.\n\n    ",
+        "en": "\n        It keeps working.\n\n    ",
+        "de": "\n        Furt funktioniert.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.7a76cfb5e2.9d52cfec57",
+      "key": "645a2602428b.e28609ed05.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_7342-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_7342-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -4773,9 +4774,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -4790,9 +4791,9 @@
       "source": "\n            Secrid Miniwallet Stich, peněženka, modrá magnólie\n        ",
       "sourceNorm": "Secrid Miniwallet Stich, peněženka, modrá magnólie",
       "dst": {
-        "sk": "Secrid Miniwallet Stich, peňaženka, modrá magnólia",
-        "en": "Secrid Miniwallet Stich, wallet, blue magnolia",
-        "de": "Secrid Miniwallet Stich, Geldbörse, blaue Magnolie"
+        "sk": "\n            Secrid Miniwallet Stich, peňaženka, modrá magnólia\n        ",
+        "en": "\n            Secrid Miniwallet Stich, wallet, blue magnolia\n        ",
+        "de": "\n            Secrid Miniwallet Stich, Geldbörse, blaue Magnolie\n        "
       }
     },
     {
@@ -4807,9 +4808,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -4841,9 +4842,9 @@
       "source": "\n        Doprodej\n\n    ",
       "sourceNorm": "Doprodej",
       "dst": {
-        "sk": "Doprodej",
-        "en": "Clearance Sale",
-        "de": "Abverkauf"
+        "sk": "\n        Doprodej\n\n    ",
+        "en": "\n        Clearance Sale\n\n    ",
+        "de": "\n        Abverkauf\n\n    "
       }
     },
     {
@@ -4858,16 +4859,16 @@
       "source": "\n        Parádí se\n\n    ",
       "sourceNorm": "Parádí se",
       "dst": {
-        "sk": "Parádi sa",
-        "en": "It looks great!",
-        "de": "Es sieht großartig aus."
+        "sk": "\n        Parádi sa\n\n    ",
+        "en": "\n        It looks great!\n\n    ",
+        "de": "\n        Es sieht großartig aus.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.86c8cf53be.9d52cfec57",
+      "key": "645a2602428b.75c114a9a7.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_7467-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_7467-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -4875,9 +4876,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -4892,9 +4893,9 @@
       "source": "\n            Marshall Major IV - bezdrátová bluetooth sluchátka - černá\n        ",
       "sourceNorm": "Marshall Major IV - bezdrátová bluetooth sluchátka - černá",
       "dst": {
-        "sk": "Marshall Major IV - bezdrôtové bluetooth slúchadlá - čierna",
-        "en": "Marshall Major IV - wireless Bluetooth headphones - black",
-        "de": "Marshall Major IV - kabellose Bluetooth-Kopfhörer - schwarz"
+        "sk": "\n            Marshall Major IV - bezdrôtové bluetooth slúchadlá - čierna\n        ",
+        "en": "\n            Marshall Major IV - wireless Bluetooth headphones - black\n        ",
+        "de": "\n            Marshall Major IV - kabellose Bluetooth-Kopfhörer - schwarz\n        "
       }
     },
     {
@@ -4909,9 +4910,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -4943,9 +4944,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -4960,9 +4961,9 @@
       "source": "\n        Doprodej\n\n    ",
       "sourceNorm": "Doprodej",
       "dst": {
-        "sk": "Doprodej",
-        "en": "Clearance Sale",
-        "de": "Abverkauf"
+        "sk": "\n        Doprodej\n\n    ",
+        "en": "\n        Clearance Sale\n\n    ",
+        "de": "\n        Abverkauf\n\n    "
       }
     },
     {
@@ -4977,9 +4978,9 @@
       "source": "\n        Relaxuje\n\n    ",
       "sourceNorm": "Relaxuje",
       "dst": {
-        "sk": "Relaxuje",
-        "en": "Relaxing",
-        "de": "Entspannt"
+        "sk": "\n        Relaxuje\n\n    ",
+        "en": "\n        Relaxing\n\n    ",
+        "de": "\n        Entspannt\n\n    "
       }
     },
     {
@@ -4994,15 +4995,16 @@
       "source": "\n        Baví se\n\n    ",
       "sourceNorm": "Baví se",
       "dst": {
-        "sk": "Baví sa",
-        "en": "Enjoy!"
+        "sk": "\n        Baví sa\n\n    ",
+        "en": "\n        Enjoy!\n\n    ",
+        "de": "\n        Es macht Spaß\n\n    "
       }
     },
     {
-      "key": "645a2602428b.c928aa37d1.9d52cfec57",
+      "key": "645a2602428b.9515aeb48f.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_6077-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_6077-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -5010,9 +5012,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -5027,9 +5029,9 @@
       "source": "\n            Spello by Epico - skládací bezdrátová nabíječka 3v1, bílá\n        ",
       "sourceNorm": "Spello by Epico - skládací bezdrátová nabíječka 3v1, bílá",
       "dst": {
-        "sk": "Spello by Epico - skladacia bezdrôtová nabíjačka 3v1, biela",
-        "en": "Spello by Epico - 3-in-1 Foldable Wireless Charger, White",
-        "de": "Spello von Epico - faltbare kabellose 3-in-1-Ladestation, weiß"
+        "sk": "\n            Spello by Epico - skladacia bezdrôtová nabíjačka 3v1, biela\n        ",
+        "en": "\n            Spello by Epico - 3-in-1 Foldable Wireless Charger, White\n        ",
+        "de": "\n            Spello von Epico - faltbare kabellose 3-in-1-Ladestation, weiß\n        "
       }
     },
     {
@@ -5044,9 +5046,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -5078,16 +5080,16 @@
       "source": "\n        Furt maká\n\n    ",
       "sourceNorm": "Furt maká",
       "dst": {
-        "sk": "Stále pracuje.",
-        "en": "It keeps working.",
-        "de": "Furt funktioniert."
+        "sk": "\n        Stále pracuje.\n\n    ",
+        "en": "\n        It keeps working.\n\n    ",
+        "de": "\n        Furt funktioniert.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.b9e42f5241.9d52cfec57",
+      "key": "645a2602428b.5ef844d1b9.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_6881-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_6881-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -5095,9 +5097,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -5112,9 +5114,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -5135,10 +5137,10 @@
       }
     },
     {
-      "key": "645a2602428b.231861e7f3.9d52cfec57",
+      "key": "645a2602428b.eaa516a750.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_7109-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_7109-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -5146,9 +5148,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -5163,9 +5165,9 @@
       "source": "\n            Spello by Epico - solární powerbanka, 24 000mAh\n        ",
       "sourceNorm": "Spello by Epico - solární powerbanka, 24 000mAh",
       "dst": {
-        "sk": "Spello by Epico - solárna powerbanka, 24 000mAh",
-        "en": "Spello by Epico - solar power bank, 24,000mAh",
-        "de": "Spello von Epico - Solar-Powerbank, 24.000 mAh"
+        "sk": "\n            Spello by Epico - solárna powerbanka, 24 000mAh\n        ",
+        "en": "\n            Spello by Epico - solar power bank, 24,000mAh\n        ",
+        "de": "\n            Spello von Epico - Solar-Powerbank, 24.000 mAh\n        "
       }
     },
     {
@@ -5180,9 +5182,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -5214,16 +5216,16 @@
       "source": "\n        Furt maká\n\n    ",
       "sourceNorm": "Furt maká",
       "dst": {
-        "sk": "Stále pracuje.",
-        "en": "It keeps working.",
-        "de": "Furt funktioniert."
+        "sk": "\n        Stále pracuje.\n\n    ",
+        "en": "\n        It keeps working.\n\n    ",
+        "de": "\n        Furt funktioniert.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.c3c22ffa95.9d52cfec57",
+      "key": "645a2602428b.d2e21cfa5c.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_7342-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_7342-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -5231,9 +5233,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -5248,9 +5250,9 @@
       "source": "\n            Secrid Miniwallet Stich, peněženka, modrá magnólie\n        ",
       "sourceNorm": "Secrid Miniwallet Stich, peněženka, modrá magnólie",
       "dst": {
-        "sk": "Secrid Miniwallet Stich, peňaženka, modrá magnólia",
-        "en": "Secrid Miniwallet Stich, wallet, blue magnolia",
-        "de": "Secrid Miniwallet Stich, Geldbörse, blaue Magnolie"
+        "sk": "\n            Secrid Miniwallet Stich, peňaženka, modrá magnólia\n        ",
+        "en": "\n            Secrid Miniwallet Stich, wallet, blue magnolia\n        ",
+        "de": "\n            Secrid Miniwallet Stich, Geldbörse, blaue Magnolie\n        "
       }
     },
     {
@@ -5265,9 +5267,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -5299,9 +5301,9 @@
       "source": "\n        Doprodej\n\n    ",
       "sourceNorm": "Doprodej",
       "dst": {
-        "sk": "Doprodej",
-        "en": "Clearance Sale",
-        "de": "Abverkauf"
+        "sk": "\n        Doprodej\n\n    ",
+        "en": "\n        Clearance Sale\n\n    ",
+        "de": "\n        Abverkauf\n\n    "
       }
     },
     {
@@ -5316,16 +5318,16 @@
       "source": "\n        Parádí se\n\n    ",
       "sourceNorm": "Parádí se",
       "dst": {
-        "sk": "Parádi sa",
-        "en": "It looks great!",
-        "de": "Es sieht großartig aus."
+        "sk": "\n        Parádi sa\n\n    ",
+        "en": "\n        It looks great!\n\n    ",
+        "de": "\n        Es sieht großartig aus.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.f5daa6c888.9d52cfec57",
+      "key": "645a2602428b.0953545722.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_7467-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_7467-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -5333,9 +5335,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -5350,9 +5352,9 @@
       "source": "\n            Marshall Major IV - bezdrátová bluetooth sluchátka - černá\n        ",
       "sourceNorm": "Marshall Major IV - bezdrátová bluetooth sluchátka - černá",
       "dst": {
-        "sk": "Marshall Major IV - bezdrôtové bluetooth slúchadlá - čierna",
-        "en": "Marshall Major IV - wireless Bluetooth headphones - black",
-        "de": "Marshall Major IV - kabellose Bluetooth-Kopfhörer - schwarz"
+        "sk": "\n            Marshall Major IV - bezdrôtové bluetooth slúchadlá - čierna\n        ",
+        "en": "\n            Marshall Major IV - wireless Bluetooth headphones - black\n        ",
+        "de": "\n            Marshall Major IV - kabellose Bluetooth-Kopfhörer - schwarz\n        "
       }
     },
     {
@@ -5367,9 +5369,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -5401,9 +5403,9 @@
       "source": "\n        Bestseller\n\n    ",
       "sourceNorm": "Bestseller",
       "dst": {
-        "sk": "Bestseller",
-        "en": "Bestseller",
-        "de": "Bestseller"
+        "sk": "\n        Bestseller\n\n    ",
+        "en": "\n        Bestseller\n\n    ",
+        "de": "\n        Bestseller\n\n    "
       }
     },
     {
@@ -5418,9 +5420,9 @@
       "source": "\n        Doprodej\n\n    ",
       "sourceNorm": "Doprodej",
       "dst": {
-        "sk": "Doprodej",
-        "en": "Clearance Sale",
-        "de": "Abverkauf"
+        "sk": "\n        Doprodej\n\n    ",
+        "en": "\n        Clearance Sale\n\n    ",
+        "de": "\n        Abverkauf\n\n    "
       }
     },
     {
@@ -5435,9 +5437,9 @@
       "source": "\n        Relaxuje\n\n    ",
       "sourceNorm": "Relaxuje",
       "dst": {
-        "sk": "Relaxuje",
-        "en": "Relaxing",
-        "de": "Entspannt"
+        "sk": "\n        Relaxuje\n\n    ",
+        "en": "\n        Relaxing\n\n    ",
+        "de": "\n        Entspannt\n\n    "
       }
     },
     {
@@ -5452,15 +5454,16 @@
       "source": "\n        Baví se\n\n    ",
       "sourceNorm": "Baví se",
       "dst": {
-        "sk": "Baví sa",
-        "en": "Enjoy!"
+        "sk": "\n        Baví sa\n\n    ",
+        "en": "\n        Enjoy!\n\n    ",
+        "de": "\n        Es macht Spaß\n\n    "
       }
     },
     {
-      "key": "645a2602428b.2f9c6e120a.9d52cfec57",
+      "key": "645a2602428b.41c3b5b2f7.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_6077-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_6077-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -5468,9 +5471,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -5485,9 +5488,9 @@
       "source": "\n            Spello by Epico - skládací bezdrátová nabíječka 3v1, bílá\n        ",
       "sourceNorm": "Spello by Epico - skládací bezdrátová nabíječka 3v1, bílá",
       "dst": {
-        "sk": "Spello by Epico - skladacia bezdrôtová nabíjačka 3v1, biela",
-        "en": "Spello by Epico - 3-in-1 Foldable Wireless Charger, White",
-        "de": "Spello von Epico - faltbare kabellose 3-in-1-Ladestation, weiß"
+        "sk": "\n            Spello by Epico - skladacia bezdrôtová nabíjačka 3v1, biela\n        ",
+        "en": "\n            Spello by Epico - 3-in-1 Foldable Wireless Charger, White\n        ",
+        "de": "\n            Spello von Epico - faltbare kabellose 3-in-1-Ladestation, weiß\n        "
       }
     },
     {
@@ -5502,9 +5505,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -5536,16 +5539,16 @@
       "source": "\n        Furt maká\n\n    ",
       "sourceNorm": "Furt maká",
       "dst": {
-        "sk": "Stále pracuje.",
-        "en": "It keeps working.",
-        "de": "Furt funktioniert."
+        "sk": "\n        Stále pracuje.\n\n    ",
+        "en": "\n        It keeps working.\n\n    ",
+        "de": "\n        Furt funktioniert.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.37782b3776.9d52cfec57",
+      "key": "645a2602428b.f53616a203.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_6881-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_6881-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -5553,9 +5556,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -5570,9 +5573,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -5593,10 +5596,10 @@
       }
     },
     {
-      "key": "645a2602428b.ece25b036f.9d52cfec57",
+      "key": "645a2602428b.d2f3aa7110.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_7109-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_7109-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -5604,9 +5607,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -5621,9 +5624,9 @@
       "source": "\n            Spello by Epico - solární powerbanka, 24 000mAh\n        ",
       "sourceNorm": "Spello by Epico - solární powerbanka, 24 000mAh",
       "dst": {
-        "sk": "Spello by Epico - solárna powerbanka, 24 000mAh",
-        "en": "Spello by Epico - solar power bank, 24,000mAh",
-        "de": "Spello von Epico - Solar-Powerbank, 24.000 mAh"
+        "sk": "\n            Spello by Epico - solárna powerbanka, 24 000mAh\n        ",
+        "en": "\n            Spello by Epico - solar power bank, 24,000mAh\n        ",
+        "de": "\n            Spello von Epico - Solar-Powerbank, 24.000 mAh\n        "
       }
     },
     {
@@ -5638,9 +5641,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -5672,16 +5675,16 @@
       "source": "\n        Furt maká\n\n    ",
       "sourceNorm": "Furt maká",
       "dst": {
-        "sk": "Stále pracuje.",
-        "en": "It keeps working.",
-        "de": "Furt funktioniert."
+        "sk": "\n        Stále pracuje.\n\n    ",
+        "en": "\n        It keeps working.\n\n    ",
+        "de": "\n        Furt funktioniert.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.2ccab822b4.9d52cfec57",
+      "key": "645a2602428b.3d48bb84d6.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_7342-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_7342-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -5689,9 +5692,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -5706,9 +5709,9 @@
       "source": "\n            Secrid Miniwallet Stich, peněženka, modrá magnólie\n        ",
       "sourceNorm": "Secrid Miniwallet Stich, peněženka, modrá magnólie",
       "dst": {
-        "sk": "Secrid Miniwallet Stich, peňaženka, modrá magnólia",
-        "en": "Secrid Miniwallet Stich, wallet, blue magnolia",
-        "de": "Secrid Miniwallet Stich, Geldbörse, blaue Magnolie"
+        "sk": "\n            Secrid Miniwallet Stich, peňaženka, modrá magnólia\n        ",
+        "en": "\n            Secrid Miniwallet Stich, wallet, blue magnolia\n        ",
+        "de": "\n            Secrid Miniwallet Stich, Geldbörse, blaue Magnolie\n        "
       }
     },
     {
@@ -5723,9 +5726,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -5757,9 +5760,9 @@
       "source": "\n        Doprodej\n\n    ",
       "sourceNorm": "Doprodej",
       "dst": {
-        "sk": "Doprodej",
-        "en": "Clearance Sale",
-        "de": "Abverkauf"
+        "sk": "\n        Doprodej\n\n    ",
+        "en": "\n        Clearance Sale\n\n    ",
+        "de": "\n        Abverkauf\n\n    "
       }
     },
     {
@@ -5774,16 +5777,16 @@
       "source": "\n        Parádí se\n\n    ",
       "sourceNorm": "Parádí se",
       "dst": {
-        "sk": "Parádi sa",
-        "en": "It looks great!",
-        "de": "Es sieht großartig aus."
+        "sk": "\n        Parádi sa\n\n    ",
+        "en": "\n        It looks great!\n\n    ",
+        "de": "\n        Es sieht großartig aus.\n\n    "
       }
     },
     {
-      "key": "645a2602428b.0561cc713b.9d52cfec57",
+      "key": "645a2602428b.4fe0eb47ac.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_bk1chz-Products_0b8y44-Product_7467-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_1766-Module_11nn4o-Products_rc7ypf-Product_7467-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -5791,9 +5794,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -5842,9 +5845,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -5859,9 +5862,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -5910,9 +5913,9 @@
       "source": "\n        Akce!\n\n    ",
       "sourceNorm": "Akce!",
       "dst": {
-        "sk": "Akcia!",
-        "en": "Promotion!",
-        "de": "Aktion!"
+        "sk": "\n        Akcia!\n\n    ",
+        "en": "\n        Promotion!\n\n    ",
+        "de": "\n        Aktion!\n\n    "
       }
     },
     {
@@ -5927,9 +5930,9 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
@@ -5967,10 +5970,10 @@
       }
     },
     {
-      "key": "645a2602428b.48ae55661b.9d52cfec57",
+      "key": "645a2602428b.c372166985.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20939-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20939-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -5978,9 +5981,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -5995,9 +5998,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -6012,9 +6015,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -6063,9 +6066,9 @@
       "source": "\n        Akce!\n\n    ",
       "sourceNorm": "Akce!",
       "dst": {
-        "sk": "Akcia!",
-        "en": "Promotion!",
-        "de": "Aktion!"
+        "sk": "\n        Akcia!\n\n    ",
+        "en": "\n        Promotion!\n\n    ",
+        "de": "\n        Aktion!\n\n    "
       }
     },
     {
@@ -6080,9 +6083,9 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
@@ -6120,10 +6123,10 @@
       }
     },
     {
-      "key": "645a2602428b.1de101c8c9.9d52cfec57",
+      "key": "645a2602428b.53d76a5a63.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20940-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20940-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -6131,9 +6134,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -6148,9 +6151,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -6165,9 +6168,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -6216,9 +6219,9 @@
       "source": "\n        Akce!\n\n    ",
       "sourceNorm": "Akce!",
       "dst": {
-        "sk": "Akcia!",
-        "en": "Promotion!",
-        "de": "Aktion!"
+        "sk": "\n        Akcia!\n\n    ",
+        "en": "\n        Promotion!\n\n    ",
+        "de": "\n        Aktion!\n\n    "
       }
     },
     {
@@ -6233,9 +6236,9 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
@@ -6273,10 +6276,10 @@
       }
     },
     {
-      "key": "645a2602428b.b1feeda419.9d52cfec57",
+      "key": "645a2602428b.0acac66f16.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20941-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20941-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -6284,9 +6287,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -6301,9 +6304,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -6318,9 +6321,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -6352,16 +6355,16 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
-      "key": "645a2602428b.7b63d18387.9d52cfec57",
+      "key": "645a2602428b.f8630d7924.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20945-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20945-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -6369,9 +6372,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -6386,9 +6389,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -6403,9 +6406,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -6454,9 +6457,9 @@
       "source": "\n        Akce!\n\n    ",
       "sourceNorm": "Akce!",
       "dst": {
-        "sk": "Akcia!",
-        "en": "Promotion!",
-        "de": "Aktion!"
+        "sk": "\n        Akcia!\n\n    ",
+        "en": "\n        Promotion!\n\n    ",
+        "de": "\n        Aktion!\n\n    "
       }
     },
     {
@@ -6471,9 +6474,9 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
@@ -6511,10 +6514,10 @@
       }
     },
     {
-      "key": "645a2602428b.9531e2a9b4.9d52cfec57",
+      "key": "645a2602428b.a5f5eeaadb.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20947-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20947-add\"]",
       "index": 0,
       "textIndex": 0,
       "mode": "textnode",
@@ -6522,9 +6525,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -6539,9 +6542,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -6556,9 +6559,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -6607,9 +6610,9 @@
       "source": "\n        Akce!\n\n    ",
       "sourceNorm": "Akce!",
       "dst": {
-        "sk": "Akcia!",
-        "en": "Promotion!",
-        "de": "Aktion!"
+        "sk": "\n        Akcia!\n\n    ",
+        "en": "\n        Promotion!\n\n    ",
+        "de": "\n        Aktion!\n\n    "
       }
     },
     {
@@ -6624,9 +6627,9 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
@@ -6664,10 +6667,10 @@
       }
     },
     {
-      "key": "645a2602428b.ba3d8d9dab.9d52cfec57",
+      "key": "645a2602428b.d6eae2ac80.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20939-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20939-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -6675,9 +6678,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -6692,9 +6695,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -6709,9 +6712,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -6760,9 +6763,9 @@
       "source": "\n        Akce!\n\n    ",
       "sourceNorm": "Akce!",
       "dst": {
-        "sk": "Akcia!",
-        "en": "Promotion!",
-        "de": "Aktion!"
+        "sk": "\n        Akcia!\n\n    ",
+        "en": "\n        Promotion!\n\n    ",
+        "de": "\n        Aktion!\n\n    "
       }
     },
     {
@@ -6777,9 +6780,9 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
@@ -6817,10 +6820,10 @@
       }
     },
     {
-      "key": "645a2602428b.4bfa2349ac.9d52cfec57",
+      "key": "645a2602428b.a25ec47069.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20940-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20940-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -6828,9 +6831,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -6845,9 +6848,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -6862,9 +6865,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -6913,9 +6916,9 @@
       "source": "\n        Akce!\n\n    ",
       "sourceNorm": "Akce!",
       "dst": {
-        "sk": "Akcia!",
-        "en": "Promotion!",
-        "de": "Aktion!"
+        "sk": "\n        Akcia!\n\n    ",
+        "en": "\n        Promotion!\n\n    ",
+        "de": "\n        Aktion!\n\n    "
       }
     },
     {
@@ -6930,9 +6933,9 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
@@ -6970,10 +6973,10 @@
       }
     },
     {
-      "key": "645a2602428b.134410a68a.9d52cfec57",
+      "key": "645a2602428b.7b68983d75.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20941-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20941-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -6981,9 +6984,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -6998,9 +7001,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -7015,9 +7018,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -7049,16 +7052,16 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
-      "key": "645a2602428b.50ae4e037c.9d52cfec57",
+      "key": "645a2602428b.2754290c06.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20945-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20945-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -7066,9 +7069,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -7083,9 +7086,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -7100,9 +7103,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -7151,9 +7154,9 @@
       "source": "\n        Akce!\n\n    ",
       "sourceNorm": "Akce!",
       "dst": {
-        "sk": "Akcia!",
-        "en": "Promotion!",
-        "de": "Aktion!"
+        "sk": "\n        Akcia!\n\n    ",
+        "en": "\n        Promotion!\n\n    ",
+        "de": "\n        Aktion!\n\n    "
       }
     },
     {
@@ -7168,9 +7171,9 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
@@ -7208,10 +7211,10 @@
       }
     },
     {
-      "key": "645a2602428b.3289432a93.9d52cfec57",
+      "key": "645a2602428b.b91d596dec.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20947-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20947-add\"]",
       "index": 1,
       "textIndex": 0,
       "mode": "textnode",
@@ -7219,9 +7222,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -7236,9 +7239,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -7253,9 +7256,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -7304,9 +7307,9 @@
       "source": "\n        Akce!\n\n    ",
       "sourceNorm": "Akce!",
       "dst": {
-        "sk": "Akcia!",
-        "en": "Promotion!",
-        "de": "Aktion!"
+        "sk": "\n        Akcia!\n\n    ",
+        "en": "\n        Promotion!\n\n    ",
+        "de": "\n        Aktion!\n\n    "
       }
     },
     {
@@ -7321,9 +7324,9 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
@@ -7361,10 +7364,10 @@
       }
     },
     {
-      "key": "645a2602428b.e2fb7f1352.9d52cfec57",
+      "key": "645a2602428b.d65292f2ed.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20939-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20939-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -7372,9 +7375,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -7389,9 +7392,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -7406,9 +7409,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -7457,9 +7460,9 @@
       "source": "\n        Akce!\n\n    ",
       "sourceNorm": "Akce!",
       "dst": {
-        "sk": "Akcia!",
-        "en": "Promotion!",
-        "de": "Aktion!"
+        "sk": "\n        Akcia!\n\n    ",
+        "en": "\n        Promotion!\n\n    ",
+        "de": "\n        Aktion!\n\n    "
       }
     },
     {
@@ -7474,9 +7477,9 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
@@ -7514,10 +7517,10 @@
       }
     },
     {
-      "key": "645a2602428b.d90523a10d.9d52cfec57",
+      "key": "645a2602428b.ac7bf59b56.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20940-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20940-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -7525,9 +7528,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -7542,9 +7545,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -7559,9 +7562,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -7610,9 +7613,9 @@
       "source": "\n        Akce!\n\n    ",
       "sourceNorm": "Akce!",
       "dst": {
-        "sk": "Akcia!",
-        "en": "Promotion!",
-        "de": "Aktion!"
+        "sk": "\n        Akcia!\n\n    ",
+        "en": "\n        Promotion!\n\n    ",
+        "de": "\n        Aktion!\n\n    "
       }
     },
     {
@@ -7627,9 +7630,9 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
@@ -7667,10 +7670,10 @@
       }
     },
     {
-      "key": "645a2602428b.f1c91c9684.9d52cfec57",
+      "key": "645a2602428b.5cee71962c.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20941-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20941-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -7678,9 +7681,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -7695,9 +7698,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -7712,9 +7715,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -7746,16 +7749,16 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
-      "key": "645a2602428b.dabdabc673.9d52cfec57",
+      "key": "645a2602428b.69a938d734.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20945-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20945-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -7763,9 +7766,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -7780,9 +7783,9 @@
       "source": "\n        VO - Ekonomická variata\n\n        ",
       "sourceNorm": "VO - Ekonomická variata",
       "dst": {
-        "sk": "VO - Ekonomická varianta",
-        "en": "VO - Economic Variant",
-        "de": "VO - Wirtschaftliche Variante"
+        "sk": "\n        VO - Ekonomická varianta\n\n        ",
+        "en": "\n        VO - Economic Variant\n\n        ",
+        "de": "\n        VO - Wirtschaftliche Variante\n\n        "
       }
     },
     {
@@ -7797,9 +7800,9 @@
       "source": "\n                skladem\n        ",
       "sourceNorm": "skladem",
       "dst": {
-        "sk": "na sklade",
-        "en": "in stock",
-        "de": "auf Lager"
+        "sk": "\n                na sklade\n        ",
+        "en": "\n                in stock\n        ",
+        "de": "\n                auf Lager\n        "
       }
     },
     {
@@ -7848,9 +7851,9 @@
       "source": "\n        Akce!\n\n    ",
       "sourceNorm": "Akce!",
       "dst": {
-        "sk": "Akcia!",
-        "en": "Promotion!",
-        "de": "Aktion!"
+        "sk": "\n        Akcia!\n\n    ",
+        "en": "\n        Promotion!\n\n    ",
+        "de": "\n        Aktion!\n\n    "
       }
     },
     {
@@ -7865,9 +7868,9 @@
       "source": "\n        Novinka\n\n    ",
       "sourceNorm": "Novinka",
       "dst": {
-        "sk": "Novinka",
-        "en": "New Arrival",
-        "de": "Neuheit"
+        "sk": "\n        Novinka\n\n    ",
+        "en": "\n        New Arrival\n\n    ",
+        "de": "\n        Neuheit\n\n    "
       }
     },
     {
@@ -7905,10 +7908,10 @@
       }
     },
     {
-      "key": "645a2602428b.8cea410cac.9d52cfec57",
+      "key": "645a2602428b.32fa57deb5.9d52cfec57",
       "parentId": "snippet--content",
       "parent": "",
-      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_9d1cwr-Products_tem9rt-Product_20947-add\"]",
+      "selector": "a[href=\"/?do=Section_198-Slide_205-Column_2559-Module_fhw54o-Products_ypge7s-Product_20947-add\"]",
       "index": 2,
       "textIndex": 0,
       "mode": "textnode",
@@ -7916,9 +7919,9 @@
       "source": " Přidat do košíku\n            ",
       "sourceNorm": "Přidat do košíku",
       "dst": {
-        "sk": "Pridať do košíka",
-        "en": "Add to cart",
-        "de": "In den Warenkorb legen"
+        "sk": " Pridať do košíka\n            ",
+        "en": " Add to cart\n            ",
+        "de": " In den Warenkorb legen\n            "
       }
     },
     {
@@ -7933,9 +7936,9 @@
       "source": "\n        Your browser does not support the video tag.\n    ",
       "sourceNorm": "Your browser does not support the video tag.",
       "dst": {
-        "sk": "Váš prehliadač nepodporuje video tag.",
-        "en": "Your browser does not support the video tag.",
-        "de": "Ihr Browser unterstützt das Video-Tag nicht."
+        "sk": "\n        Váš prehliadač nepodporuje video tag.\n    ",
+        "en": "\n        Your browser does not support the video tag.\n    ",
+        "de": "\n        Ihr Browser unterstützt das Video-Tag nicht.\n    "
       }
     },
     {
@@ -7967,9 +7970,9 @@
       "source": "Nabízíme široký výběr náhradních dílů pro ",
       "sourceNorm": "Nabízíme široký výběr náhradních dílů pro",
       "dst": {
-        "sk": "Ponúkame široký výber náhradných dielov pre",
-        "en": "We offer a wide selection of spare parts for",
-        "de": "Wir bieten eine große Auswahl an Ersatzteilen für"
+        "sk": "Ponúkame široký výber náhradných dielov pre ",
+        "en": "We offer a wide selection of spare parts for ",
+        "de": "Wir bieten eine große Auswahl an Ersatzteilen für "
       }
     },
     {
@@ -8035,8 +8038,8 @@
       "source": ", ale i ",
       "sourceNorm": ", ale i",
       "dst": {
-        "sk": ", ale aj",
-        "en": ", but also"
+        "sk": ", ale aj ",
+        "en": ", but also "
       }
     },
     {
@@ -8068,9 +8071,9 @@
       "source": " zařízení, také máme široukou nabídku ",
       "sourceNorm": "zařízení, také máme široukou nabídku",
       "dst": {
-        "sk": "zariadenie, tiež máme širokú ponuku",
-        "en": "devices, we also have a wide range of offerings",
-        "de": "Geräte, außerdem haben wir ein breites Angebot."
+        "sk": " zariadenie, tiež máme širokú ponuku ",
+        "en": " devices, we also have a wide range of offerings ",
+        "de": " Geräte, außerdem haben wir ein breites Angebot. "
       }
     },
     {
@@ -8102,9 +8105,9 @@
       "source": " pro B2B. Vše máme skladem a připravené k rychlému odeslání!",
       "sourceNorm": "pro B2B. Vše máme skladem a připravené k rychlému odeslání!",
       "dst": {
-        "sk": "pre B2B. Všetko máme na sklade a pripravené na rýchle odoslanie!",
-        "en": "for B2B. We have everything in stock and ready for quick dispatch!",
-        "de": "für B2B. Alles haben wir auf Lager und bereit für den schnellen Versand!"
+        "sk": " pre B2B. Všetko máme na sklade a pripravené na rýchle odoslanie!",
+        "en": " for B2B. We have everything in stock and ready for quick dispatch!",
+        "de": " für B2B. Alles haben wir auf Lager und bereit für den schnellen Versand!"
       }
     },
     {
@@ -8272,9 +8275,9 @@
       "source": "Powerbanky Epico kombinující ",
       "sourceNorm": "Powerbanky Epico kombinující",
       "dst": {
-        "sk": "Powerbanky Epico kombinujúce",
-        "en": "Epico power banks combining",
-        "de": "Powerbanks von Epico kombinieren"
+        "sk": "Powerbanky Epico kombinujúce ",
+        "en": "Epico power banks combining ",
+        "de": "Powerbanks von Epico kombinieren "
       }
     },
     {
@@ -8459,9 +8462,9 @@
       "source": "Pro ",
       "sourceNorm": "Pro",
       "dst": {
-        "sk": "Pro",
-        "en": "For",
-        "de": "Pro"
+        "sk": "Pro ",
+        "en": "For ",
+        "de": "Pro "
       }
     },
     {
@@ -8510,9 +8513,9 @@
       "source": " zážitek z jízdy.",
       "sourceNorm": "zážitek z jízdy.",
       "dst": {
-        "sk": "zážitok z jazdy.",
-        "en": "driving experience.",
-        "de": "Fahrerlebnis."
+        "sk": " zážitok z jazdy.",
+        "en": " driving experience.",
+        "de": " Fahrerlebnis."
       }
     },
     {
@@ -8663,9 +8666,9 @@
       "source": "Chytrý zámek a Váš ",
       "sourceNorm": "Chytrý zámek a Váš",
       "dst": {
-        "sk": "Chytrý zámok a Váš",
-        "en": "Smart lock and Your",
-        "de": "Intelligentes Schloss und Ihr"
+        "sk": "Chytrý zámok a Váš ",
+        "en": "Smart lock and Your ",
+        "de": "Intelligentes Schloss und Ihr "
       }
     },
     {
@@ -8680,9 +8683,9 @@
       "source": "telefon. ",
       "sourceNorm": "telefon.",
       "dst": {
-        "sk": "telefon.",
-        "en": "phone.",
-        "de": "Telefon."
+        "sk": "telefon. ",
+        "en": "phone. ",
+        "de": "Telefon. "
       }
     },
     {
@@ -8697,9 +8700,9 @@
       "source": "To je ",
       "sourceNorm": "To je",
       "dst": {
-        "sk": "To je",
-        "en": "This is",
-        "de": "Das ist"
+        "sk": "To je ",
+        "en": "This is ",
+        "de": "Das ist "
       }
     },
     {
@@ -8714,8 +8717,8 @@
       "source": "vše ",
       "sourceNorm": "vše",
       "dst": {
-        "sk": "všetko",
-        "en": "everything"
+        "sk": "všetko ",
+        "en": "everything "
       }
     },
     {
@@ -8866,9 +8869,9 @@
       "source": "Powerbanky Epico kombinující ",
       "sourceNorm": "Powerbanky Epico kombinující",
       "dst": {
-        "sk": "Powerbanky Epico kombinujúce",
-        "en": "Epico power banks combining",
-        "de": "Powerbanks von Epico kombinieren"
+        "sk": "Powerbanky Epico kombinujúce ",
+        "en": "Epico power banks combining ",
+        "de": "Powerbanks von Epico kombinieren "
       }
     },
     {
@@ -9053,9 +9056,9 @@
       "source": "Pro ",
       "sourceNorm": "Pro",
       "dst": {
-        "sk": "Pro",
-        "en": "For",
-        "de": "Pro"
+        "sk": "Pro ",
+        "en": "For ",
+        "de": "Pro "
       }
     },
     {
@@ -9104,9 +9107,9 @@
       "source": " zážitek z jízdy.",
       "sourceNorm": "zážitek z jízdy.",
       "dst": {
-        "sk": "zážitok z jazdy.",
-        "en": "driving experience.",
-        "de": "Fahrerlebnis."
+        "sk": " zážitok z jazdy.",
+        "en": " driving experience.",
+        "de": " Fahrerlebnis."
       }
     },
     {
@@ -9257,9 +9260,9 @@
       "source": "Chytrý zámek a Váš ",
       "sourceNorm": "Chytrý zámek a Váš",
       "dst": {
-        "sk": "Chytrý zámok a Váš",
-        "en": "Smart lock and Your",
-        "de": "Intelligentes Schloss und Ihr"
+        "sk": "Chytrý zámok a Váš ",
+        "en": "Smart lock and Your ",
+        "de": "Intelligentes Schloss und Ihr "
       }
     },
     {
@@ -9274,9 +9277,9 @@
       "source": "telefon. ",
       "sourceNorm": "telefon.",
       "dst": {
-        "sk": "telefon.",
-        "en": "phone.",
-        "de": "Telefon."
+        "sk": "telefon. ",
+        "en": "phone. ",
+        "de": "Telefon. "
       }
     },
     {
@@ -9291,9 +9294,9 @@
       "source": "To je ",
       "sourceNorm": "To je",
       "dst": {
-        "sk": "To je",
-        "en": "This is",
-        "de": "Das ist"
+        "sk": "To je ",
+        "en": "This is ",
+        "de": "Das ist "
       }
     },
     {
@@ -9308,8 +9311,8 @@
       "source": "vše ",
       "sourceNorm": "vše",
       "dst": {
-        "sk": "všetko",
-        "en": "everything"
+        "sk": "všetko ",
+        "en": "everything "
       }
     },
     {
@@ -9460,9 +9463,9 @@
       "source": "Powerbanky Epico kombinující ",
       "sourceNorm": "Powerbanky Epico kombinující",
       "dst": {
-        "sk": "Powerbanky Epico kombinujúce",
-        "en": "Epico power banks combining",
-        "de": "Powerbanks von Epico kombinieren"
+        "sk": "Powerbanky Epico kombinujúce ",
+        "en": "Epico power banks combining ",
+        "de": "Powerbanks von Epico kombinieren "
       }
     },
     {
@@ -10121,8 +10124,8 @@
       "source": "Lucie ",
       "sourceNorm": "Lucie",
       "dst": {
-        "sk": "Lucia",
-        "en": "Lucie"
+        "sk": "Lucia ",
+        "en": "Lucie "
       }
     },
     {
@@ -10747,8 +10750,8 @@
       "source": "Lucie ",
       "sourceNorm": "Lucie",
       "dst": {
-        "sk": "Lucia",
-        "en": "Lucie"
+        "sk": "Lucia ",
+        "en": "Lucie "
       }
     },
     {
@@ -11120,9 +11123,9 @@
       "source": " 1) logo Heuréky ",
       "sourceNorm": "1) logo Heuréky",
       "dst": {
-        "sk": "1) logo Heuréky",
-        "en": "1) Heureka logo",
-        "de": "1) Heuréka-Logo"
+        "sk": " 1) logo Heuréky ",
+        "en": " 1) Heureka logo ",
+        "de": " 1) Heuréka-Logo "
       }
     },
     {
@@ -11137,9 +11140,9 @@
       "source": " 2) hodnocení ",
       "sourceNorm": "2) hodnocení",
       "dst": {
-        "sk": "2) hodnotenie",
-        "en": "2) evaluation",
-        "de": "2) Bewertung"
+        "sk": " 2) hodnotenie ",
+        "en": " 2) evaluation ",
+        "de": " 2) Bewertung "
       }
     },
     {
@@ -11171,9 +11174,9 @@
       "source": " 3) tlačítko ",
       "sourceNorm": "3) tlačítko",
       "dst": {
-        "sk": "3) tlačidlo",
-        "en": "3) button",
-        "de": "3) Taste"
+        "sk": " 3) tlačidlo ",
+        "en": " 3) button ",
+        "de": " 3) Taste "
       }
     },
     {
@@ -11188,9 +11191,9 @@
       "source": "\n          Naše hodnocení na Heuréce\n        ",
       "sourceNorm": "Naše hodnocení na Heuréce",
       "dst": {
-        "sk": "Naše hodnotenie na Heuréke",
-        "en": "Our rating on Heureka",
-        "de": "Unsere Bewertung auf Heureka"
+        "sk": "\n          Naše hodnotenie na Heuréke\n        ",
+        "en": "\n          Our rating on Heureka\n        ",
+        "de": "\n          Unsere Bewertung auf Heureka\n        "
       }
     },
     {
@@ -11205,9 +11208,9 @@
       "source": " 1) logo Facebooku ",
       "sourceNorm": "1) logo Facebooku",
       "dst": {
-        "sk": "1) logo Facebooku",
-        "en": "1) Facebook logo",
-        "de": "1) Facebook-Logo"
+        "sk": " 1) logo Facebooku ",
+        "en": " 1) Facebook logo ",
+        "de": " 1) Facebook-Logo "
       }
     },
     {
@@ -11222,9 +11225,9 @@
       "source": " 2) hodnocení (nahraď reálnými čísly, pokud chceš) ",
       "sourceNorm": "2) hodnocení (nahraď reálnými čísly, pokud chceš)",
       "dst": {
-        "sk": "2) hodnotenie",
-        "en": "2) rating (replace with actual numbers if you wish)",
-        "de": "2) Bewertung (ersetze durch reale Zahlen, wenn du möchtest)"
+        "sk": " 2) hodnotenie ",
+        "en": " 2) rating (replace with actual numbers if you wish) ",
+        "de": " 2) Bewertung (ersetze durch reale Zahlen, wenn du möchtest) "
       }
     },
     {
@@ -11239,9 +11242,9 @@
       "source": " 3) tlačítko ",
       "sourceNorm": "3) tlačítko",
       "dst": {
-        "sk": "3) tlačidlo",
-        "en": "3) button",
-        "de": "3) Taste"
+        "sk": " 3) tlačidlo ",
+        "en": " 3) button ",
+        "de": " 3) Taste "
       }
     },
     {
@@ -11256,9 +11259,9 @@
       "source": "\n          Doporučite nás na Facebooku\n        ",
       "sourceNorm": "Doporučite nás na Facebooku",
       "dst": {
-        "sk": "Odporučte nás na Facebooku.",
-        "en": "Recommend us on Facebook",
-        "de": "Empfehlen Sie uns auf Facebook."
+        "sk": "\n          Odporučte nás na Facebooku.\n        ",
+        "en": "\n          Recommend us on Facebook\n        ",
+        "de": "\n          Empfehlen Sie uns auf Facebook.\n        "
       }
     },
     {
@@ -11273,9 +11276,9 @@
       "source": " 1. sloupec: logo Google ",
       "sourceNorm": "1. sloupec: logo Google",
       "dst": {
-        "sk": "1. stĺpec: logo Google",
-        "en": "1. Column: Google logo",
-        "de": "1. Spalte: Google-Logo"
+        "sk": " 1. stĺpec: logo Google ",
+        "en": " 1. Column: Google logo ",
+        "de": " 1. Spalte: Google-Logo "
       }
     },
     {
@@ -11290,9 +11293,9 @@
       "source": " 2. sloupec: hodnocení ",
       "sourceNorm": "2. sloupec: hodnocení",
       "dst": {
-        "sk": "2. stĺpec: hodnotenie",
-        "en": "2nd column: rating",
-        "de": "2. Spalte: Bewertung"
+        "sk": " 2. stĺpec: hodnotenie ",
+        "en": " 2nd column: rating ",
+        "de": " 2. Spalte: Bewertung "
       }
     },
     {
@@ -11307,8 +11310,8 @@
       "source": " z 5",
       "sourceNorm": "z 5",
       "dst": {
-        "sk": "z 5",
-        "en": "from 5"
+        "sk": " z 5",
+        "en": " from 5"
       }
     },
     {
@@ -11340,9 +11343,9 @@
       "source": " 3. sloupec: tlačítko ",
       "sourceNorm": "3. sloupec: tlačítko",
       "dst": {
-        "sk": "3. stĺpec: tlačidlo",
-        "en": "3rd column: button",
-        "de": "3. Spalte: Taste"
+        "sk": " 3. stĺpec: tlačidlo ",
+        "en": " 3rd column: button ",
+        "de": " 3. Spalte: Taste "
       }
     },
     {
@@ -11357,9 +11360,9 @@
       "source": "\n          Doporučte nás na Google\n        ",
       "sourceNorm": "Doporučte nás na Google",
       "dst": {
-        "sk": "Odporučte nás na Google",
-        "en": "Recommend us on Google",
-        "de": "Empfehlen Sie uns auf Google"
+        "sk": "\n          Odporučte nás na Google\n        ",
+        "en": "\n          Recommend us on Google\n        ",
+        "de": "\n          Empfehlen Sie uns auf Google\n        "
       }
     },
     {
@@ -11374,9 +11377,9 @@
       "source": " 1) Logo Firmy.cz ",
       "sourceNorm": "1) Logo Firmy.cz",
       "dst": {
-        "sk": "1) Logo Firmy.sk",
-        "en": "1) Company Logo.cz",
-        "de": "1) Logo Firmy.cz"
+        "sk": " 1) Logo Firmy.sk ",
+        "en": " 1) Company Logo.cz ",
+        "de": " 1) Logo Firmy.cz "
       }
     },
     {
@@ -11391,9 +11394,9 @@
       "source": " 2) Hodnocení ",
       "sourceNorm": "2) Hodnocení",
       "dst": {
-        "sk": "2) Hodnotenie",
-        "en": "2) Evaluation",
-        "de": "2) Bewertung"
+        "sk": " 2) Hodnotenie ",
+        "en": " 2) Evaluation ",
+        "de": " 2) Bewertung "
       }
     },
     {
@@ -11408,9 +11411,9 @@
       "source": " 3) Tlačítko ",
       "sourceNorm": "3) Tlačítko",
       "dst": {
-        "sk": "3) Tlačidlo",
-        "en": "3) Button",
-        "de": "3) Taste"
+        "sk": " 3) Tlačidlo ",
+        "en": " 3) Button ",
+        "de": " 3) Taste "
       }
     },
     {
@@ -11425,9 +11428,9 @@
       "source": "\n          Doporučte nás na Seznam.cz\n        ",
       "sourceNorm": "Doporučte nás na Seznam.cz",
       "dst": {
-        "sk": "Odporučte nás na Seznam.cz",
-        "en": "Recommend us on Seznam.cz",
-        "de": "Empfehlen Sie uns auf Seznam.cz"
+        "sk": "\n          Odporučte nás na Seznam.cz\n        ",
+        "en": "\n          Recommend us on Seznam.cz\n        ",
+        "de": "\n          Empfehlen Sie uns auf Seznam.cz\n        "
       }
     },
     {
@@ -11442,9 +11445,9 @@
       "source": " 1. sloupec: logo Zboží.cz ",
       "sourceNorm": "1. sloupec: logo Zboží.cz",
       "dst": {
-        "sk": "1. stĺpec: logo Zboží.cz",
-        "en": "1. Column: Zboží.cz logo",
-        "de": "1. Spalte: Logo Zboží.cz"
+        "sk": " 1. stĺpec: logo Zboží.cz ",
+        "en": " 1. Column: Zboží.cz logo ",
+        "de": " 1. Spalte: Logo Zboží.cz "
       }
     },
     {
@@ -11459,9 +11462,9 @@
       "source": " 2. sloupec: hodnocení ",
       "sourceNorm": "2. sloupec: hodnocení",
       "dst": {
-        "sk": "2. stĺpec: hodnotenie",
-        "en": "2nd column: rating",
-        "de": "2. Spalte: Bewertung"
+        "sk": " 2. stĺpec: hodnotenie ",
+        "en": " 2nd column: rating ",
+        "de": " 2. Spalte: Bewertung "
       }
     },
     {
@@ -11476,9 +11479,9 @@
       "source": " 3. sloupec: zelené tlačítko ",
       "sourceNorm": "3. sloupec: zelené tlačítko",
       "dst": {
-        "sk": "3. stĺpec: zelené tlačidlo",
-        "en": "3rd column: green button",
-        "de": "3. Spalte: grüner Knopf"
+        "sk": " 3. stĺpec: zelené tlačidlo ",
+        "en": " 3rd column: green button ",
+        "de": " 3. Spalte: grüner Knopf "
       }
     },
     {
@@ -11493,9 +11496,9 @@
       "source": "\n          Naše hodnocení na Zboží.cz\n        ",
       "sourceNorm": "Naše hodnocení na Zboží.cz",
       "dst": {
-        "sk": "Naše hodnotenie na Zboží.cz",
-        "en": "Our rating on Zboží.cz",
-        "de": "Unsere Bewertung auf Zboží.cz"
+        "sk": "\n          Naše hodnotenie na Zboží.cz\n        ",
+        "en": "\n          Our rating on Zboží.cz\n        ",
+        "de": "\n          Unsere Bewertung auf Zboží.cz\n        "
       }
     },
     {
@@ -11510,9 +11513,9 @@
       "source": " 1) logo Heuréky ",
       "sourceNorm": "1) logo Heuréky",
       "dst": {
-        "sk": "1) logo Heuréky",
-        "en": "1) Heureka logo",
-        "de": "1) Heuréka-Logo"
+        "sk": " 1) logo Heuréky ",
+        "en": " 1) Heureka logo ",
+        "de": " 1) Heuréka-Logo "
       }
     },
     {
@@ -11527,9 +11530,9 @@
       "source": " 2) hodnocení ",
       "sourceNorm": "2) hodnocení",
       "dst": {
-        "sk": "2) hodnotenie",
-        "en": "2) evaluation",
-        "de": "2) Bewertung"
+        "sk": " 2) hodnotenie ",
+        "en": " 2) evaluation ",
+        "de": " 2) Bewertung "
       }
     },
     {
@@ -11561,9 +11564,9 @@
       "source": " 3) tlačítko ",
       "sourceNorm": "3) tlačítko",
       "dst": {
-        "sk": "3) tlačidlo",
-        "en": "3) button",
-        "de": "3) Taste"
+        "sk": " 3) tlačidlo ",
+        "en": " 3) button ",
+        "de": " 3) Taste "
       }
     },
     {
@@ -11578,9 +11581,9 @@
       "source": "\n          Naše hodnocení na Heuréce\n        ",
       "sourceNorm": "Naše hodnocení na Heuréce",
       "dst": {
-        "sk": "Naše hodnotenie na Heuréke",
-        "en": "Our rating on Heureka",
-        "de": "Unsere Bewertung auf Heureka"
+        "sk": "\n          Naše hodnotenie na Heuréke\n        ",
+        "en": "\n          Our rating on Heureka\n        ",
+        "de": "\n          Unsere Bewertung auf Heureka\n        "
       }
     },
     {
@@ -11595,9 +11598,9 @@
       "source": " 1) logo Facebooku ",
       "sourceNorm": "1) logo Facebooku",
       "dst": {
-        "sk": "1) logo Facebooku",
-        "en": "1) Facebook logo",
-        "de": "1) Facebook-Logo"
+        "sk": " 1) logo Facebooku ",
+        "en": " 1) Facebook logo ",
+        "de": " 1) Facebook-Logo "
       }
     },
     {
@@ -11612,9 +11615,9 @@
       "source": " 2) hodnocení (nahraď reálnými čísly, pokud chceš) ",
       "sourceNorm": "2) hodnocení (nahraď reálnými čísly, pokud chceš)",
       "dst": {
-        "sk": "2) hodnotenie",
-        "en": "2) rating (replace with actual numbers if you wish)",
-        "de": "2) Bewertung (ersetze durch reale Zahlen, wenn du möchtest)"
+        "sk": " 2) hodnotenie ",
+        "en": " 2) rating (replace with actual numbers if you wish) ",
+        "de": " 2) Bewertung (ersetze durch reale Zahlen, wenn du möchtest) "
       }
     },
     {
@@ -11629,9 +11632,9 @@
       "source": " 3) tlačítko ",
       "sourceNorm": "3) tlačítko",
       "dst": {
-        "sk": "3) tlačidlo",
-        "en": "3) button",
-        "de": "3) Taste"
+        "sk": " 3) tlačidlo ",
+        "en": " 3) button ",
+        "de": " 3) Taste "
       }
     },
     {
@@ -11646,9 +11649,9 @@
       "source": "\n          Doporučite nás na Facebooku\n        ",
       "sourceNorm": "Doporučite nás na Facebooku",
       "dst": {
-        "sk": "Odporučte nás na Facebooku.",
-        "en": "Recommend us on Facebook",
-        "de": "Empfehlen Sie uns auf Facebook."
+        "sk": "\n          Odporučte nás na Facebooku.\n        ",
+        "en": "\n          Recommend us on Facebook\n        ",
+        "de": "\n          Empfehlen Sie uns auf Facebook.\n        "
       }
     },
     {
@@ -11663,9 +11666,9 @@
       "source": " 1. sloupec: logo Google ",
       "sourceNorm": "1. sloupec: logo Google",
       "dst": {
-        "sk": "1. stĺpec: logo Google",
-        "en": "1. Column: Google logo",
-        "de": "1. Spalte: Google-Logo"
+        "sk": " 1. stĺpec: logo Google ",
+        "en": " 1. Column: Google logo ",
+        "de": " 1. Spalte: Google-Logo "
       }
     },
     {
@@ -11680,9 +11683,9 @@
       "source": " 2. sloupec: hodnocení ",
       "sourceNorm": "2. sloupec: hodnocení",
       "dst": {
-        "sk": "2. stĺpec: hodnotenie",
-        "en": "2nd column: rating",
-        "de": "2. Spalte: Bewertung"
+        "sk": " 2. stĺpec: hodnotenie ",
+        "en": " 2nd column: rating ",
+        "de": " 2. Spalte: Bewertung "
       }
     },
     {
@@ -11697,8 +11700,8 @@
       "source": " z 5",
       "sourceNorm": "z 5",
       "dst": {
-        "sk": "z 5",
-        "en": "from 5"
+        "sk": " z 5",
+        "en": " from 5"
       }
     },
     {
@@ -11730,9 +11733,9 @@
       "source": " 3. sloupec: tlačítko ",
       "sourceNorm": "3. sloupec: tlačítko",
       "dst": {
-        "sk": "3. stĺpec: tlačidlo",
-        "en": "3rd column: button",
-        "de": "3. Spalte: Taste"
+        "sk": " 3. stĺpec: tlačidlo ",
+        "en": " 3rd column: button ",
+        "de": " 3. Spalte: Taste "
       }
     },
     {
@@ -11747,9 +11750,9 @@
       "source": "\n          Doporučte nás na Google\n        ",
       "sourceNorm": "Doporučte nás na Google",
       "dst": {
-        "sk": "Odporučte nás na Google",
-        "en": "Recommend us on Google",
-        "de": "Empfehlen Sie uns auf Google"
+        "sk": "\n          Odporučte nás na Google\n        ",
+        "en": "\n          Recommend us on Google\n        ",
+        "de": "\n          Empfehlen Sie uns auf Google\n        "
       }
     },
     {
@@ -11764,9 +11767,9 @@
       "source": " 1) Logo Firmy.cz ",
       "sourceNorm": "1) Logo Firmy.cz",
       "dst": {
-        "sk": "1) Logo Firmy.sk",
-        "en": "1) Company Logo.cz",
-        "de": "1) Logo Firmy.cz"
+        "sk": " 1) Logo Firmy.sk ",
+        "en": " 1) Company Logo.cz ",
+        "de": " 1) Logo Firmy.cz "
       }
     },
     {
@@ -11781,9 +11784,9 @@
       "source": " 2) Hodnocení ",
       "sourceNorm": "2) Hodnocení",
       "dst": {
-        "sk": "2) Hodnotenie",
-        "en": "2) Evaluation",
-        "de": "2) Bewertung"
+        "sk": " 2) Hodnotenie ",
+        "en": " 2) Evaluation ",
+        "de": " 2) Bewertung "
       }
     },
     {
@@ -11798,9 +11801,9 @@
       "source": " 3) Tlačítko ",
       "sourceNorm": "3) Tlačítko",
       "dst": {
-        "sk": "3) Tlačidlo",
-        "en": "3) Button",
-        "de": "3) Taste"
+        "sk": " 3) Tlačidlo ",
+        "en": " 3) Button ",
+        "de": " 3) Taste "
       }
     },
     {
@@ -11815,9 +11818,9 @@
       "source": "\n          Doporučte nás na Seznam.cz\n        ",
       "sourceNorm": "Doporučte nás na Seznam.cz",
       "dst": {
-        "sk": "Odporučte nás na Seznam.cz",
-        "en": "Recommend us on Seznam.cz",
-        "de": "Empfehlen Sie uns auf Seznam.cz"
+        "sk": "\n          Odporučte nás na Seznam.cz\n        ",
+        "en": "\n          Recommend us on Seznam.cz\n        ",
+        "de": "\n          Empfehlen Sie uns auf Seznam.cz\n        "
       }
     },
     {
@@ -11866,9 +11869,9 @@
       "source": "Jsme ",
       "sourceNorm": "Jsme",
       "dst": {
-        "sk": "Sme",
-        "en": "We are",
-        "de": "Wir sind"
+        "sk": "Sme ",
+        "en": "We are ",
+        "de": "Wir sind "
       }
     },
     {
@@ -11900,9 +11903,9 @@
       "source": ", Apple produkty a ",
       "sourceNorm": ", Apple produkty a",
       "dst": {
-        "sk": ", Apple produkty a",
-        "en": ", Apple products and",
-        "de": "Apple-Produkte und"
+        "sk": ", Apple produkty a ",
+        "en": ", Apple products and ",
+        "de": "Apple-Produkte und "
       }
     },
     {
@@ -11934,9 +11937,9 @@
       "source": ". Jsme také e-shop a prodejna ",
       "sourceNorm": ". Jsme také e-shop a prodejna",
       "dst": {
-        "sk": ". Sme tiež e-shop a predajňa",
-        "en": "We are also an online store and a retail shop.",
-        "de": "Wir sind auch ein E-Shop und ein Geschäft."
+        "sk": ". Sme tiež e-shop a predajňa ",
+        "en": "We are also an online store and a retail shop. ",
+        "de": "Wir sind auch ein E-Shop und ein Geschäft. "
       }
     },
     {
@@ -12002,9 +12005,9 @@
       "source": " je zde, aby Vám pomohl vybrat správné příslušenství pro plnohodnotné a maxilmální využití Vašich Apple produktů. U nás najdete nejen ",
       "sourceNorm": "je zde, aby Vám pomohl vybrat správné příslušenství pro plnohodnotné a maxilmální využití Vašich Apple produktů. U nás najdete nejen",
       "dst": {
-        "sk": "je tu, aby vám pomohol vybrať správne príslušenstvo pre plnohodnotné a maximálne využitie vašich Apple produktov. U nás nájdete nielen",
-        "en": "is here to help you choose the right accessories for the full and maximum utilization of your Apple products. With us, you will find not only",
-        "de": "hier, um Ihnen zu helfen, das richtige Zubehör für die vollumfängliche und maximale Nutzung Ihrer Apple-Produkte auszuwählen. Bei uns finden Sie nicht nur"
+        "sk": " je tu, aby vám pomohol vybrať správne príslušenstvo pre plnohodnotné a maximálne využitie vašich Apple produktov. U nás nájdete nielen ",
+        "en": " is here to help you choose the right accessories for the full and maximum utilization of your Apple products. With us, you will find not only ",
+        "de": " hier, um Ihnen zu helfen, das richtige Zubehör für die vollumfängliche und maximale Nutzung Ihrer Apple-Produkte auszuwählen. Bei uns finden Sie nicht nur "
       }
     },
     {
@@ -12070,9 +12073,9 @@
       "source": "\n        Více o nás\n    ",
       "sourceNorm": "Více o nás",
       "dst": {
-        "sk": "Viac o nás",
-        "en": "More about us",
-        "de": "Mehr über uns"
+        "sk": "\n        Viac o nás\n    ",
+        "en": "\n        More about us\n    ",
+        "de": "\n        Mehr über uns\n    "
       }
     }
   ]
