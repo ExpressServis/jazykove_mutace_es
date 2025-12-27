@@ -6,6 +6,8 @@ import requests
 from bs4 import BeautifulSoup, NavigableString
 from openai import OpenAI
 
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+
 client = OpenAI()
 
 # ----------------------------
@@ -66,7 +68,8 @@ HTTP_HEADERS = {
 }
 REQUEST_TIMEOUT = 30
 
-MAX_TEXT_LEN_TO_TRANSLATE = 320
+# už nepoužíváme jako hard-stop, jen pojistka proti extrémům
+MAX_TEXT_LEN_TO_TRANSLATE = 20000
 SKIP_IF_CONTAINS_URL = True
 DEBUG = True
 
@@ -233,34 +236,84 @@ def short_lang_prompt(lang: str) -> str:
         )
     return f"Translate Czech to {lang}. Keep brands/models/codes, keep units/numbers. Return only translation."
 
+# ----------------------------
+# Chunking (sentences -> chunks)
+# ----------------------------
+_sentence_split_re = re.compile(r"(?<=[\.\!\?…])\s+(?=[^\s])", re.U)
+
+def split_to_sentences(text: str) -> List[str]:
+    t = text or ""
+    parts = _sentence_split_re.split(t)
+    return [p for p in parts if p]
+
+def pack_chunks(parts: List[str], max_chars: int = 900) -> List[str]:
+    chunks: List[str] = []
+    buf = ""
+    for p in parts:
+        if not buf:
+            buf = p
+            continue
+        candidate = buf + " " + p
+        if len(candidate) <= max_chars:
+            buf = candidate
+        else:
+            chunks.append(buf)
+            buf = p
+    if buf:
+        chunks.append(buf)
+    return chunks
+
+def preserve_edge_whitespace(src: str, dst: str) -> str:
+    m1 = re.match(r"^\s+", src or "")
+    m2 = re.search(r"\s+$", src or "")
+    lead = m1.group(0) if m1 else ""
+    trail = m2.group(0) if m2 else ""
+    core = (dst or "").strip()
+    return f"{lead}{core}{trail}"
+
 def translate_text(text: str, lang: str, max_retries: int = 3) -> str:
-    text = normalize_spaces(text)
-    if not text:
-        return text
-    if len(text) > MAX_TEXT_LEN_TO_TRANSLATE:
-        return text
+    raw = text or ""
+    if not raw.strip():
+        return raw
+    if len(raw) > MAX_TEXT_LEN_TO_TRANSLATE:
+        return raw
 
-    prompt = short_lang_prompt(lang) + "\n\n" + text
+    # segmentace na věty + balení do chunků
+    sentences = split_to_sentences(raw)
+    if not sentences:
+        sentences = [raw]
 
-    last_err: Optional[Exception] = None
-    for attempt in range(1, max_retries + 1):
-        try:
-            resp = client.chat.completions.create(
-                model="gpt-4o-mini",
-                messages=[{"role": "user", "content": prompt}],
-                temperature=0,
-                max_tokens=900,
-            )
-            return normalize_spaces(resp.choices[0].message.content or "")
-        except Exception as e:
-            last_err = e
-            time.sleep(1.2 * attempt)
-    raise RuntimeError(f"Translate failed: {last_err}")
+    chunks = pack_chunks(sentences, max_chars=900)
+    out_parts: List[str] = []
+
+    for ch in chunks:
+        prompt = short_lang_prompt(lang) + "\n\n" + normalize_spaces(ch)
+
+        last_err: Optional[Exception] = None
+        for attempt in range(1, max_retries + 1):
+            try:
+                resp = client.chat.completions.create(
+                    model="gpt-4o-mini",
+                    messages=[{"role": "user", "content": prompt}],
+                    temperature=0,
+                    max_tokens=1200,
+                )
+                translated = (resp.choices[0].message.content or "").strip()
+                out_parts.append(translated)
+                break
+            except Exception as e:
+                last_err = e
+                time.sleep(1.2 * attempt)
+        else:
+            raise RuntimeError(f"Translate failed: {last_err}")
+
+    joined = " ".join([p for p in out_parts if p])
+    return preserve_edge_whitespace(raw, joined)
 
 def translate_cached(text: str, lang: str, cache: Dict[str, Any]) -> str:
     t = normalize_spaces(text)
     if not t or not is_translatable(t):
-        return t
+        return text
 
     key = sha(t)
     texts = cache.setdefault("texts", {})
@@ -300,6 +353,45 @@ def fetch_url_with_retry(url: str, retries: int = 5, delay: float = 5.0) -> str:
             print(f"  fetch error {i+1}/{retries}: {e}")
             time.sleep(delay * (i + 1))
     raise RuntimeError(f"Failed to fetch {url}: {last_err}")
+
+def fetch_rendered_html(url: str, retries: int = 3, delay: float = 3.0) -> str:
+    last_err = None
+    for i in range(retries):
+        try:
+            with sync_playwright() as p:
+                browser = p.chromium.launch(headless=True)
+                context = browser.new_context(
+                    user_agent=HTTP_HEADERS["User-Agent"],
+                    locale="cs-CZ",
+                )
+                page = context.new_page()
+                page.set_default_timeout(45000)
+
+                page.goto(url, wait_until="domcontentloaded")
+
+                # zkus nechat doběhnout dynamiku
+                try:
+                    page.wait_for_load_state("networkidle", timeout=20000)
+                except PlaywrightTimeoutError:
+                    pass
+
+                # pokud existuje, je to stabilní marker obsahu
+                try:
+                    page.wait_for_selector("#snippet--content", timeout=15000)
+                except PlaywrightTimeoutError:
+                    pass
+
+                html = page.content()
+
+                context.close()
+                browser.close()
+                return html
+
+        except Exception as e:
+            last_err = e
+            print(f"  playwright fetch error {i+1}/{retries}: {e}")
+            time.sleep(delay * (i + 1))
+    raise RuntimeError(f"Failed to fetch (rendered) {url}: {last_err}")
 
 def fetch_sitemap_urls(sitemap_url: str) -> List[str]:
     xml = requests.get(sitemap_url, timeout=REQUEST_TIMEOUT, headers=HTTP_HEADERS).text
@@ -354,8 +446,9 @@ def extract_head_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
     nodes: List[Dict[str, Any]] = []
     title_el = soup.select_one("title#snippet--title") or soup.select_one("head > title")
     if title_el:
-        src = normalize_spaces(title_el.get_text(" ", strip=True))
-        if is_translatable(src):
+        src = title_el.get_text(" ", strip=False)
+        src_norm = normalize_spaces(src)
+        if is_translatable(src_norm):
             nodes.append({
                 "mode": "text",
                 "attr": "",
@@ -365,6 +458,7 @@ def extract_head_nodes(soup: BeautifulSoup) -> List[Dict[str, Any]]:
                 "index": 0,
                 "textIndex": 0,
                 "source": src,
+                "sourceNorm": src_norm,
             })
     return nodes
 
@@ -394,8 +488,10 @@ def extract_textnodes_from_root(root, parent_selector: str = "", parent_id: str 
         if not isinstance(node, NavigableString):
             continue
 
-        txt = normalize_spaces(str(node))
-        if not is_translatable(txt):
+        raw_txt = str(node)
+        norm_txt = normalize_spaces(raw_txt)
+
+        if not is_translatable(norm_txt):
             continue
 
         parent = node.parent
@@ -410,7 +506,9 @@ def extract_textnodes_from_root(root, parent_selector: str = "", parent_id: str 
 
         if parent.name.lower() in skip_parents:
             continue
-        if len(txt) > 900:
+
+        # pojistka proti extrémním textnode
+        if len(norm_txt) > 20000:
             continue
 
         sel = build_selector(parent)
@@ -439,7 +537,8 @@ def extract_textnodes_from_root(root, parent_selector: str = "", parent_id: str 
             "selector": sel,
             "index": element_index,
             "textIndex": text_index,
-            "source": txt,
+            "source": raw_txt,        # ✅ RAW (kvůli shodě na webu)
+            "sourceNorm": norm_txt,   # ✅ normalizovaná verze pro porovnání/caching
         })
 
     return nodes
@@ -447,17 +546,19 @@ def extract_textnodes_from_root(root, parent_selector: str = "", parent_id: str 
 def make_node_key(scope_id: str, n: Dict[str, Any]) -> str:
     ident = f"{scope_id}|{n.get('mode')}|{n.get('attr')}|{n.get('parentId')}|{n.get('parent')}|{n.get('selector')}|{n.get('index')}|{n.get('textIndex')}"
     ident_h = sha(ident)[:10]
-    src_h = sha(n.get("source",""))[:10]
+    src_h = sha((n.get("sourceNorm") or n.get("source") or ""))[:10]
     return f"{scope_id}.{ident_h}.{src_h}"
 
 def build_nodes_with_translations(nodes_raw: List[Dict[str, Any]], cache: Dict[str, Any], scope_id: str) -> List[Dict[str, Any]]:
     out: List[Dict[str, Any]] = []
     for n in nodes_raw:
-        src = n["source"]
+        src_raw = n.get("source") or ""
+        src_norm = n.get("sourceNorm") or normalize_spaces(src_raw)
+
         dst_map: Dict[str, str] = {}
         for lang in TARGET_LANGS:
             if lang != DEFAULT_LANG:
-                dst_map[lang] = translate_cached(src, lang, cache)
+                dst_map[lang] = translate_cached(src_norm, lang, cache)
 
         out.append({
             "key": make_node_key(scope_id, n),
@@ -468,7 +569,8 @@ def build_nodes_with_translations(nodes_raw: List[Dict[str, Any]], cache: Dict[s
             "textIndex": int(n.get("textIndex") or 0),
             "mode": (n.get("mode") or "textnode"),
             "attr": n.get("attr") or "",
-            "source": src,
+            "source": src_raw,
+            "sourceNorm": src_norm,
             "dst": dst_map,
         })
     return out
@@ -547,15 +649,14 @@ def main():
         save_state(state)
         return
 
-    # 1) GLOBAL (menu+footer) – můžeš případně omezit (např. 1x denně),
-    # zatím se generuje každý běh.
+    # 1) GLOBAL (menu+footer)
     print("Building GLOBAL from:", GLOBAL_SOURCE_URL)
-    global_html = fetch_url_with_retry(GLOBAL_SOURCE_URL)
+    global_html = fetch_rendered_html(GLOBAL_SOURCE_URL)
     global_nodes_raw = extract_global_nodes_from_html(global_html)
     global_nodes = build_nodes_with_translations(global_nodes_raw, cache, scope_id="global")
 
     global_payload = {
-        "hash": sha("||".join([f"{n['key']}|{n['selector']}|{n['index']}|{n['textIndex']}|{n['source']}" for n in global_nodes])),
+        "hash": sha("||".join([f"{n['key']}|{n['selector']}|{n['index']}|{n['textIndex']}|{n.get('sourceNorm','')}" for n in global_nodes])),
         "updated_at": int(time.time()),
         "nodes": global_nodes
     }
@@ -563,7 +664,6 @@ def main():
     print(f"Saved GLOBAL: {GLOBAL_JSON} nodes={len(global_nodes)}")
 
     # 2) PAGES + INDEX
-    # načti existující index.json (aby se nemazalo mapování už přeložených stránek)
     index_payload: Dict[str, Any]
     if INDEX_JSON.exists():
         try:
@@ -589,7 +689,7 @@ def main():
 
         print(f"Processing page: {url} -> {pid}")
 
-        html = fetch_url_with_retry(url)
+        html = fetch_rendered_html(url)
         fp = html_fingerprint(html)
 
         pmeta = state.get("pages", {}).get(url, {}) if isinstance(state.get("pages", {}), dict) else {}
@@ -607,7 +707,6 @@ def main():
                 "pid": pid,
             }
             save_state(state)
-            # index mapping mít i tak
             index_payload["pages"][url] = pid
             continue
 
@@ -627,7 +726,7 @@ def main():
 
         # legacy (optional) – jen pro aktuální batch
         legacy_db["pages"][url] = {
-            "hash": sha("||".join([f"{n['key']}|{n['selector']}|{n['index']}|{n['textIndex']}|{n['source']}" for n in page_nodes])),
+            "hash": sha("||".join([f"{n['key']}|{n['selector']}|{n['index']}|{n['textIndex']}|{n.get('sourceNorm','')}" for n in page_nodes])),
             "updated_at": int(time.time()),
             "nodes": page_nodes
         }
@@ -653,8 +752,6 @@ def main():
     # save cache (texts) + legacy DB
     cache_out = {"texts": cache.get("texts", {})}
     if WRITE_LEGACY_DB:
-        # legacy includes texts + global + pages (jen batch; index & pages split zůstávají zdroj pravdy)
-        # Pokud chceš legacy obsahovat VŠECHNY stránky, musíš ho načíst a merge-nout, ne přepsat.
         existing = None
         if LEGACY_DB.exists():
             try:
@@ -665,11 +762,8 @@ def main():
         if isinstance(existing, dict):
             existing.setdefault("texts", {})
             existing.setdefault("pages", {})
-            # merge texts cache
             existing["texts"] = cache.get("texts", {}) or {}
-            # merge global
             existing["global"] = global_payload
-            # merge pages for current batch
             existing["pages"].update(legacy_db.get("pages", {}) or {})
             LEGACY_DB.write_text(json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8")
         else:
